@@ -4,7 +4,9 @@ date: 2017-07-15
 weight: 3
 ---
 
+<!--- 
 <img class="image main" src="sponsor-placeholder.png">
+--->
 
 Registration
 ------------
