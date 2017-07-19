@@ -25,7 +25,10 @@ in Bloomington, Indiana.
 
 - Front Desk &mdash; (812) 349-3762
 - General Manager &mdash; [Dee Tuttle <span class="icon fa-envelope-o"></span>][dee], (812) 349-3762  
-- [Ice Calendar <span class="icon fa-calendar"></span>][rinkcal]  
+
+<!--- Commented out until link is available
+- [Ice Calendar <span class="icon fa-calendar"></span>][rinkcal]
+--->
 
 Affiliates and Partners
 -----------------------
@@ -42,8 +45,8 @@ Affiliates and Partners
 [dee]: mailto:tuttled@bloomington.in.gov
 [map]: https://www.google.com/maps/place/2100+S+Henderson+St,+Bloomington,+IN+47401/@39.1412293,-86.529133,17z/data=!3m1!4b1!4m5!3m4!1s0x886c66590dd701f1:0x2c4224b76654f9a2!8m2!3d39.1412252!4d-86.526939
 [rinkcal]: #
-[parks]: #
-[iuhealth]: #
+[parks]: https://bloomington.in.gov/parks
+[iuhealth]: http://iuhealth.org/sports-medicine/
 [ishsha]: http://www.ishsha.com
 [hhsha]: http://www.ishsha.com/page/show/2687141-hoosier-championship
 [midam]: http://www.midamhockey.com/
