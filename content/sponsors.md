@@ -3,18 +3,44 @@ title: "Sponsors"
 date: 2017-07-15
 weight: 6
 ---
+We are one of the lowest-cost high school hockey programs
+anywhere. Please thank our sponsors for helping to make that possible!
 
 Premier Partners
 ----------------
-- Oliver Winery and Vineyards
+- [Oliver Winery and Vineyards][oliver]
 
 Preferred Sponsors
 ------------------
-- TNW Automotive Service Center
-- Upland Restaurant & Brewpub
+- [Create-a-Smile, PC][smile]
+- [Hurlow Wealth Management Group, Inc.][hurlow]
+- [Mallor | Grodner Attorneys][mallor]
+- [Root Advisors][root]
+- [TNW Automotive][tnw]
+- [Upland Brewing Company Bloomington Brewpub][upland]
+- [The Village Deli][vd]
 
 
-Sponsor the Blades
-------------------
-Contact team manager [Jay Baer <span class="icon fa-envelope-o"></span>](mailto:jbaer@bloomingtonblades.com)
-for information about sponsorship options and benefits.
+### Did you know...
+
+- Ice rentals are $200-$250 per hour or more. Seasonal expenses for ice are tens of thousands of dollars.
+- We must pay for officials, league fees, tournament fees, coaching education, uniforms and equipment.
+- We receive NO funding from city, county, or school system sources.
+- Our coaches and board members are all volunteers.
+- Player fees alone do not cover our expenses.
+
+
+Sponsor Blades Hockey
+---------------------
+For information about sponsorship options,
+please contact [Jay Baer <span class="icon fa-envelope-o"></span>][jay].
+
+[jay]: mailto:jbaer@bloomingtonblades.com
+[oliver]: https://www.oliverwinery.com/
+[smile]: http://createasmilepc.com/
+[hurlow]: http://www.hurlowwealth.com/
+[mallor]: http://www.lawmg.com/
+[tnw]: http://tnwautomotive.net/
+[root]: https://root.com/
+[upland]: https://www.uplandbeer.com/locations/bloomington-brew-pub/
+[vd]: http://www.villagedeli.biz/
