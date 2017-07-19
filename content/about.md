@@ -38,7 +38,7 @@ Affiliates and Partners
 * [USA Hockey][usa]
 
 
-[rink]: https://bloomington.in.gov/parks/facilities/frank-southern)
+[rink]: https://bloomington.in.gov/parks/facilities/frank-southern
 [dee]: mailto:tuttled@bloomington.in.gov
 [map]: https://www.google.com/maps/place/2100+S+Henderson+St,+Bloomington,+IN+47401/@39.1412293,-86.529133,17z/data=!3m1!4b1!4m5!3m4!1s0x886c66590dd701f1:0x2c4224b76654f9a2!8m2!3d39.1412252!4d-86.526939
 [rinkcal]: #
