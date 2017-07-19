@@ -1,0 +1,34 @@
+baseurl = "http://example.org"
+title = "Blades Hockey"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds = ["RSS"]
+
+[params]
+  title = "Blades Hockey"
+  description = 'High School Hockey in Bloomington, Indiana'
+  logoimage = "/images/B.png"
+  copyright = "Bloomington Blades High School Hockey Association"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
