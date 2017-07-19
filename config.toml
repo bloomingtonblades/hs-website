@@ -1,9 +1,9 @@
-baseurl = "http://example.org"
 title = "Blades Hockey"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
+relativeURLs = true
 disableKinds = ["RSS"]
 
 [params]
