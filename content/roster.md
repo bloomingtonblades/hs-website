@@ -13,8 +13,7 @@ Staff
 
 Players
 -------
-Player roster will be posted after registration is completed. See the
-[News](/#news) page for more information.
+TBA. See the [News](/#news) page for registration information.
 
 <!--
 <div style="margin-bottom: 10px; overflow: hidden; display:flex; align-items: center;">
