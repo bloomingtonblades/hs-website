@@ -8,6 +8,15 @@ weight: 3
 <img class="image main" src="sponsor-placeholder.png">
 --->
 
+Columbus Practice Carpools
+--------------------------
+[Sign up to carpool][carpool] and share the driving for Columbus practices!
+Reminder: players are not permitted to drive
+themselves or anyone else to practices in Columbus (even if they are
+of legal driving age and licensed).
+
+[carpool]: http://www.signupgenius.com/go/10c084bacaa28a0fa7-blades6
+
 Registration
 ------------
 Area high school students intending to play in the 2017&ndash;2018 season
