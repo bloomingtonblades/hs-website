@@ -7,6 +7,7 @@ weight: 4
 Staff
 -----
 * Head Coach &mdash; Dave Appel
+* Assistant Coach &mdash; John Bowman
 * Assistant Coach &mdash; Nick Lightfoot
 * Assistant Coach &mdash; Johan Lowinger
 * Manager &mdash; Jay Baer
