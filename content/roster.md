@@ -37,6 +37,7 @@ Photos coming in September!
   <img style="border: 1px solid #ffffff; float: left; margin-right: 10px;" alt="Gibson Oliver Photo" src="/images/200px-Placeholder_photo.png" width="100px">
   <div style="height: 100%; margin: auto 0;">Gibson Oliver<br>#23</div>
 </div>
+<div style="height: 1rem;"></div>
 
 ### Juniors
 <div style="margin-bottom: 10px; overflow: hidden; display:flex; align-items: center;">
@@ -63,6 +64,7 @@ Photos coming in September!
   <img style="border: 1px solid #ffffff; float: left; margin-right: 10px;" alt="Austin Rawlins Photo" src="/images/200px-Placeholder_photo.png" width="100px">
 <div style="height: 100%; margin: auto 0;">Austin Rawlins<br>#22</div>
 </div>
+<div style="height: 1rem;"></div>
 
 ### Sophomores
 <div style="margin-bottom: 10px; overflow: hidden; display:flex; align-items: center;">
@@ -104,6 +106,7 @@ Photos coming in September!
   <img style="border: 1px solid #ffffff; float: left; margin-right: 10px;" alt="Nick Stright Photo" src="/images/200px-Placeholder_photo.png" width="100px">
 <div style="height: 100%; margin: auto 0;">Nick Stright<br>#14</div>
 </div>
+<div style="height: 1rem;"></div>
 
 ### Freshmen
 <div style="margin-bottom: 10px; overflow: hidden; display:flex; align-items: center;">
