@@ -27,4 +27,3 @@ A $200 deposit payment, and all registration forms complete, will be
 required before your player can begin practice.
 
 [form]: https://docs.google.com/forms/d/e/1FAIpQLSfMF8We8YCKepB1_Cz_wV527T2bPyR_ufnAUZJkj1HaCyXr9w/viewform?usp=sf_link
-[basswood]: https://www.google.com/maps/place/Basswood+Apartments/@39.1518696,-86.5730242,17z/data=%213m1%214b1%214m5%213m4%211s0x886c677a6ac12c4d:0x830c6aebc265b08%218m2%213d39.1518655%214d-86.5708355
