@@ -1,3 +1,7 @@
+#roster h3 {
+    margin-top: 2rem;
+}
+
 #roster .classdiv {
   display: flex;
   flex-direction: row;
@@ -13,6 +17,8 @@
 }
 
 #roster img {
+    width: 100px;
+    height: 93px;
     border: 1px solid #ffffff;
 }
 
