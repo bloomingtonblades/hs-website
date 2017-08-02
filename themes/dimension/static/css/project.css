@@ -1,0 +1,37 @@
+#roster .classdiv {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#roster .player {
+    margin-bottom: 10px;
+    overflow: hidden;
+    display:flex;
+    width: 50%;
+    align-items: center;
+}
+
+#roster img {
+    border: 1px solid #ffffff;
+}
+
+#roster figure {
+    display: flex;
+    padding-top: 10px;
+}
+
+#roster figcaption {
+    margin: 10px 10px;
+}
+
+@media screen and (max-width: 600px) {
+  #roster .classdiv {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+  #roster .player {
+    width: 100%;
+  }
+}
