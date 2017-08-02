@@ -10,7 +10,7 @@ Staff
 * Assistant Coach &mdash; John Bowman
 * Assistant Coach &mdash; Nick Lightfoot
 * Assistant Coach &mdash; Johan Lowinger
-* Manager &mdash; Jay Baer
+* Manager &mdash; [Jay Baer <span class="icon fa-envelope-o"></span>](mailto:jbaer@bloomingtonblades.com)
 
 Players
 -------
