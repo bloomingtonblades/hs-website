@@ -14,7 +14,7 @@ Upcoming Events
 
 * Registration Deadline: July 30.
 * Board Meeting: August 16.
-* ImPACT Concussion Testing: August 18. [Sign up!][impact]
+* ImPACT Concussion Testing: August 18. (See [News](/#news).)
 * Blades @ Carmel Blue: September 9, 7:15pm. [Carmel Ice Skadium <span class="icon fa-map-marker"></span>][carmel]
 
 Calendar

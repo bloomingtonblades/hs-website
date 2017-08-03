@@ -11,7 +11,7 @@ weight: 3
 ImPACT Concussion Testing
 -------------------------
 August 18, 6:00pm at Jackson Creek Middle School.
-[Sign up to reserve your space][impact]. Required for all incoming
+Online signup link coming soon. This test is required for all incoming
 players, and any players who did not complete a test last year.
 (If you completed an ImPACT test this year for another sport, you do
 not need to repeat.)
