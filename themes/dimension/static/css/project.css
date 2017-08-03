@@ -1,5 +1,9 @@
+p {
+  margin: 0 0 1rem 0;
+}
+
 #roster h3 {
-    margin-top: 2rem;
+  margin-top: 2rem;
 }
 
 #roster .classdiv {
@@ -9,26 +13,26 @@
 }
 
 #roster .player {
-    margin-bottom: 10px;
-    overflow: hidden;
-    display:flex;
-    width: 50%;
-    align-items: center;
+  margin-bottom: 10px;
+  overflow: hidden;
+  display:flex;
+  width: 50%;
+  align-items: center;
 }
 
 #roster img {
-    width: 100px;
-    height: 93px;
-    border: 1px solid #ffffff;
+  width: 100px;
+  height: 93px;
+  border: 1px solid #ffffff;
 }
 
 #roster figure {
-    display: flex;
-    padding-top: 10px;
+  display: flex;
+  padding-top: 10px;
 }
 
 #roster figcaption {
-    margin: 10px 10px;
+  margin: 10px 10px;
 }
 
 @media screen and (max-width: 600px) {
