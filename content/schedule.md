@@ -3,7 +3,7 @@ title: "Schedule"
 date: 2017-07-31
 weight: 5
 ---
-Ice Scheduler: [Alyson Baer <span class="icon fa-envelope-o"></span>][alyson].
+Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][alyson]
 
 Next Home Game
 --------------
