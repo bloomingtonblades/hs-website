@@ -8,6 +8,17 @@ weight: 3
 <img class="image main" src="sponsor-placeholder.png">
 --->
 
+Off-Ice Practice Carpools
+-------------------------
+[Sign up to carpool][office] and share the driving for off-ice
+practices! These are mostly going to be at Creekbend Vineyard, [7508
+N Woodall Rd, Ellettsville <span class="icon
+fa-map-marker"></span>][creekbend]. Players with a driver's license
+_are_ permitted to drive to practices in the Bloomington area.
+
+[office]: http://www.signupgenius.com/go/10c084bacaa28a0fa7-blades6
+[creekbend]: https://www.google.com/maps/place/7508+N+Woodall+Rd,+Ellettsville,+IN+47429/@39.2693618,-86.5814495,17z/data=!3m1!4b1!4m5!3m4!1s0x886cf5555b49ab4b:0x84fec2627d04af5!8m2!3d39.2693577!4d-86.5792608
+
 ImPACT Concussion Testing
 -------------------------
 August 18, 6:00pm at Jackson Creek Middle School.
@@ -18,6 +29,9 @@ not need to repeat.)
 
 [Learn more][impacttest] about the ImPACT assessment.
 
+[impact]: http://www.signupgenius.com/go/10c084bacaa28a0fa7-impact
+[impacttest]: https://www.impacttest.com/
+
 Columbus Practice Carpools
 --------------------------
 [Sign up to carpool][carpool] and share the driving for Columbus practices!
@@ -27,15 +41,3 @@ of legal driving age and licensed).
 
 [carpool]: http://www.signupgenius.com/go/10c084bacaa28a0fa7-blades6
 
-Registration
-------------
-Area high school students intending to play in the 2017&ndash;2018 season
-should register as soon as possible using our [online registration
-form][form]. Registration deadline is July 30.
-
-A $200 deposit payment, and all registration forms complete, will be
-required before your player can begin practice.
-
-[form]: https://docs.google.com/forms/d/e/1FAIpQLSfMF8We8YCKepB1_Cz_wV527T2bPyR_ufnAUZJkj1HaCyXr9w/viewform?usp=sf_link
-[impact]: http://www.signupgenius.com/go/10c084bacaa28a0fa7-impact
-[impacttest]: https://www.impacttest.com/
