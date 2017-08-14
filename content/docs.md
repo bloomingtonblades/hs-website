@@ -4,6 +4,11 @@ date: 2017-07-15
 weight: 2
 ---
 
+<div class="sponsorcontainer">
+  <a id="docs-a1" href="#"><img id="docs-s1" class="image sponsor"></a>
+  <a id="docs-a2" href="#"><img id="docs-s2" class="image sponsor"></a>
+</div>
+
 Organization
 ------------
 * [Bylaws for the BBHSHA][bylaws]

@@ -4,6 +4,11 @@ date: 2017-07-15
 weight: 4
 ---
 
+<div class="sponsorcontainer">
+  <a id="roster-a1" href="#"><img id="roster-s1" class="image sponsor"></a>
+  <a id="roster-a2" href="#"><img id="roster-s2" class="image sponsor"></a>
+</div>
+
 Staff
 -----
 * Head Coach &mdash; Dave Appel

@@ -4,6 +4,11 @@ date: 2017-07-15
 weight: 1
 ---
 
+<div class="sponsorcontainer">
+  <a id="about-a1" href="#"><img id="about-s1" class="image sponsor"></a>
+  <a id="about-a2" href="#"><img id="about-s2" class="image sponsor"></a>
+</div>
+
 Contact
 -------
 Bloomington Blades High School Hockey Association  

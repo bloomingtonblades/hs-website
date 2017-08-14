@@ -4,9 +4,10 @@ date: 2017-07-15
 weight: 3
 ---
 
-<!--- 
-<img class="image main" src="sponsor-placeholder.png">
---->
+<div class="sponsorcontainer">
+  <a id="news-a1" href="#"><img id="news-s1" class="image sponsor"></a>
+  <a id="news-a2" href="#"><img id="news-s2" class="image sponsor"></a>
+</div>
 
 Off-Ice Practice Carpools
 -------------------------

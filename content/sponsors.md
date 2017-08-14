@@ -3,6 +3,12 @@ title: "Sponsors"
 date: 2017-07-15
 weight: 6
 ---
+
+<div class="sponsorcontainer">
+  <a id="sponsors-a1" href="#"><img id="sponsors-s1" class="image sponsor"></a>
+  <a id="sponsors-a2" href="#"><img id="sponsors-s2" class="image sponsor"></a>
+</div>
+
 We are one of the lowest-cost high school hockey programs
 anywhere. Please thank our sponsors for helping to make that possible!
 

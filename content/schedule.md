@@ -3,6 +3,12 @@ title: "Schedule"
 date: 2017-07-31
 weight: 5
 ---
+
+<div class="sponsorcontainer">
+  <a id="schedule-a1" href="#"><img id="schedule-s1" class="image sponsor"></a>
+  <a id="schedule-a2" href="#"><img id="schedule-s2" class="image sponsor"></a>
+</div>
+
 Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][alyson]
 
 Next Home Game
