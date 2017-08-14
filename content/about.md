@@ -17,10 +17,10 @@ Clear Creek, IN 47426
 
 Board of Directors
 ------------------
-* President &mdash; Allan Streib
-* Vice Pesident &mdash; Alyson Baer
-* Treasurer &mdash; Kim Franklin
-* Secretary &mdash; Stephanie Lowinger
+* President &mdash; [Allan Streib <span class="icon fa-envelope-o"></span>](mailto:astreib@bloomingtonblades.com)
+* Vice Pesident &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>](mailto:alysonebaer@gmail.com)
+* Treasurer &mdash; [Kim Franklin <span class="icon fa-envelope-o"></span>](mailto:kafranklin4@gmail.com)
+* Secretary &mdash; [Stephanie Lowinger <span class="icon fa-envelope-o"></span>](mailto:stephanielowinger@gmail.com)
 
 Arena
 -----
