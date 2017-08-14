@@ -22,7 +22,7 @@ Preferred Sponsors
 - [Hurlow Wealth Management Group, Inc.][hurlow]
 - [Mallor | Grodner Attorneys][mallor]
 - [Root Advisors][root]
-- [TNW Automotive][tnw]
+- [TNW Automotive Service Center][tnw]
 - [Upland Brewing Company Bloomington Brewpub][upland]
 - [The Village Deli][vd]
 
