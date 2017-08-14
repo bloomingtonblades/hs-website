@@ -85,6 +85,8 @@
             if ($article.length == 0)
               return;
 
+          bb_load_sponsors(id);
+
           // Handle lock.
 
             // Already locked? Speed through "show" steps w/o delays.
