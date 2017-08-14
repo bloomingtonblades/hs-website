@@ -9,6 +9,8 @@ weight: 5
   <a id="schedule-a2" href="#"><img id="schedule-s2" class="image sponsor"></a>
 </div>
 
+Contact
+-------
 Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][alyson]
 
 Next Home Game
@@ -19,7 +21,6 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 Upcoming Events
 ---------------
 
-* Registration Deadline: July 30.
 * Board Meeting: August 16.
 * ImPACT Concussion Testing: August 18. (See [News](/#news).)
 * Blades @ Carmel Blue: September 9, 7:15pm. [Carmel Ice Skadium <span class="icon fa-map-marker"></span>][carmel]
