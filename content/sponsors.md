@@ -12,7 +12,7 @@ weight: 6
 We are one of the lowest-cost high school hockey programs
 anywhere. Please thank our sponsors for helping to make that possible!
 
-Premier Partners
+Premier Sponsors
 ----------------
 - [Oliver Winery and Vineyards][oliver]
 
