@@ -28,6 +28,10 @@ players, and any players who did not complete a test last year.
 (If you completed an ImPACT test this year for another sport, you do
 not need to repeat.)
 
+- Be early&mdash;testing will start promptly at 6:00pm.
+- Testing usually takes up to 45 minutes
+- Due to the distractions of people leaving, nobody will be released until everyone is finished.
+
 [Learn more][impacttest] about the ImPACT assessment.
 
 [impact]: http://www.signupgenius.com/go/10c084bacaa28a0fa7-impact
