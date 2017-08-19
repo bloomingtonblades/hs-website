@@ -20,10 +20,12 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-
-* Board Meeting: August 16.
-* ImPACT Concussion Testing: August 18. (See [News](/#news).)
 * Blades @ Carmel Blue: September 9, 7:15pm. [Carmel Ice Skadium <span class="icon fa-map-marker"></span>][carmel]
+* Team Dinner (Players & Coaches): September 13, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
+* Board Meeting: September 20, 6:30pm.
+* Team Pictures: September 24, 11:00am. Hamilton Center Ice Arena.
+
+[upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
 Calendar
 --------
@@ -36,4 +38,3 @@ Calendar [iCal link][ical] for your computer or mobile calendar.
 [ical]: https://calendar.google.com/calendar/ical/epsc9ra4unbaelg6bns4r4ifro%40group.calendar.google.com/public/basic.ics
 [frank]: https://www.google.com/maps/place/2100+S+Henderson+St,+Bloomington,+IN+47401/@39.1412293,-86.529133,17z/data=!3m1!4b1!4m5!3m4!1s0x886c66590dd701f1:0x2c4224b76654f9a2!8m2!3d39.1412252!4d-86.526939
 [carmel]: https://maps.google.com/maps?hl=en&q=Carmel%20Ice%20Rink%2C%201040%203rd%20Ave%20SW%2C%20Carmel%2C%20IN%2046032%2C%20USA
-[impact]: #
