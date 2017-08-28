@@ -21,7 +21,7 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 Upcoming Events
 ---------------
 * Blades @ Carmel Blue: September 9, 7:15pm. [Carmel Ice Skadium <span class="icon fa-map-marker"></span>][carmel]
-* Team Dinner (Players & Coaches): September 13, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
+* Team Dinner (Players & Coaches): September 11 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
 * Board Meeting: September 20, 6:30pm.
 * Team Pictures: September 24, 11:00am. Hamilton Center Ice Arena.
 
