@@ -62,15 +62,11 @@
 
     // Nav.
       var $nav = $header.children('nav'),
-        $nav_li = $nav.find('li');
-
-      // Add "middle" alignment classes if we're dealing with an even number of items.
-        if ($nav_li.length % 2 == 0) {
-
-          $nav.addClass('use-middle');
-          $nav_li.eq( ($nav_li.length / 2) ).addClass('is-middle');
-
-        }
+          $nav_li = $nav.find('li'),
+          nav_last = 4 * (Math.ceil($nav_li.length / 4) - 1) - 1;
+          $nav_li.filter(function(i) { return (i + 1) % 4 == 0; }).addClass('is-fourth');
+          $nav_li.filter(function(i) { return i % 4 == 0; }).addClass('is-first');
+          $nav_li.filter(function(i) { return i > nav_last; }).addClass('is-bottom');
 
     // Main.
       var delay = 325,
