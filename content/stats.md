@@ -1,6 +1,7 @@
 ---
 title: "Stats"
 date: 2017-08-31T11:00:23-04:00
+weight: 8
 ---
 <div class="sponsorcontainer">
   <a id="stats-a1" href="#"><img id="stats-s1" class="image sponsor"></a>
