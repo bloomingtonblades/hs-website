@@ -21,9 +21,9 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 Upcoming Events
 ---------------
 * Blades @ Carmel Blue: September 9, 7:15pm. [Carmel Ice Skadium <span class="icon fa-map-marker"></span>][carmel]
-* Team Dinner (Players & Coaches): September 11, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
+* Team Dinner (Players & Coaches): September 13, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
 * Board Meeting: September 20, 6:30pm.
-* Team Pictures: September 24, 11:00am. Hamilton Center Ice Arena.
+* Team Pictures: October 2, 4:00pm. Frank Southern Ice Arena.
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
