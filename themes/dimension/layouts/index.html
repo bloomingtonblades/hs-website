@@ -22,7 +22,7 @@
             <nav>
               <ul>
                 {{ range .Data.Pages.ByWeight }}
-                  <li>{{ if isset .Params "link" }}<a href="{{ index .Params "link" }}"{{else}}<a href="#{{ .File.TranslationBaseName }}"{{end}}>{{ if .GetParam "menuname" }}{{ .GetParam "menuname" }}{{ else }}{{ .Title }}{{ end }}</a></li>
+                  <li>{{ if isset .Params "link" }}<a target="_blank" href="{{ index .Params "link" }}"{{else}}<a href="#{{ .File.TranslationBaseName }}"{{end}}>{{ if .GetParam "menuname" }}{{ .GetParam "menuname" }}{{ else }}{{ .Title }}{{ end }}{{ if isset .Params "link" }}<span class="icon fa-external-link"></span>{{ end }}</a></li>
                 {{ end }}
               </ul>
             </nav>
