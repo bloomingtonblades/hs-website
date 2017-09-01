@@ -960,7 +960,7 @@ button {
   #header nav ul li.is-first {
     width: calc(10rem + 1px);
     border-left: 0; }
-  #header nav ul li.is-fourth {
+  #header nav ul li.is-last {
     width: calc(10rem + 1px); }
   #header nav ul li.is-bottom {
     border-bottom: 0; }
