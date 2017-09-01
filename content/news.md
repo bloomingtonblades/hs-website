@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2017-07-15
+date: 2017-09-01
 weight: 3
 ---
 
@@ -9,30 +9,15 @@ weight: 3
   <a id="news-a2" href="#"><img id="news-s2" class="image sponsor"></a>
 </div>
 
-Blades Spirit Wear
-------------------
-
-Our friends at TIS put together this [nifty order form][spiritwear]
-for all your Blades spirit wear needs.
-
-Just go to [HollowayUSA.com](https://www.hollowayusa.com/) and find
-stuff you like. Enter order number, size, color, embroidery
-preferences on the form. Return the form to [Jay Baer <span class="icon fa-envelope-o"></span>](mailto:jbaer@bloomingtonblades.com)
-by August 31. He'll place the order, collect your money, and get your stuff to you when it arrives.
-
-Also available, but not on the order form (different vendor)
-are the cool Blades caps. Dark blue with the varsity “B” on front,
-and Bloomington Blades in white on the back.
-These are super comfy. $25 each. They are flex fit and come in S/M and L/XL sizes.
-If you’d like a hat, please let Jay know and he’ll get those ordered too. 
-
-This is the one ordering window for team merchandise, so please don’t miss the August 31 deadline.
-
-[spiritwear]: Blades_Order_Form_fillable-1.pdf
-
 
 Updates
 -------
+
+Any player who will be missing an on- or off-ice practice should let
+Coach Appel know in advance. Practice plans may change based on number
+of players attending. Thank you!
+
+
 Be sure to check the [calendar][cal] for updated practices times and other
 changes. Also players and parents should get the [TeamApp mobile
 app][teamapp]. Once you install it, create an account and then search
