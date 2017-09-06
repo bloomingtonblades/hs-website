@@ -9,5 +9,5 @@ link: http://www.ishsha.com/standings/show/3502270?subseason=418058
   <a id="standings-a2" href="#"><img id="standings-s2" class="image sponsor"></a>
 </div>
 
-## Coming Soon!
+League Standings posted at [ISHSHA web site](http://www.ishsha.com/standings/show/3502270?subseason=418058).
 
