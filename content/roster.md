@@ -20,7 +20,7 @@ Staff
 Players
 -------
 
-Photos coming in September!
+Photos coming soon!
 
 ### Seniors
 <div class="classdiv">
@@ -95,7 +95,7 @@ Photos coming in September!
   <div class="player">
     <figure>
       <img alt="Sam Franklin Photo" src="/images/200px-Placeholder_photo.png">
-      <figcaption>Sam Franklin<br>#88</figcaption>
+      <figcaption>Sam Franklin<br>#88<img src="/images/tin.png"></figcaption>
     </figure>
   </div>
   <div class="player">
@@ -113,7 +113,7 @@ Photos coming in September!
   <div class="player">
     <figure>
       <img alt="Aidan Lowinger Photo" src="/images/200px-Placeholder_photo.png">
-      <figcaption>Aidan Lowinger<br>#30 (G)</figcaption>
+      <figcaption>Aidan Lowinger<br>#30 (G)<img src="/images/tin.png"></figcaption>
     </figure>
   </div>
   <div class="player">
