@@ -66,6 +66,15 @@ p {
   margin: 10px 10px;
 }
 
+#roster .player figcaption img {
+	margin: 0.5rem 0 0 0.5rem;
+	height: unset;
+	width: unset;
+	border: 1px solid #cccccc;
+	padding: 1px 1px;
+	float: right;
+}
+
 @media screen and (max-width: 600px) {
   #roster .classdiv {
     display: flex;
