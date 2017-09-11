@@ -1,3 +1,10 @@
+#stats table tbody tr.odd {
+    background-color: rgba(255, 255, 255, 0.075);
+}
+#stats table tbody tr.even {
+    background-color: rgba(0, 0, 0, 0);
+}
+
 .sponsorcontainer {
   display: flex;
   background-color: white;
