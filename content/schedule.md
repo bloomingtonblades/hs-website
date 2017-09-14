@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2017-07-31
+date: 2017-09-14
 weight: 5
 ---
 
@@ -20,9 +20,9 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-* Team Dinner (Players & Coaches): September 13, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
 * Board Meeting: September 20, 6:30pm.
 * Team Pictures: October 2, 4:00pm. Frank Southern Ice Arena.
+* Team Dinner (Players & Coaches): October 17, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
