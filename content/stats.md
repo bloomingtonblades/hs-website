@@ -47,7 +47,7 @@ Results
     <td>0</td>
     <td>1</td>
     <td></td>
-    <td>Hartich</td>
+    <td>Yuska</td>
     <td>27</td>
   </tr>
   <tfoot>
