@@ -29,6 +29,7 @@ Results
       Use class "odd" or "even" on every other row. CSS nth-child
       doesn't work because of rowspan elements.
   -->
+  <!-- Blades @ Carmel Blue, 9/17/17 -->
   <tr class="odd">
     <td rowspan="2">9/9/17</td>
     <td>Blades</td>
@@ -50,27 +51,27 @@ Results
     <td>Yuska</td>
     <td>27</td>
   </tr>
-  <tfoot>
-    <tr>
-      <td rowspan="2">Totals</td>
-      <td>Blades</td>
-      <td>1</td>
-      <td>0</td>
-      <td>1</td>
-      <td>2</td>
-      <td></td>
-      <td></td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Opponents</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td></td>
-      <td></td>
-      <td>27</td>
-    </tr>
-  </tfoot>
+
+  <!-- Blades vs South Stars Red, 9/30/17 -->
+  <tr class="even">
+    <td rowspan="2">9/30/17</td>
+    <td>Blades</td>
+    <td>0</td>
+    <td>3</td>
+    <td>0</td>
+    <td>3</td>
+    <td>Lowinger</td>
+    <td></td>
+    <td>22</td>
+  </tr>
+  <tr class="even">
+    <td>S. Stars Red</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td></td>
+    <td>Semmler</td>
+    <td>16</td>
+  </tr>
 </table>
