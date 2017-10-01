@@ -55,16 +55,6 @@ Results
   <!-- Blades vs South Stars Red, 9/30/17 -->
   <tr class="even">
     <td rowspan="2">9/30/17</td>
-    <td>Blades</td>
-    <td>0</td>
-    <td>3</td>
-    <td>0</td>
-    <td>3</td>
-    <td>Lowinger</td>
-    <td></td>
-    <td>22</td>
-  </tr>
-  <tr class="even">
     <td>S. Stars Red</td>
     <td>0</td>
     <td>0</td>
@@ -73,5 +63,15 @@ Results
     <td></td>
     <td>Semmler</td>
     <td>16</td>
+  </tr>
+  <tr class="even">
+    <td>Blades</td>
+    <td>0</td>
+    <td>3</td>
+    <td>0</td>
+    <td>3</td>
+    <td>Lowinger</td>
+    <td></td>
+    <td>22</td>
   </tr>
 </table>
