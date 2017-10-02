@@ -20,7 +20,6 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-* Team Pictures: October 2, 4:00pm at practice. Bring your BLUE game jersey.
 * Trinity Louisville vs. Blades, October 7, 12:00pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Zionsville vs. Blades, October 9, 12:00pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * HSE A vs. Blades, October 13, 9:15pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
