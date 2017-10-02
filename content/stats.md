@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-08-31T11:00:23-04:00
+date: 2017-10-01
 weight: 8
 ---
 <div class="sponsorcontainer">
