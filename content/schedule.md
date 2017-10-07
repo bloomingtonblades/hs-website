@@ -23,7 +23,7 @@ Upcoming Events
 * Trinity Louisville vs. Blades, October 7, 12:30pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Zionsville vs. Blades, October 9, 12:00pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * HSE A vs. Blades, October 13, 9:15pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
-* Blades vs. HSE A, October 14, 9:15pm. [Fuel Tank at Fishers <span class="icon fa-map-marker"></span>][fuel]
+* Blades vs. HSE A, October 14, 6:30pm. [Fuel Tank at Fishers <span class="icon fa-map-marker"></span>][fuel]
 * Board Meeting: October 16, 6:00pm.
 * Team Dinner (Players & Coaches): October 17, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
 * Blades vs. Carmel Gold, October 21, 2:30pm. [Indiana Farmers Coliseum <span class="icon fa-map-marker"></span>][coliseum]
