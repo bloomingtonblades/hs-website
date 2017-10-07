@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-10-01
+date: 2017-10-06
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -29,7 +29,7 @@ Results
       Use class "odd" or "even" on every other row. CSS nth-child
       doesn't work because of rowspan elements.
   -->
-  <!-- Blades vs South Stars Red, 9/30/17 -->
+  <!-- South Stars Red vs. Blades, 9/30/17 -->
   <tr class="odd">
     <td rowspan="2">9/30/17</td>
     <td>S. Stars Red</td>
@@ -51,6 +51,28 @@ Results
     <td></td>
     <td>22</td>
   </tr>
+  <!-- Westfield vs Blades, 10/6/17 -->
+  <tr class="even">
+    <td rowspan="2">10/6/17</td>
+    <td>Westfield</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+    <td></td>
+    <td>Polster</td>
+    <td>23</td>
+  </tr>
+  <tr class="even">
+    <td>Blades</td>
+    <td>3</td>
+    <td>5</td>
+    <td>1</td>
+    <td>9</td>
+    <td>Dayhoff</td>
+    <td></td>
+    <td>13</td>
+  </tr>
 </table>
 
 Points Standings
@@ -66,22 +88,50 @@ Points Standings
     <tr>
   </thead>
   <tr>
+    <td>6</td>
+    <td>Burris</td>
+    <td>2</td>
     <td>3</td>
-    <td>Baer</td>
-    <td>1</td>
-    <td>0</td>
-    <td>1</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>84</td>
     <td>Berkley</td>
-    <td>0</td>
-    <td>1</td>
-    <td>1</td>
+    <td>2</td>
+    <td>2</td>
+    <td>4</td>
   </tr>
   <tr>
-    <td>6</td>
-    <td>Burris</td>
+    <td>16</td>
+    <td>Hunt</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Baer</td>
+    <td>1</td>
+    <td>1</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>48</td>
+    <td>Knipstein</td>
+    <td>1</td>
+    <td>1</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Streib</td>
+    <td>1</td>
+    <td>1</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Appel</td>
     <td>1</td>
     <td>0</td>
     <td>1</td>
@@ -94,10 +144,45 @@ Points Standings
     <td>1</td>
   </tr>
   <tr>
-    <td>16</td>
-    <td>Hunt</td>
+    <td>2</td>
+    <td>Greulich</td>
     <td>0</td>
     <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>La Bella</td>
+    <td>0</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>00</td>
+    <td>Lauer</td>
+    <td>0</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>Oliver</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>Prather</td>
+    <td>0</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>Stright</td>
+    <td>1</td>
+    <td>0</td>
     <td>1</td>
   </tr>
 </table>
@@ -119,14 +204,14 @@ Goalies
     <td>Lowinger</td>
     <td>22</td>
     <td>22</td>
-    <td>1.00</td>
+    <td>1.000</td>
   </tr>
   <tr>
     <td>74</td>
     <td>Dayhoff</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td>14</td>
+    <td>13</td>
+    <td>0.929</td>
   </tr>
   <tr>
     <td>13</td>
