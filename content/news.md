@@ -26,9 +26,11 @@ Stick around after the game for a Fan Fest outside the Coliseum,
 followed by the [Indy Fuel][fuel] home opener against the Tulsa
 Oilers! One ticket purchased gives you access to both events!
 
-Proceeds from tickets purchased will benefit [Riley Children's
-Hospital][riley], the [Carmel Icehounds][carmel] hockey program, and
-the [Collegiate Charities National Drop the Puck Foundation][cc].
+The Bloomington Blades have a long history of cooperation with
+Collegiate Charities. Proceeds from tickets purchased will also
+benefit [Riley Children's Hospital][riley], the [Carmel
+Icehounds][carmel] hockey program, and the [Collegiate Charities
+National Drop the Puck Foundation][cc].
 
 [fuel]: https://www.indyfuelhockey.com/
 [jerseys]: https://collegiate-apparel.myshopify.com/products/bloomington-blades-hockey-jersey
