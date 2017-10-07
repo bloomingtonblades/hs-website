@@ -9,6 +9,33 @@ weight: 3
   <a id="news-a2" href="#"><img id="news-s2" class="image sponsor"></a>
 </div>
 
+Dropping the Puck on Cancer
+---------------------------
+
+<div style="text-align: center;"><a style="border: 0;" href="https://fuel.isportstix.com/order/group/CCOct21/"><img alt="Dropping the Puck On Cancer - Blades vs Carmel" src="dtphs.jpg"></a></div>
+
+Join us for the first ever High School version of Collegiate Charities
+Dropping the Puck on Cancer series. [Tickets are on sale
+now][tickets]!
+
+Also don't miss out on your only chance to get an exclusive,
+made-for-this-game custom Blades hockey jersey! [Order
+online][jerseys]. These will make great holiday gifts!
+
+Stick around after the game for a Fan Fest outside the Coliseum,
+followed by the [Indy Fuel][fuel] home opener against the Tulsa
+Oilers! One ticket purchased gives you access to both events!
+
+Proceeds from tickets purchased will benefit [Riley Children's
+Hospital][riley], the [Carmel Icehounds][carmel] hockey program, and
+the [Collegiate Charities National Drop the Puck Foundation][cc].
+
+[fuel]: https://www.indyfuelhockey.com/
+[jerseys]: https://collegiate-apparel.myshopify.com/products/bloomington-blades-hockey-jersey
+[carmel]: https://carmelgoldicehounds.teamapp.com/
+[tickets]: https://fuel.isportstix.com/order/group/CCOct21/
+[cc]: http://www.collegiatecharities.org/
+[riley]: https://www.rileychildrens.org/
 
 Updates
 -------
