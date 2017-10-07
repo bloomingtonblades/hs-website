@@ -185,6 +185,34 @@ Points Standings
     <td>0</td>
     <td>1</td>
   </tr>
+  <tr>
+    <td>43</td>
+    <td>Cockerham</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>La Bella</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>Rawlins</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>31</td>
+    <td>Streib</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
 </table>
 
 Goalies
