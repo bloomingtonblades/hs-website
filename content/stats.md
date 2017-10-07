@@ -73,9 +73,9 @@ Results
     <td></td>
     <td>13</td>
   </tr>
-  <!-- Louisville Trinity vs Blades, 10/8/17 -->
+  <!-- Louisville Trinity vs Blades, 10/7/17 -->
   <tr class="odd">
-    <td rowspan="2">10/8/17</td>
+    <td rowspan="2">10/7/17</td>
     <td>Trinity</td>
     <td>2</td>
     <td>1</td>
