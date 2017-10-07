@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-10-06
+date: 2017-10-07
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -73,6 +73,28 @@ Results
     <td></td>
     <td>13</td>
   </tr>
+  <!-- Louisville Trinity vs Blades, 10/8/17 -->
+  <tr class="odd">
+    <td rowspan="2">10/8/17</td>
+    <td>Trinity</td>
+    <td>2</td>
+    <td>1</td>
+    <td>0</td>
+    <td>3</td>
+    <td>Geovenco</td>
+    <td></td>
+    <td>20</td>
+  </tr>
+  <tr class="odd">
+    <td>Blades</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+    <td>1</td>
+    <td></td>
+    <td>Lowinger</td>
+    <td>19</td>
+  </tr>
 </table>
 
 Points Standings
@@ -91,8 +113,8 @@ Points Standings
     <td>6</td>
     <td>Burris</td>
     <td>2</td>
-    <td>3</td>
-    <td>5</td>
+    <td>4</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>84</td>
@@ -118,6 +140,13 @@ Points Standings
   <tr>
     <td>48</td>
     <td>Knipstein</td>
+    <td>1</td>
+    <td>1</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>00</td>
+    <td>Lauer</td>
     <td>1</td>
     <td>1</td>
     <td>2</td>
@@ -153,13 +182,6 @@ Points Standings
   <tr>
     <td>17</td>
     <td>La Bella</td>
-    <td>0</td>
-    <td>1</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>00</td>
-    <td>Lauer</td>
     <td>0</td>
     <td>1</td>
     <td>1</td>
@@ -230,9 +252,9 @@ Goalies
   <tr>
     <td>30</td>
     <td>Lowinger</td>
-    <td>22</td>
-    <td>22</td>
-    <td>1.000</td>
+    <td>44</td>
+    <td>41</td>
+    <td>0.932</td>
   </tr>
   <tr>
     <td>74</td>
