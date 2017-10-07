@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2017-10-04
+date: 2017-10-07
 weight: 5
 ---
 
@@ -15,12 +15,11 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 
 Next Home Game
 --------------
-Westfield vs. Blades, October 6, 7:30pm. [Frank
+Trinity Louisville vs. Blades, October 7, 12:30pm. [Frank
 Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-* Trinity Louisville vs. Blades, October 7, 12:30pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Zionsville vs. Blades, October 9, 12:00pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * HSE A vs. Blades, October 13, 9:15pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Blades vs. HSE A, October 14, 6:30pm. [Fuel Tank at Fishers <span class="icon fa-map-marker"></span>][fuel]
