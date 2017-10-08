@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-10-07
+date: 2017-10-08
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -95,6 +95,28 @@ Results
     <td>Lowinger</td>
     <td>19</td>
   </tr>
+  <!-- Zionsville vs Blades, 10/8/17 -->
+  <tr class="even">
+    <td rowspan="2">10/8/17</td>
+    <td>Zionsville</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+    <td>5</td>
+    <td>Chinni</td>
+    <td></td>
+    <td>16</td>
+  </tr>
+  <tr class="even">
+    <td>Blades</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+    <td></td>
+    <td>Lowinger</td>
+    <td>42</td>
+  </tr>
 </table>
 
 Points Standings
@@ -112,16 +134,16 @@ Points Standings
   <tr>
     <td>6</td>
     <td>Burris</td>
-    <td>2</td>
+    <td>3</td>
     <td>4</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>84</td>
     <td>Berkley</td>
     <td>2</td>
-    <td>2</td>
-    <td>4</td>
+    <td>3</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>16</td>
@@ -142,6 +164,13 @@ Points Standings
     <td>Knipstein</td>
     <td>1</td>
     <td>1</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>La Bella</td>
+    <td>0</td>
+    <td>2</td>
     <td>2</td>
   </tr>
   <tr>
@@ -175,13 +204,6 @@ Points Standings
   <tr>
     <td>2</td>
     <td>Greulich</td>
-    <td>0</td>
-    <td>1</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>17</td>
-    <td>La Bella</td>
     <td>0</td>
     <td>1</td>
     <td>1</td>
@@ -250,18 +272,18 @@ Goalies
     <tr>
   </thead>
   <tr>
-    <td>30</td>
-    <td>Lowinger</td>
-    <td>44</td>
-    <td>41</td>
-    <td>0.932</td>
-  </tr>
-  <tr>
     <td>74</td>
     <td>Dayhoff</td>
     <td>14</td>
     <td>13</td>
     <td>0.929</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>Lowinger</td>
+    <td>91</td>
+    <td>83</td>
+    <td>0.912</td>
   </tr>
   <tr>
     <td>13</td>
