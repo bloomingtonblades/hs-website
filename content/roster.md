@@ -11,6 +11,9 @@ weight: 4
 
 Staff
 -----
+
+<img style="width: 100%;" alt="Blades Coaching Staff 2017-18" src="coaches.jpg">
+
 * Head Coach &mdash; Dave Appel
 * Assistant Coach &mdash; John Bowman
 * Assistant Coach &mdash; Nick Lightfoot
