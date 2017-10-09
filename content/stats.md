@@ -13,7 +13,7 @@ Results
 <table>
   <thead>
     <tr>
-      <th></th> <th></th> <th>P1</th> <th>P2</th> <th>P3</th> <th>T</th> <th>Win</th> <th>Loss</th> <th title="Saves">S</th>
+      <th></th> <th></th> <th title="Period 1">P1</th> <th title="Period 2">P2</th> <th title="Period 3">P3</th> <th title="Total">T</th> <th>WIN</th> <th>LOSS</th> <th title="Saves">S</th>
     <tr>
   </thead>
 
