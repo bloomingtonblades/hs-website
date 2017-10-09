@@ -20,31 +20,29 @@ Staff
 Players
 -------
 
-Photos coming soon!
-
 ### Seniors
 <div class="classdiv">
   <div class="player">
     <figure>
-      <img alt="Alec Appel Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Alec Appel Photo" src="7-appel.jpg">
       <figcaption>Alec Appel<br>#7</figcaption>
     </figure>
   </div>
   <div class="player">
     <figure>
-      <img alt="Ethan Berkley Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Ethan Berkley Photo" src="84-berkley.jpg">
       <figcaption>Ethan Berkley<br>#84</figcaption>
     </figure>
   </div>
   <div class="player">
     <figure>
-      <img alt="Sam Burris Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Sam Burris Photo" src="6-burris.jpg">
       <figcaption>Sam Burris<br>#6</figcaption>
     </figure>
   </div>
   <div class="player">
     <figure>
-      <img alt="Gibson Oliver Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Gibson Oliver Photo" src="23-oliver.jpg">
       <figcaption>Gibson Oliver<br>#23</figcaption>
     </figure>
   </div>
@@ -54,25 +52,25 @@ Photos coming soon!
 <div class="classdiv">
   <div class="player">
     <figure>
-      <img alt="Ethan Baer Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Ethan Baer Photo" src="3-baer.jpg">
       <figcaption>Ethan Baer<br>#3</figcaption>
     </figure>
   </div>
   <div class="player">
     <figure>
-      <img alt="Dillon Dayhoff Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Dillon Dayhoff Photo" src="74-dayhoff.jpg">
       <figcaption>Dillon Dayhoff<br>#74 (G)</figcaption>
     </figure>
   </div>
   <div class="player">
     <figure>
-      <img alt="Lander Greulich Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Lander Greulich Photo" src="2-greulich.jpg">
       <figcaption>Lander Greulich<br>#2</figcaption>
     </figure>
   </div>
   <div class="player">
     <figure>
-      <img alt="Anthony La Bella Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Anthony La Bella Photo" src="17-labella.jpg">
       <figcaption>Anthony La Bella<br>#17</figcaption>
     </figure>
   </div>
@@ -88,31 +86,31 @@ Photos coming soon!
 <div class="classdiv">
   <div class="player">
     <figure>
-      <img alt="Layton Cockerham Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Layton Cockerham Photo" src="43-cockerham.jpg">
       <figcaption>Layton Cockerham<br>#43</figcaption>
     </figure>
   </div>
   <div class="player">
     <figure>
-      <img alt="Sam Franklin Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Sam Franklin Photo" src="88-franklin.jpg">
       <figcaption>Sam Franklin<br>#88<img src="/images/tin.png"></figcaption>
     </figure>
   </div>
   <div class="player">
     <figure>
-      <img alt="Mitchell Knipstein Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Mitchell Knipstein Photo" src="48-knipstein.jpg">
       <figcaption>Mitchell Knipstein<br>#48</figcaption>
     </figure>
   </div>
   <div class="player">
     <figure>
-      <img alt="Ian Knox Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Ian Knox Photo" src="13-knox.jpg">
       <figcaption>Ian Knox<br>#13 (G)</figcaption>
     </figure>
   </div>
   <div class="player">
     <figure>
-      <img alt="Aidan Lowinger Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Aidan Lowinger Photo" src="30-lowinger.jpg">
       <figcaption>Aidan Lowinger<br>#30 (G)<img src="/images/tin.png"></figcaption>
     </figure>
   </div>
@@ -124,13 +122,13 @@ Photos coming soon!
   </div>
   <div class="player">
     <figure>
-      <img alt="Henry Streib Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Henry Streib Photo" src="31-streib.jpg">
       <figcaption>Henry Streib<br>#31</figcaption>
     </figure>
   </div>
   <div class="player">
     <figure>
-      <img alt="Nick Stright Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Nick Stright Photo" src="14-stright.jpg">
       <figcaption>Nick Stright<br>#14</figcaption>
     </figure>
   </div>
@@ -140,25 +138,25 @@ Photos coming soon!
 <div class="classdiv">
   <div class="player">
     <figure>
-      <img alt="Ryan Hunt Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Ryan Hunt Photo" src="16-hunt.jpg">
       <figcaption>Ryan Hunt<br>#16</figcaption>
     </figure>
   </div>
   <div class="player">
     <figure>
-      <img alt="Ozzie Lauer Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Ozzie Lauer Photo" src="00-lauer.jpg">
       <figcaption>Ozzie Lauer<br>#00</figcaption>
     </figure>
   </div>
   <div class="player">
     <figure>
-      <img alt="Vincent La Bella Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Vincent La Bella Photo" src="21-labella.jpg">
       <figcaption>Vincent La Bella<br>#21</figcaption>
     </figure>
   </div>
   <div class="player">
     <figure>
-      <img alt="Eli Prather Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Eli Prather Photo" src="27-prather.jpg">
       <figcaption>Eli Prather<br>#27</figcaption>
     </figure>
   </div>
