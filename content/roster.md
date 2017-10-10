@@ -1,6 +1,6 @@
 ---
 title: "Roster"
-date: 2017-10-09
+date: 2017-10-10
 weight: 4
 ---
 
@@ -8,6 +8,8 @@ weight: 4
   <a id="roster-a1" href="#"><img id="roster-s1" class="image sponsor"></a>
   <a id="roster-a2" href="#"><img id="roster-s2" class="image sponsor"></a>
 </div>
+
+<center>Photographs by [Jeff Norris Photography](http://www.jeffnorrisphotography.com)</center>
 
 Staff
 -----
