@@ -28,19 +28,19 @@ Players
   <div class="player">
     <figure>
       <img alt="Alec Appel Photo" src="7-appel.jpg">
-      <figcaption>Alec Appel<br>#7</figcaption>
+      <figcaption>Alec Appel<br>#7 (A)</figcaption>
     </figure>
   </div>
   <div class="player">
     <figure>
       <img alt="Ethan Berkley Photo" src="84-berkley.jpg">
-      <figcaption>Ethan Berkley<br>#84</figcaption>
+      <figcaption>Ethan Berkley<br>#84 (C)</figcaption>
     </figure>
   </div>
   <div class="player">
     <figure>
       <img alt="Sam Burris Photo" src="6-burris.jpg">
-      <figcaption>Sam Burris<br>#6</figcaption>
+      <figcaption>Sam Burris<br>#6 (A)</figcaption>
     </figure>
   </div>
   <div class="player">
