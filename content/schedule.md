@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2017-10-08
+date: 2017-10-14
 weight: 5
 ---
 
@@ -15,12 +15,11 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 
 Next Home Game
 --------------
-HSE A vs. Blades, October 13, 9:15pm. [Frank
+Columbus vs. Blades, November 17, 9:15pm. [Frank
 Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-* HSE A vs. Blades, October 13, 9:15pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Blades vs. HSE A, October 14, 6:30pm. [Fuel Tank at Fishers <span class="icon fa-map-marker"></span>][fuel]
 * Board Meeting: October 16, 6:00pm.
 * Team Dinner (Players & Coaches): October 17, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
