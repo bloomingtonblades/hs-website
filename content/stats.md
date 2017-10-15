@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-10-14
+date: 2017-10-15
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -56,10 +56,19 @@ Results
   <!-- HSE A vs Blades, 10/13/17 -->
   <tr class="odd">
     <td rowspan="2">10/13/17</td>
-                                 <td>HSE A</td>          <td>0</td> <td>2</td> <td>2</td> <td>4</td> <td>Harris</td>   <td></td>         <td>34</td>
+                                 <td>HSE A</td>        <td>0</td> <td>2</td> <td>2</td> <td>4</td> <td>Harris</td>   <td></td>         <td>34</td>
   </tr>
   <tr class="odd">
                                  <td>Blades</td>       <td>0</td> <td>3</td> <td>0</td> <td>3</td> <td></td>         <td>Lowinger</td> <td>20</td>
+  </tr>
+
+  <!-- Blades vs HSE A, 10/13/17 -->
+  <tr class="even">
+    <td rowspan="2">10/14/17</td>
+                                 <td>Blades</td>      <td>0</td> <td>0</td> <td>0</td> <td>0</td> <td></td>         <td>Lowinger</td>  <td>33</td>
+  </tr>
+  <tr class="even">
+                                 <td>HSE A</td>       <td>0</td> <td>3</td> <td>2</td> <td>5</td> <td>Harris</td>   <td></td>          <td>23</td>
   </tr>
 </table>
 
@@ -81,16 +90,16 @@ Points Standings
     <td>16</td> <td>Hunt</td>      <td>1</td> <td>3</td> <td>4</td> <td>12</td>
   </tr>
   <tr>
-    <td>3</td>  <td>Baer</td>      <td>1</td> <td>2</td> <td>3</td> <td>2</td>
+    <td>3</td>  <td>Baer</td>      <td>1</td> <td>2</td> <td>3</td> <td>4</td>
   </tr>
   <tr>
     <td>00</td> <td>Lauer</td>     <td>2</td> <td>1</td> <td>3</td> <td>4</td>
   </tr>
   <tr>
-    <td>7</td>  <td>Appel</td>     <td>1</td> <td>1</td> <td>2</td> <td>26</td>
+    <td>7</td>  <td>Appel</td>     <td>1</td> <td>1</td> <td>2</td> <td>40</td>
   </tr>
   <tr>
-    <td>88</td> <td>Franklin</td>  <td>1</td> <td>1</td> <td>2</td> <td>24</td>
+    <td>88</td> <td>Franklin</td>  <td>1</td> <td>1</td> <td>2</td> <td>41</td>
   </tr>
   <tr>
     <td>48</td> <td>Knipstein</td> <td>1</td> <td>1</td> <td>2</td> <td>0</td>
@@ -99,7 +108,7 @@ Points Standings
     <td>17</td> <td>La Bella</td>  <td>0</td> <td>2</td> <td>2</td> <td>22</td>
   </tr>
   <tr>
-    <td>21</td> <td>La Bella</td>  <td>1</td> <td>1</td> <td>2</td> <td>2</td>
+    <td>21</td> <td>La Bella</td>  <td>1</td> <td>1</td> <td>2</td> <td>14</td>
   </tr>
   <tr>
     <td>4</td>  <td>Streib</td>    <td>1</td> <td>1</td> <td>2</td> <td>2</td>
@@ -139,7 +148,7 @@ Goalies
     <td>74</td> <td>Dayhoff</td>  <td>14</td> <td>13</td> <td>0.929</td> <td>1</td> <td>0</td> <td>0</td> <td>4</td>
   </tr>
   <tr>
-    <td>30</td> <td>Lowinger</td> <td>115</td> <td>103</td> <td>0.896</td> <td>1</td> <td>3</td> <td>0</td> <td>0</td>
+    <td>30</td> <td>Lowinger</td> <td>153</td> <td>136</td> <td>0.889</td> <td>1</td> <td>3</td> <td>0</td> <td>0</td>
   </tr>
   <tr>
     <td>13</td> <td>Knox</td>     <td>0</td>  <td>0</td>  <td>-</td>     <td>0</td> <td>0</td> <td>0</td> <td>0</td>
