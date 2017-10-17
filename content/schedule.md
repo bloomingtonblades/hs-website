@@ -13,6 +13,15 @@ Contact
 -------
 Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][alyson]
 
+Dropping the Puck on Cancer
+---------------------------
+Game benefitng Riley Children's Hospital and Collegiate
+Charites. Blades vs. Carmel Gold, October 21, 2:15pm at the [Indiana Farmers
+Coliseum <span class="icon fa-map-marker"></span>][coliseum]. Ticket
+price includes Indy Fuel Fan Fest after the game, followed by
+admission to the Indy Fuel home opener vs. Tulsa Oilers. [Get your
+tickets here][dtptix].
+
 Next Home Game
 --------------
 Columbus vs. Blades, November 17, 9:15pm. [Frank
@@ -20,9 +29,8 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-* Board Meeting: October 16, 6:00pm.
 * Team Dinner (Players & Coaches): October 17, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
-* Blades vs. Carmel Gold, October 21, 2:30pm. [Indiana Farmers Coliseum <span class="icon fa-map-marker"></span>][coliseum]
+* Blades vs. Carmel Gold, October 21, 2:15pm. [Indiana Farmers Coliseum <span class="icon fa-map-marker"></span>][coliseum]. This game is a fundraiser for Riley Children's Hospital and Collegiate Charities Dropping the Puck on Cancer. [Get your tickets here][dtptix].
 * Blades vs. Columbus, October 27, 9:15pm. [Hamilton Center Ice Arena <span class="icon fa-map-marker"></span>][hamilton]
 * Blades vs. Westfield, October 27, 9:15pm. [Arctic Zone Iceplex <span class="icon fa-map-marker"></span>][arcticzone]
 
@@ -45,3 +53,4 @@ Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></s
 [coliseum]: https://www.google.com/maps/place/Indiana+Farmers+Coliseum/@39.8276805,-86.1371959,17z/data=!3m1!4b1!4m5!3m4!1s0x886b51783899e365:0xc4b58965029cc570!8m2!3d39.8276805!4d-86.1350072
 [hamilton]: https://maps.google.com/maps?hl=en&q=Hamilton%20Center%20Ice%20Arena%2C%202501%20Lincoln%20Park%20Dr%2C%20Columbus%2C%20IN%2047201%2C%20USA
 [arcticzone]: https://maps.google.com/maps?hl=en&q=Arctic%20Zone%20Iceplex%2C%2016616%20Southpark%20Dr%2C%20Westfield%2C%20IN%2046074%2C%20USA
+[dtptix]: https://fuel.isportstix.com/order/group/CCOct21/
