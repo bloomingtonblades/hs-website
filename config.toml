@@ -7,6 +7,7 @@ relativeURLs = true
 disableKinds = ["RSS"]
 
 [params]
+  headtitle = "Bloomington Blades High School Hockey"
   title = "Blades Hockey"
   description = 'High School Hockey in Bloomington, Indiana'
   logoimage = "/images/B.png"
