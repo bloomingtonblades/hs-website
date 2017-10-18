@@ -81,7 +81,7 @@ Players
   </div>
   <div class="player">
     <figure>
-      <img alt="Austin Rawlins Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Austin Rawlins Photo" src="22-rawlins.jpg">
       <figcaption>Austin Rawlins<br>#22</figcaption>
     </figure>
   </div>
@@ -121,7 +121,7 @@ Players
   </div>
   <div class="player">
     <figure>
-      <img alt="Hayden Streib Photo" src="/images/200px-Placeholder_photo.png">
+      <img alt="Hayden Streib Photo" src="4-streib.jpg">
       <figcaption>Hayden Streib<br>#4</figcaption>
     </figure>
   </div>
