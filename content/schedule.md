@@ -29,10 +29,11 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-* Team Dinner (Players & Coaches): October 17, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
-* Blades vs. Carmel Gold, October 21, 2:15pm. [Indiana Farmers Coliseum <span class="icon fa-map-marker"></span>][coliseum]. This game is a fundraiser for Riley Children's Hospital and Collegiate Charities Dropping the Puck on Cancer. [Get your tickets here][dtptix].
+* Blades vs. Carmel Gold, October 21, 2:15pm. [Indiana Farmers Coliseum <span class="icon fa-map-marker"></span>][coliseum]. Fundraiser Game - [Get your tickets here][dtptix].
 * Blades vs. Columbus, October 27, 9:15pm. [Hamilton Center Ice Arena <span class="icon fa-map-marker"></span>][hamilton]
-* Blades vs. Westfield, October 27, 9:15pm. [Arctic Zone Iceplex <span class="icon fa-map-marker"></span>][arcticzone]
+* Blades vs. Westfield, October 28, 4:20pm. [Arctic Zone Iceplex <span class="icon fa-map-marker"></span>][arcticzone]
+* Blades vs. Culver Academy, November 4, 7:00pm & November 5, 12:00pm [Culver Academy <span class="icon fa-map-marker"></span>][culver]
+* Team Dinner (Players & Coaches): November 15, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
@@ -46,6 +47,7 @@ Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></s
 
 [alyson]: mailto:alysonebaer@gmail.com
 [cal]: https://calendar.google.com/calendar/embed?src=epsc9ra4unbaelg6bns4r4ifro%40group.calendar.google.com&ctz=America/New_York
+[culver]: https://maps.google.com/maps?hl=en&q=Culver%20Academies%2C%201300%20Academy%20Rd%2C%20Culver%2C%20IN%2046511%2C%20USA
 [fcal]: https://calendar.google.com/calendar/embed?src=bloomington.in.gov_atmpkke40ioc9pu4be5khq28lg@group.calendar.google.com&ctz=America/New_York
 [ical]: https://calendar.google.com/calendar/ical/epsc9ra4unbaelg6bns4r4ifro%40group.calendar.google.com/public/basic.ics
 [frank]: https://www.google.com/maps/place/2100+S+Henderson+St,+Bloomington,+IN+47401/@39.1412293,-86.529133,17z/data=!3m1!4b1!4m5!3m4!1s0x886c66590dd701f1:0x2c4224b76654f9a2!8m2!3d39.1412252!4d-86.526939
