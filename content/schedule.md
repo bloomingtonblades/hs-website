@@ -32,8 +32,8 @@ Upcoming Events
 * Blades vs. Carmel Gold, October 21, 2:15pm. [Indiana Farmers Coliseum <span class="icon fa-map-marker"></span>][coliseum]. Fundraiser Game - [Get your tickets here][dtptix].
 * Blades vs. Columbus, October 27, 9:15pm. [Hamilton Center Ice Arena <span class="icon fa-map-marker"></span>][hamilton]
 * Blades vs. Westfield, October 28, 4:20pm. [Arctic Zone Iceplex <span class="icon fa-map-marker"></span>][arcticzone]
-* Blades vs. Culver, November 4, 7:00pm [Culver Academy <span class="icon fa-map-marker"></span>][culver]
-* Blades vs. Culver, November 5, 12:00pm [Culver Academy <span class="icon fa-map-marker"></span>][culver]
+* Blades vs. Culver, November 4, 7:00pm. [Culver Academy <span class="icon fa-map-marker"></span>][culver]
+* Blades vs. Culver, November 5, 12:00pm. [Culver Academy <span class="icon fa-map-marker"></span>][culver]
 * Team Dinner (Players & Coaches): November 15, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
