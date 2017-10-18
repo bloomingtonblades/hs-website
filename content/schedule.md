@@ -19,8 +19,13 @@ Game benefitng Riley Children's Hospital and Collegiate
 Charites. Blades vs. Carmel Gold, October 21, 2:15pm at the [Indiana Farmers
 Coliseum <span class="icon fa-map-marker"></span>][coliseum]. Ticket
 price includes Indy Fuel Fan Fest after the game, followed by
-admission to the Indy Fuel home opener vs. Tulsa Oilers. [Get your
+admission to the Indy Fuel home opener against the Tulsa Oilers. [Get your
 tickets here][dtptix].
+
+Also don't miss out on your only chance to get an exclusive,
+made-for-this-game custom Blades hockey jersey! [Order
+online][jerseys]. These will make great holiday gifts!
+
 
 Next Home Game
 --------------
@@ -57,3 +62,4 @@ Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></s
 [hamilton]: https://maps.google.com/maps?hl=en&q=Hamilton%20Center%20Ice%20Arena%2C%202501%20Lincoln%20Park%20Dr%2C%20Columbus%2C%20IN%2047201%2C%20USA
 [arcticzone]: https://maps.google.com/maps?hl=en&q=Arctic%20Zone%20Iceplex%2C%2016616%20Southpark%20Dr%2C%20Westfield%2C%20IN%2046074%2C%20USA
 [dtptix]: https://fuel.isportstix.com/order/group/CCOct21/
+[jerseys]: https://collegiate-apparel.myshopify.com/products/bloomington-blades-hockey-jersey
