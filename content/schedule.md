@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2017-10-15
+date: 2017-10-17
 weight: 5
 ---
 
