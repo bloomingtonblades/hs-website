@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-10-15
+date: 2017-10-17
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -65,7 +65,7 @@ Results
   <!-- Blades vs HSE A, 10/13/17 -->
   <tr class="even">
     <td rowspan="2">10/14/17</td>
-                                 <td>Blades</td>      <td>0</td> <td>0</td> <td>0</td> <td>0</td> <td></td>         <td>Lowinger</td>  <td>33</td>
+                                 <td>Blades</td>      <td>0</td> <td>0</td> <td>0</td> <td>0</td> <td></td>         <td>Lowinger</td>  <td>32</td>
   </tr>
   <tr class="even">
                                  <td>HSE A</td>       <td>0</td> <td>3</td> <td>2</td> <td>5</td> <td>Harris</td>   <td></td>          <td>23</td>
@@ -148,7 +148,7 @@ Goalies
     <td>74</td> <td>Dayhoff</td>  <td>14</td> <td>13</td> <td>0.929</td> <td>1</td> <td>0</td> <td>0</td> <td>4</td>
   </tr>
   <tr>
-    <td>30</td> <td>Lowinger</td> <td>153</td> <td>136</td> <td>0.889</td> <td>1</td> <td>4</td> <td>0</td> <td>0</td>
+    <td>30</td> <td>Lowinger</td> <td>152</td> <td>135</td> <td>0.888</td> <td>1</td> <td>4</td> <td>0</td> <td>0</td>
   </tr>
   <tr>
     <td>13</td> <td>Knox</td>     <td>0</td>  <td>0</td>  <td>-</td>     <td>0</td> <td>0</td> <td>0</td> <td>0</td>
