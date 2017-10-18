@@ -16,7 +16,7 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Dropping the Puck on Cancer
 ---------------------------
 Game benefitng Riley Children's Hospital and Collegiate
-Charites. Blades vs. Carmel Gold, October 21, 2:15pm at the [Indiana Farmers
+Charities. Blades vs. Carmel Gold, October 21, 2:15pm at the [Indiana Farmers
 Coliseum <span class="icon fa-map-marker"></span>][coliseum]. Ticket
 price includes Indy Fuel Fan Fest after the game, followed by
 admission to the Indy Fuel home opener against the Tulsa Oilers. [Get your
