@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-10-17
+date: 2017-10-23
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -70,6 +70,15 @@ Results
   <tr class="even">
                                  <td>HSE A</td>       <td>0</td> <td>3</td> <td>2</td> <td>5</td> <td>Harris</td>   <td></td>          <td>23</td>
   </tr>
+
+<!-- Blades vs Carmel Gold, 10/21/17 -->
+  <tr class="even">
+    <td rowspan="2">10/21/17</td>
+                                 <td>Blades</td>      <td>1</td> <td>0</td> <td>0</td> <td>1</td> <td></td>         <td>Lowinger</td>  <td>40</td>
+  </tr>
+  <tr class="even">
+                                 <td>Carmel Gold</td> <td>1</td> <td>0</td> <td>1</td> <td>2</td> <td>Hendrick</td>   <td></td>        <td>15</td>
+  </tr>
 </table>
 
 Points Standings
@@ -84,19 +93,19 @@ Points Standings
     <td>6</td>  <td>Burris</td>    <td>3</td> <td>5</td> <td>8</td> <td>0</td>
   </tr>
   <tr>
-    <td>84</td> <td>Berkley</td>   <td>2</td> <td>3</td> <td>5</td> <td>0</td>
+    <td>84</td> <td>Berkley</td>   <td>3</td> <td>3</td> <td>6</td> <td>0</td>
   </tr>
   <tr>
     <td>16</td> <td>Hunt</td>      <td>1</td> <td>3</td> <td>4</td> <td>12</td>
   </tr>
   <tr>
+    <td>00</td> <td>Lauer</td>     <td>2</td> <td>2</td> <td>4</td> <td>4</td>
+  </tr>
+  <tr>
     <td>3</td>  <td>Baer</td>      <td>1</td> <td>2</td> <td>3</td> <td>4</td>
   </tr>
   <tr>
-    <td>00</td> <td>Lauer</td>     <td>2</td> <td>1</td> <td>3</td> <td>4</td>
-  </tr>
-  <tr>
-    <td>7</td>  <td>Appel</td>     <td>1</td> <td>1</td> <td>2</td> <td>40</td>
+    <td>7</td>  <td>Appel</td>     <td>1</td> <td>1</td> <td>2</td> <td>56</td>
   </tr>
   <tr>
     <td>88</td> <td>Franklin</td>  <td>1</td> <td>1</td> <td>2</td> <td>41</td>
@@ -111,16 +120,16 @@ Points Standings
     <td>21</td> <td>La Bella</td>  <td>1</td> <td>1</td> <td>2</td> <td>14</td>
   </tr>
   <tr>
+    <td>27</td> <td>Prather</td>   <td>0</td> <td>2</td> <td>2</td> <td>2</td>
+  </tr>
+  <tr>
     <td>4</td>  <td>Streib</td>    <td>1</td> <td>1</td> <td>2</td> <td>2</td>
   </tr>
   <tr>
     <td>2</td>  <td>Greulich</td>  <td>0</td> <td>1</td> <td>1</td> <td>4</td>
   </tr>
   <tr>
-    <td>23</td> <td>Oliver</td>    <td>1</td> <td>0</td> <td>1</td> <td>2</td>
-  </tr>
-  <tr>
-    <td>27</td> <td>Prather</td>   <td>0</td> <td>1</td> <td>1</td> <td>0</td>
+    <td>23</td> <td>Oliver</td>    <td>1</td> <td>0</td> <td>1</td> <td>4</td>
   </tr>
   <tr>
     <td>22</td> <td>Rawlins</td>   <td>1</td> <td>0</td> <td>1</td> <td>2</td>
@@ -148,7 +157,7 @@ Goalies
     <td>74</td> <td>Dayhoff</td>  <td>14</td> <td>13</td> <td>0.929</td> <td>1</td> <td>0</td> <td>0</td> <td>4</td>
   </tr>
   <tr>
-    <td>30</td> <td>Lowinger</td> <td>152</td> <td>135</td> <td>0.888</td> <td>1</td> <td>4</td> <td>0</td> <td>0</td>
+    <td>30</td> <td>Lowinger</td> <td>194</td> <td>175</td> <td>0.902</td> <td>1</td> <td>5</td> <td>0</td> <td>0</td>
   </tr>
   <tr>
     <td>13</td> <td>Knox</td>     <td>0</td>  <td>0</td>  <td>-</td>     <td>0</td> <td>0</td> <td>0</td> <td>0</td>
