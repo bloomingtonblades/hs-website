@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2017-10-07
+date: 2017-10-23
 weight: 3
 ---
 
@@ -12,32 +12,20 @@ weight: 3
 Dropping the Puck on Cancer
 ---------------------------
 
-<div style="text-align: center;"><a style="border: 0;" href="https://fuel.isportstix.com/order/group/CCOct21/"><img alt="Dropping the Puck On Cancer - Blades vs Carmel" src="dtphs.jpg"></a></div>
+<div style="text-align: center;"><img alt="Dropping the Puck On Cancer - Blades vs Carmel" src="dtphs.jpg"></div>
 
-Join us for the first ever High School version of Collegiate Charities
-Dropping the Puck on Cancer series. [Tickets are on sale
-now][tickets]!
+Thanks for joining us for the first ever High School version of
+[Collegiate Charities][cc] Dropping the Puck on Cancer series on Saturday,
+October 21. It was a fun afternoon for everyone, for a great cause.
 
-Also don't miss out on your only chance to get an exclusive,
+Look for a possibly expanded, multi-game format next year!
+
+For a limited time, you can still order an exclusive,
 made-for-this-game custom Blades hockey jersey! [Order
 online][jerseys]. These will make great holiday gifts!
 
-Stick around after the game for a Fan Fest outside the Coliseum,
-followed by the [Indy Fuel][fuel] home opener against the Tulsa
-Oilers! One ticket purchased gives you access to both events!
-
-The Bloomington Blades have a long history of cooperation with
-Collegiate Charities. Proceeds from tickets purchased will also
-benefit [Riley Children's Hospital][riley], the [Carmel
-Icehounds][carmel] hockey program, and the [Collegiate Charities
-National Drop the Puck Foundation][cc].
-
-[fuel]: https://www.indyfuelhockey.com/
 [jerseys]: https://collegiate-apparel.myshopify.com/products/bloomington-blades-hockey-jersey
-[carmel]: https://carmelgoldicehounds.teamapp.com/
-[tickets]: https://fuel.isportstix.com/order/group/CCOct21/
 [cc]: http://www.collegiatecharities.org/
-[riley]: https://www.rileychildrens.org/
 
 Updates
 -------
