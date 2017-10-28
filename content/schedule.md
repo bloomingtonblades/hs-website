@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2017-10-23
+date: 2017-10-27
 weight: 5
 ---
 
@@ -20,7 +20,6 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-* Blades vs. Columbus, October 27, 9:15pm. [Hamilton Center Ice Arena <span class="icon fa-map-marker"></span>][hamilton]
 * Blades vs. Westfield, October 28, 4:20pm. [Arctic Zone Iceplex <span class="icon fa-map-marker"></span>][arcticzone]
 * Blades vs. Culver, November 4, 7:00pm. [Culver Academy <span class="icon fa-map-marker"></span>][culver]
 * Blades vs. Culver, November 5, 12:00pm. [Culver Academy <span class="icon fa-map-marker"></span>][culver]
