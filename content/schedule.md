@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2017-10-27
+date: 2017-10-28
 weight: 5
 ---
 
@@ -20,10 +20,11 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-* Blades vs. Westfield, October 28, 4:20pm. [Arctic Zone Iceplex <span class="icon fa-map-marker"></span>][arcticzone]
 * Blades vs. Culver, November 4, 7:00pm. [Culver Academy <span class="icon fa-map-marker"></span>][culver]
 * Blades vs. Culver, November 5, 12:00pm. [Culver Academy <span class="icon fa-map-marker"></span>][culver]
 * Team Dinner (Players & Coaches): November 15, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
+* Columbus vs. Blades, November 17, 9:15pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
+* Blades vs. CIK A, November 19, 11:20am. [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel]
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
@@ -37,6 +38,7 @@ Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></s
 
 [alyson]: mailto:alysonebaer@gmail.com
 [cal]: https://calendar.google.com/calendar/embed?src=epsc9ra4unbaelg6bns4r4ifro%40group.calendar.google.com&ctz=America/New_York
+[carmel]: https://maps.google.com/maps?hl=en&q=Carmel%20Ice%20Rink%2C%201040%203rd%20Ave%20SW%2C%20Carmel%2C%20IN%2046032%2C%20USA
 [culver]: https://maps.google.com/maps?hl=en&q=Culver%20Academies%2C%201300%20Academy%20Rd%2C%20Culver%2C%20IN%2046511%2C%20USA
 [fcal]: https://calendar.google.com/calendar/embed?src=bloomington.in.gov_atmpkke40ioc9pu4be5khq28lg@group.calendar.google.com&ctz=America/New_York
 [ical]: https://calendar.google.com/calendar/ical/epsc9ra4unbaelg6bns4r4ifro%40group.calendar.google.com/public/basic.ics
