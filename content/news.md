@@ -12,7 +12,7 @@ weight: 3
 
 Hockey Officiating Level 1
 --------------------------
-Ever thought about becomming a hockey official? Could be a great part
+Ever thought about becoming a hockey official? Could be a great part
 time job opportunity for a youth or high school hockey player.
 
 IHOA will be offering a Level 1 seminar Saturday Nov. 25th. If you
