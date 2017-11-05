@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2017-10-28
+date: 2017-11-5
 weight: 5
 ---
 
@@ -20,8 +20,6 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-* Blades vs. Culver, November 4, 7:00pm. [Culver Academy <span class="icon fa-map-marker"></span>][culver]
-* Blades vs. Culver, November 5, 12:00pm. [Culver Academy <span class="icon fa-map-marker"></span>][culver]
 * Team Dinner (Players & Coaches): November 15, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
 * Columbus vs. Blades, November 17, 9:15pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Blades vs. CIK A, November 19, 11:20am. [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel]
