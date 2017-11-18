@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-11-5
+date: 2017-11-18
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -114,6 +114,14 @@ Results
   <tr class="odd">
                                  <td>Culver A</td>    <td>3</td> <td>3</td> <td>0</td> <td>6</td> <td>Gill</td>     <td></td>          <td>11</td>
   </tr>
+<!-- Columbus vs Blades, 11/17/17 -->
+  <tr class="even">
+    <td rowspan="2">11/17/17</td>
+                                 <td>Columbus</td>    <td>0</td> <td>0</td> <td>0</td> <td>0</td> <td></td>         <td>Stattenfield</td> <td>23</td>
+  </tr>
+  <tr class="even">
+                                 <td>Blades</td>      <td>0</td> <td>2</td> <td>3</td> <td>5</td> <td>Lowinger</td> <td></td>          <td>17</td>
+  </tr>
 </table>
 
 Points Standings
@@ -125,58 +133,58 @@ Points Standings
     <tr>
   </thead>
   <tr>
-    <td>6</td>  <td>Burris</td>    <td>5</td> <td>5</td> <td>10</td> <td>0</td>
+    <td>6</td>  <td>Burris</td>    <td>6</td> <td>5</td> <td>11</td> <td>0</td>
+  </tr>
+  <tr>
+    <td>84</td> <td>Berkley</td>   <td>4</td> <td>4</td> <td>8</td> <td>2</td>
   </tr>
   <tr>
     <td>3</td>  <td>Baer</td>      <td>2</td> <td>4</td> <td>6</td> <td>6</td>
   </tr>
   <tr>
-    <td>84</td> <td>Berkley</td>   <td>3</td> <td>3</td> <td>6</td> <td>2</td>
+    <td>16</td> <td>Hunt</td>      <td>1</td> <td>5</td> <td>6</td> <td>14</td>
+  </tr>
+  <tr>
+    <td>88</td> <td>Franklin</td>  <td>4</td> <td>2</td> <td>6</td> <td>53</td>
   </tr>
   <tr>
     <td>7</td>  <td>Appel</td>     <td>2</td> <td>3</td> <td>5</td> <td>66</td>
   </tr>
   <tr>
-    <td>88</td> <td>Franklin</td>  <td>3</td> <td>2</td> <td>5</td> <td>47</td>
-  </tr>
-  <tr>
-    <td>16</td> <td>Hunt</td>      <td>1</td> <td>4</td> <td>5</td> <td>14</td>
-  </tr>
-  <tr>
     <td>00</td> <td>Lauer</td>     <td>2</td> <td>2</td> <td>4</td> <td>4</td>
   </tr>
   <tr>
-    <td>17</td> <td>La Bella</td>  <td>0</td> <td>3</td> <td>3</td> <td>26</td>
+    <td>14</td> <td>Stright</td>   <td>3</td> <td>1</td> <td>4</td> <td>2</td>
+  </tr>
+  <tr>
+    <td>17</td> <td>La Bella</td>  <td>0</td> <td>4</td> <td>4</td> <td>41</td>
+  </tr>
+  <tr>
+    <td>27</td> <td>Prather</td>   <td>1</td> <td>3</td> <td>4</td> <td>8</td>
   </tr>
   <tr>
     <td>21</td> <td>La Bella</td>  <td>1</td> <td>2</td> <td>3</td> <td>14</td>
   </tr>
   <tr>
-    <td>27</td> <td>Prather</td>   <td>1</td> <td>2</td> <td>3</td> <td>8</td>
-  </tr>
-  <tr>
     <td>22</td> <td>Rawlins</td>   <td>2</td> <td>1</td> <td>3</td> <td>4</td>
-  </tr>
-  <tr>
-    <td>48</td> <td>Knipstein</td> <td>1</td> <td>1</td> <td>2</td> <td>0</td>
-  </tr>
-  <tr>
-    <td>23</td> <td>Oliver</td>    <td>1</td> <td>1</td> <td>2</td> <td>4</td>
   </tr>
   <tr>
     <td>4</td>  <td>Streib</td>    <td>1</td> <td>1</td> <td>2</td> <td>2</td>
   </tr>
   <tr>
-    <td>14</td> <td>Stright</td>   <td>1</td> <td>1</td> <td>2</td> <td>2</td>
+    <td>23</td> <td>Oliver</td>    <td>1</td> <td>1</td> <td>2</td> <td>4</td>
   </tr>
   <tr>
-    <td>2</td>  <td>Greulich</td>  <td>0</td> <td>1</td> <td>1</td> <td>4</td>
+    <td>48</td> <td>Knipstein</td> <td>1</td> <td>1</td> <td>2</td> <td>0</td>
   </tr>
   <tr>
-    <td>43</td> <td>Cockerham</td> <td>0</td> <td>0</td> <td>0</td> <td>0</td>
+    <td>2</td>  <td>Greulich</td>  <td>0</td> <td>1</td> <td>1</td> <td>8</td>
   </tr>
   <tr>
     <td>31</td> <td>Streib</td>    <td>0</td> <td>0</td> <td>0</td> <td>0</td>
+  </tr>
+  <tr>
+    <td>43</td> <td>Cockerham</td> <td>0</td> <td>0</td> <td>0</td> <td>0</td>
   </tr>
 </table>
 
@@ -192,7 +200,7 @@ Goalies
     <td>74</td> <td>Dayhoff</td>  <td>65</td>  <td>57</td>  <td>0.877</td> <td>2</td> <td>1</td> <td>0</td> <td>4</td>
   </tr>
   <tr>
-    <td>30</td> <td>Lowinger</td> <td>263</td> <td>238</td> <td>0.905</td> <td>2</td> <td>6</td> <td>0</td> <td>0</td>
+    <td>30</td> <td>Lowinger</td> <td>280</td> <td>255</td> <td>0.911</td> <td>3</td> <td>6</td> <td>0</td> <td>0</td>
   </tr>
   <tr>
     <td>13</td> <td>Knox</td>     <td>0</td>  <td>0</td>    <td>-</td>     <td>0</td> <td>0</td> <td>0</td> <td>0</td>
