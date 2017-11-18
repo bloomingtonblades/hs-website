@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2017-11-5
+date: 2017-11-18
 weight: 5
 ---
 
@@ -15,13 +15,11 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 
 Next Home Game
 --------------
-Columbus vs. Blades, November 17, 9:15pm. [Frank
+Carmel Gold vs. Blades, January 12, 9:15pm. [Frank
 Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-* Team Dinner (Players & Coaches): November 15, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
-* Columbus vs. Blades, November 17, 9:15pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Blades vs. CIK A, November 19, 11:20am. [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel]
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
