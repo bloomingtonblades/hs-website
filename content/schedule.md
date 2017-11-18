@@ -21,6 +21,7 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 Upcoming Events
 ---------------
 * Blades vs. CIK A, November 19, 11:20am. [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel]
+* Blades vs. Brebeuf, December 1, 8:00pm. [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel]
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
