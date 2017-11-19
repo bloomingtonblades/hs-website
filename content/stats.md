@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-11-18
+date: 2017-11-19
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -122,6 +122,14 @@ Results
   <tr class="even">
                                  <td>Blades</td>      <td>0</td> <td>2</td> <td>3</td> <td>5</td> <td>Lowinger</td> <td></td>          <td>17</td>
   </tr>
+<!-- Blades vs CIK, 11/19/17 -->
+  <tr class="odd">
+    <td rowspan="2">11/19/17</td>
+                                 <td>Blades</td>      <td>0</td> <td>0</td> <td>0</td> <td>0</td> <td></td>         <td>Dayhoff</td>   <td>32</td>
+  </tr>
+  <tr class="odd">
+                                 <td>CIK</td>         <td>2</td> <td>1</td> <td>2</td> <td>5</td> <td>Spaletto</td> <td></td>          <td>19</td>
+  </tr>
 </table>
 
 Points Standings
@@ -145,10 +153,10 @@ Points Standings
     <td>16</td> <td>Hunt</td>      <td>1</td> <td>5</td> <td>6</td> <td>14</td>
   </tr>
   <tr>
-    <td>88</td> <td>Franklin</td>  <td>4</td> <td>2</td> <td>6</td> <td>53</td>
+    <td>88</td> <td>Franklin</td>  <td>4</td> <td>2</td> <td>6</td> <td>55</td>
   </tr>
   <tr>
-    <td>7</td>  <td>Appel</td>     <td>2</td> <td>3</td> <td>5</td> <td>66</td>
+    <td>7</td>  <td>Appel</td>     <td>2</td> <td>3</td> <td>5</td> <td>70</td>
   </tr>
   <tr>
     <td>00</td> <td>Lauer</td>     <td>2</td> <td>2</td> <td>4</td> <td>4</td>
@@ -178,7 +186,7 @@ Points Standings
     <td>48</td> <td>Knipstein</td> <td>1</td> <td>1</td> <td>2</td> <td>0</td>
   </tr>
   <tr>
-    <td>2</td>  <td>Greulich</td>  <td>0</td> <td>1</td> <td>1</td> <td>8</td>
+    <td>2</td>  <td>Greulich</td>  <td>0</td> <td>1</td> <td>1</td> <td>10</td>
   </tr>
   <tr>
     <td>31</td> <td>Streib</td>    <td>0</td> <td>0</td> <td>0</td> <td>0</td>
@@ -197,10 +205,10 @@ Goalies
     <tr>
   </thead>
   <tr>
-    <td>74</td> <td>Dayhoff</td>  <td>65</td>  <td>57</td>  <td>0.877</td> <td>2</td> <td>1</td> <td>0</td> <td>4</td>
+    <td>74</td> <td>Dayhoff</td>  <td>101</td>  <td>89</td> <td>0.881</td> <td>2</td> <td>2</td> <td>0</td> <td>4</td>
   </tr>
   <tr>
-    <td>30</td> <td>Lowinger</td> <td>280</td> <td>255</td> <td>0.911</td> <td>3</td> <td>6</td> <td>0</td> <td>0</td>
+    <td>30</td> <td>Lowinger</td> <td>285</td> <td>259</td> <td>0.909</td> <td>3</td> <td>6</td> <td>0</td> <td>0</td>
   </tr>
   <tr>
     <td>13</td> <td>Knox</td>     <td>0</td>  <td>0</td>    <td>-</td>     <td>0</td> <td>0</td> <td>0</td> <td>0</td>
