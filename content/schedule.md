@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2017-11-19
+date: 2017-11-30
 weight: 5
 ---
 
@@ -20,8 +20,17 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-* Happy Thanksgiving!
 * Blades vs. Brebeuf, December 1, 8:00pm. [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel]
+* Blades Holiday Party and Team Dinner (all players and coaches eat
+  free; families welcome at their expense). Players please bring a
+  wrapped gift to exchange (under $15 value).  December 13,
+  5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
+* South Bend Crossover Weekend. December 8-10. All
+  games at [The Ice Box <span class="icon fa-map-marker"></span>][icebox]
+  - Blades vs. St. Joseph Indians, December 8, 9:45pm.
+  - Lake Central Blue vs. Blades, December 9, 1:45pm.
+  - Blades vs. Carroll Chargers, December 9, 9:30pm.
+  - Bishop Dwenger vs. Blades, December 10, 11:00am.
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
@@ -44,3 +53,4 @@ Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></s
 [coliseum]: https://www.google.com/maps/place/Indiana+Farmers+Coliseum/@39.8276805,-86.1371959,17z/data=!3m1!4b1!4m5!3m4!1s0x886b51783899e365:0xc4b58965029cc570!8m2!3d39.8276805!4d-86.1350072
 [hamilton]: https://maps.google.com/maps?hl=en&q=Hamilton%20Center%20Ice%20Arena%2C%202501%20Lincoln%20Park%20Dr%2C%20Columbus%2C%20IN%2047201%2C%20USA
 [arcticzone]: https://maps.google.com/maps?hl=en&q=Arctic%20Zone%20Iceplex%2C%2016616%20Southpark%20Dr%2C%20Westfield%2C%20IN%2046074%2C%20USA
+[icebox]: https://maps.google.com/maps?hl=en&q=The%20Ice%20Box%20Skating%20Rink%2C%201421%20S%20Walnut%20St%2C%20South%20Bend%2C%20IN%2046619%2C%20USA
