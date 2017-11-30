@@ -21,10 +21,12 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 Upcoming Events
 ---------------
 * Blades vs. Brebeuf, December 1, 8:00pm. [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel]
+
 * Blades Holiday Party and Team Dinner (all players and coaches eat
   free; families welcome at their expense). Players please bring a
   wrapped gift to exchange (under $15 value).  December 13,
   5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
+
 * South Bend Crossover Weekend. December 8-10. All
   games at [The Ice Box <span class="icon fa-map-marker"></span>][icebox]
   - Blades vs. St. Joseph Indians, December 8, 9:45pm.
