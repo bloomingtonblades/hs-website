@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2017-11-02
+date: 2017-11-30
 weight: 3
 ---
 
@@ -8,46 +8,6 @@ weight: 3
   <a id="news-a1" href="#"><img id="news-s1" class="image sponsor"></a>
   <a id="news-a2" href="#"><img id="news-s2" class="image sponsor"></a>
 </div>
-
-
-Hockey Officiating Level 1
---------------------------
-Ever thought about becoming a hockey official? Could be a great part
-time job opportunity for a youth or high school hockey player.
-
-IHOA will be offering a Level 1 seminar Saturday Nov. 25th. If you
-were unable to attend a seminar this year or if you know someone who
-has an interest in becoming an official please come.  The seminar will
-begin at 12:00pm at the Indianapolis Public Library Southport
-branch at [2630 E. Stop 11 Road Indianapolis, IN 46227 <span class="icon
-fa-map-marker"></span>][library]. The seminar will be
-held in the Community Meeting room. The on-ice session will be held
-at [Perry Park Ice Rink <span class="icon
-fa-map-marker"></span>][perry] at 4:45pm.  For those participants who do not drive,
-they will need to coordinate transportation to Perry
-Park for the on-ice session. Transportation will not be provided.
-You may register for the seminar at [usahockey.com](http://www.usahockey.com/officialseminars).
-
-[library]: https://www.google.com/maps/place/2630+E+Stop+11+Rd,+Indianapolis,+IN+46227/@39.6508727,-86.1175385,17z/data=!4m6!1m3!3m2!1s0x886b5c94ee6c10cd:0xdd2330fce4a45d66!2s2630+E+Stop+11+Rd,+Indianapolis,+IN+46227!3m1!1s0x886b5c94ee6c10cd:0xdd2330fce4a45d66
-[perry]: https://www.google.com/maps/place/Perry+Park,+451+E+Stop+11+Rd,+Indianapolis,+IN+46227/@39.6505436,-86.1546456,17z/data=!4m2!3m1!1s0x886b5c6aa2080ad1:0x2b25413075078276
-
-Dropping the Puck on Cancer
----------------------------
-
-<div style="text-align: center;"><img alt="Dropping the Puck On Cancer - Blades vs Carmel" src="dtphs.jpg"></div>
-
-Thanks for joining us for the first ever High School version of
-[Collegiate Charities][cc] Dropping the Puck on Cancer series on Saturday,
-October 21. It was a fun afternoon for everyone, for a great cause.
-
-Look for a possibly expanded, multi-game format next year!
-
-For a limited time, you can still order an exclusive,
-made-for-this-game custom Blades hockey jersey! [Order
-online][jerseys]. These will make great holiday gifts!
-
-[jerseys]: https://collegiate-apparel.myshopify.com/products/bloomington-blades-hockey-jersey
-[cc]: http://www.collegiatecharities.org/
 
 Updates
 -------
