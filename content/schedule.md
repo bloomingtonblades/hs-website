@@ -20,17 +20,16 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-* Blades Holiday Party and Team Dinner (all players and coaches eat
-  free; families welcome at their expense). Players please bring a
-  wrapped gift to exchange (under $15 value).  December 13,
-  5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
-
-* South Bend Crossover Weekend. December 8-10. All
-  games at [The Ice Box <span class="icon fa-map-marker"></span>][icebox]
+* South Bend Crossover Weekend. December 8-10. All games at [The Ice Box <span class="icon fa-map-marker"></span>][icebox]
   - Blades vs. St. Joseph Indians, December 8, 9:45pm.
   - Lake Central Blue vs. Blades, December 9, 1:45pm.
   - Blades vs. Carroll Chargers, December 9, 9:30pm.
   - Bishop Dwenger vs. Blades, December 10, 11:00am.
+
+* Blades Holiday Party and Team Dinner (all players and coaches eat
+  free; families welcome at their expense). Players please bring a
+  wrapped gift to exchange (under $15 value).  December 13,
+  5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
