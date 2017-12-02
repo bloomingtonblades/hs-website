@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2017-11-30
+date: 2017-12-01
 weight: 5
 ---
 
@@ -20,8 +20,6 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-* Blades vs. Brebeuf, December 1, 8:00pm. [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel]
-
 * Blades Holiday Party and Team Dinner (all players and coaches eat
   free; families welcome at their expense). Players please bring a
   wrapped gift to exchange (under $15 value).  December 13,
