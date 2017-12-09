@@ -146,6 +146,14 @@ Results
   <tr class="odd">
                                  <td>St. Joseph</td>  <td>0</td> <td>2</td> <td>1</td> <td>3</td>  <td>Gilbert</td>  <td></td>  <td>13</td>
   </tr>
+<!-- Lake Central vs. Blades, 12/9/17 -->
+  <tr class="even">
+    <td rowspan="2">12/9/17</td>
+                                 <td>Lake Central</td>      <td>2</td> <td>0</td> <td>2</td> <td>4</td> <td>Didonato</td>    <td></td>   <td>11</td>
+  </tr>
+  <tr class="even">
+                                 <td>Blades</td>  <td>0</td> <td>0</td> <td>1</td> <td>1</td>  <td></td>  <td>Dayhoff</td>  <td>17</td>
+  </tr>
 </table>
 
 Points Standings
@@ -163,7 +171,7 @@ Points Standings
     <td>84</td> <td>Berkley</td>   <td>5</td> <td>7</td> <td>12</td> <td>2</td>
   </tr>
   <tr>
-    <td>7</td>  <td>Appel</td>     <td>3</td> <td>6</td> <td>9</td> <td>72</td>
+    <td>7</td>  <td>Appel</td>     <td>4</td> <td>6</td> <td>10</td> <td>72</td>
   </tr>
   <tr>
     <td>16</td> <td>Hunt</td>      <td>2</td> <td>7</td> <td>9</td> <td>14</td>
@@ -178,7 +186,7 @@ Points Standings
     <td>21</td> <td>La Bella</td>  <td>3</td> <td>3</td> <td>6</td> <td>14</td>
   </tr>
   <tr>
-    <td>88</td> <td>Franklin</td>  <td>4</td> <td>2</td> <td>6</td> <td>55</td>
+    <td>88</td> <td>Franklin</td>  <td>4</td> <td>2</td> <td>6</td> <td>59</td>
   </tr>
   <tr>
     <td>00</td> <td>Lauer</td>     <td>2</td> <td>3</td> <td>5</td> <td>4</td>
@@ -187,7 +195,7 @@ Points Standings
     <td>14</td> <td>Stright</td>   <td>4</td> <td>1</td> <td>5</td> <td>2</td>
   </tr>
   <tr>
-    <td>17</td> <td>La Bella</td>  <td>1</td> <td>4</td> <td>5</td> <td>47</td>
+    <td>17</td> <td>La Bella</td>  <td>1</td> <td>4</td> <td>5</td> <td>49</td>
   </tr>
   <tr>
     <td>22</td> <td>Rawlins</td>   <td>3</td> <td>1</td> <td>4</td> <td>4</td>
@@ -221,7 +229,7 @@ Goalies
     <tr>
   </thead>
   <tr>
-    <td>74</td> <td>Dayhoff</td>  <td>98</td>  <td>86</td> <td>0.878</td> <td>2</td> <td>2</td> <td>0</td> <td>4</td>
+    <td>74</td> <td>Dayhoff</td>  <td>119</td>  <td>103</td> <td>0.866</td> <td>2</td> <td>3</td> <td>0</td> <td>4</td>
   </tr>
   <tr>
     <td>30</td> <td>Lowinger</td> <td>325</td> <td>296</td> <td>0.911</td> <td>3</td> <td>7</td> <td>0</td> <td>0</td>
