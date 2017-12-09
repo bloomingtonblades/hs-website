@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-12-08
+date: 2017-12-09
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -224,7 +224,7 @@ Goalies
     <td>74</td> <td>Dayhoff</td>  <td>98</td>  <td>86</td> <td>0.878</td> <td>2</td> <td>2</td> <td>0</td> <td>4</td>
   </tr>
   <tr>
-    <td>30</td> <td>Lowinger</td> <td>288</td> <td>262</td> <td>0.910</td> <td>3</td> <td>6</td> <td>0</td> <td>0</td>
+    <td>30</td> <td>Lowinger</td> <td>325</td> <td>296</td> <td>0.911</td> <td>3</td> <td>7</td> <td>0</td> <td>0</td>
   </tr>
   <tr>
     <td>13</td> <td>Knox</td>     <td>9</td>  <td>8</td>    <td>0.889</td> <td>1</td> <td>0</td> <td>0</td> <td>0</td>
