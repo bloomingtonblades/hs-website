@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-12-01
+date: 2017-12-08
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -138,6 +138,14 @@ Results
   <tr class="even">
                                  <td>Brebeuf</td>     <td>0</td> <td>0</td> <td>1</td> <td>1</td>  <td></td>        <td>Svintsitskiy</td>  <td>17</td>
   </tr>
+<!-- Blades vs St. Joseph, 12/8/17 -->
+  <tr class="odd">
+    <td rowspan="2">12/8/17</td>
+                                 <td>Blades</td>      <td>0</td> <td>0</td> <td>1</td> <td>1</td> <td></td>    <td>Lowinger</td>   <td>34</td>
+  </tr>
+  <tr class="odd">
+                                 <td>St. Joseph</td>  <td>0</td> <td>2</td> <td>1</td> <td>3</td>  <td>Gilbert</td>  <td></td>  <td>13</td>
+  </tr>
 </table>
 
 Points Standings
@@ -152,16 +160,16 @@ Points Standings
     <td>6</td>  <td>Burris</td>    <td>7</td> <td>8</td> <td>15</td> <td>0</td>
   </tr>
   <tr>
-    <td>84</td> <td>Berkley</td>   <td>5</td> <td>6</td> <td>11</td> <td>2</td>
+    <td>84</td> <td>Berkley</td>   <td>5</td> <td>7</td> <td>12</td> <td>2</td>
+  </tr>
+  <tr>
+    <td>7</td>  <td>Appel</td>     <td>3</td> <td>6</td> <td>9</td> <td>72</td>
   </tr>
   <tr>
     <td>16</td> <td>Hunt</td>      <td>2</td> <td>7</td> <td>9</td> <td>14</td>
   </tr>
   <tr>
-    <td>7</td>  <td>Appel</td>     <td>2</td> <td>6</td> <td>8</td> <td>72</td>
-  </tr>
-  <tr>
-    <td>27</td> <td>Prather</td>   <td>3</td> <td>4</td> <td>7</td> <td>8</td>
+    <td>27</td> <td>Prather</td>   <td>3</td> <td>5</td> <td>8</td> <td>8</td>
   </tr>
   <tr>
     <td>3</td>  <td>Baer</td>      <td>2</td> <td>4</td> <td>6</td> <td>6</td>
@@ -179,7 +187,7 @@ Points Standings
     <td>14</td> <td>Stright</td>   <td>4</td> <td>1</td> <td>5</td> <td>2</td>
   </tr>
   <tr>
-    <td>17</td> <td>La Bella</td>  <td>1</td> <td>4</td> <td>5</td> <td>43</td>
+    <td>17</td> <td>La Bella</td>  <td>1</td> <td>4</td> <td>5</td> <td>47</td>
   </tr>
   <tr>
     <td>22</td> <td>Rawlins</td>   <td>3</td> <td>1</td> <td>4</td> <td>4</td>
