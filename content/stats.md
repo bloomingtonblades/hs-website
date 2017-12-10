@@ -154,13 +154,13 @@ Results
   <tr class="even">
                                  <td>Blades</td>  <td>0</td> <td>0</td> <td>1</td> <td>1</td>  <td></td>  <td>Dayhoff</td>  <td>17</td>
   </tr>
-<!-- Blades vs. Carrol, 12/9/17 -->
+<!-- Blades vs. Carroll, 12/9/17 -->
   <tr class="odd">
     <td rowspan="2">12/9/17</td>
                                  <td>Blades</td>      <td>4</td> <td>1</td> <td>2</td> <td>7</td> <td>Lowinger</td>    <td></td>   <td>19</td>
   </tr>
   <tr class="odd">
-                                 <td>Carrol</td>  <td>0</td> <td>0</td> <td>0</td> <td>0</td>  <td></td>  <td>Hyde</td>  <td>21</td>
+                                 <td>Carroll</td>  <td>0</td> <td>0</td> <td>0</td> <td>0</td>  <td></td>  <td>Hyde</td>  <td>21</td>
   </tr>
 </table>
 
