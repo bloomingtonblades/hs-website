@@ -237,12 +237,12 @@ Goalies
     <tr>
   </thead>
   <tr>
-    <td>74</td> <td>Dayhoff</td>  <td>119</td>  <td>103</td> <td>0.866</td> <td>2</td> <td>3</td> <td>0</td> <td>4</td>
-  </tr>
-  <tr>
     <td>30</td> <td>Lowinger</td> <td>344</td> <td>315</td> <td>0.917</td> <td>4</td> <td>7</td> <td>0</td> <td>0</td>
   </tr>
   <tr>
     <td>13</td> <td>Knox</td>     <td>9</td>  <td>8</td>    <td>0.889</td> <td>1</td> <td>0</td> <td>0</td> <td>0</td>
+  </tr>
+  <tr>
+    <td>74</td> <td>Dayhoff</td>  <td>119</td>  <td>103</td> <td>0.866</td> <td>2</td> <td>3</td> <td>0</td> <td>4</td>
   </tr>
 </table>
