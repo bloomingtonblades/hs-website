@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-12-10
+date: 2017-12-11
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -162,6 +162,14 @@ Results
   <tr class="odd">
                                  <td>Carroll</td>  <td>0</td> <td>0</td> <td>0</td> <td>0</td>  <td></td>  <td>Hyde</td>  <td>21</td>
   </tr>
+<!-- Bishop Dwenger vs. Blades, 12/10/17 -->
+  <tr class="odd">
+    <td rowspan="2">12/10/17</td>
+                                 <td>Bishop Dwenger</td>      <td>0</td> <td>2</td> <td>0</td> <td>2</td> <td></td>    <td>Vlot</td>   <td>10</td>
+  </tr>
+  <tr class="odd">
+                                 <td>Blades</td>              <td>2</td> <td>2</td> <td>0</td> <td>4</td>  <td>Dayhoff</td>  <td></td>  <td>9</td>
+  </tr>
 </table>
 
 Points Standings
@@ -173,28 +181,28 @@ Points Standings
     <tr>
   </thead>
   <tr>
-    <td>6</td>  <td>Burris</td>    <td>7</td> <td>11</td> <td>18</td> <td>4</td>
+    <td>6</td>  <td>Burris</td>    <td>7</td> <td>12</td> <td>19</td> <td>4</td>
   </tr>
   <tr>
-    <td>84</td> <td>Berkley</td>   <td>6</td> <td>8</td> <td>14</td> <td>2</td>
+    <td>84</td> <td>Berkley</td>   <td>7</td> <td>8</td> <td>15</td> <td>4</td>
   </tr>
   <tr>
-    <td>7</td>  <td>Appel</td>     <td>5</td> <td>6</td> <td>11</td> <td>72</td>
+    <td>7</td>  <td>Appel</td>     <td>6</td> <td>7</td> <td>13</td> <td>74</td>
   </tr>
   <tr>
-    <td>27</td> <td>Prather</td>   <td>3</td> <td>8</td> <td>11</td> <td>8</td>
+    <td>27</td> <td>Prather</td>   <td>3</td> <td>8</td> <td>11</td> <td>10</td>
   </tr>
   <tr>
-    <td>16</td> <td>Hunt</td>      <td>2</td> <td>7</td> <td>9</td> <td>14</td>
+    <td>14</td> <td>Stright</td>   <td>7</td> <td>2</td> <td>9</td> <td>2</td>
   </tr>
   <tr>
-    <td>14</td> <td>Stright</td>   <td>6</td> <td>2</td> <td>8</td> <td>2</td>
+    <td>16</td> <td>Hunt</td>      <td>2</td> <td>7</td> <td>9</td> <td>16</td>
   </tr>
   <tr>
-    <td>88</td> <td>Franklin</td>  <td>6</td> <td>2</td> <td>8</td> <td>59</td>
+    <td>88</td> <td>Franklin</td>  <td>7</td> <td>2</td> <td>9</td> <td>61</td>
   </tr>
   <tr>
-    <td>3</td>  <td>Baer</td>      <td>3</td> <td>4</td> <td>7</td> <td>6</td>
+    <td>3</td>  <td>Baer</td>      <td>3</td> <td>5</td> <td>8</td> <td>8</td>
   </tr>
   <tr>
     <td>21</td> <td>La Bella</td>  <td>3</td> <td>4</td> <td>7</td> <td>14</td>
@@ -203,7 +211,7 @@ Points Standings
     <td>00</td> <td>Lauer</td>     <td>2</td> <td>3</td> <td>5</td> <td>4</td>
   </tr>
   <tr>
-    <td>17</td> <td>La Bella</td>  <td>1</td> <td>4</td> <td>5</td> <td>53</td>
+    <td>17</td> <td>La Bella</td>  <td>1</td> <td>4</td> <td>5</td> <td>57</td>
   </tr>
   <tr>
     <td>22</td> <td>Rawlins</td>   <td>3</td> <td>1</td> <td>4</td> <td>4</td>
@@ -243,6 +251,6 @@ Goalies
     <td>13</td> <td>Knox</td>     <td>9</td>  <td>8</td>    <td>0.889</td> <td>1</td> <td>0</td> <td>0</td> <td>0</td>
   </tr>
   <tr>
-    <td>74</td> <td>Dayhoff</td>  <td>119</td>  <td>103</td> <td>0.866</td> <td>2</td> <td>3</td> <td>0</td> <td>4</td>
+    <td>74</td> <td>Dayhoff</td>  <td>130</td>  <td>112</td> <td>0.862</td> <td>3</td> <td>3</td> <td>0</td> <td>4</td>
   </tr>
 </table>
