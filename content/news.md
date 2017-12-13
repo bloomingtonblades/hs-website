@@ -16,7 +16,7 @@ Congratulations to the following players selected as 2017 Hoosier League All-Sta
 - Alec Appel --- Senior, Defenseman
 - Ethan Berkley --- Senior, Forward
 - Sam Burris --- Senior, Defenseman
-- Aiden Lowinger --- Sophomore, Goalie
+- Aidan Lowinger --- Sophomore, Goalie
 
 All-Star events start at 3:00pm on
 Saturday, December 30 in Fishers at the [Fuel Tank <span class="icon
