@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2017-12-11
+date: 2017-12-13
 weight: 5
 ---
 
@@ -26,6 +26,7 @@ Upcoming Events
   5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
 * Blades vs. South Stars Red, December 16, 8:15pm. [Perry Park <span class="icon fa-map-marker"></span>][perry]
 * Blades vs. Zionsville, December 17, 10:45am. [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel]
+* Hoosier League All-Star Game, December 30, 3:00pm. [Fuel Tank <span class="icon fa-map-marker"></span>][fuel]
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
