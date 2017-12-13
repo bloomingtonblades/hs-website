@@ -45,15 +45,3 @@ Reminder, players are not permitted to drive themselves to away games.
 [cal]: https://calendar.google.com/calendar/embed?src=epsc9ra4unbaelg6bns4r4ifro%40group.calendar.google.com&ctz=America/New_York
 
 
-Off-Ice Practice Carpools
--------------------------
-[Sign up to carpool][office] and share the driving for off-ice
-practices! These are mostly going to be at Creekbend Vineyard, [7508
-N Woodall Rd, Ellettsville <span class="icon
-fa-map-marker"></span>][creekbend]. Players with a driver's license
-_are_ permitted to drive to practices in the Bloomington area.
-
-[office]: http://www.signupgenius.com/go/10c084bacaa28a0fa7-blades6
-[creekbend]: https://www.google.com/maps/place/7508+N+Woodall+Rd,+Ellettsville,+IN+47429/@39.2693618,-86.5814495,17z/data=!3m1!4b1!4m5!3m4!1s0x886cf5555b49ab4b:0x84fec2627d04af5!8m2!3d39.2693577!4d-86.5792608
-
-
