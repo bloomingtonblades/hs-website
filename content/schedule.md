@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2017-12-13
+date: 2017-12-14
 weight: 5
 ---
 
@@ -20,10 +20,6 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-* Blades Holiday Party and Team Dinner (all players and coaches eat
-  free; families welcome at their expense). Players please bring a
-  wrapped gift to exchange (under $15 value).  December 13,
-  5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
 * Blades vs. South Stars Red, December 16, 8:15pm. [Perry Park <span class="icon fa-map-marker"></span>][perry]
 * Blades vs. Zionsville, December 17, 10:45am. [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel]
 * Hoosier League All-Star Game, December 30, 3:00pm. [Fuel Tank <span class="icon fa-map-marker"></span>][fuel]
