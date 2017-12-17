@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2017-12-14
+date: 2017-12-16
 weight: 5
 ---
 
@@ -20,7 +20,6 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-* Blades vs. South Stars Red, December 16, 8:15pm. [Perry Park <span class="icon fa-map-marker"></span>][perry]
 * Blades vs. Zionsville, December 17, 10:45am. [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel]
 * Hoosier League All-Star Game, December 30, 3:00pm. [Fuel Tank <span class="icon fa-map-marker"></span>][fuel]
 
