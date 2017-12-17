@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2017-12-16
+date: 2017-12-17
 weight: 5
 ---
 
@@ -20,8 +20,10 @@ Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-* Blades vs. Zionsville, December 17, 10:45am. [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel]
 * Hoosier League All-Star Game, December 30, 3:00pm. [Fuel Tank <span class="icon fa-map-marker"></span>][fuel]
+* Holiday Break Stick & Puck: Dec. 26, 29; Jan 2, 4 at 10:45am.
+* Blades vs. Munster, January 6, 11:10am. [Midwest Training & Ice Center <span class="icon fa-map-marker"></span>][midwest]
+* Blades vs. Crown Point, January 6, 5:30pm. [Midwest Training & Ice Center <span class="icon fa-map-marker"></span>][midwest]
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
@@ -46,3 +48,4 @@ Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></s
 [arcticzone]: https://maps.google.com/maps?hl=en&q=Arctic%20Zone%20Iceplex%2C%2016616%20Southpark%20Dr%2C%20Westfield%2C%20IN%2046074%2C%20USA
 [icebox]: https://maps.google.com/maps?hl=en&q=The%20Ice%20Box%20Skating%20Rink%2C%201421%20S%20Walnut%20St%2C%20South%20Bend%2C%20IN%2046619%2C%20USA
 [perry]: https://maps.google.com/maps?hl=en&q=Perry%20Park%20Ice%20Rink%2C%20451%20East%20Stop%2011%20Road%2C%20Indianapolis%2C%20IN%2C%20United%20States
+[midwest]: https://maps.google.com/maps?hl=en&q=Midwest%20Training%20%26%20Ice%20Center%2C%2010600%20White%20Oak%20Ave%2C%20Dyer%2C%20IN%2046311%2C%20USA
