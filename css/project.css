@@ -1,3 +1,7 @@
+#main article {
+    width: 50rem;
+}
+
 #stats table tbody tr.odd {
     background-color: rgba(255, 255, 255, 0.075);
 }
@@ -90,5 +94,11 @@ p {
   }
   #roster .player {
     width: 100%;
+  }
+  table th, table td {
+    padding: 0 0.40rem 0.40rem 0.40rem;
+  }
+  .widestats {
+    display: none;
   }
 }
