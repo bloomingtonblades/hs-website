@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2017-12-17
+date: 2018-01-04
 weight: 5
 ---
 
@@ -13,17 +13,23 @@ Contact
 -------
 Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][alyson]
 
-Next Home Game
+Senior Weekend
 --------------
-Carmel Gold vs. Blades, January 12, 9:15pm. [Frank
-Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
+Home games are played at  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
+
+* Carmel Gold vs. Blades, January 12, 9:15pm.
+* CIK vs. Blades, January 13, 4:45pm.
 
 Upcoming Events
 ---------------
-* Hoosier League All-Star Game, December 30, 3:00pm. [Fuel Tank <span class="icon fa-map-marker"></span>][fuel]
-* Holiday Break Stick & Puck: Dec. 26, 29; Jan 2, 4 at 10:45am.
 * Blades vs. Munster, January 6, 11:10am. [Midwest Training & Ice Center <span class="icon fa-map-marker"></span>][midwest]
 * Blades vs. Crown Point, January 6, 5:30pm. [Midwest Training & Ice Center <span class="icon fa-map-marker"></span>][midwest]
+* Carmel Gold vs. Blades, January 12, 9:15pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
+* CIK vs. Blades, January 13, 4:45pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
+* Team Dinner, January 17, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
+* Blades vs. Bishop Noll, January 19, 10:15pm. [Arctic Zone <span class="icon fa-map-marker"></span>][arcticzone]
+* Blades vs. Crown Point, January 20, 2:30pm. [Arctic Zone <span class="icon fa-map-marker"></span>][arcticzone]
+* Blades vs. Penn, January 20, 5:20pm. [Arctic Zone <span class="icon fa-map-marker"></span>][arcticzone]
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
