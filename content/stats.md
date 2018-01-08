@@ -219,31 +219,31 @@ Points Standings
     <td>6</td>  <td>Burris</td>    <td>8</td> <td>13</td> <td>21</td> <td>8</td>
   </tr>
   <tr>
-    <td>7</td>  <td>Appel</td>     <td>6</td> <td>11</td> <td>17</td> <td>90</td>
+    <td>84</td> <td>Berkley</td>   <td>8</td> <td>12</td> <td>20</td> <td>6</td>
   </tr>
   <tr>
-    <td>84</td> <td>Berkley</td>   <td>7</td> <td>9</td> <td>16</td> <td>6</td>
+    <td>7</td>  <td>Appel</td>     <td>7</td> <td>12</td> <td>19</td> <td>94</td>
   </tr>
   <tr>
-    <td>27</td> <td>Prather</td>   <td>3</td> <td>10</td> <td>13</td> <td>12</td>
+    <td>27</td> <td>Prather</td>   <td>5</td> <td>11</td> <td>16</td> <td>14</td>
   </tr>
   <tr>
-    <td>14</td> <td>Stright</td>   <td>9</td> <td>2</td> <td>11</td> <td>4</td>
+    <td>14</td> <td>Stright</td>   <td>9</td> <td>3</td> <td>12</td> <td>4</td>
+  </tr>
+  <tr>
+    <td>3</td>  <td>Baer</td>      <td>6</td> <td>5</td> <td>11</td> <td>20</td>
   </tr>
   <tr>
     <td>88</td> <td>Franklin</td>  <td>8</td> <td>2</td> <td>10</td> <td>69</td>
   </tr>
   <tr>
-    <td>3</td>  <td>Baer</td>      <td>4</td> <td>5</td> <td>9</td> <td>20</td>
+    <td>16</td> <td>Hunt</td>      <td>2</td> <td>9</td> <td>11</td> <td>20</td>
   </tr>
   <tr>
-    <td>16</td> <td>Hunt</td>      <td>2</td> <td>7</td> <td>9</td> <td>20</td>
+    <td>22</td> <td>Rawlins</td>   <td>4</td> <td>4</td> <td>8</td> <td>8</td>
   </tr>
   <tr>
     <td>21</td> <td>La Bella</td>  <td>3</td> <td>4</td> <td>7</td> <td>14</td>
-  </tr>
-  <tr>
-    <td>22</td> <td>Rawlins</td>   <td>4</td> <td>2</td> <td>6</td> <td>8</td>
   </tr>
   <tr>
     <td>00</td> <td>Lauer</td>     <td>2</td> <td>3</td> <td>5</td> <td>4</td>
@@ -258,7 +258,7 @@ Points Standings
     <td>23</td> <td>Oliver</td>    <td>1</td> <td>2</td> <td>3</td> <td>4</td>
   </tr>
   <tr>
-    <td>48</td> <td>Knipstein</td> <td>1</td> <td>1</td> <td>2</td> <td>0</td>
+    <td>48</td> <td>Knipstein</td> <td>1</td> <td>2</td> <td>3</td> <td>0</td>
   </tr>
   <tr>
     <td>2</td>  <td>Greulich</td>  <td>0</td> <td>1</td> <td>1</td> <td>10</td>
@@ -285,6 +285,6 @@ Goalies
     <td>13</td> <td>Knox</td>     <td>9</td>  <td>8</td>    <td>0.889</td> <td class="widestats">1</td> <td class="widestats">0</td> <td class="widestats">0</td> <td class="widestats">0</td>
   </tr>
   <tr>
-    <td>74</td> <td>Dayhoff</td>  <td>169</td>  <td>149</td> <td>0.882</td> <td class="widestats">3</td> <td class="widestats">4</td> <td class="widestats">0</td> <td class="widestats">4</td>
+    <td>74</td> <td>Dayhoff</td>  <td>193</td>  <td>171</td> <td>0.886</td> <td class="widestats">4</td> <td class="widestats">4</td> <td class="widestats">0</td> <td class="widestats">4</td>
   </tr>
 </table>
