@@ -234,10 +234,10 @@ Points Standings
     <td>3</td>  <td>Baer</td>      <td>6</td> <td>5</td> <td>11</td> <td>20</td>
   </tr>
   <tr>
-    <td>88</td> <td>Franklin</td>  <td>8</td> <td>2</td> <td>10</td> <td>69</td>
+    <td>16</td> <td>Hunt</td>      <td>2</td> <td>9</td> <td>11</td> <td>20</td>
   </tr>
   <tr>
-    <td>16</td> <td>Hunt</td>      <td>2</td> <td>9</td> <td>11</td> <td>20</td>
+    <td>88</td> <td>Franklin</td>  <td>8</td> <td>2</td> <td>10</td> <td>69</td>
   </tr>
   <tr>
     <td>22</td> <td>Rawlins</td>   <td>4</td> <td>4</td> <td>8</td> <td>8</td>
