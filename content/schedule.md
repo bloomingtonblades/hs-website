@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-01-04
+date: 2018-01-08
 weight: 5
 ---
 
@@ -22,8 +22,6 @@ Home games are played at  [Frank Southern Ice Arena <span class="icon fa-map-mar
 
 Upcoming Events
 ---------------
-* Blades vs. Munster, January 6, 11:10am. [Midwest Training & Ice Center <span class="icon fa-map-marker"></span>][midwest]
-* Blades vs. Crown Point, January 6, 5:30pm. [Midwest Training & Ice Center <span class="icon fa-map-marker"></span>][midwest]
 * Carmel Gold vs. Blades, January 12, 9:15pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * CIK vs. Blades, January 13, 4:45pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Team Dinner, January 17, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
