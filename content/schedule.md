@@ -13,21 +13,18 @@ Contact
 -------
 Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][alyson]
 
-Senior Weekend
+Next Home Game
 --------------
 Home games are played at  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
-* Carmel Gold vs. Blades, January 12, 9:15pm.
-* CIK vs. Blades, January 13, 4:45pm.
+* Senior Night! CIK vs. Blades, January 13, open 3:15pm; game time 4:45pm.
 
 Upcoming Events
 ---------------
-* Carmel Gold vs. Blades, January 12, 9:15pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
-* CIK vs. Blades, January 13, 4:45pm. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Team Dinner, January 17, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
 * Blades vs. Bishop Noll, January 19, 10:15pm. [Arctic Zone <span class="icon fa-map-marker"></span>][arcticzone]
 * Blades vs. Crown Point, January 20, 2:30pm. [Arctic Zone <span class="icon fa-map-marker"></span>][arcticzone]
-* Blades vs. Penn, January 20, 5:20pm. [Arctic Zone <span class="icon fa-map-marker"></span>][arcticzone]
+* Carmel Gold vs. Blades, January 21, 7:00pm (rescheduled from Jan. 12). [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
