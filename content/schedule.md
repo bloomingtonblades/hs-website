@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-01-08
+date: 2018-01-13
 weight: 5
 ---
 
@@ -15,9 +15,9 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 
 Next Home Game
 --------------
-Home games are played at  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
+Carmel Gold vs. Blades, January 21, 7:00pm (rescheduled from Jan. 12).
 
-* Senior Night! CIK vs. Blades, January 13, open 3:15pm; game time 4:45pm.
+Home games are played at  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
