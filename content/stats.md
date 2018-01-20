@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-01-13
+date: 2017-01-20
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -300,7 +300,7 @@ Goalies
   <tr> <td>30</td> <td>Lowinger</td> <td>453</td> <td>415</td> <td>0.916</td> <td class="widestats">5</td> <td class="widestats">9</td> <td class="widestats">0</td> <td class="widestats">0</td>
   </tr>
   <tr>
-    <td>74</td> <td>Dayhoff</td>  <td>212</td>  <td>189</td> <td>0.892</td> <td class="widestats">4</td> <td class="widestats">4</td> <td class="widestats">0</td> <td class="widestats">4</td>
+    <td>74</td> <td>Dayhoff</td>  <td>212</td>  <td>189</td> <td>0.892</td> <td class="widestats">4</td> <td class="widestats">4</td> <td class="widestats">1</td> <td class="widestats">4</td>
   </tr>
   <tr>
     <td>13</td> <td>Knox</td>     <td>9</td>  <td>8</td>    <td>0.889</td> <td class="widestats">1</td> <td class="widestats">0</td> <td class="widestats">0</td> <td class="widestats">0</td>
