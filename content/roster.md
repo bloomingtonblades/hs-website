@@ -45,12 +45,6 @@ Players
       <figcaption>Sam Burris<br>#6 (A)</figcaption>
     </figure>
   </div>
-  <div class="player">
-    <figure>
-      <img alt="Gibson Oliver Photo" src="23-oliver.jpg">
-      <figcaption>Gibson Oliver<br>#23</figcaption>
-    </figure>
-  </div>
 </div>
 
 ### Juniors
