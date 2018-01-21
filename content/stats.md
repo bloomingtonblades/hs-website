@@ -217,12 +217,20 @@ weight: 8
   <!-- Bishop Noll vs Blades, 1/19/18 -->
   <tr class="even">
     <td rowspan="2">1/19</td>
-                                 <td>Bishop Noll</td>        <td>1</td> <td>0</td> <td>0</td> <td></td> <td>1</td> <td class="widestats">Delaney (T)</td> <td class="widestats"></td> <td class="widestats">36</td>
+                                 <td>Bishop Noll</td>        <td>1</td> <td>0</td> <td>0</td> <td></td> <td>1</td> <td class="widestats">DeLaney (T)</td> <td class="widestats"></td> <td class="widestats">36</td>
   </tr>
   <tr class="even">
                                  <td>Blades</td>     <td>0</td> <td>1</td> <td>0</td> <td></td> <td>1</td> <td class="widestats">Dayhoff (T)</td> <td class="widestats"></td> <td class="widestats">18</td>
   </tr>
 
+  <!-- Crown Point vs Blades, 1/20/18 -->
+  <tr class="odd">
+    <td rowspan="2">1/20</td>
+                                 <td>Crown Point</td> <td>0</td> <td>0</td> <td>1</td> <td></td> <td>1</td> <td class="widestats"></td> <td class="widestats">Drury</td> <td class="widestats">20</td>
+  </tr>
+  <tr class="odd">
+                                 <td>Blades</td>      <td>3</td> <td>1</td> <td>2</td> <td></td> <td>6</td> <td class="widestats">Lowinger</td> <td class="widestats"></td> <td class="widestats">20</td>
+  </tr>
 </table>
 
 Points Standings
@@ -234,34 +242,37 @@ Points Standings
     <tr>
   </thead>
   <tr>
-    <td>6</td>  <td>Burris</td>    <td>9</td> <td>14</td> <td>23</td> <td>8</td>
+    <td>6</td>  <td>Burris</td>    <td>11</td> <td>15</td> <td>26</td> <td>8</td>
   </tr>
   <tr>
-    <td>84</td> <td>Berkley</td>   <td>8</td> <td>12</td> <td>20</td> <td>10</td>
+    <td>7</td>  <td>Appel</td>     <td>7</td> <td>14</td> <td>21</td> <td>102</td>
   </tr>
   <tr>
-    <td>7</td>  <td>Appel</td>     <td>7</td> <td>12</td> <td>19</td> <td>98</td>
+    <td>84</td> <td>Berkley</td>   <td>9</td> <td>12</td> <td>21</td> <td>12</td>
   </tr>
   <tr>
-    <td>27</td> <td>Prather</td>   <td>5</td> <td>11</td> <td>16</td> <td>14</td>
+    <td>27</td> <td>Prather</td>   <td>5</td> <td>12</td> <td>17</td> <td>16</td>
   </tr>
   <tr>
-    <td>3</td>  <td>Baer</td>      <td>7</td> <td>5</td> <td>12</td> <td>20</td>
+    <td>3</td>  <td>Baer</td>      <td>7</td> <td>8</td> <td>15</td> <td>20</td>
   </tr>
   <tr>
-    <td>14</td> <td>Stright</td>   <td>9</td> <td>3</td> <td>12</td> <td>4</td>
+    <td>14</td> <td>Stright</td>   <td>9</td> <td>4</td> <td>13</td> <td>4</td>
   </tr>
   <tr>
-    <td>16</td> <td>Hunt</td>      <td>2</td> <td>10</td> <td>12</td> <td>20</td>
+    <td>16</td> <td>Hunt</td>      <td>2</td> <td>11</td> <td>13</td> <td>20</td>
   </tr>
   <tr>
-    <td>88</td> <td>Franklin</td>  <td>8</td> <td>2</td> <td>10</td> <td>73</td>
+    <td>88</td> <td>Franklin</td>  <td>9</td> <td>3</td> <td>12</td> <td>75</td>
   </tr>
   <tr>
-    <td>22</td> <td>Rawlins</td>   <td>4</td> <td>5</td> <td>9</td> <td>10</td>
+    <td>22</td> <td>Rawlins</td>   <td>5</td> <td>5</td> <td>10</td> <td>10</td>
   </tr>
   <tr>
     <td>21</td> <td>La Bella</td>  <td>3</td> <td>4</td> <td>7</td> <td>14</td>
+  </tr>
+  <tr>
+    <td>4</td>  <td>Streib</td>    <td>3</td> <td>3</td> <td>6</td> <td>2</td>
   </tr>
   <tr>
     <td>00</td> <td>Lauer</td>     <td>2</td> <td>3</td> <td>5</td> <td>4</td>
@@ -270,16 +281,13 @@ Points Standings
     <td>17</td> <td>La Bella</td>  <td>1</td> <td>4</td> <td>5</td> <td>69</td>
   </tr>
   <tr>
-    <td>4</td>  <td>Streib</td>    <td>2</td> <td>2</td> <td>4</td> <td>2</td>
-  </tr>
-  <tr>
     <td>23</td> <td>Oliver</td>    <td>1</td> <td>2</td> <td>3</td> <td>4</td>
   </tr>
   <tr>
     <td>48</td> <td>Knipstein</td> <td>1</td> <td>2</td> <td>3</td> <td>0</td>
   </tr>
   <tr>
-    <td>2</td>  <td>Greulich</td>  <td>0</td> <td>1</td> <td>1</td> <td>10</td>
+    <td>2</td>  <td>Greulich</td>  <td>0</td> <td>2</td> <td>2</td> <td>10</td>
   </tr>
   <tr>
     <td>31</td> <td>Streib</td>    <td>0</td> <td>0</td> <td>0</td> <td>2</td>
@@ -297,7 +305,7 @@ Goalies
       <th title="Jersey Number">NO</th> <th title="Player Name">PLAYER</th>   <th title="Shots Against">SA</th> <th title="Saves">S</th>  <th title="Save Percentage">SV %</th> <th class="widestats" title="Wins">W</th> <th class="widestats" title="Losses">L</th> <th class="widestats" title="Ties">T</th> <th class="widestats" title="Penalty Minutes">PIM</th>
     <tr>
   </thead>
-  <tr> <td>30</td> <td>Lowinger</td> <td>453</td> <td>415</td> <td>0.916</td> <td class="widestats">5</td> <td class="widestats">9</td> <td class="widestats">0</td> <td class="widestats">0</td>
+  <tr> <td>30</td> <td>Lowinger</td> <td>474</td> <td>435</td> <td>0.918</td> <td class="widestats">6</td> <td class="widestats">9</td> <td class="widestats">0</td> <td class="widestats">0</td>
   </tr>
   <tr>
     <td>74</td> <td>Dayhoff</td>  <td>212</td>  <td>189</td> <td>0.892</td> <td class="widestats">4</td> <td class="widestats">4</td> <td class="widestats">1</td> <td class="widestats">4</td>

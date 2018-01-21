@@ -21,9 +21,10 @@ Home games are played at  [Frank Southern Ice Arena <span class="icon fa-map-mar
 
 Upcoming Events
 ---------------
-* Blades vs. Crown Point, January 20, 2:30pm. [Arctic Zone <span class="icon fa-map-marker"></span>][arcticzone]
 * Carmel Gold vs. Blades, January 21, 7:00pm (rescheduled from Jan. 12). [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Hoosier League Tournament, January 26-28, schedule TBD.
+* Possible game, February 9-10-11, TBD.
+* Carmel Blue vs. Blades, February 18, 11:30am.  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
