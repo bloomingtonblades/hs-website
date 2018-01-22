@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-01-20
+date: 2018-01-21
 weight: 5
 ---
 
@@ -15,21 +15,20 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 
 Next Home Game
 --------------
-Carmel Gold vs. Blades, January 21, 7:00pm (rescheduled from Jan. 12).
+Carmel Blue vs. Blades, February 18, 11:30am.
 
 Home games are played at  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-* Carmel Gold vs. Blades, January 21, 7:00pm (rescheduled from Jan. 12). [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Hoosier League Tournament, January 26-28, schedule TBD.
 * Possible game, February 9-10-11, TBD.
 * Carmel Blue vs. Blades, February 18, 11:30am.  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
-Calendar
---------
+Calendars
+---------
 All Blades events are posted on our [Google Calendar <span class="icon fa-calendar"></span>][cal]
 
 Calendar [iCal link][ical] for your computer or mobile calendar.
