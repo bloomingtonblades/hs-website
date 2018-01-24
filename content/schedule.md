@@ -23,8 +23,8 @@ Upcoming Events
 ---------------
 * Hoosier League Tournament, January 26-28. All games at [Carmel <span class="icon fa-map-marker"></span>][carmel]
   - Friday 8:15pm vs. HSE A.
-  - Saturday 4:15pm (if win Friday).
-  - Sunday 12:00pm (if win Saturday).
+  - Saturday 4:15pm (after win Friday).
+  - Sunday 12:00pm (after win Saturday).
 * Possible game, February 9-10-11, TBD.
 * Carmel Blue vs. Blades, February 18, 11:30am.  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
