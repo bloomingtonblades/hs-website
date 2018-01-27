@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-01-21
+date: 2017-01-27
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -240,6 +240,18 @@ weight: 8
   <tr class="even">
                                  <td>Blades</td>      <td>3</td> <td>0</td> <td>0</td> <td></td> <td>3</td> <td class="widestats"></td> <td class="widestats">Lowinger</td> <td class="widestats">29</td>
   </tr>
+
+  <!-- Blades vs. HSE A , 1/26/18 (League Tournament) -->
+  <tr class="odd">
+    <td rowspan="3">1/26</td>
+                                 <td>Blades</td>  <td>3</td> <td>1</td> <td>0</td> <td></td> <td>4</td> <td class="widestats">Lowinger</td> <td class="widestats"></td> <td class="widestats">23</td>
+  </tr>
+  <tr class="odd">
+                                 <td>HSE A</td>   <td>0</td> <td>0</td> <td>2</td> <td></td> <td>2</td> <td class="widestats"></td> <td class="widestats">Harris</td> <td class="widestats">27</td>
+  </tr>
+  <tr class="odd">
+                                 <td colspan="6"><i>Hoosier League Championship Quarterfinals</i></td><td class="widestats" colspan="3"></td>
+  </tr>
 </table>
 
 Points Standings
@@ -251,25 +263,25 @@ Points Standings
     <tr>
   </thead>
   <tr>
-    <td>6</td>  <td>Burris</td>    <td>13</td> <td>15</td> <td>28</td> <td>8</td>
+    <td>6</td>  <td>Burris</td>    <td>14</td> <td>15</td> <td>29</td> <td>8</td>
   </tr>
   <tr>
-    <td>7</td>  <td>Appel</td>     <td>7</td> <td>14</td> <td>21</td> <td>104</td>
+    <td>7</td>  <td>Appel</td>     <td>7</td> <td>15</td> <td>22</td> <td>106</td>
   </tr>
   <tr>
-    <td>84</td> <td>Berkley</td>   <td>9</td> <td>12</td> <td>21</td> <td>12</td>
+    <td>84</td> <td>Berkley</td>   <td>10</td> <td>12</td> <td>22</td> <td>12</td>
   </tr>
   <tr>
-    <td>27</td> <td>Prather</td>   <td>5</td> <td>13</td> <td>18</td> <td>18</td>
+    <td>27</td> <td>Prather</td>   <td>6</td> <td>14</td> <td>20</td> <td>20</td>
   </tr>
   <tr>
-    <td>3</td>  <td>Baer</td>      <td>7</td> <td>8</td> <td>15</td> <td>20</td>
+    <td>3</td>  <td>Baer</td>      <td>8</td> <td>8</td> <td>16</td> <td>20</td>
   </tr>
   <tr>
     <td>14</td> <td>Stright</td>   <td>9</td> <td>5</td> <td>14</td> <td>4</td>
   </tr>
   <tr>
-    <td>16</td> <td>Hunt</td>      <td>2</td> <td>12</td> <td>14</td> <td>32</td>
+    <td>16</td> <td>Hunt</td>      <td>2</td> <td>12</td> <td>14</td> <td>36</td>
   </tr>
   <tr>
     <td>88</td> <td>Franklin</td>  <td>10</td> <td>3</td> <td>13</td> <td>89</td>
@@ -314,7 +326,7 @@ Goalies
       <th title="Jersey Number">NO</th> <th title="Player Name">PLAYER</th>   <th title="Shots Against">SA</th> <th title="Saves">S</th>  <th title="Save Percentage">SV %</th> <th class="widestats" title="Wins">W</th> <th class="widestats" title="Losses">L</th> <th class="widestats" title="Ties">T</th> <th class="widestats" title="Penalty Minutes">PIM</th>
     <tr>
   </thead>
-  <tr> <td>30</td> <td>Lowinger</td> <td>508</td> <td>464</td> <td>0.913</td> <td class="widestats">6</td> <td class="widestats">10</td> <td class="widestats">0</td> <td class="widestats">0</td>
+  <tr> <td>30</td> <td>Lowinger</td> <td>533</td> <td>487</td> <td>0.914</td> <td class="widestats">7</td> <td class="widestats">10</td> <td class="widestats">0</td> <td class="widestats">0</td>
   </tr>
   <tr>
     <td>74</td> <td>Dayhoff</td>  <td>212</td>  <td>189</td> <td>0.892</td> <td class="widestats">4</td> <td class="widestats">4</td> <td class="widestats">1</td> <td class="widestats">4</td>
