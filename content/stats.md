@@ -255,7 +255,7 @@ weight: 8
 
   <!-- Blades vs. CIK , 1/27/18 (League Tournament) -->
   <tr class="even">
-    <td rowspan="3">1/26</td>
+    <td rowspan="3">1/27</td>
                                  <td>Blades</td>  <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td> <td class="widestats"></td> <td class="widestats">Lowinger</td> <td class="widestats">48</td>
   </tr>
   <tr class="even">
