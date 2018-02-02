@@ -17,7 +17,7 @@ Next Home Game
 --------------
 South Stars Red vs. Blades, February 11, 11:30am.
 
-Home games are played at  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
+Home games are at [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
