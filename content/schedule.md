@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-01-27
+date: 2018-02-01
 weight: 5
 ---
 
@@ -15,13 +15,13 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 
 Next Home Game
 --------------
-Carmel Blue vs. Blades, February 18, 11:30am.
+South Stars Red vs. Blades, February 11, 11:30am.
 
 Home games are played at  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 
 Upcoming Events
 ---------------
-* Possible game, February 9-10-11, TBD.
+* South Stars Red vs. Blades, February 11, 11:30am.  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Carmel Blue vs. Blades, February 18, 11:30am.  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Blades vs. Owensboro, February 24, 12:15pm and 4:15pm Central Time. [Edge Ice Center <span class="icon fa-map-marker"></span>][edge]
 * ISHSHA playoffs, March 2-3, South Bend.
