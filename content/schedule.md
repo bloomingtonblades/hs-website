@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-02-01
+date: 2018-02-05
 weight: 5
 ---
 
@@ -24,8 +24,9 @@ Upcoming Events
 * South Stars Red vs. Blades, February 11, 11:30am.  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Carmel Blue vs. Blades, February 18, 11:30am.  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Blades vs. Owensboro, February 24, 12:15pm and 4:15pm Central Time. [Edge Ice Center <span class="icon fa-map-marker"></span>][edge]
-* ISHSHA playoffs, March 2-3, South Bend.
-* ISHSHA finals, March 9-10, Fort Wayne.
+* Team Dinner, February 28, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
+* ISHSHA 3A playoffs, March 2-4, South Bend.
+* ISHSHA 3A finals, March 10, Fort Wayne.
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
