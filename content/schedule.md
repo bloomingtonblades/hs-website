@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-02-05
+date: 2018-02-08
 weight: 5
 ---
 
@@ -22,7 +22,6 @@ Home games are at [Frank Southern Ice Arena <span class="icon fa-map-marker"></s
 Upcoming Events
 ---------------
 * South Stars Red vs. Blades, February 11, 11:30am.  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
-* Carmel Blue vs. Blades, February 18, 11:30am.  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Blades vs. Owensboro, February 24, 12:15pm and 4:15pm Central Time. [Edge Ice Center <span class="icon fa-map-marker"></span>][edge]
 * Team Dinner, February 28, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
 * ISHSHA 3A playoffs, March 2-4, South Bend.
