@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-02-08
+date: 2018-02-09
 weight: 5
 ---
 
@@ -21,6 +21,7 @@ Home games are at [Frank Southern Ice Arena <span class="icon fa-map-marker"></s
 
 Upcoming Events
 ---------------
+* Blades vs. Evansville Thunder, February 10, 1:00pm CST.  [Swonder Ice Arena <span class="icon fa-map-marker"></span>][swonder]
 * South Stars Red vs. Blades, February 11, 11:30am.  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Blades vs. Owensboro, February 24, 12:15pm and 4:15pm Central Time. [Edge Ice Center <span class="icon fa-map-marker"></span>][edge]
 * Team Dinner, February 28, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
@@ -52,3 +53,4 @@ Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></s
 [icebox]: https://maps.google.com/maps?hl=en&q=The%20Ice%20Box%20Skating%20Rink%2C%201421%20S%20Walnut%20St%2C%20South%20Bend%2C%20IN%2046619%2C%20USA
 [perry]: https://maps.google.com/maps?hl=en&q=Perry%20Park%20Ice%20Rink%2C%20451%20East%20Stop%2011%20Road%2C%20Indianapolis%2C%20IN%2C%20United%20States
 [midwest]: https://maps.google.com/maps?hl=en&q=Midwest%20Training%20%26%20Ice%20Center%2C%2010600%20White%20Oak%20Ave%2C%20Dyer%2C%20IN%2046311%2C%20USA
+[swonder]: https://maps.google.com/maps?hl=en&q=Swonder%20Ice%20Arena%2C%20209%20N%20Boeke%20Rd%2C%20Evansville%2C%20IN%2047711%2C%20USA
