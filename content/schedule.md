@@ -23,6 +23,7 @@ Upcoming Events
 ---------------
 * Blades vs. Evansville Thunder, February 10, 12:45pm CST.  [Swonder Ice Arena <span class="icon fa-map-marker"></span>][swonder]
 * South Stars Red vs. Blades, February 11, 11:30am.  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
+* Possible home game, February 18, 11:30am. TBD. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Blades vs. Owensboro, February 24, 12:15pm and 4:15pm Central Time. [Edge Ice Center <span class="icon fa-map-marker"></span>][edge]
 * Team Dinner, February 28, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
 * ISHSHA 3A playoffs, March 2-4, South Bend.
