@@ -267,7 +267,7 @@ weight: 8
 
   <!-- Blades vs. Evansville , 2/10/18 -->
   <tr class="odd">
-    <td rowspan="2">1/6</td>
+    <td rowspan="2">2/10</td>
                                  <td>Blades</td>       <td>1</td> <td>3</td> <td>0</td> <td></td> <td>4</td> <td class="widestats">Knox</td> <td class="widestats"></td> <td class="widestats">13</td>
   </tr>
   <tr class="odd">
