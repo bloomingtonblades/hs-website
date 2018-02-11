@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-02-09
+date: 2018-02-10
 weight: 5
 ---
 
@@ -21,7 +21,6 @@ Home games are at [Frank Southern Ice Arena <span class="icon fa-map-marker"></s
 
 Upcoming Events
 ---------------
-* Blades vs. Evansville Thunder, February 10, 12:45pm CST.  [Swonder Ice Arena <span class="icon fa-map-marker"></span>][swonder]
 * South Stars Red vs. Blades, February 11, 11:30am.  [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Possible home game, February 18, 11:30am. TBD. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Blades vs. Owensboro, February 24, 12:15pm and 4:15pm Central Time. [Edge Ice Center <span class="icon fa-map-marker"></span>][edge]
