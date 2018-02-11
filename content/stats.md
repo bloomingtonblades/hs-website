@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-02-10
+date: 2017-02-11
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -18,7 +18,7 @@ weight: 8
   </thead>
 
   <!-- South Stars Red vs. Blades, 9/30/17 -->
-  <tr>
+  <tr class="odd">
       <td rowspan="2">9/30</td>
                                  <td>S. Stars Red</td> <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td> <td class="widestats"></td> <td class="widestats">Semmler</td> <td class="widestats">16</td>
   </tr>
@@ -274,6 +274,15 @@ weight: 8
                                  <td>Evansville</td>   <td>1</td> <td>1</td> <td>0</td> <td></td> <td>2</td> <td class="widestats"></td> <td class="widestats">Broerman</td> <td class="widestats">33</td>
   </tr>
 
+  <!-- South Stars Red vs. Blades, 2/11/18 -->
+  <tr class="even">
+      <td rowspan="2">2/11</td>
+                                 <td>S. Stars Red</td> <td>0</td> <td>2</td> <td>0</td> <td></td> <td>2</td> <td class="widestats"></td> <td class="widestats">Semmler</td> <td class="widestats">30</td>
+  </tr>
+  <tr class="even">
+                                 <td>Blades</td>       <td>1</td> <td>2</td> <td>2</td> <td></td> <td>5</td> <td class="widestats">Dayhoff</td> <td class="widestats"></td> <td class="widestats">14</td>
+  </tr>
+
 </table>
 
 Points Standings
@@ -288,7 +297,7 @@ Points Standings
     <td>6</td>  <td>Burris</td>    <td>14</td> <td>16</td> <td>30</td> <td>8</td>
   </tr>
   <tr>
-    <td>7</td>  <td>Appel</td>     <td>7</td> <td>15</td> <td>22</td> <td>114</td>
+    <td>7</td>  <td>Appel</td>     <td>8</td> <td>16</td> <td>24</td> <td>114</td>
   </tr>
   <tr>
     <td>84</td> <td>Berkley</td>   <td>12</td> <td>12</td> <td>24</td> <td>14</td>
@@ -300,28 +309,28 @@ Points Standings
     <td>3</td>  <td>Baer</td>      <td>8</td> <td>8</td> <td>16</td> <td>20</td>
   </tr>
   <tr>
-    <td>16</td> <td>Hunt</td>      <td>3</td> <td>12</td> <td>15</td> <td>38</td>
+    <td>16</td> <td>Hunt</td>      <td>4</td> <td>13</td> <td>17</td> <td>38</td>
+  </tr>
+  <tr>
+    <td>88</td> <td>Franklin</td>  <td>11</td> <td>6</td> <td>17</td> <td>97</td>
   </tr>
   <tr>
     <td>14</td> <td>Stright</td>   <td>9</td> <td>5</td> <td>14</td> <td>4</td>
   </tr>
   <tr>
-    <td>88</td> <td>Franklin</td>  <td>11</td> <td>4</td> <td>15</td> <td>95</td>
+    <td>4</td>  <td>Streib</td>    <td>5</td> <td>5</td> <td>10</td> <td>4</td>
   </tr>
   <tr>
     <td>22</td> <td>Rawlins</td>   <td>5</td> <td>5</td> <td>10</td> <td>10</td>
   </tr>
   <tr>
-    <td>4</td>  <td>Streib</td>    <td>3</td> <td>4</td> <td>7</td> <td>4</td>
+    <td>21</td> <td>La Bella</td>  <td>3</td> <td>5</td> <td>8</td> <td>16</td>
   </tr>
   <tr>
-    <td>21</td> <td>La Bella</td>  <td>3</td> <td>4</td> <td>7</td> <td>16</td>
+    <td>17</td> <td>La Bella</td>  <td>2</td> <td>4</td> <td>6</td> <td>75</td>
   </tr>
   <tr>
     <td>00</td> <td>Lauer</td>     <td>2</td> <td>3</td> <td>5</td> <td>4</td>
-  </tr>
-  <tr>
-    <td>17</td> <td>La Bella</td>  <td>1</td> <td>4</td> <td>5</td> <td>73</td>
   </tr>
   <tr>
     <td>23</td> <td>Oliver</td>    <td>1</td> <td>2</td> <td>3</td> <td>4</td>
@@ -333,7 +342,16 @@ Points Standings
     <td>2</td>  <td>Greulich</td>  <td>0</td> <td>2</td> <td>2</td> <td>10</td>
   </tr>
   <tr>
+    <td>74</td> <td>Dayhoff</td> <td>0</td> <td>1</td> <td>1</td> <td>4</td>
+  </tr>
+  <tr>
+    <td>13</td> <td>Knox</td> <td>0</td> <td>0</td> <td>0</td> <td>0</td>
+  </tr>
+  <tr>
     <td>31</td> <td>Streib</td>    <td>0</td> <td>0</td> <td>0</td> <td>2</td>
+  </tr>
+  <tr>
+    <td>30</td> <td>Lowinger</td> <td>0</td> <td>0</td> <td>0</td> <td>0</td>
   </tr>
   <tr>
     <td>43</td> <td>Cockerham</td> <td>0</td> <td>0</td> <td>0</td> <td>0</td>
@@ -345,15 +363,15 @@ Goalies
 <table>
   <thead>
     <tr>
-      <th title="Jersey Number">NO</th> <th title="Player Name">PLAYER</th>   <th title="Shots Against">SA</th> <th title="Saves">S</th>  <th title="Save Percentage">SV %</th> <th class="widestats" title="Wins">W</th> <th class="widestats" title="Losses">L</th> <th class="widestats" title="Ties">T</th> <th class="widestats" title="Penalty Minutes">PIM</th>
+      <th title="Jersey Number">NO</th> <th title="Player Name">PLAYER</th>   <th title="Shots Against">SA</th> <th title="Saves">S</th>  <th title="Save Percentage">SV %</th> <th class="widestats" title="Wins">W</th> <th class="widestats" title="Losses">L</th> <th class="widestats" title="Ties">T</th>
     <tr>
   </thead>
-  <tr> <td>30</td> <td>Lowinger</td> <td>585</td> <td>535</td> <td>0.915</td> <td class="widestats">7</td> <td class="widestats">11</td> <td class="widestats">0</td> <td class="widestats">0</td>
+  <tr> <td>30</td> <td>Lowinger</td> <td>585</td> <td>535</td> <td>0.915</td> <td class="widestats">7</td> <td class="widestats">11</td> <td class="widestats">0</td>
   </tr>
   <tr>
-    <td>74</td> <td>Dayhoff</td>  <td>212</td>  <td>189</td> <td>0.892</td> <td class="widestats">4</td> <td class="widestats">4</td> <td class="widestats">1</td> <td class="widestats">4</td>
+    <td>74</td> <td>Dayhoff</td>  <td>228</td>  <td>203</td> <td>0.890</td> <td class="widestats">5</td> <td class="widestats">4</td> <td class="widestats">1</td>
   </tr>
   <tr>
-    <td>13</td> <td>Knox</td>     <td>24</td>  <td>21</td>    <td>0.875</td> <td class="widestats">2</td> <td class="widestats">0</td> <td class="widestats">0</td> <td class="widestats">0</td>
+    <td>13</td> <td>Knox</td>     <td>24</td>  <td>21</td>    <td>0.875</td> <td class="widestats">2</td> <td class="widestats">0</td> <td class="widestats">0</td>
   </tr>
 </table>
