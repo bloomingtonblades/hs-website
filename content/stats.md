@@ -318,7 +318,7 @@ Points Standings
     <td>14</td> <td>Stright</td>   <td>9</td> <td>5</td> <td>14</td> <td>4</td>
   </tr>
   <tr>
-    <td>4</td>  <td>Streib</td>    <td>5</td> <td>6</td> <td>11</td> <td>4</td>
+    <td>4</td>  <td>Streib</td>    <td>5</td> <td>5</td> <td>10</td> <td>4</td>
   </tr>
   <tr>
     <td>22</td> <td>Rawlins</td>   <td>5</td> <td>5</td> <td>10</td> <td>10</td>
