@@ -342,6 +342,9 @@ Points Standings
     <td>2</td>  <td>Greulich</td>  <td>0</td> <td>2</td> <td>2</td> <td>10</td>
   </tr>
   <tr>
+    <td>30</td> <td>Lowinger</td> <td>0</td> <td>1</td> <td>1</td> <td>0</td>
+  </tr>
+  <tr>
     <td>74</td> <td>Dayhoff</td> <td>0</td> <td>1</td> <td>1</td> <td>4</td>
   </tr>
   <tr>
@@ -349,9 +352,6 @@ Points Standings
   </tr>
   <tr>
     <td>31</td> <td>Streib</td>    <td>0</td> <td>0</td> <td>0</td> <td>2</td>
-  </tr>
-  <tr>
-    <td>30</td> <td>Lowinger</td> <td>0</td> <td>0</td> <td>0</td> <td>0</td>
   </tr>
   <tr>
     <td>43</td> <td>Cockerham</td> <td>0</td> <td>0</td> <td>0</td> <td>0</td>
