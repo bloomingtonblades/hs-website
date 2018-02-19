@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-02-15
+date: 2018-02-19
 weight: 5
 ---
 
@@ -13,18 +13,14 @@ Contact
 -------
 Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][alyson]
 
-Next Home Game
---------------
-Alumni vs. Blades, February 18, 11:30am.
-
-Home games are at [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
-
 Upcoming Events
 ---------------
-* Alumni vs. Blades, February 18, 11:30am. [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank]
 * Blades vs. Owensboro, February 24, 12:15pm and 4:15pm Central Time. [Edge Ice Center <span class="icon fa-map-marker"></span>][edge]
 * Team Dinner, February 28, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
 * ISHSHA 3A playoffs, March 2-4, South Bend.
+  - Friday 5:30pm vs. Crown Point. [Ice Box <span class="icon fa-map-marker"></span>][icebox]
+  - Saturday 10:30am vs. Culver B. [Notre Dame Compton <span class="icon fa-map-marker"></span>][compton]
+  - Sunday 8:15am vs. Adams. [Notre Dame Compton <span class="icon fa-map-marker"></span>][compton]
 * ISHSHA 3A finals, March 10, Fort Wayne.
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
@@ -40,6 +36,7 @@ Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></s
 [alyson]: mailto:alysonebaer@gmail.com
 [cal]: https://calendar.google.com/calendar/embed?src=epsc9ra4unbaelg6bns4r4ifro%40group.calendar.google.com&ctz=America/New_York
 [carmel]: https://maps.google.com/maps?hl=en&q=Carmel%20Ice%20Rink%2C%201040%203rd%20Ave%20SW%2C%20Carmel%2C%20IN%2046032%2C%20USA
+[compton]: https://maps.google.com/maps?hl=en&q=Compton%20Family%20Ice%20Arena%2C%20100%20Compton%20Family%20Ice%20Arena%2C%20Notre%20Dame%2C%20IN%2046556%2C%20USA
 [culver]: https://maps.google.com/maps?hl=en&q=Culver%20Academies%2C%201300%20Academy%20Rd%2C%20Culver%2C%20IN%2046511%2C%20USA
 [edge]: https://maps.google.com/maps?hl=en&q=Edge%20Ice%20Center%2C%201400%20Hickman%20Ave%2C%20Owensboro%2C%20KY%2042301%2C%20USA
 [fcal]: https://calendar.google.com/calendar/embed?src=bloomington.in.gov_atmpkke40ioc9pu4be5khq28lg@group.calendar.google.com&ctz=America/New_York
