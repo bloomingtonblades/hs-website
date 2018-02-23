@@ -24,7 +24,7 @@ his entire life.
 The team collectively achieved a 3.51 GPA, with two-thirds of the team
 earning a 3.6 or higher. Special recognition goes to Sophomore
 Ian Knox who leads the team with a GPA of 4.19, and Senior Sam Burris
-who will graduate with GPA above 4.0.
+who will graduate with a GPA above 4.0.
 
 The Blades will receive recognition in the official program of the
 state tournament. A plaque will be given to the captains before our
