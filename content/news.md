@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2017-12-13
+date: 2018-02-23
 weight: 3
 ---
 
@@ -9,9 +9,32 @@ weight: 3
   <a id="news-a2" href="#"><img id="news-s2" class="image sponsor"></a>
 </div>
 
+Blades Win State Academic Honors
+--------------------------------
+February 23, 2018 --- For the first time in program history, the
+Bloomington Blades have won the Henry G. Schallert Team Academic Award
+from the Indiana State High School Hockey Association.
+
+Given annually since 2003 to the team with the highest cumulative
+grade point average, the Henry G. Schallert Team Academic Award is
+named in honor of the father of Nate Schallert, one of the ISHSHA’s
+longest serving volunteers. The senior Mr. Schallert was an educator
+his entire life.
+
+The team collectively achieved a 3.51 GPA, with two-thirds of the team
+earning a 3.6 or higher. Special recognition goes to Sophomore
+Ian Knox who leads the team with a GPA of 4.19, and Senior Sam Burris
+who will graduate with GPA above 4.0.
+
+The Blades will receive recognition in the official program of the
+state tournament. A plaque will be given to the captains before our
+second game of the tournament, 10:30am Saturday, March 3 on the Notre
+Dame Charles W. "Lefty" Smith Jr. rink.
+
+
 2017 All-Stars
 --------------
-Congratulations to the following players selected as 2017 Hoosier League All-Stars!
+Decemnber 13, 2017 --- Congratulations to the following players selected as 2017 Hoosier League All-Stars!
 
 - Alec Appel --- Senior, Defenseman
 - Ethan Berkley --- Senior, Forward
