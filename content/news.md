@@ -28,8 +28,9 @@ who will graduate with GPA above 4.0.
 
 The Blades will receive recognition in the official program of the
 state tournament. A plaque will be given to the captains before our
-second game of the tournament, 10:30am Saturday, March 3 on the Notre
-Dame Charles W. "Lefty" Smith Jr. rink.
+second game of the tournament, 10:30am Saturday, March 3 on the
+Charles W. "Lefty" Smith Jr. rink at the University of Notre Dame.
+
 
 
 2017 All-Stars
