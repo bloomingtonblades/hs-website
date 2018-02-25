@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-02-19
+date: 2018-02-25
 weight: 5
 ---
 
@@ -15,7 +15,6 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 
 Upcoming Events
 ---------------
-* Blades vs. Owensboro, February 24, 12:15pm and 4:15pm Central Time. [Edge Ice Center <span class="icon fa-map-marker"></span>][edge]
 * Team Dinner, February 28, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
 * ISHSHA 3A playoffs, March 2-4, South Bend.
   - Friday 5:30pm vs. Crown Point. [Ice Box <span class="icon fa-map-marker"></span>][icebox]
