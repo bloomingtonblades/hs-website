@@ -294,16 +294,16 @@ Points Standings
     <tr>
   </thead>
   <tr>
-    <td>6</td>  <td>Burris</td>    <td>14</td> <td>16</td> <td>30</td> <td>8</td>
+    <td>6</td>  <td>Burris</td>    <td>16</td> <td>16</td> <td>32</td> <td>8</td>
   </tr>
   <tr>
-    <td>7</td>  <td>Appel</td>     <td>8</td> <td>16</td> <td>24</td> <td>114</td>
+    <td>7</td>  <td>Appel</td>     <td>8</td> <td>17</td> <td>25</td> <td>116</td>
   </tr>
   <tr>
     <td>84</td> <td>Berkley</td>   <td>12</td> <td>12</td> <td>24</td> <td>14</td>
   </tr>
   <tr>
-    <td>27</td> <td>Prather</td>   <td>6</td> <td>16</td> <td>22</td> <td>20</td>
+    <td>27</td> <td>Prather</td>   <td>6</td> <td>17</td> <td>23</td> <td>22</td>
   </tr>
   <tr>
     <td>16</td> <td>Hunt</td>      <td>4</td> <td>13</td> <td>17</td> <td>38</td>
@@ -366,7 +366,7 @@ Goalies
       <th title="Jersey Number">NO</th> <th title="Player Name">PLAYER</th>   <th title="Shots Against">SA</th> <th title="Saves">S</th>  <th title="Save Percentage">SV %</th> <th class="widestats" title="Wins">W</th> <th class="widestats" title="Losses">L</th> <th class="widestats" title="Ties">T</th>
     <tr>
   </thead>
-  <tr> <td>30</td> <td>Lowinger</td> <td>585</td> <td>535</td> <td>0.915</td> <td class="widestats">7</td> <td class="widestats">11</td> <td class="widestats">0</td>
+  <tr> <td>30</td> <td>Lowinger</td> <td>605</td> <td>552</td> <td>0.912</td> <td class="widestats">7</td> <td class="widestats">12</td> <td class="widestats">0</td>
   </tr>
   <tr>
     <td>74</td> <td>Dayhoff</td>  <td>228</td>  <td>203</td> <td>0.890</td> <td class="widestats">5</td> <td class="widestats">4</td> <td class="widestats">1</td>
