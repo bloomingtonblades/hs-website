@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-02-25
+date: 2017-03-04
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -300,6 +300,43 @@ weight: 8
   <tr class="even">
                                  <td>Owensboro</td>   <td>1</td> <td>1</td> <td>2</td> <td></td> <td>4</td> <td class="widestats"></td> <td class="widestats"></td> <td class="widestats"></td>
   </tr>
+
+  <!-- Crown Point vs. Blades, 3/2/18 (ISHSHA State Playdowns) -->
+  <tr class="odd">
+    <td rowspan="3">3/2</td>
+                                 <td>Crown Point</td>  <td>0</td> <td>0</td> <td>1</td> <td>1</td> <td>2</td> <td class="widestats">Thompson</td> <td class="widestats"></td> <td class="widestats">25</td>
+  </tr>
+  <tr class="odd">
+                                 <td>Blades</td>   <td>0</td> <td>0</td> <td>1</td> <td>0</td> <td>1</td> <td class="widestats"></td> <td class="widestats">Lowinger</td> <td class="widestats">32</td>
+  </tr>
+  <tr class="odd">
+                                 <td colspan="6"><i>ISHSHA State Playdowns</i></td><td class="widestats" colspan="3"></td>
+  </tr>
+
+  <!-- Culver B vs. Blades, 3/3/18 (ISHSHA State Playdowns) -->
+  <tr class="even">
+    <td rowspan="3">3/3</td>
+                                 <td>Culver B</td>  <td>0</td> <td>1</td> <td>2</td> <td></td> <td>3</td> <td class="widestats">Callahan</td> <td class="widestats"></td> <td class="widestats">21</td>
+  </tr>
+  <tr class="even">
+                                 <td>Blades</td>   <td>0</td> <td>1</td> <td>0</td> <td></td> <td>1</td> <td class="widestats"></td> <td class="widestats">Lowinger</td> <td class="widestats">27</td>
+  </tr>
+  <tr class="even">
+                                 <td colspan="6"><i>ISHSHA State Playdowns</i></td><td class="widestats" colspan="3"></td>
+  </tr>
+
+  <!-- Blades vs. Adams, 3/4/18 (ISHSHA State Playdowns) -->
+  <tr class="odd">
+    <td rowspan="3">3/4</td>
+                                 <td>Blades</td>  <td>2</td> <td>0</td> <td>2</td> <td></td> <td>4</td> <td class="widestats">Dayhoff</td> <td class="widestats"></td> <td class="widestats">17</td>
+  </tr>
+  <tr class="odd">
+                                 <td>Adams</td>   <td>1</td> <td>1</td> <td>0</td> <td></td> <td>2</td> <td class="widestats"></td> <td class="widestats">Tolle</td> <td class="widestats">19</td>
+  </tr>
+  <tr class="odd">
+                                 <td colspan="6"><i>ISHSHA State Playdowns</i></td><td class="widestats" colspan="3"></td>
+  </tr>
+
 </table>
 
 Points Standings
@@ -311,22 +348,22 @@ Points Standings
     <tr>
   </thead>
   <tr>
-    <td>6</td>  <td>Burris</td>    <td>16</td> <td>16</td> <td>32</td> <td>10</td>
+    <td>6</td>  <td>Burris</td>    <td>16</td> <td>16</td> <td>32</td> <td>22</td>
   </tr>
   <tr>
-    <td>7</td>  <td>Appel</td>     <td>8</td> <td>18</td> <td>26</td> <td>118</td>
+    <td>7</td>  <td>Appel</td>     <td>8</td> <td>18</td> <td>26</td> <td>120</td>
   </tr>
   <tr>
-    <td>27</td> <td>Prather</td>   <td>6</td> <td>18</td> <td>24</td> <td>24</td>
+    <td>27</td> <td>Prather</td>   <td>6</td> <td>19</td> <td>25</td> <td>24</td>
   </tr>
   <tr>
-    <td>84</td> <td>Berkley</td>   <td>12</td> <td>12</td> <td>24</td> <td>14</td>
+    <td>84</td> <td>Berkley</td>   <td>13</td> <td>12</td> <td>25</td> <td>14</td>
   </tr>
   <tr>
     <td>16</td> <td>Hunt</td>      <td>4</td> <td>14</td> <td>18</td> <td>38</td>
   </tr>
   <tr>
-    <td>88</td> <td>Franklin</td>  <td>12</td> <td>6</td> <td>18</td> <td>99</td>
+    <td>88</td> <td>Franklin</td>  <td>12</td> <td>6</td> <td>18</td> <td>103</td>
   </tr>
   <tr>
     <td>3</td>  <td>Baer</td>      <td>8</td> <td>1</td> <td>17</td> <td>20</td>
