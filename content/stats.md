@@ -423,7 +423,7 @@ Goalies
   <tr> <td>30</td> <td>Lowinger</td> <td>668</td> <td>614</td> <td>0.919</td> <td class="widestats">7</td> <td class="widestats">13</td> <td class="widestats">0</td> <td class="widestats">1</td>
   </tr>
   <tr>
-    <td>74</td> <td>Dayhoff</td>  <td>264</td>  <td>233</td> <td>0.883</td> <td class="widestats">6</td> <td class="widestats">4</td> <td class="widestats">2</td><td class="widestats"></td>
+    <td>74</td> <td>Dayhoff</td>  <td>264</td>  <td>233</td> <td>0.883</td> <td class="widestats">6</td> <td class="widestats">3</td> <td class="widestats">2</td><td class="widestats">1</td>
   </tr>
   <tr>
     <td>13</td> <td>Knox</td>     <td>24</td>  <td>21</td>    <td>0.875</td> <td class="widestats">2</td> <td class="widestats">0</td> <td class="widestats">0</td><td class="widestats"></td>
