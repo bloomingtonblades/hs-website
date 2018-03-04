@@ -420,7 +420,7 @@ Goalies
       <th title="Jersey Number">NO</th> <th title="Player Name">PLAYER</th>   <th title="Shots Against">SA</th> <th title="Saves">S</th>  <th title="Save Percentage">SV %</th> <th class="widestats" title="Wins">W</th> <th class="widestats" title="Losses">L</th> <th class="widestats" title="Ties">T</th>
     <tr>
   </thead>
-  <tr> <td>30</td> <td>Lowinger</td> <td>605</td> <td>552</td> <td>0.912</td> <td class="widestats">7</td> <td class="widestats">12</td> <td class="widestats">0</td>
+  <tr> <td>30</td> <td>Lowinger</td> <td>639</td> <td>584</td> <td>0.914</td> <td class="widestats">7</td> <td class="widestats">13</td> <td class="widestats">0</td>
   </tr>
   <tr>
     <td>74</td> <td>Dayhoff</td>  <td>245</td>  <td>216</td> <td>0.882</td> <td class="widestats">5</td> <td class="widestats">4</td> <td class="widestats">2</td>
