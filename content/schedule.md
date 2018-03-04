@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-02-25
+date: 2018-03-04
 weight: 5
 ---
 
@@ -15,12 +15,8 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 
 Upcoming Events
 ---------------
-* Team Dinner, February 28, 5:00pm. [Upland <span class="icon fa-map-marker"></span>][upland]
-* ISHSHA 3A playoffs, March 2-4, South Bend.
-  - Friday 5:30pm vs. Crown Point. [Ice Box <span class="icon fa-map-marker"></span>][icebox]
-  - Saturday 10:30am vs. Culver B. [Notre Dame Compton <span class="icon fa-map-marker"></span>][compton]
-  - Sunday 8:15am vs. Adams. [Notre Dame Compton <span class="icon fa-map-marker"></span>][compton]
-* ISHSHA 3A finals, March 10, Fort Wayne.
+* 2017-18 End of Season Banquet and Player Recognition, March 25, 5:00pm, [Millenium Apartments Clubhouse <span class="icon fa-map-marker"></span>][millenium]
+* 2018-19 Preseason Registration Meeting: TBA
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
@@ -42,6 +38,7 @@ Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></s
 [ical]: https://calendar.google.com/calendar/ical/epsc9ra4unbaelg6bns4r4ifro%40group.calendar.google.com/public/basic.ics
 [frank]: https://www.google.com/maps/place/2100+S+Henderson+St,+Bloomington,+IN+47401/@39.1412293,-86.529133,17z/data=!3m1!4b1!4m5!3m4!1s0x886c66590dd701f1:0x2c4224b76654f9a2!8m2!3d39.1412252!4d-86.526939
 [fuel]: https://maps.google.com/maps?hl=en&q=Fuel%20Tank%20at%20Fishers%2C%209022%20E%20126th%20St%2C%20Fishers%2C%20IN%2046038%2C%20USA
+[millenium]: https://www.google.com/maps/place/1200+S+Rolling+Ridge+Way,+Bloomington,+IN+47403/@39.153483,-86.5642924,17z/data=!3m1!4b1!4m5!3m4!1s0x886c6772fc3d8eed:0xf8f1ac9feafe940!8m2!3d39.1534789!4d-86.5621037
 [coliseum]: https://www.google.com/maps/place/Indiana+Farmers+Coliseum/@39.8276805,-86.1371959,17z/data=!3m1!4b1!4m5!3m4!1s0x886b51783899e365:0xc4b58965029cc570!8m2!3d39.8276805!4d-86.1350072
 [hamilton]: https://maps.google.com/maps?hl=en&q=Hamilton%20Center%20Ice%20Arena%2C%202501%20Lincoln%20Park%20Dr%2C%20Columbus%2C%20IN%2047201%2C%20USA
 [arcticzone]: https://maps.google.com/maps?hl=en&q=Arctic%20Zone%20Iceplex%2C%2016616%20Southpark%20Dr%2C%20Westfield%2C%20IN%2046074%2C%20USA
