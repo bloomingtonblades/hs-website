@@ -348,10 +348,10 @@ Points Standings
     <tr>
   </thead>
   <tr>
-    <td>6</td>  <td>Burris</td>    <td>16</td> <td>16</td> <td>32</td> <td>22</td>
+    <td>6</td>  <td>Burris</td>    <td>17</td> <td>16</td> <td>33</td> <td>22</td>
   </tr>
   <tr>
-    <td>7</td>  <td>Appel</td>     <td>8</td> <td>18</td> <td>26</td> <td>120</td>
+    <td>7</td>  <td>Appel</td>     <td>8</td> <td>18</td> <td>26</td> <td>122</td>
   </tr>
   <tr>
     <td>27</td> <td>Prather</td>   <td>6</td> <td>19</td> <td>25</td> <td>24</td>
@@ -360,10 +360,10 @@ Points Standings
     <td>84</td> <td>Berkley</td>   <td>13</td> <td>12</td> <td>25</td> <td>14</td>
   </tr>
   <tr>
-    <td>16</td> <td>Hunt</td>      <td>4</td> <td>14</td> <td>18</td> <td>38</td>
+    <td>16</td> <td>Hunt</td>      <td>4</td> <td>14</td> <td>18</td> <td>40</td>
   </tr>
   <tr>
-    <td>88</td> <td>Franklin</td>  <td>12</td> <td>6</td> <td>18</td> <td>103</td>
+    <td>88</td> <td>Franklin</td>  <td>12</td> <td>6</td> <td>18</td> <td>105</td>
   </tr>
   <tr>
     <td>3</td>  <td>Baer</td>      <td>8</td> <td>1</td> <td>17</td> <td>20</td>
@@ -417,15 +417,15 @@ Goalies
 <table>
   <thead>
     <tr>
-      <th title="Jersey Number">NO</th> <th title="Player Name">PLAYER</th>   <th title="Shots Against">SA</th> <th title="Saves">S</th>  <th title="Save Percentage">SV %</th> <th class="widestats" title="Wins">W</th> <th class="widestats" title="Losses">L</th> <th class="widestats" title="Ties">T</th>
+      <th title="Jersey Number">NO</th> <th title="Player Name">PLAYER</th>   <th title="Shots Against">SA</th> <th title="Saves">S</th>  <th title="Save Percentage">SV %</th> <th class="widestats" title="Wins">W</th> <th class="widestats" title="Losses">L</th> <th class="widestats" title="Ties">T</th> <th class="widestats" title="Overtime Losses">OTL</th>
     <tr>
   </thead>
-  <tr> <td>30</td> <td>Lowinger</td> <td>639</td> <td>584</td> <td>0.914</td> <td class="widestats">7</td> <td class="widestats">13</td> <td class="widestats">0</td>
+  <tr> <td>30</td> <td>Lowinger</td> <td>668</td> <td>614</td> <td>0.919</td> <td class="widestats">7</td> <td class="widestats">13</td> <td class="widestats">0</td> <td class="widestats">1</td>
   </tr>
   <tr>
-    <td>74</td> <td>Dayhoff</td>  <td>245</td>  <td>216</td> <td>0.882</td> <td class="widestats">5</td> <td class="widestats">4</td> <td class="widestats">2</td>
+    <td>74</td> <td>Dayhoff</td>  <td>245</td>  <td>216</td> <td>0.882</td> <td class="widestats">5</td> <td class="widestats">4</td> <td class="widestats">2</td><td class="widestats"></td>
   </tr>
   <tr>
-    <td>13</td> <td>Knox</td>     <td>24</td>  <td>21</td>    <td>0.875</td> <td class="widestats">2</td> <td class="widestats">0</td> <td class="widestats">0</td>
+    <td>13</td> <td>Knox</td>     <td>24</td>  <td>21</td>    <td>0.875</td> <td class="widestats">2</td> <td class="widestats">0</td> <td class="widestats">0</td><td class="widestats"></td>
   </tr>
 </table>
