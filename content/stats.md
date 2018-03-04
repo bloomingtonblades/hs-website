@@ -348,22 +348,22 @@ Points Standings
     <tr>
   </thead>
   <tr>
-    <td>6</td>  <td>Burris</td>    <td>17</td> <td>16</td> <td>33</td> <td>22</td>
+    <td>6</td>  <td>Burris</td>    <td>19</td> <td>17</td> <td>36</td> <td>24</td>
   </tr>
   <tr>
-    <td>7</td>  <td>Appel</td>     <td>8</td> <td>18</td> <td>26</td> <td>122</td>
+    <td>7</td>  <td>Appel</td>     <td>9</td> <td>18</td> <td>27</td> <td>124</td>
   </tr>
   <tr>
-    <td>27</td> <td>Prather</td>   <td>6</td> <td>19</td> <td>25</td> <td>24</td>
+    <td>27</td> <td>Prather</td>   <td>7</td> <td>19</td> <td>26</td> <td>24</td>
   </tr>
   <tr>
     <td>84</td> <td>Berkley</td>   <td>13</td> <td>12</td> <td>25</td> <td>14</td>
   </tr>
   <tr>
-    <td>16</td> <td>Hunt</td>      <td>4</td> <td>14</td> <td>18</td> <td>40</td>
+    <td>16</td> <td>Hunt</td>      <td>4</td> <td>14</td> <td>18</td> <td>44</td>
   </tr>
   <tr>
-    <td>88</td> <td>Franklin</td>  <td>12</td> <td>6</td> <td>18</td> <td>105</td>
+    <td>88</td> <td>Franklin</td>  <td>12</td> <td>6</td> <td>18</td> <td>107</td>
   </tr>
   <tr>
     <td>3</td>  <td>Baer</td>      <td>8</td> <td>1</td> <td>17</td> <td>20</td>
@@ -423,7 +423,7 @@ Goalies
   <tr> <td>30</td> <td>Lowinger</td> <td>668</td> <td>614</td> <td>0.919</td> <td class="widestats">7</td> <td class="widestats">13</td> <td class="widestats">0</td> <td class="widestats">1</td>
   </tr>
   <tr>
-    <td>74</td> <td>Dayhoff</td>  <td>245</td>  <td>216</td> <td>0.882</td> <td class="widestats">5</td> <td class="widestats">4</td> <td class="widestats">2</td><td class="widestats"></td>
+    <td>74</td> <td>Dayhoff</td>  <td>264</td>  <td>233</td> <td>0.883</td> <td class="widestats">6</td> <td class="widestats">4</td> <td class="widestats">2</td><td class="widestats"></td>
   </tr>
   <tr>
     <td>13</td> <td>Knox</td>     <td>24</td>  <td>21</td>    <td>0.875</td> <td class="widestats">2</td> <td class="widestats">0</td> <td class="widestats">0</td><td class="widestats"></td>
