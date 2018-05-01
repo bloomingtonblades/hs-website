@@ -11,7 +11,7 @@ weight: 3
 
 Team Indiana Selections 2018-19
 -------------------------------
-Congratulations to the following Bloomington Blades players selected
+May 1, 2018 --- Congratulations to the following Bloomington Blades players selected
 for 2018-19 Team Indiana!
 
 - Sam Franklin (Team Indiana U-18)
