@@ -15,8 +15,8 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 
 Upcoming Events
 ---------------
-* Incoming Player Q&A Session, May 19, 4:00pm, Location TBA.
-* 2018-19 Mandatory Preseason Registration Meeting: TBA, July.
+* Incoming Player Q&A Session, May 19, 4:30pm. Contact [Jay Baer](mailto:jbaer@bloomingtonblades.com) for info.
+* 2018-19 Mandatory Preseason Registration Meeting: July 29, 5:00pm, [Basswood Apartments Clubhouse <span class="icon fa-map-marker"></span>][basswood].
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
@@ -29,6 +29,7 @@ Calendar [iCal link][ical] for your computer or mobile calendar.
 Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></span>][fcal]
 
 [alyson]: mailto:alysonebaer@gmail.com
+[basswood]: https://www.google.com/maps/place/Basswood+Apartments,+1000+S+Basswood+Cir,+Bloomington,+IN+47403/@39.1518655,-86.5708355,17z/data=!4m2!3m1!1s0x886c677a6ac12c4d:0x830c6aebc265b08
 [cal]: https://calendar.google.com/calendar/embed?src=epsc9ra4unbaelg6bns4r4ifro%40group.calendar.google.com&ctz=America/New_York
 [carmel]: https://maps.google.com/maps?hl=en&q=Carmel%20Ice%20Rink%2C%201040%203rd%20Ave%20SW%2C%20Carmel%2C%20IN%2046032%2C%20USA
 [compton]: https://maps.google.com/maps?hl=en&q=Compton%20Family%20Ice%20Arena%2C%20100%20Compton%20Family%20Ice%20Arena%2C%20Notre%20Dame%2C%20IN%2046556%2C%20USA

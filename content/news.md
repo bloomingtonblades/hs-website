@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2018-02-23
+date: 2018-05-01
 weight: 3
 ---
 
@@ -8,6 +8,17 @@ weight: 3
   <a id="news-a1" href="#"><img id="news-s1" class="image sponsor"></a>
   <a id="news-a2" href="#"><img id="news-s2" class="image sponsor"></a>
 </div>
+
+Team Indiana Selections 2018-19
+-------------------------------
+Congratulations to the following Bloomington Blades players selected
+for 2018-19 Team Indiana!
+
+- Sam Franklin (Team Indiana U-18)
+
+Addtional selections are pending. U-16 Tryouts for 2018-19 Freshmen
+and Sophomores are on May 5 in Fort Wayne.
+
 
 Blades Win State Academic Honors
 --------------------------------
