@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2018-05-01
+date: 2018-05-03
 weight: 3
 ---
 
@@ -9,15 +9,28 @@ weight: 3
   <a id="news-a2" href="#"><img id="news-s2" class="image sponsor"></a>
 </div>
 
-Team Indiana Selections 2018-19
--------------------------------
-May 1, 2018 --- Congratulations to the following Bloomington Blades players selected
+Team Indiana News
+-----------------
+May 3, 2018 (updated) --- Congratulations to the following Bloomington Blades players selected
 for 2018-19 Team Indiana!
 
 - Sam Franklin (Team Indiana U-18)
 
-Addtional selections are pending. U-16 Tryouts for 2018-19 Freshmen
-and Sophomores are on May 5 in Fort Wayne.
+Addtional selections are pending.
+
+For U18 players (2018-19 Juniors and Seniors) who were either unable
+to attend the tryouts on April 29, or who were invited back by Coach
+Manard, there is a second tryout date of June 16, 2018, 11:45-12:45
+and 1:00-2:00 at Carmel Ice Skadium (attend both times). First-time
+tryout fee is $80; there is no additional fee for players who have
+already tried out and been invited back.
+
+Tryouts for U16 players (2018-19 Freshmen and Sophomores) are on May
+5, 12:00-1:00 and 3:15-4:15 at Sport One Parkview Icehouse in Fort
+Wayne. Tryout fee is $80. Selections posted at 5:30pm; mandatory
+meeting for selected players and parents at 5:45pm ($400 due at
+meeting).
+
 
 
 Blades Win State Academic Honors
@@ -78,5 +91,3 @@ Reminder, players are not permitted to drive themselves to away games.
 
 [teamapp]: https://www.teamapp.com/app
 [cal]: https://calendar.google.com/calendar/embed?src=epsc9ra4unbaelg6bns4r4ifro%40group.calendar.google.com&ctz=America/New_York
-
-
