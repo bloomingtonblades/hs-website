@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2018-05-03
+date: 2018-05-08
 weight: 3
 ---
 
@@ -11,12 +11,15 @@ weight: 3
 
 Team Indiana News
 -----------------
-May 3, 2018 (updated) --- Congratulations to the following Bloomington Blades players selected
-for 2018-19 Team Indiana!
+May 7, 2018 (updated) --- Congratulations to the following Bloomington
+players selected for 2018-19 Team Indiana!
 
-- Sam Franklin (Team Indiana U-18)
+- Sam Franklin (Team Indiana U18)
+- Cooper Fox (Team Indiana U16)
+- Eli Prather (Team Indiana U16)
+- Cruz Timbrook (Team Indiana U16)
 
-Addtional selections are pending.
+Addtional selections/call-backs are pending.
 
 For U18 players (2018-19 Juniors and Seniors) who were either unable
 to attend the tryouts on April 29, or who were invited back by Coach
@@ -24,13 +27,6 @@ Manard, there is a second tryout date of June 16, 2018, 11:45-12:45
 and 1:00-2:00 at Carmel Ice Skadium (attend both times). First-time
 tryout fee is $80; there is no additional fee for players who have
 already tried out and been invited back.
-
-Tryouts for U16 players (2018-19 Freshmen and Sophomores) are on May
-5, 12:00-1:00 and 3:15-4:15 at Sport One Parkview Icehouse in Fort
-Wayne. Tryout fee is $80. Selections posted at 5:30pm; mandatory
-meeting for selected players and parents at 5:45pm ($400 due at
-meeting).
-
 
 
 Blades Win State Academic Honors
