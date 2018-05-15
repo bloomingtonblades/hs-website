@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2018-05-08
+date: 2018-05-14
 weight: 3
 ---
 
@@ -8,28 +8,24 @@ weight: 3
   <a id="news-a1" href="#"><img id="news-s1" class="image sponsor"></a>
   <a id="news-a2" href="#"><img id="news-s2" class="image sponsor"></a>
 </div>
+
 Hoosier Wings
 -------------
-May 8, 2018 --- The best players from the Hoosier League are
-encouraged to come and try out for the U18 Hoosier Wings team. This is not an all star
-team. This will be a competitive team. Also, this team will NOT
-interfere with players' current high school team. They will play 3
-weekends in September and then reassemble after the State
-Championship. Nothing during the season. The goal of this team is to
-qualify for Nationals.
- 
-Tryouts are Sunday May 13 from 10 - 11:15am and 1:30 - 2:45pm at the
-Carmel Ice Skadium. Players should plan to attend both sessions.
+May 14, 2018 --- The Hoosier Wings are a pre/post season competitive
+team composed of the best players in the Hoosier League, selected by
+tryout. The team aims to qualify for Nationals. Congratulations to to
+the following Bloomington players selected for 2018-19 Hoosier Wings!
 
-Tryout fee is $50. Total fee estimated to be $1,300. Players will need
-to bring a birth certifcate and a **current** (2018-19) USA Hockey Registration
-Confirmation to tryouts.
+- Aidan Lowinger
 
 
-Team Indiana News
------------------
-May 7, 2018 (updated) --- Congratulations to the following Bloomington
-players selected for 2018-19 Team Indiana!
+Team Indiana
+------------
+May 7, 2018 (updated) --- Team Indiana U18 and U16 are travel teams
+composed of the best players in the state, selected by tryout. The
+team will compete on select weekends during the 2018-19
+season. Congratulations to the following Bloomington players selected
+for 2018-19 Team Indiana!
 
 - Sam Franklin (Team Indiana U18)
 - Cooper Fox (Team Indiana U16)
