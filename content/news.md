@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2018-05-14
+date: 2018-05-19
 weight: 3
 ---
 
@@ -13,11 +13,9 @@ Hoosier Wings
 -------------
 May 14, 2018 --- The Hoosier Wings are a pre/post season competitive
 team composed of the best players in the Hoosier League, selected by
-tryout. The team aims to qualify for Nationals. Congratulations to to
-the following Bloomington players selected for 2018-19 Hoosier Wings!
-
-- Aidan Lowinger
-
+tryout. The team aims to qualify for Nationals. Congratulations to
+Junior goalie Aidan Lowinger for being selected for the 2018-19
+Hoosier Wings!
 
 Team Indiana
 ------------
