@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2018-05-19
+date: 2018-05-22
 weight: 3
 ---
 
@@ -8,6 +8,24 @@ weight: 3
   <a id="news-a1" href="#"><img id="news-s1" class="image sponsor"></a>
   <a id="news-a2" href="#"><img id="news-s2" class="image sponsor"></a>
 </div>
+Updates
+-------
+May 22, 2018 --- Columbus practices for August and September are on
+the [calendar][cal]. Carpool sign-up coming soon. Players are not
+permitted to drive themselves to Columbus Practices.
+
+Any player who will be missing a scheduled practice should let
+Coach Appel know in advance. Practice plans may change based on number
+of players attending. Thank you!
+
+Players and parents should get the [TeamApp mobile
+app][teamapp]. Once you install it, create an account and then search
+for "Blades HS Hockey" and join! We'll use TeamApp for quick messages
+and game-day updates.
+
+[teamapp]: https://www.teamapp.com/app
+[cal]: https://calendar.google.com/calendar/embed?src=epsc9ra4unbaelg6bns4r4ifro%40group.calendar.google.com&ctz=America/New_York
+
 
 Hoosier Wings
 -------------
@@ -62,8 +80,6 @@ state tournament. A plaque will be given to the captains before our
 second game of the tournament, 10:30am Saturday, March 3 on the
 Charles W. "Lefty" Smith Jr. rink at the University of Notre Dame.
 
-
-
 2017 All-Stars
 --------------
 Decemnber 13, 2017 --- Congratulations to the following players selected as 2017 Hoosier League All-Stars!
@@ -79,22 +95,3 @@ fa-map-marker"></span>][fuel] (players please arrive by 2:00pm).
 
 
 [fuel]: https://maps.google.com/maps?hl=en&q=Fuel%20Tank%20at%20Fishers%2C%209022%20E%20126th%20St%2C%20Fishers%2C%20IN%2046038%2C%20USA
-
-
-Updates
--------
-
-Any player who will be missing an on- or off-ice practice should let
-Coach Appel know in advance. Practice plans may change based on number
-of players attending. Thank you!
-
-Be sure to check the [calendar][cal] for updated practices times and other
-changes. Also players and parents should get the [TeamApp mobile
-app][teamapp]. Once you install it, create an account and then search
-for "Blades HS Hockey" and join! We'll use TeamApp for quick messages
-and game-day updates.
-
-Reminder, players are not permitted to drive themselves to away games.
-
-[teamapp]: https://www.teamapp.com/app
-[cal]: https://calendar.google.com/calendar/embed?src=epsc9ra4unbaelg6bns4r4ifro%40group.calendar.google.com&ctz=America/New_York

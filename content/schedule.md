@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-05-01
+date: 2018-05-22
 weight: 5
 ---
 
@@ -15,8 +15,8 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 
 Upcoming Events
 ---------------
-* Incoming Player Q&A Session, May 19, 4:30pm. Contact [Jay Baer](mailto:jbaer@bloomingtonblades.com) for info.
 * 2018-19 Mandatory Preseason Registration Meeting: July 29, 5:00pm, [Basswood Apartments Clubhouse <span class="icon fa-map-marker"></span>][basswood].
+* First practice: August 12, 12:15pm, [Hamilton Ice Arena <span class="icon fa-map-marker"></span>][hamilton].
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
@@ -24,7 +24,7 @@ Calendars
 ---------
 All Blades events are posted on our [Google Calendar <span class="icon fa-calendar"></span>][cal]
 
-Calendar [iCal link][ical] for your computer or mobile calendar.
+Calendar [iCal link][ical] for your computer or mobile calendar. [How to use this][calsupport].
 
 Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></span>][fcal]
 
@@ -47,3 +47,4 @@ Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></s
 [perry]: https://maps.google.com/maps?hl=en&q=Perry%20Park%20Ice%20Rink%2C%20451%20East%20Stop%2011%20Road%2C%20Indianapolis%2C%20IN%2C%20United%20States
 [midwest]: https://maps.google.com/maps?hl=en&q=Midwest%20Training%20%26%20Ice%20Center%2C%2010600%20White%20Oak%20Ave%2C%20Dyer%2C%20IN%2046311%2C%20USA
 [swonder]: https://maps.google.com/maps?hl=en&q=Swonder%20Ice%20Arena%2C%20209%20N%20Boeke%20Rd%2C%20Evansville%2C%20IN%2047711%2C%20USA
+[calsupport]: https://support.google.com/calendar/answer/37100?hl=en
