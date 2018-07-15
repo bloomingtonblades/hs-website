@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2018-05-22
+date: 2018-07-15
 weight: 3
 ---
 
@@ -10,9 +10,22 @@ weight: 3
 </div>
 Updates
 -------
-May 22, 2018 --- Columbus practices for August and September are on
-the [calendar][cal]. Carpool sign-up coming soon. Players are not
-permitted to drive themselves to Columbus Practices.
+**July 15, 2018** --- Registration for the 2018-19 season is open!
+To register, be sure you have completed:
+
+  - [USA Hockey player registration](https://www.usahockeyregistration.com)
+  - [BBHSHA online registration](https://docs.google.com/forms/d/e/1FAIpQLSf2Hl7zl6fLoezWyKQAnQHIzjb8EP3ZYeku_wY27V4ouLSGEw/viewform?usp=sf_link)
+
+Players and parents please attend our mandatory pre-season meeting on
+Sunday, July 29, 5pm--7pm at the [Basswood Apartments
+Clubhouse][basswood]. A $400 registration payment will be collected at
+the meeting. If you absolutely cannot attend, please contact team
+manager [Jay Baer][jay].
+
+Columbus practices for August and September are already scheduled and
+on the [calendar][cal]. Players are not permitted to drive themselves
+to Columbus practices, but we encourage parents to [sign up for
+car-pooling][carpool].
 
 Any player who will be missing a scheduled practice should let
 Coach Appel know in advance. Practice plans may change based on number
@@ -23,6 +36,7 @@ app][teamapp]. Once you install it, create an account and then search
 for "Blades HS Hockey" and join! We'll use TeamApp for quick messages
 and game-day updates.
 
+[carpool]: https://www.signupgenius.com/go/10C084BACAA28A0FA7-blades7/15646395
 [teamapp]: https://www.teamapp.com/app
 [cal]: https://calendar.google.com/calendar/embed?src=epsc9ra4unbaelg6bns4r4ifro%40group.calendar.google.com&ctz=America/New_York
 
@@ -94,4 +108,6 @@ Saturday, December 30 in Fishers at the [Fuel Tank <span class="icon
 fa-map-marker"></span>][fuel] (players please arrive by 2:00pm). 
 
 
-[fuel]: https://maps.google.com/maps?hl=en&q=Fuel%20Tank%20at%20Fishers%2C%209022%20E%20126th%20St%2C%20Fishers%2C%20IN%2046038%2C%20USA
+[basswood]: https://www.google.com/maps/place/Basswood+Apartments,+1000+S+Basswood+Cir,+Bloomington,+IN+47403/@39.1518655,-86.5708355,17z/data=!4m2!3m1!1s0x886c677a6ac12c4d:0x830c6aebc265b08
+[fuel]: https://maps.google.com/maps?hl=en&q=Fuel%20Tank%20at%20Fishers%2C%209022%20E%20126th%20St%2C%20Fishers%2C%20IN%2046038%2C%20US
+[jay]: mailto:jbaer@bloomingtonblades.com
