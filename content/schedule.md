@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-05-22
+date: 2018-07-29
 weight: 5
 ---
 
@@ -15,8 +15,11 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 
 Upcoming Events
 ---------------
-* 2018-19 Mandatory Preseason Registration Meeting: July 29, 5:00pm, [Basswood Apartments Clubhouse <span class="icon fa-map-marker"></span>][basswood].
 * First practice: August 12, 12:15pm, [Hamilton Ice Arena <span class="icon fa-map-marker"></span>][hamilton].
+* First Games:
+  - Blades Blue @ Owensboro, September 29, 11:15am (Central Time)
+  - Blades White @ Owensboro, September 29, 4:15pm (Central Time)
+* Team Pictures: October 1, 4:00pm at The Frank.
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 
