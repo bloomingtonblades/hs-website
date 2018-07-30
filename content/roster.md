@@ -1,6 +1,6 @@
 ---
 title: "Roster"
-date: 2017-10-18
+date: 2018-07-29
 weight: 4
 ---
 
@@ -11,43 +11,21 @@ weight: 4
 
 <center>Photographs by [Jeff Norris Photography](http://www.jeffnorrisphotography.com)</center>
 
-Staff
------
+Staff 2018&ndash;19
+-------------------
 
 <img style="width: 100%;" alt="Blades Coaching Staff 2017-18" src="coaches.jpg">
 
-* Head Coach &mdash; Dave Appel
-* Assistant Coach &mdash; John Bowman
+* Head Coach Blades Blue &mdash; Dave Appel
+* Head Coach Blades White &mdash; Dyvan Daley
 * Assistant Coach &mdash; Nick Lightfoot
 * Assistant Coach &mdash; Johan Lowinger
 * Manager &mdash; [Jay Baer <span class="icon fa-envelope-o"></span>](mailto:jbaer@bloomingtonblades.com)
 
-Players
--------
+Players 2018&ndash;19
+---------------------
 
 ### Seniors
-<div class="classdiv">
-  <div class="player">
-    <figure>
-      <img alt="Alec Appel Photo" src="7-appel.jpg">
-      <figcaption>Alec Appel<br>#7 (A)</figcaption>
-    </figure>
-  </div>
-  <div class="player">
-    <figure>
-      <img alt="Ethan Berkley Photo" src="84-berkley.jpg">
-      <figcaption>Ethan Berkley<br>#84 (C)</figcaption>
-    </figure>
-  </div>
-  <div class="player">
-    <figure>
-      <img alt="Sam Burris Photo" src="6-burris.jpg">
-      <figcaption>Sam Burris<br>#6 (A)</figcaption>
-    </figure>
-  </div>
-</div>
-
-### Juniors
 <div class="classdiv">
   <div class="player">
     <figure>
@@ -81,7 +59,7 @@ Players
   </div>
 </div>
 
-### Sophomores
+### Juniors
 <div class="classdiv">
   <div class="player">
     <figure>
@@ -133,8 +111,20 @@ Players
   </div>
 </div>
 
-### Freshmen
+### Sophomores
 <div class="classdiv">
+  <div class="player">
+    <figure>
+      <img alt="Reid Cory Photo" src="images/200px-Placeholder_photo.png">
+      <figcaption>Reid Cory<br>#99</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="Eli Davis Photo" src="images/200px-Placeholder_photo.png">
+      <figcaption>Eli Davis<br>#93</figcaption>
+    </figure>
+  </div>
   <div class="player">
     <figure>
       <img alt="Ryan Hunt Photo" src="16-hunt.jpg">
@@ -155,8 +145,66 @@ Players
   </div>
   <div class="player">
     <figure>
+      <img alt="Logan Patzner Photo" src="images/200px-Placeholder_photo.png">
+      <figcaption>Logan Patzner<br>#44</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="Dylan Pope Photo" src="images/200px-Placeholder_photo.png">
+      <figcaption>Dylan Pope<br></figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
       <img alt="Eli Prather Photo" src="27-prather.jpg">
-      <figcaption>Eli Prather<br>#27</figcaption>
+      <figcaption>Eli Prather<br>#27<img src="/images/tin.png"></figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="Tanner Price-Presslaff Photo" src="images/200px-Placeholder_photo.png">
+      <figcaption>Tanner Price-Presslaff<br>#66</figcaption>
+    </figure>
+  </div>
+</div>
+
+### Freshmen
+<div class="classdiv">
+  <div class="player">
+    <figure>
+      <img alt="Noah Cochran Photo" src="images/200px-Placeholder_photo.png">
+      <Figcaption>Noah Cochran<br>#19</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="Louis Daley Photo" src="images/200px-Placeholder_photo.png">
+      <figcaption>Louis Daley<br>#34</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="Cooper Fox Photo" src="images/200px-Placeholder_photo.png">
+      <figcaption>Cooper Fox<br>#45<img src="/images/tin.png"></figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="Matthew Griffin Photo" src="images/200px-Placeholder_photo.png">
+      <figcaption>Matthew Griffin<br>#91</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="Steven Lukes Photo" src="images/200px-Placeholder_photo.png">
+      <figcaption>Steven Lukes<br>#89</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="Cruz Timbrook Photo" src="images/200px-Placeholder_photo.png">
+      <figcaption>Cruz Timbrook<br>#28<img src="/images/tin.png"></figcaption>
     </figure>
   </div>
 </div>
