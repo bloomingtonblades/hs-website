@@ -18,6 +18,7 @@ Staff 2018&ndash;19
 
 * Head Coach Blades Blue &mdash; Dave Appel
 * Head Coach Blades White &mdash; Dyvan Daley
+* Assistant Coach &mdash; Chris Hamric
 * Assistant Coach &mdash; Nick Lightfoot
 * Assistant Coach &mdash; Johan Lowinger
 * Manager &mdash; [Jay Baer <span class="icon fa-envelope-o"></span>](mailto:jbaer@bloomingtonblades.com)
