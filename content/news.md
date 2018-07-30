@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2018-07-24
+date: 2018-07-29
 weight: 3
 ---
 
@@ -8,42 +8,13 @@ weight: 3
   <a id="news-a1" href="#"><img id="news-s1" class="image sponsor"></a>
   <a id="news-a2" href="#"><img id="news-s2" class="image sponsor"></a>
 </div>
-2018-19 Pre-Season Team Meeting
--------------------------------
-**July 24, 2018** --- Some information about our upcoming season
-kickoff team and parent meeting (you should have already received by
-email if you're registered).
-
-We have a lot of stuff to cover on Sunday at 5pm at [Basswood Apartments
-Clubhouse][basswood].
-
-Before the meeting:
-
-1. Complete the [BBHSHA online registration](https://docs.google.com/forms/d/e/1FAIpQLSf2Hl7zl6fLoezWyKQAnQHIzjb8EP3ZYeku_wY27V4ouLSGEw/viewform?usp=sf_link). You will need your USA Hockey number.
-2. Read the [proposed bylaws changes](https://docs.google.com/document/d/1gW2meQlGOM8n0WIJ60wliUnuv7cV8MmmR_HoyvIowO0/edit?usp=sharing). We will vote on these Sunday. (Changes are highlighted in yellow)
-3. Read the [substance abuse policy](https://docs.google.com/document/d/1X7Ui-wmZvyNC7j7fzZ3DWTwoNPzzCiv2cKXiUhgVFPM/edit?usp=sharing). The policy itself (first paragraph on the document) has been adopted by the Board and will be in effect this season. The drug testing provision (below the policy on the document) will be voted upon by parents and coaches on Sunday. Players will not be in the room during discussion and voting re: drug testing. 
-4. Read the [drug testing FAQ](https://docs.google.com/document/d/1Ku7DQEVpd4rlqH6XHwfJ0hlPEvBpw149HKEBQfn_vSE/edit?usp=sharing) to have more insight into how this will work, if it is adopted by a majority vote. Note that per our bylaws, each player’s family gets one vote in BBHSHA matters. 
-
-At the meeting, we will need your $400 deposit to give you a ballot for voting. Checks preferred, made to BBHSHA, as it saves the association credit card fees.
-
-Thanks very much. We are SO EXCITED for this meeting, as we have a lot of exciting news to share. This is going to be the best year ever for the Blades, and for parents. 
-
-Please get in touch with [Jay Baer][jay] if you have any questions, or if you cannot make the meeting.
-
-
 2018-19 Registration and Practices
 ----------------------------------
-**July 15, 2018** --- Registration for the 2018-19 season is open!
-To register, be sure you have completed:
+**July 29, 2018** --- Registration for the 2018-19 season is closed!
 
-  - [USA Hockey player registration](https://www.usahockeyregistration.com)
-  - [BBHSHA online registration](https://docs.google.com/forms/d/e/1FAIpQLSf2Hl7zl6fLoezWyKQAnQHIzjb8EP3ZYeku_wY27V4ouLSGEw/viewform?usp=sf_link)
-
-Players and parents please attend our mandatory pre-season meeting on
-Sunday, July 29, 5pm--7pm at the [Basswood Apartments
-Clubhouse][basswood]. A $400 registration payment will be collected at
-the meeting. If you absolutely cannot attend, please contact team
-manager [Jay Baer][jay].
+If any of your information is incomplete we will contact you. Please
+help by providing any missing info as soon as possible. We will be
+ordering jerseys and other apparel very soon.
 
 Columbus practices for August and September are already scheduled and
 on the [calendar][cal]. Players are not permitted to drive themselves
