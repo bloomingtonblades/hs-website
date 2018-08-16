@@ -7,7 +7,7 @@
           <header id="header">
             <div class="logo">
               {{ with .Site.Params.logoimage }}
-              <img src="{{ . }}" width="100%" style="padding: 25px 25px;">
+              <img src="{{ . }}" width="100%" style="padding: 15%;">
             {{ end }}
             {{ with .Site.Params.logo }}            
               <span class="icon {{ . }}"></span>
@@ -15,7 +15,8 @@
             </div>
             <div class="content">
               <div class="inner">
-                <h1>{{ .Site.Params.title | safeHTML }}</h1>
+                <img src="{{ .Site.Params.titleimage | safeHTML}}"
+                     alt="{{ .Site.Params.title | safeHTML}}" style="width: 80%; margin-bottom: 1rem;">
                 <p>{{ .Site.Params.description | safeHTML }}</p>
               </div>
             </div>
