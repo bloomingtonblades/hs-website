@@ -10,7 +10,7 @@ disableKinds = ["RSS"]
   headtitle = "Bloomington Blades High School Hockey"
   title = "Blades Hockey"
   description = 'High School Hockey in Bloomington, Indiana'
-  logoimage = "/images/B.png"
+  logoimage = "/images/B-140.png"
   copyright = "Bloomington Blades High School Hockey Association"
 
 [[params.social]]
