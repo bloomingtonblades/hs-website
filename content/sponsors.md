@@ -1,6 +1,6 @@
 ---
 title: "Sponsors"
-date: 2017-07-15
+date: 2018-08-28
 weight: 6
 ---
 
