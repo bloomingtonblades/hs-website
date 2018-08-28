@@ -2,42 +2,52 @@
 
 var bb_sponsors = [
     {
-        s_img: "cas-2017.jpg",
+        s_img: "cas-2018.jpg",
         s_name: "Create-A-Smile, PC",
         s_web: "http://createasmilepc.com/"
     },
     {
-        s_img: "mg-2017.jpg",
+        s_img: "mg-2018.jpg",
         s_name: "Mallor | Grodner Attorneys",
         s_web: "http://www.lawmg.com/"
     },
     {
-        s_img: "ra-2017.jpg",
+        s_img: "ra-2018.jpg",
         s_name: "Root Advisors",
         s_web: "https://root.com"
     },
     {
-        s_img: "ub-2017.jpg",
-        s_name: "Upland Bloomington Brewpub",
-        s_web: "https://www.uplandbeer.com/locations/bloomington-brew-pub/"
+        s_img: "tec-2018.jpg",
+        s_name: "The Eye Center",
+        s_web: "https://www.theeyecenter.org/"
     },
     {
-        s_img: "hw-2017.jpg",
+        s_img: "hw-2018.jpg",
         s_name: "Hurlow Wealth Management",
         s_web: "http://www.hurlowwealth.com/"
     },
     {
-        s_img: "ow-2017.jpg",
+        s_img: "ocb-2018.jpg",
+        s_name: "Owen County State Bank",
+        s_web: "https://www.ocsbank.com/"
+    },
+    {
+        s_img: "ow-2018.jpg",
         s_name: "Oliver Winery and Vineyards",
         s_web: "http://www.oliverwinery.com/"
     },
     {
-        s_img: "tnw-2017.jpg",
-        s_name: "TNW Automotive Service Center",
-        s_web: "http://tnwautomotive.net/"
+        s_img: "terrys-2018.jpg",
+        s_name: "Terry's Catering",
+        s_web: "http://terryscatering.com/"
     },
     {
-        s_img: "vd-2017.jpg",
+        s_img: "lwb-2018.jpg",
+        s_name: "Loren Wood Builders",
+        s_web: "https://lorenwoodbuilders.com/"
+    },
+    {
+        s_img: "vd-2018.jpg",
         s_name: "The Village Deli",
         s_web: "http://www.villagedeli.biz/"
     }

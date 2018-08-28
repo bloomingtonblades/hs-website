@@ -15,15 +15,17 @@ anywhere. Please thank our sponsors for helping to make that possible!
 Premier Sponsors
 ----------------
 - [Oliver Winery and Vineyards][oliver]
+- [The Eye Center of Southern Indiana][tec]
 
 Preferred Sponsors
 ------------------
-- [Create-a-Smile, PC][smile]
+- [Create-a-Smile, PC][cas]
 - [Hurlow Wealth Management Group, Inc.][hurlow]
+- [Loren Wood Builders][lwb]
 - [Mallor | Grodner Attorneys][mallor]
+- [Owen County State Bank][ocb]
 - [Root Advisors][root]
-- [TNW Automotive Service Center][tnw]
-- [Upland Brewing Company Bloomington Brewpub][upland]
+- [Terry's Catering][terrys]
 - [The Village Deli][vd]
 
 
@@ -43,10 +45,12 @@ please contact [Jay Baer <span class="icon fa-envelope-o"></span>][jay].
 
 [jay]: mailto:jbaer@bloomingtonblades.com
 [oliver]: https://www.oliverwinery.com/
-[smile]: http://createasmilepc.com/
+[cas]: http://createasmilepc.com/
+[tec]: https://www.theeyecenter.org/
 [hurlow]: http://www.hurlowwealth.com/
+[lwb]: https://lorenwoodbuilders.com/
 [mallor]: http://www.lawmg.com/
-[tnw]: http://tnwautomotive.net/
+[ocb]: https://www.ocsbank.com/
 [root]: https://root.com/
-[upland]: https://www.uplandbeer.com/locations/bloomington-brew-pub/
+[terrys]: http://terryscatering.com/
 [vd]: http://www.villagedeli.biz/
