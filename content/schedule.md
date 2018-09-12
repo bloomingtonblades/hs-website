@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-07-29
+date: 2018-09-12
 weight: 5
 ---
 
@@ -15,10 +15,11 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 
 Upcoming Events
 ---------------
-* First practice: August 12, 12:15pm, [Hamilton Ice Arena <span class="icon fa-map-marker"></span>][hamilton].
+* Team Dinner (parents invited): September 21, 7:00pm, [Aver's Pizza Buffet <span class="icon fa-map-marker"></span>](https://goo.gl/maps/dWRnqDzvx6S2)
 * First Games:
-  - Blades Blue @ Owensboro, September 29, 11:15am (Central Time)
-  - Blades White @ Owensboro, September 29, 4:15pm (Central Time)
+  - Blades vs. Evansville KY Thunder, September 23, 10:30am & 12:15pm (At Columbus [Hamilton Ice Arena <span class="icon fa-map-marker"></span>][hamilton]).
+  - Blades Blue @ [Owensboro <span class="icon fa-map-marker"></span>][edge], September 29, 11:15am (Central Time)
+  - Blades White @ [Owensboro <span class="icon fa-map-marker"></span>][edge], September 29, 4:15pm (Central Time)
 * Team Pictures: October 1, 4:00pm at The Frank.
 
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
