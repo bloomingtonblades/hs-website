@@ -1,6 +1,6 @@
 ---
 title: "Roster"
-date: 2018-07-29
+date: 2018-09-18
 weight: 4
 ---
 
@@ -122,12 +122,6 @@ Players 2018&ndash;19
   </div>
   <div class="player">
     <figure>
-      <img alt="Eli Davis Photo" src="images/200px-Placeholder_photo.png">
-      <figcaption>Eli Davis<br>#93</figcaption>
-    </figure>
-  </div>
-  <div class="player">
-    <figure>
       <img alt="Ryan Hunt Photo" src="16-hunt.jpg">
       <figcaption>Ryan Hunt<br>#16</figcaption>
     </figure>
@@ -153,7 +147,7 @@ Players 2018&ndash;19
   <div class="player">
     <figure>
       <img alt="Dylan Pope Photo" src="images/200px-Placeholder_photo.png">
-      <figcaption>Dylan Pope<br></figcaption>
+      <figcaption>Dylan Pope<br>#76</figcaption>
     </figure>
   </div>
   <div class="player">
