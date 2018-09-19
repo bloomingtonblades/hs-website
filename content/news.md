@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2018-07-29
+date: 2018-09-19
 weight: 3
 ---
 
@@ -8,6 +8,66 @@ weight: 3
   <a id="news-a1" href="#"><img id="news-s1" class="image sponsor"></a>
   <a id="news-a2" href="#"><img id="news-s2" class="image sponsor"></a>
 </div>
+
+2018-19 Roster News
+-------------------
+
+**September 19, 2018** --- Below is the USA Hockey Roster for the
+Bloomington Blades league team for the 2018-19 season. This roster
+reflects all players that will be eligible to play for the "Blue" team
+throughout the course of the season. Being on this list does not mean
+that you will be eligible for the state tournament as the roster must
+be reduced to 21 total by December 31 and players must meet the minimum
+criteria of 50% league games and 6 crossovers. Not all of the players
+on this list will dress for blue team games. This will remain a fluid
+roster for some time as players prove themselves on and off the ice
+*and in the classroom*. The roster was developed through thorough
+evaluation by coaching staff and impartial observers over the
+weekend. I will discuss this in more detail on Friday at the team
+event but this should serve as a motivator for many players to either
+gain or *MAINTAIN* a spot on the 21 player roster in December.
+
+I applaud the efforts of our Board to maintain the number of players
+we have in our program. Players not on the final roster will have
+every opportunity to develop over the course of the season as I coach
+all players, not just the blue team. The groundwork laid this year
+will benefit the program for years to come.
+
+**Bloomington Blades 2018-19**
+
+1. Aidan Lowinger
+1. Eli Prather
+1. Austin Rawlins
+1. Nick Stright
+1. Ethan Baer
+1. Sam Franklin
+1. Vincent "Vinny" La Bella
+1. Anthony "Tony" La Bella
+1. Cruz Timbrook
+1. Hayden Streib
+1. Henry Streib
+1. Lander Greulich
+1. Ryan Hunt
+1. Cooper Fox
+1. Layton Cockerham
+1. Matthew Griffin
+1. Steven Lukes
+1. Reid Cory
+1. Ozzie Lauer
+1. Mitchell Knipstein
+1. Dillon Dayhoff
+1. Ian Knox
+1. Dylan Pope
+
+I am so excited about this team and their potential and I fully intend
+on developing all players regardless if they are on this roster or
+not!!
+
+Thank you,
+
+Coach Dave
+
+
 2018-19 Registration and Practices
 ----------------------------------
 **July 29, 2018** --- Registration for the 2018-19 season is closed!
