@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2017-07-15
+date: 2018-09-29
 weight: 1
 ---
 
@@ -21,6 +21,7 @@ Board of Directors
 * Vice Pesident &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>](mailto:alysonebaer@gmail.com)
 * Treasurer &mdash; [Kim Franklin <span class="icon fa-envelope-o"></span>](mailto:kafranklin4@gmail.com)
 * Secretary &mdash; [Stephanie Lowinger <span class="icon fa-envelope-o"></span>](mailto:stephanielowinger@gmail.com)
+* At Large &mdash; [Joseph Pavich <span class="icon fa-envelope-o"></span>](mailto:jpavich1@iuhealth.org)
 
 Arena
 -----
@@ -30,10 +31,7 @@ in Bloomington, Indiana.
 
 - Front Desk &mdash; (812) 349-3762
 - General Manager &mdash; [Dee Tuttle <span class="icon fa-envelope-o"></span>][dee], (812) 349-3762  
-
-<!--- Commented out until link is available
 - [Ice Calendar <span class="icon fa-calendar"></span>][rinkcal]
---->
 
 Affiliates and Partners
 -----------------------
@@ -49,7 +47,7 @@ Affiliates and Partners
 [rink]: https://bloomington.in.gov/parks/facilities/frank-southern
 [dee]: mailto:tuttled@bloomington.in.gov
 [map]: https://www.google.com/maps/place/2100+S+Henderson+St,+Bloomington,+IN+47401/@39.1412293,-86.529133,17z/data=!3m1!4b1!4m5!3m4!1s0x886c66590dd701f1:0x2c4224b76654f9a2!8m2!3d39.1412252!4d-86.526939
-[rinkcal]: #
+[rinkcal]: https://calendar.google.com/calendar/embed?src=bloomington.in.gov_v7slvuin2lg2uajqbna2hbkts0@group.calendar.google.com&ctz=America/New_York
 [parks]: https://bloomington.in.gov/parks
 [iuhealth]: http://iuhealth.org/sports-medicine/
 [ishsha]: http://www.ishsha.com
