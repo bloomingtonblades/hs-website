@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-09-12
+date: 2018-09-28
 weight: 5
 ---
 
@@ -15,14 +15,12 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 
 Upcoming Events
 ---------------
-* Team Dinner (parents invited): September 21, 7:00pm, [Aver's Pizza Buffet <span class="icon fa-map-marker"></span>](https://goo.gl/maps/dWRnqDzvx6S2)
-* First Games:
-  - Blades vs. Evansville KY Thunder, September 23, 10:30am & 12:15pm (At Columbus [Hamilton Ice Arena <span class="icon fa-map-marker"></span>][hamilton]).
+* Games:
   - Blades Blue @ [Owensboro <span class="icon fa-map-marker"></span>][edge], September 29, 11:15am (Central Time)
   - Blades White @ [Owensboro <span class="icon fa-map-marker"></span>][edge], September 29, 4:15pm (Central Time)
-* Team Pictures: October 1, 4:00pm at The Frank.
-
-[upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
+  - Blades Blue @ CIK, [Fairgrounds Youth Pavillion <span class="icon fa-map-marker"></span>][popweaver], October 7, 9:45am
+  - Blades White @ HSE B, [Fairgrounds Youth Pavillion <span class="icon fa-map-marker"></span>][popweaver], October 7, 11:30am
+* Team Pictures *(Rescheduled)*: October 15, 4:00pm at The Frank.
 
 Calendars
 ---------
@@ -45,6 +43,7 @@ Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></s
 [fuel]: https://maps.google.com/maps?hl=en&q=Fuel%20Tank%20at%20Fishers%2C%209022%20E%20126th%20St%2C%20Fishers%2C%20IN%2046038%2C%20USA
 [millenium]: https://www.google.com/maps/place/1200+S+Rolling+Ridge+Way,+Bloomington,+IN+47403/@39.153483,-86.5642924,17z/data=!3m1!4b1!4m5!3m4!1s0x886c6772fc3d8eed:0xf8f1ac9feafe940!8m2!3d39.1534789!4d-86.5621037
 [coliseum]: https://www.google.com/maps/place/Indiana+Farmers+Coliseum/@39.8276805,-86.1371959,17z/data=!3m1!4b1!4m5!3m4!1s0x886b51783899e365:0xc4b58965029cc570!8m2!3d39.8276805!4d-86.1350072
+[popweaver]: https://maps.google.com/maps?hl=en&q=Pop%20Weaver%20Youth%20Pavilion%2C%201202%20E%2038th%20St%2C%20Indianapolis%2C%20IN%2046205%2C%20USA
 [hamilton]: https://maps.google.com/maps?hl=en&q=Hamilton%20Center%20Ice%20Arena%2C%202501%20Lincoln%20Park%20Dr%2C%20Columbus%2C%20IN%2047201%2C%20USA
 [arcticzone]: https://maps.google.com/maps?hl=en&q=Arctic%20Zone%20Iceplex%2C%2016616%20Southpark%20Dr%2C%20Westfield%2C%20IN%2046074%2C%20USA
 [icebox]: https://maps.google.com/maps?hl=en&q=The%20Ice%20Box%20Skating%20Rink%2C%201421%20S%20Walnut%20St%2C%20South%20Bend%2C%20IN%2046619%2C%20USA
@@ -52,3 +51,4 @@ Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></s
 [midwest]: https://maps.google.com/maps?hl=en&q=Midwest%20Training%20%26%20Ice%20Center%2C%2010600%20White%20Oak%20Ave%2C%20Dyer%2C%20IN%2046311%2C%20USA
 [swonder]: https://maps.google.com/maps?hl=en&q=Swonder%20Ice%20Arena%2C%20209%20N%20Boeke%20Rd%2C%20Evansville%2C%20IN%2047711%2C%20USA
 [calsupport]: https://support.google.com/calendar/answer/37100?hl=en
+[upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
