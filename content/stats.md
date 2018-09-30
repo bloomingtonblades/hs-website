@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-03-08
+date: 2017-09-29
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -8,338 +8,38 @@ weight: 8
   <a id="stats-a2" href="#"><img id="stats-s2" class="image sponsor"></a>
 </div>
 
-2017-18 Results
----------------
-<table>
+## Blades Blue
+  * [Results](#bresults)
+  * [Points Standings](#bpoints)
+  * [Goalies](#bgoalies)
+
+## Blades White
+  * [Results](#wresults)
+  * [Points Standings](#wpoints)
+  * [Goalies](#wgoalies)
+
+
+<a name="bresults"></a>2018-19 Results -- Blades Blue
+------------------------------
+<Table>
   <thead>
     <tr>
       <th></th> <th></th> <th title="Period 1">P1</th> <th title="Period 2">P2</th> <th title="Period 3">P3</th> <th title="Overtime">OT</th> <th title="Total">T</th> <th class="widestats">WIN</th> <th class="widestats">LOSS</th> <th class="widestats" title="Saves">S</th>
     </tr>
   </thead>
 
-  <!-- South Stars Red vs. Blades, 9/30/17 -->
+  <!-- Blades Blue @ Owensboro, 9/29/18 -->
   <tr class="odd">
       <td rowspan="2">9/30</td>
-                                 <td>S. Stars Red</td> <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td> <td class="widestats"></td> <td class="widestats">Semmler</td> <td class="widestats">16</td>
+                                 <td>Blades</td>     <td>1</td> <td>1</td> <td>1</td> <td></td> <td>3</td> <td class="widestats">Lowinger</td> <td class="widestats"></td> <td class="widestats">6</td>
   </tr>
   <tr class="odd">
-                                 <td>Blades</td>       <td>0</td> <td>3</td> <td>0</td> <td></td> <td>3</td> <td class="widestats">Lowinger</td> <td class="widestats"></td> <td class="widestats">22</td>
-  </tr>
-
-  <!-- Westfield vs Blades, 10/6/17 -->
-  <tr class="even">
-    <td rowspan="2">10/6</td>
-                                 <td>Westfield</td>    <td>0</td> <td>1</td> <td>0</td> <td></td> <td>1</td> <td class="widestats"></td> <td class="widestats">Polster</td> <td class="widestats">23</td>
-  </tr>
-  <tr class="even">
-                                 <td>Blades</td>       <td>3</td> <td>5</td> <td>1</td> <td></td> <td>9</td> <td class="widestats">Dayhoff</td> <td class="widestats"></td> <td class="widestats">13</td>
-  </tr>
-
-  <!-- Louisville Trinity vs Blades, 10/7/17 -->
-  <tr class="odd">
-    <td rowspan="2">10/7</td>
-                                 <td>Trinity</td>      <td>2</td> <td>1</td> <td>0</td> <td></td> <td>3</td> <td class="widestats">Geovenco</td> <td class="widestats"></td> <td class="widestats">20</td>
-  </tr>
-  <tr class="odd">
-                                 <td>Blades</td>       <td>0</td> <td>0</td> <td>1</td> <td></td> <td>1</td> <td class="widestats"></td> <td class="widestats">Lowinger</td> <td class="widestats">19</td>
-  </tr>
-
-  <!-- Zionsville vs Blades, 10/8/17 -->
-  <tr class="even">
-    <td rowspan="2">10/8</td>
-                                 <td>Zionsville</td>   <td>2</td> <td>2</td> <td>1</td> <td></td> <td>5</td> <td class="widestats">Chinni</td> <td class="widestats"></td> <td class="widestats">16</td>
-  </tr>
-  <tr class="even">
-                                 <td>Blades</td>       <td>1</td> <td>0</td> <td>0</td> <td></td> <td>1</td> <td class="widestats"></td> <td class="widestats">Lowinger</td> <td class="widestats">42</td>
-  </tr>
-
-  <!-- HSE A vs Blades, 10/13/17 -->
-  <tr class="odd">
-    <td rowspan="2">10/13</td>
-                                 <td>HSE A</td>        <td>0</td> <td>2</td> <td>2</td> <td></td> <td>4</td> <td class="widestats">Harris</td> <td class="widestats"></td> <td class="widestats">34</td>
-  </tr>
-  <tr class="odd">
-                                 <td>Blades</td>       <td>0</td> <td>3</td> <td>0</td> <td></td> <td>3</td> <td class="widestats"></td> <td class="widestats">Lowinger</td> <td class="widestats">20</td>
-  </tr>
-
-  <!-- Blades vs HSE A, 10/13/17 -->
-  <tr class="even">
-    <td rowspan="2">10/14</td>
-                                 <td>Blades</td>      <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td> <td class="widestats"></td> <td class="widestats">Lowinger</td> <td class="widestats">32</td>
-  </tr>
-  <tr class="even">
-                                 <td>HSE A</td>       <td>0</td> <td>3</td> <td>2</td> <td></td> <td>5</td> <td class="widestats">Harris</td> <td class="widestats"></td> <td class="widestats">23</td>
-  </tr>
-
-<!-- Blades vs Carmel Gold, 10/21/17 -->
-  <tr class="odd">
-    <td rowspan="2">10/21</td>
-                                 <td>Blades</td>      <td>1</td> <td>0</td> <td>0</td> <td></td> <td>1</td> <td class="widestats"></td> <td class="widestats">Lowinger</td> <td class="widestats">40</td>
-  </tr>
-  <tr class="odd">
-                                 <td>Carmel Gold</td> <td>1</td> <td>0</td> <td>1</td> <td></td> <td>2</td> <td class="widestats">Hendrick</td> <td class="widestats"></td> <td class="widestats">15</td>
-  </tr>
-
-<!-- Blades vs Columbus, 10/27/17 -->
-  <tr class="even">
-    <td rowspan="2">10/27</td>
-                                 <td>Blades</td>      <td>0</td> <td>1</td> <td>1</td> <td></td> <td>2</td> <td class="widestats">Dayhoff</td> <td class="widestats"></td> <td class="widestats">13</td>
-  </tr>
-  <tr class="even">
-                                 <td>Columbus</td>    <td>1</td> <td>0</td> <td>0</td> <td></td> <td>1</td> <td class="widestats"></td> <td class="widestats">Kuzmann</td> <td class="widestats">38</td>
-  </tr>
-
-<!-- Blades vs Westfield, 10/28/17 -->
-  <tr class="odd">
-    <td rowspan="2">10/28</td>
-                                 <td>Blades</td>      <td>2</td> <td>2</td> <td>2</td> <td></td> <td>6</td> <td class="widestats">Lowinger</td> <td class="widestats"></td> <td class="widestats">22</td>
-  </tr>
-  <tr class="odd">
-                                 <td>Westfield</td>   <td>1</td> <td>0</td> <td>0</td> <td></td> <td>1</td> <td class="widestats"></td> <td class="widestats">Polster</td> <td class="widestats">29</td>
-  </tr>
-
-<!-- Blades vs Culver, 11/4/17 -->
-  <tr class="even">
-    <td rowspan="2">11/4</td>
-                                 <td>Blades</td>      <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td> <td class="widestats"></td> <td class="widestats">Lowinger</td> <td class="widestats">41</td>
-  </tr>
-  <tr class="even">
-                                 <td>Culver A</td>    <td>1</td> <td>4</td> <td>0</td> <td></td> <td>5</td> <td class="widestats">Gill</td> <td class="widestats"></td> <td class="widestats">20</td>
-  </tr>
-<!-- Blades vs Culver, 11/5/17 -->
-  <tr class="odd">
-    <td rowspan="2">11/5</td>
-                                 <td>Blades</td>      <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td> <td class="widestats"></td> <td class="widestats">Dayhoff</td> <td class="widestats">31</td>
-  </tr>
-  <tr class="odd">
-                                 <td>Culver A</td>    <td>3</td> <td>3</td> <td>0</td> <td></td> <td>6</td> <td class="widestats">Gill</td> <td class="widestats"></td> <td class="widestats">11</td>
-  </tr>
-<!-- Columbus vs Blades, 11/17/17 -->
-  <tr class="even">
-    <td rowspan="2">11/17</td>
-                                 <td>Columbus</td>    <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td> <td class="widestats"></td> <td class="widestats">Stattenfield</td> <td class="widestats">23</td>
-  </tr>
-  <tr class="even">
-                                 <td>Blades</td>      <td>0</td> <td>2</td> <td>3</td> <td></td> <td>5</td> <td class="widestats">Lowinger</td> <td class="widestats"></td> <td class="widestats">17</td>
-  </tr>
-<!-- Blades vs CIK, 11/19/17 -->
-  <tr class="odd">
-    <td rowspan="2">11/19</td>
-                                 <td>Blades</td>      <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td> <td class="widestats"></td> <td class="widestats">Dayhoff</td> <td class="widestats">29</td>
-  </tr>
-  <tr class="odd">
-                                 <td>CIK</td>         <td>2</td> <td>1</td> <td>2</td> <td></td> <td>5</td> <td class="widestats">Spaletto</td> <td class="widestats"></td> <td class="widestats">19</td>
-  </tr>
-<!-- Blades vs Brebeuf, 12/1/17 -->
-  <tr class="even">
-    <td rowspan="2">12/1</td>
-                                 <td>Blades</td>      <td>4</td> <td>4</td> <td>2</td> <td></td> <td>10</td> <td class="widestats">Knox</td> <td class="widestats"></td> <td class="widestats">8</td>
-  </tr>
-  <tr class="even">
-                                 <td>Brebeuf</td>     <td>0</td> <td>0</td> <td>1</td> <td></td> <td>1</td> <td class="widestats"></td> <td class="widestats">Svintsitskiy</td> <td class="widestats">17</td>
-  </tr>
-<!-- Blades vs St. Joseph, 12/8/17 -->
-  <tr class="odd">
-    <td rowspan="2">12/8</td>
-                                 <td>Blades</td>      <td>0</td> <td>0</td> <td>1</td> <td></td> <td>1</td> <td class="widestats"></td> <td class="widestats">Lowinger</td> <td class="widestats">34</td>
-  </tr>
-  <tr class="odd">
-                                 <td>St. Joseph</td>  <td>0</td> <td>2</td> <td>1</td> <td></td> <td>3</td> <td class="widestats">Gilbert</td> <td class="widestats"></td> <td class="widestats">13</td>
-  </tr>
-<!-- Lake Central vs. Blades, 12/9/17 -->
-  <tr class="even">
-    <td rowspan="2">12/9</td>
-                                 <td>Lake Central</td>      <td>2</td> <td>0</td> <td>2</td> <td></td> <td>4</td> <td class="widestats">Didonato</td> <td class="widestats"></td> <td class="widestats">11</td>
-  </tr>
-  <tr class="even">
-                                 <td>Blades</td>  <td>0</td> <td>0</td> <td>1</td> <td></td> <td>1</td> <td class="widestats"></td> <td class="widestats">Dayhoff</td> <td class="widestats">17</td>
-  </tr>
-<!-- Blades vs. Carroll, 12/9/17 -->
-  <tr class="odd">
-    <td rowspan="2">12/9</td>
-                                 <td>Blades</td>      <td>4</td> <td>1</td> <td>2</td> <td></td> <td>7</td> <td class="widestats">Lowinger</td> <td class="widestats"></td> <td class="widestats">19</td>
-  </tr>
-  <tr class="odd">
-                                 <td>Carroll</td>  <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td> <td class="widestats"></td> <td class="widestats">Hyde</td> <td class="widestats">21</td>
-  </tr>
-<!-- Bishop Dwenger vs. Blades, 12/10/17 -->
-  <tr class="even">
-    <td rowspan="2">12/10</td>
-                                 <td>Bishop Dwenger</td>      <td>0</td> <td>2</td> <td>0</td> <td></td> <td>2</td> <td class="widestats"></td> <td class="widestats">Vlot</td> <td class="widestats">10</td>
-  </tr>
-  <tr class="even">
-                                 <td>Blades</td>              <td>2</td> <td>2</td> <td>0</td> <td></td> <td>4</td> <td class="widestats">Dayhoff</td> <td class="widestats"></td> <td class="widestats">9</td>
-  </tr>
- <!-- Blades vs. South Stars Red, 12/16/17 -->
-  <tr class="odd">
-    <td rowspan="2">12/16</td>
-                                 <td>Blades</td>       <td>0</td> <td>1</td> <td>0</td> <td>0</td> <td>1</td> <td class="widestats"></td> <td class="widestats">Dayhoff</td> <td class="widestats">37</td>
-  </tr>
-  <tr class="odd">
-                                 <td>S. Stars Red</td> <td>1</td> <td>0</td> <td>0</td> <td>1</td> <td>2</td> <td class="widestats">Semmler</td> <td class="widestats"></td> <td class="widestats">39</td>
-  </tr>
-
-  <!-- Blades vs. Zionsville , 12/17/17 -->
-  <tr class="even">
-    <td rowspan="2">12/17</td>
-                                 <td>Blades</td>       <td>0</td> <td>1</td> <td>4</td> <td></td> <td>5</td> <td class="widestats">Lowinger</td> <td class="widestats"></td> <td class="widestats">43</td>
-  </tr>
-  <tr class="even">
-                                 <td>Zionsville</td>   <td>1</td> <td>0</td> <td>2</td> <td></td> <td>3</td> <td class="widestats"></td> <td class="widestats">Petrisin</td> <td class="widestats">22</td>
-  </tr>
-
-  <!-- Blades vs. Munster , 1/6/18 -->
-  <tr class="odd">
-    <td rowspan="2">1/6</td>
-                                 <td>Blades</td>       <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td> <td class="widestats"></td> <td class="widestats">Lowinger</td> <td class="widestats">31</td>
-  </tr>
-  <tr class="odd">
-                                 <td>Munster</td>   <td>0</td> <td>2</td> <td>0</td> <td></td> <td>2</td> <td class="widestats">Kopp</td> <td class="widestats"></td> <td class="widestats">14</td>
-  </tr>
-  <!-- Blades vs. Crown Point , 1/6/18 -->
-  <tr class="even">
-    <td rowspan="2">1/6</td>
-                                 <td>Blades</td>       <td>3</td> <td>2</td> <td>2</td> <td></td> <td>7</td> <td class="widestats">Dayhoff</td> <td class="widestats"></td> <td class="widestats">22</td>
-  </tr>
-  <tr class="even">
-                                 <td>Crown Point</td>   <td>1</td> <td>1</td> <td>0</td> <td></td> <td>2</td> <td class="widestats"></td> <td class="widestats">Drury</td> <td class="widestats">29</td>
-  </tr>
-
-  <!-- CIK vs Blades, 1/13/18 -->
-  <tr class="odd">
-    <td rowspan="2">1/13</td>
-                                 <td>CIK</td>        <td>1</td> <td>2</td> <td>1</td> <td></td> <td>4</td> <td class="widestats">Hofmann</td> <td class="widestats"></td> <td class="widestats">29</td>
-  </tr>
-  <tr class="odd">
-                                 <td>Blades</td>     <td>1</td> <td>0</td> <td>0</td> <td></td> <td>1</td> <td class="widestats"></td> <td class="widestats">Lowinger</td> <td class="widestats">26</td>
-  </tr>
-
-  <!-- Bishop Noll vs Blades, 1/19/18 -->
-  <tr class="even">
-    <td rowspan="2">1/19</td>
-                                 <td>Bishop Noll</td>        <td>1</td> <td>0</td> <td>0</td> <td></td> <td>1</td> <td class="widestats">DeLaney (T)</td> <td class="widestats"></td> <td class="widestats">36</td>
-  </tr>
-  <tr class="even">
-                                 <td>Blades</td>     <td>0</td> <td>1</td> <td>0</td> <td></td> <td>1</td> <td class="widestats">Dayhoff (T)</td> <td class="widestats"></td> <td class="widestats">18</td>
-  </tr>
-
-  <!-- Crown Point vs Blades, 1/20/18 -->
-  <tr class="odd">
-    <td rowspan="2">1/20</td>
-                                 <td>Crown Point</td> <td>0</td> <td>0</td> <td>1</td> <td></td> <td>1</td> <td class="widestats"></td> <td class="widestats">Drury</td> <td class="widestats">20</td>
-  </tr>
-  <tr class="odd">
-                                 <td>Blades</td>      <td>3</td> <td>1</td> <td>2</td> <td></td> <td>6</td> <td class="widestats">Lowinger</td> <td class="widestats"></td> <td class="widestats">20</td>
-  </tr>
-
-  <!-- Carmel Gold vs Blades, 1/21/18 -->
-  <tr class="even">
-    <td rowspan="2">1/21</td>
-                                 <td>Carmel Gold</td> <td>0</td> <td>3</td> <td>2</td> <td></td> <td>5</td> <td class="widestats">Schlagenhauf</td> <td class="widestats"></td> <td class="widestats">21</td>
-  </tr>
-  <tr class="even">
-                                 <td>Blades</td>      <td>3</td> <td>0</td> <td>0</td> <td></td> <td>3</td> <td class="widestats"></td> <td class="widestats">Lowinger</td> <td class="widestats">29</td>
-  </tr>
-
-  <!-- Blades vs. HSE A , 1/26/18 (League Tournament) -->
-  <tr class="odd">
-    <td rowspan="3">1/26</td>
-                                 <td>Blades</td>  <td>3</td> <td>1</td> <td>0</td> <td></td> <td>4</td> <td class="widestats">Lowinger</td> <td class="widestats"></td> <td class="widestats">23</td>
-  </tr>
-  <tr class="odd">
-                                 <td>HSE A</td>   <td>0</td> <td>0</td> <td>2</td> <td></td> <td>2</td> <td class="widestats"></td> <td class="widestats">Harris</td> <td class="widestats">27</td>
-  </tr>
-  <tr class="odd">
-                                 <td colspan="6"><i>Hoosier League Championship Quarterfinals</i></td><td class="widestats" colspan="3"></td>
-  </tr>
-
-  <!-- Blades vs. CIK , 1/27/18 (League Tournament) -->
-  <tr class="even">
-    <td rowspan="3">1/27</td>
-                                 <td>Blades</td>  <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td> <td class="widestats"></td> <td class="widestats">Lowinger</td> <td class="widestats">48</td>
-  </tr>
-  <tr class="even">
-                                 <td>CIK</td>   <td>0</td> <td>3</td> <td>1</td> <td></td> <td>4</td> <td class="widestats">Spaletto</td> <td class="widestats"></td> <td class="widestats">28</td>
-  </tr>
-  <tr class="even">
-                                 <td colspan="6"><i>Hoosier League Championship Semifinals</i></td><td class="widestats" colspan="3"></td>
-  </tr>
-
-  <!-- Blades vs. Evansville , 2/10/18 -->
-  <tr class="odd">
-    <td rowspan="2">2/10</td>
-                                 <td>Blades</td>       <td>1</td> <td>3</td> <td>0</td> <td></td> <td>4</td> <td class="widestats">Knox</td> <td class="widestats"></td> <td class="widestats">13</td>
-  </tr>
-  <tr class="odd">
-                                 <td>Evansville</td>   <td>1</td> <td>1</td> <td>0</td> <td></td> <td>2</td> <td class="widestats"></td> <td class="widestats">Broerman</td> <td class="widestats">33</td>
-  </tr>
-
-  <!-- South Stars Red vs. Blades, 2/11/18 -->
-  <tr class="even">
-      <td rowspan="2">2/11</td>
-                                 <td>S. Stars Red</td> <td>0</td> <td>2</td> <td>0</td> <td></td> <td>2</td> <td class="widestats"></td> <td class="widestats">Semmler</td> <td class="widestats">30</td>
-  </tr>
-  <tr class="even">
-                                 <td>Blades</td>       <td>1</td> <td>2</td> <td>2</td> <td></td> <td>5</td> <td class="widestats">Dayhoff</td> <td class="widestats"></td> <td class="widestats">14</td>
-  </tr>
-
-  <!-- Blades vs. Owensboro , 2/24/18 -->
-  <tr class="odd">
-    <td rowspan="2">2/24</td>
-                                 <td>Blades</td>       <td>1</td> <td>1</td> <td>0</td> <td></td> <td>2</td> <td class="widestats"></td> <td class="widestats">Lowinger</td> <td class="widestats">17</td>
-  </tr>
-  <tr class="odd">
-                                 <td>Owensboro</td>   <td>2</td> <td>1</td> <td>0</td> <td></td> <td>3</td> <td class="widestats"></td> <td class="widestats"></td> <td class="widestats"></td>
-  </tr>
-
-<!-- Blades vs. Owensboro , 2/14/18 -->
-  <tr class="even">
-    <td rowspan="2">2/24</td>
-                                 <td>Blades</td>       <td>0</td> <td>1</td> <td>3</td> <td></td> <td>4</td> <td class="widestats">Dayhoff (T)</td> <td class="widestats"></td> <td class="widestats">13</td>
-  </tr>
-  <tr class="even">
-                                 <td>Owensboro</td>   <td>1</td> <td>1</td> <td>2</td> <td></td> <td>4</td> <td class="widestats"></td> <td class="widestats"></td> <td class="widestats"></td>
-  </tr>
-
-  <!-- Crown Point vs. Blades, 3/2/18 (ISHSHA State Playdowns) -->
-  <tr class="odd">
-    <td rowspan="3">3/2</td>
-                                 <td>Crown Point</td>  <td>0</td> <td>0</td> <td>1</td> <td>1</td> <td>2</td> <td class="widestats">Thompson</td> <td class="widestats"></td> <td class="widestats">25</td>
-  </tr>
-  <tr class="odd">
-                                 <td>Blades</td>   <td>0</td> <td>0</td> <td>1</td> <td>0</td> <td>1</td> <td class="widestats"></td> <td class="widestats">Lowinger</td> <td class="widestats">32</td>
-  </tr>
-  <tr class="odd">
-                                 <td colspan="6"><i>ISHSHA State Playdowns</i></td><td class="widestats" colspan="3"></td>
-  </tr>
-
-  <!-- Culver B vs. Blades, 3/3/18 (ISHSHA State Playdowns) -->
-  <tr class="even">
-    <td rowspan="3">3/3</td>
-                                 <td>Culver B</td>  <td>0</td> <td>1</td> <td>2</td> <td></td> <td>3</td> <td class="widestats">Callahan</td> <td class="widestats"></td> <td class="widestats">21</td>
-  </tr>
-  <tr class="even">
-                                 <td>Blades</td>   <td>0</td> <td>1</td> <td>0</td> <td></td> <td>1</td> <td class="widestats"></td> <td class="widestats">Lowinger</td> <td class="widestats">27</td>
-  </tr>
-  <tr class="even">
-                                 <td colspan="6"><i>ISHSHA State Playdowns</i></td><td class="widestats" colspan="3"></td>
-  </tr>
-
-  <!-- Blades vs. Adams, 3/4/18 (ISHSHA State Playdowns) -->
-  <tr class="odd">
-    <td rowspan="3">3/4</td>
-                                 <td>Blades</td>  <td>2</td> <td>0</td> <td>2</td> <td></td> <td>4</td> <td class="widestats">Dayhoff</td> <td class="widestats"></td> <td class="widestats">17</td>
-  </tr>
-  <tr class="odd">
-                                 <td>Adams</td>   <td>1</td> <td>1</td> <td>0</td> <td></td> <td>2</td> <td class="widestats"></td> <td class="widestats">Tolle</td> <td class="widestats">19</td>
-  </tr>
-  <tr class="odd">
-                                 <td colspan="6"><i>ISHSHA State Playdowns</i></td><td class="widestats" colspan="3"></td>
+                                 <td>Owensboro</td>  <td>1</td> <td>0</td> <td>0</td> <td></td> <td>1</td> <td class="widestats"></td> <td class="widestats">Wilson</td> <td class="widestats">17</td>
   </tr>
 
 </table>
 
-Points Standings
+<a name="bpoints"></a>Points Standings -- Blades Blue
 ----------------
 <table>
   <thead>
@@ -348,71 +48,26 @@ Points Standings
     <tr>
   </thead>
   <tr>
-    <td>6</td>  <td>Burris</td>    <td>19</td> <td>17</td> <td>36</td> <td>24</td>
+    <td>88</td> <td>Franklin</td>  <td>1</td>  <td>1</td>  <td>2</td>  <td>12</td>
   </tr>
   <tr>
-    <td>7</td>  <td>Appel</td>     <td>9</td> <td>18</td> <td>27</td> <td>124</td>
+    <td>2</td>  <td>Greulich</td>  <td>1</td>  <td></td>   <td>1</td>  <td></td>
   </tr>
   <tr>
-    <td>27</td> <td>Prather</td>   <td>7</td> <td>19</td> <td>26</td> <td>24</td>
+    <td>27</td> <td>Prather</td>   <td></td>   <td>1</td>  <td>1</td>  <td></td>
   </tr>
   <tr>
-    <td>84</td> <td>Berkley</td>   <td>13</td> <td>12</td> <td>25</td> <td>14</td>
+    <td>28</td> <td>Timbrook</td>  <td></td>   <td>1</td>  <td>1</td>  <td>12</td>
   </tr>
   <tr>
-    <td>16</td> <td>Hunt</td>      <td>4</td> <td>14</td> <td>18</td> <td>44</td>
+    <td>45</td>  <td>Fox</td>      <td>1</td>  <td></td>   <td>1</td>  <td></td>
   </tr>
   <tr>
-    <td>88</td> <td>Franklin</td>  <td>12</td> <td>6</td> <td>18</td> <td>107</td>
-  </tr>
-  <tr>
-    <td>3</td>  <td>Baer</td>      <td>8</td> <td>9</td> <td>17</td> <td>20</td>
-  </tr>
-  <tr>
-    <td>14</td> <td>Stright</td>   <td>11</td> <td>6</td> <td>17</td> <td>4</td>
-  </tr>
-  <tr>
-    <td>22</td> <td>Rawlins</td>   <td>6</td> <td>7</td> <td>13</td> <td>10</td>
-  </tr>
-  <tr>
-    <td>4</td>  <td>Streib</td>    <td>5</td> <td>5</td> <td>10</td> <td>4</td>
-  </tr>
-  <tr>
-    <td>21</td> <td>La Bella</td>  <td>3</td> <td>5</td> <td>8</td> <td>16</td>
-  </tr>
-  <tr>
-    <td>17</td> <td>La Bella</td>  <td>2</td> <td>4</td> <td>6</td> <td>75</td>
-  </tr>
-  <tr>
-    <td>00</td> <td>Lauer</td>     <td>2</td> <td>3</td> <td>5</td> <td>4</td>
-  </tr>
-  <tr>
-    <td>23</td> <td>Oliver</td>    <td>1</td> <td>2</td> <td>3</td> <td>4</td>
-  </tr>
-  <tr>
-    <td>48</td> <td>Knipstein</td> <td>1</td> <td>2</td> <td>3</td> <td>0</td>
-  </tr>
-  <tr>
-    <td>2</td>  <td>Greulich</td>  <td>0</td> <td>2</td> <td>2</td> <td>10</td>
-  </tr>
-  <tr>
-    <td>30</td> <td>Lowinger</td> <td>0</td> <td>1</td> <td>1</td> <td>0</td>
-  </tr>
-  <tr>
-    <td>74</td> <td>Dayhoff</td> <td>0</td> <td>1</td> <td>1</td> <td>4</td>
-  </tr>
-  <tr>
-    <td>13</td> <td>Knox</td> <td>0</td> <td>0</td> <td>0</td> <td>0</td>
-  </tr>
-  <tr>
-    <td>31</td> <td>Streib</td>    <td>0</td> <td>0</td> <td>0</td> <td>2</td>
-  </tr>
-  <tr>
-    <td>43</td> <td>Cockerham</td> <td>0</td> <td>0</td> <td>0</td> <td>0</td>
+    <td>93</td> <td>Davis</td>     <td></td>   <td></td>   <td></td>   <td>2</td>
   </tr>
 </table>
 
-Goalies
+<a name="bgoalies"></a>Goalies -- Blades Blue
 ----------------
 <table>
   <thead>
@@ -420,12 +75,94 @@ Goalies
       <th title="Jersey Number">NO</th> <th title="Player Name">PLAYER</th>   <th title="Shots Against">SA</th> <th title="Saves">S</th>  <th title="Save Percentage">SV %</th> <th class="widestats" title="Wins">W</th> <th class="widestats" title="Losses">L</th> <th class="widestats" title="Ties">T</th> <th class="widestats" title="Overtime Losses">OTL</th>
     <tr>
   </thead>
-  <tr> <td>30</td> <td>Lowinger</td> <td>669</td> <td>611</td> <td>0.913</td> <td class="widestats">7</td> <td class="widestats">13</td> <td class="widestats">0</td> <td class="widestats">1</td>
+  <tr>
+    <td>30</td> <td>Lowinger</td> <td>7</td> <td>6</td> <td>0.857</td> <td class="widestats">1</td> <td class="widestats"></td> <td class="widestats"></td> <td class="widestats"></td>
   </tr>
   <tr>
-    <td>74</td> <td>Dayhoff</td>  <td>264</td>  <td>233</td> <td>0.883</td> <td class="widestats">6</td> <td class="widestats">3</td> <td class="widestats">2</td><td class="widestats">1</td>
-  </tr>
-  <tr>
-    <td>13</td> <td>Knox</td>     <td>24</td>  <td>21</td>    <td>0.875</td> <td class="widestats">2</td> <td class="widestats">0</td> <td class="widestats">0</td><td class="widestats"></td>
+    <td>74</td> <td>Dayhoff</td>  <td>3</td> <td>3</td> <td>1.000</td> <td class="widestats"></td> <td class="widestats"></td> <td class="widestats"></td><td class="widestats"></td>
   </tr>
 </table>
+
+<br>
+<br>
+<br>
+
+<a name="wresults"></a>2018-19 Results -- Blades White
+------------------------------
+<Table>
+  <thead>
+    <tr>
+      <th></th> <th></th> <th title="Period 1">P1</th> <th title="Period 2">P2</th> <th title="Period 3">P3</th> <th title="Overtime">OT</th> <th title="Total">T</th> <th class="widestats">WIN</th> <th class="widestats">LOSS</th> <th class="widestats" title="Saves">S</th>
+    </tr>
+  </thead>
+
+  <!-- Blades White @ Owensboro, 9/29/18 -->
+  <tr class="odd">
+      <td rowspan="2">9/30</td>
+                                 <td>Blades</td>     <td>2</td> <td>1</td> <td>3</td> <td></td> <td>6</td> <td class="widestats">Dayhoff</td> <td class="widestats"></td> <td class="widestats">4</td>
+  </tr>
+  <tr class="odd">
+                                 <td>Owensboro</td>  <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td> <td class="widestats"></td> <td class="widestats">Cissna</td> <td class="widestats">13</td>
+  </tr>
+
+</table>
+
+<a name="wpoints"></a>Points Standings -- Blades White
+----------------
+<table>
+  <thead>
+    <tr>
+      <th title="Jersey Number">NO</th> <th title="Player Name">PLAYER</th>  <th title="Goals">G</th> <th title="Assists">A</th> <th title="Points">PTS</th> <th title="Penalty Minutes">PIM</th>
+    <tr>
+  </thead>
+  <tr>
+    <td>4</td>  <td>Streib</td>       <td></td>  <td>2</td>  <td>2</td>   <td></td>
+  </tr>
+  <tr>
+    <td>30</td> <td>Lowinger</td>    <td></td>   <td>2</td>  <td>2</td>   <td></td>
+  </tr>
+  <tr>
+    <td>7</td>  <td>La Bella</td>    <td></td>   <td>1</td>  <td>1</td>   <td></td>
+  </tr>
+  <tr>
+    <td>16</td> <td>Hunt</td>        <td>1</td>  <td></td>   <td>1</td>   <td>2</td>
+  </tr>
+  <tr>
+    <td>17</td> <td>La Bella</td>    <td>1</td>  <td></td>   <td>1</td>   <td>2</td>
+  </tr>
+  <tr>
+    <td>28</td> <td>Timbrook</td>    <td>1</td>  <td>1</td>  <td>1</td>   <td></td>
+  </tr>
+  <tr>
+    <td>43</td> <td>Cockerham</td>   <td>1</td>  <td></td>   <td>1</td>   <td></td>
+  </tr>
+  <tr>
+    <td>45</td> <td>Fox</td>         <td></td>   <td>1</td>  <td>1</td>   <td>2</td>
+  </tr>
+  <tr>
+    <td>88</td> <td>Franklin</td>    <td>1</td>  <td></td>   <td>1</td>   <td>4</td>
+  </tr>
+  <tr>
+    <td>89</td> <td>Lukes</td>       <td>1</td>  <td></td>   <td>1</td>   <td></td>
+  </tr>
+  <tr>
+    <td>48</td> <td>Knipstein</td>   <td></td>   <td></td>   <td></td>    <td>4</td>
+  </tr>
+</table>
+
+<a name="wgoalies"></a>Goalies -- Blades White
+----------------
+<table>
+  <thead>
+    <tr>
+      <th title="Jersey Number">NO</th> <th title="Player Name">PLAYER</th>   <th title="Shots Against">SA</th> <th title="Saves">S</th>  <th title="Save Percentage">SV %</th> <th class="widestats" title="Wins">W</th> <th class="widestats" title="Losses">L</th> <th class="widestats" title="Ties">T</th> <th class="widestats" title="Overtime Losses">OTL</th>
+    <tr>
+  </thead>
+  <tr>
+    <td>74</td> <td>Dayhoff</td>  <td>4</td>  <td>4</td>  <td>1.000</td> <td class="widestats">1</td> <td class="widestats"></td> <td class="widestats"></td><td class="widestats"></td>
+  </tr>
+  <tr>
+    <td>13</td> <td>Knox</td>     <td>3</td>  <td>3</td>  <td>1.000</td> <td class="widestats"></td>  <td class="widestats"></td> <td class="widestats"></td><td class="widestats"></td>
+  </tr>
+</table>
+

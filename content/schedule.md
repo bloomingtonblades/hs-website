@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-09-28
+date: 2018-09-29
 weight: 5
 ---
 
@@ -16,8 +16,6 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Blades Blue @ [Owensboro <span class="icon fa-map-marker"></span>][edge], September 29, 11:15am (Central Time)
-  - Blades White @ [Owensboro <span class="icon fa-map-marker"></span>][edge], September 29, 4:15pm (Central Time)
   - Blades Blue @ CIK, [Fairgrounds Youth Pavillion <span class="icon fa-map-marker"></span>][popweaver], October 7, 9:45am
   - Blades White @ HSE B, [Fairgrounds Youth Pavillion <span class="icon fa-map-marker"></span>][popweaver], October 7, 11:30am
 * Team Pictures *(Rescheduled)*: October 15, 4:00pm at The Frank.
