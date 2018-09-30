@@ -34,3 +34,5 @@ disableKinds = ["RSS"]
   icon = "github"
   link = "#"
 
+[blackfriday]
+  fractions = false
