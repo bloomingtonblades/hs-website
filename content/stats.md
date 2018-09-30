@@ -76,10 +76,10 @@ weight: 8
     <tr>
   </thead>
   <tr>
-    <td>30</td> <td>Lowinger</td> <td>7</td> <td>6</td> <td>0.857</td> <td class="widestats">1</td> <td class="widestats"></td> <td class="widestats"></td> <td class="widestats"></td>
+    <td>30</td> <td>Lowinger</td> <td>10</td> <td>9</td> <td>0.900</td> <td class="widestats">1</td> <td class="widestats"></td> <td class="widestats"></td> <td class="widestats"></td>
   </tr>
   <tr>
-    <td>74</td> <td>Dayhoff</td>  <td>3</td> <td>3</td> <td>1.000</td> <td class="widestats"></td> <td class="widestats"></td> <td class="widestats"></td><td class="widestats"></td>
+    <td>74</td> <td>Dayhoff</td>  <td></td>   <td></td>  <td></td>      <td class="widestats"></td>  <td class="widestats"></td> <td class="widestats"></td> <td class="widestats"></td>
   </tr>
 </table>
 
