@@ -1,6 +1,6 @@
 ---
 title: "Standings"
-date: 2017-10-31
+date: 2018-10-01
 weight: 7
 ---
 <div class="sponsorcontainer">
@@ -14,8 +14,9 @@ Game results and player stats are listed on our [Stats page](#stats).
 
 State
 -----
-* ISHSHA - [Hoosier League Standings](http://www.ishsha.com/standings/show/3502270?subseason=418058).
-* MyHockeyRankings - [Indiana High School](http://myhockeyrankings.com/rank.php?y=2017&a=4&v=768&g=0).
+* ISHSHA - [2018-19 Hoosier League Standings](https://www.ishsha.com/standings/show/4147684?subseason=509695).
+* MyHockeyRankings - [2018-19 Indiana High School](https://myhockeyrankings.com/rank.php?y=2018&a=4&v=768&g=0).
 <div style="margin-top: 1em; background-color: lightgray; padding: 1em;">
-     <iframe style="background-color: lightgray;" src="http://myhockeyrankings.com/embed.php?v=768&t=9072&y=2017" width="350" height="420" frameborder="0"></iframe>
+     <iframe src="https://myhockeyrankings.com/embed.php?v=768&y=2018" width="350" height="420" frameborder="0"></iframe>
 </div>
+Note: teams must have 5 recorded games before they appear in MyHockey Rankings standings.
