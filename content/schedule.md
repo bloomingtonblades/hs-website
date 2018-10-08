@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-09-29
+date: 2018-10-08
 weight: 5
 ---
 
@@ -16,8 +16,9 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Blades Blue @ CIK, [Fairgrounds Youth Pavillion <span class="icon fa-map-marker"></span>][popweaver], October 7, 9:45am
-  - Blades White @ HSE B, [Fairgrounds Youth Pavillion <span class="icon fa-map-marker"></span>][popweaver], October 7, 11:30am
+  - Blades White @ Brebeuf, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], October 14, 2:30pm
+  - Blades Blue vs Owensboro, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], October 21, 10:30am
+  - Blades White vs Owensboro, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], October 21, 12:45pm
 * Team Pictures *(Rescheduled)*: October 15, 4:00pm at The Frank.
 
 Calendars
