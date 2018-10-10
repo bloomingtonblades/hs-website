@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-10-08
+date: 2018-10-10
 weight: 5
 ---
 
@@ -19,7 +19,7 @@ Upcoming Events
   - Blades White @ Brebeuf, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], October 14, 2:30pm
   - Blades Blue vs Owensboro, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], October 21, 10:30am
   - Blades White vs Owensboro, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], October 21, 12:45pm
-* Team Pictures *(Rescheduled)*: October 15, 4:00pm at The Frank.
+* Team Pictures *(Rescheduled)*: TBA at The Frank.
 
 Calendars
 ---------
