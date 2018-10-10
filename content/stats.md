@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-10-07
+date: 2017-10-10
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -69,7 +69,7 @@ weight: 8
     <td>45</td> <td>Fox</td>       <td>1</td>  <td>1</td>  <td>2</td>  <td></td>
   </tr>
   <tr>
-    <td>14</td> <td>Stright</td>   <td></td>   <td>1</td>  <td>1</td>  <td></td>
+    <td>14</td> <td>Stright</td>   <td>1</td>   <td></td>  <td>1</td>  <td></td>
   </tr>
   <tr>
     <td>16</td> <td>Hunt</td>      <td></td>   <td>1</td>  <td>1</td>  <td>2</td>
