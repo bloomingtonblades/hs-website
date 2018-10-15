@@ -1,6 +1,6 @@
 ---
 title: "Roster"
-date: 2018-09-18
+date: 2018-10-14
 weight: 4
 ---
 
@@ -118,6 +118,12 @@ Players 2018&ndash;19
     <figure>
       <img alt="Reid Cory Photo" src="images/200px-Placeholder_photo.png">
       <figcaption>Reid Cory<br>#99</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="Eli Davis Photo" src="images/200px-Placeholder_photo.png">
+      <figcaption>Eli Davis<br>#93</figcaption>
     </figure>
   </div>
   <div class="player">
