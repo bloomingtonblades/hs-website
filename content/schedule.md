@@ -18,6 +18,7 @@ Upcoming Events
 * Games:
   - Owensboro vs Blades Blue, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], October 21, 10:30am
   - Owensboro JV vs Blades White, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], October 21, 12:45pm
+  - Team Dinner [Upland <span class="icon fa-map-marker"></span>][upland], October 22, 5:45pm
   - Blades Blue vs Westfield, [Arctic Zone <span class="icon fa-map-marker"></span>][arcticzone], October 26, 10:15pm
   - Blades White vs South Stars White, [Perry Park <span class="icon fa-map-marker"></span>][perry], October 27, 8:00pm
   - Blades Blue vs Zionsville, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], October 28, 2:30pm
