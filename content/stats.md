@@ -137,7 +137,7 @@ weight: 8
 
   <!-- Blades White @ Brebeuf, 10/14/18 -->
   <tr class="odd">
-      <td rowspan="2">10/7</td>
+      <td rowspan="2">10/14</td>
                                  <td>Blades</td>     <td>3</td> <td>0</td> <td>1</td> <td></td> <td>4</td> <td class="widestats">Knox</td> <td class="widestats"></td> <td class="widestats">23</td>
   </tr>
   <tr class="odd">
