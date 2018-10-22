@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2017-10-21
+date: 2017-10-22
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -174,7 +174,7 @@ weight: 8
                                  <td>Owensboro</td>  <td>0</td> <td>1</td> <td>0</td> <td></td> <td>1</td> <td class="widestats"></td> <td class="widestats">Craig</td> <td class="widestats">10</td>
   </tr>
   <tr class="even">
-                                 <td>Blades</td>     <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td> <td class="widestats">Knox</td> <td class="widestats"></td> <td class="widestats">8</td>
+                                 <td>Blades</td>     <td>2</td> <td>1</td> <td>2</td> <td></td> <td>5</td> <td class="widestats">Knox</td> <td class="widestats"></td> <td class="widestats">8</td>
   </tr>
 
 </table>
