@@ -19,6 +19,10 @@ Upcoming Events
   - Blades Blue vs Westfield, [Arctic Zone <span class="icon fa-map-marker"></span>][arcticzone], October 26, 10:15pm
   - Blades White vs South Stars White, [Perry Park <span class="icon fa-map-marker"></span>][perry], October 27, 8:00pm
   - Blades Blue vs Zionsville, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], October 28, 2:30pm
+  - Crown Point Red vs Blades Blue, [Ice Sports Fort Wayne <span class="icon fa-map-marker"></span>][icefw], November 3, 9:20am 
+  - Blades Blue vs Lake Central, [Ice Sports Fort Wayne <span class="icon fa-map-marker"></span>][icefw], November 3, 4:00pm 
+  - Leo vs Blades Blue, [Ice Sports Fort Wayne <span class="icon fa-map-marker"></span>][icefw], November 4, 9:20am 
+  - Blades Blue vs Carroll, [Ice Sports Fort Wayne <span class="icon fa-map-marker"></span>][icefw], November 3, 3:40pm 
 * Team Dinner [Upland <span class="icon fa-map-marker"></span>][upland], October 22, 5:45pm
 * Team Pictures *(Rescheduled)*: TBA at The Frank.
 
@@ -50,5 +54,6 @@ Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></s
 [perry]: https://maps.google.com/maps?hl=en&q=Perry%20Park%20Ice%20Rink%2C%20451%20East%20Stop%2011%20Road%2C%20Indianapolis%2C%20IN%2C%20United%20States
 [midwest]: https://maps.google.com/maps?hl=en&q=Midwest%20Training%20%26%20Ice%20Center%2C%2010600%20White%20Oak%20Ave%2C%20Dyer%2C%20IN%2046311%2C%20USA
 [swonder]: https://maps.google.com/maps?hl=en&q=Swonder%20Ice%20Arena%2C%20209%20N%20Boeke%20Rd%2C%20Evansville%2C%20IN%2047711%2C%20USA
+[icefw]: https://www.google.com/maps/place/Ice+Sports+Fort+Wayne/@41.112185,-85.1491587,17z/data=!3m1!4b1!4m5!3m4!1s0x8815e3763c2aea45:0xffa2c90a8bb71999!8m2!3d41.112181!4d-85.14697
 [calsupport]: https://support.google.com/calendar/answer/37100?hl=en
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
