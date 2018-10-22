@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-10-14
+date: 2018-10-21
 weight: 5
 ---
 
@@ -16,8 +16,6 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Owensboro vs Blades Blue, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], October 21, 10:30am
-  - Owensboro JV vs Blades White, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], October 21, 12:45pm
   - Blades Blue vs Westfield, [Arctic Zone <span class="icon fa-map-marker"></span>][arcticzone], October 26, 10:15pm
   - Blades White vs South Stars White, [Perry Park <span class="icon fa-map-marker"></span>][perry], October 27, 8:00pm
   - Blades Blue vs Zionsville, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], October 28, 2:30pm
