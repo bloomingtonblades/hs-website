@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-10-21
+date: 2018-10-27
 weight: 5
 ---
 
@@ -16,7 +16,6 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Blades Blue vs Westfield, [Arctic Zone <span class="icon fa-map-marker"></span>][arcticzone], October 26, 10:15pm
   - Blades White vs South Stars White, [Perry Park <span class="icon fa-map-marker"></span>][perry], October 27, 8:00pm
   - Blades Blue vs Zionsville, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], October 28, 2:30pm
   - Crown Point Red vs Blades Blue, [Ice Sports Fort Wayne <span class="icon fa-map-marker"></span>][icefw], November 3, 9:20am 
