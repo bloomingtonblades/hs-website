@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-10-27
+date: 2018-10-28
 weight: 5
 ---
 
@@ -16,12 +16,12 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Blades White vs South Stars White, [Perry Park <span class="icon fa-map-marker"></span>][perry], October 27, 8:00pm
-  - Blades Blue vs Zionsville, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], October 28, 2:30pm
   - Crown Point Red vs Blades Blue, [Ice Sports Fort Wayne <span class="icon fa-map-marker"></span>][icefw], November 3, 9:20am 
   - Blades Blue vs Lake Central, [Ice Sports Fort Wayne <span class="icon fa-map-marker"></span>][icefw], November 3, 4:00pm 
   - Leo vs Blades Blue, [Ice Sports Fort Wayne <span class="icon fa-map-marker"></span>][icefw], November 4, 9:20am 
   - Blades Blue vs Carroll, [Ice Sports Fort Wayne <span class="icon fa-map-marker"></span>][icefw], November 3, 3:40pm 
+  - HSE A vs Blades Blue, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], November 9, 9:15pm 
+  - Zionsville vs Blades Blue, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], November 10, 3:15pm 
 * Team Dinner [Upland <span class="icon fa-map-marker"></span>][upland], October 22, 5:45pm
 * Team Pictures *(Rescheduled)*: TBA at The Frank.
 
