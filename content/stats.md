@@ -256,7 +256,7 @@ weight: 8
     <td>17</td> <td>La Bella</td>    <td>3</td>  <td></td>   <td>3</td>   <td>2</td>
   </tr>
   <tr>
-    <td>28</td> <td>Timbrook</td>    <td>1</td>  <td>2</td>  <td>3</td>   <td>28</td>
+    <td>28</td> <td>Timbrook</td>    <td>1</td>  <td>2</td>  <td>3</td>   <td>2</td>
   </tr>
   <tr>
     <td>34</td> <td>Daley</td>       <td></td>   <td>3</td>  <td>3</td>   <td></td>
