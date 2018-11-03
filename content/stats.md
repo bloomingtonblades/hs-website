@@ -110,7 +110,7 @@ weight: 8
     <td>17</td> <td>La Bella</td>  <td>1</td>  <td>1</td>  <td>2</td>  <td></td>
   </tr>
   <tr>
-    <td>28</td> <td>Timbrook</td>  <td>1</td>  <td>1</td>  <td>2</td>  <td>16</td>
+    <td>28</td> <td>Timbrook</td>  <td>1</td>  <td>3</td>  <td>4</td>  <td>2</td>
   </tr>
   <tr>
     <td>43</td> <td>Cockerham</td> <td></td>   <td>2</td>  <td>2</td>  <td></td>
@@ -251,9 +251,6 @@ weight: 8
   </tr>
   <tr>
     <td>22</td> <td>Rawlins</td>     <td></td>   <td>2</td>  <td>2</td>   <td></td>
-  </tr>
-  <tr>
-    <td>28</td> <td>Timbrook</td>    <td>1</td>  <td>1</td>  <td>2</td>   <td>28</td>
   </tr>
   <tr>
     <td>30</td> <td>Lowinger</td>    <td></td>   <td>2</td>  <td>2</td>   <td></td>
