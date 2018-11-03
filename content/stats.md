@@ -113,7 +113,7 @@ weight: 8
     <td>28</td> <td>Timbrook</td>  <td>1</td>  <td>3</td>  <td>4</td>  <td>18</td>
   </tr>
   <tr>
-    <td>16</td> <td>Hunt</td>      <td>1</td>  <td>1</td>  <td>2</td>  <td>32</td>
+    <td>16</td> <td>Hunt</td>      <td>1</td>  <td>1</td>  <td>2</td>  <td>22</td>
   </tr>
   <tr>
     <td>22</td> <td>Rawlins</td>   <td>1</td>  <td>1</td>  <td>2</td>  <td></td>
