@@ -81,6 +81,15 @@ weight: 8
   <tr class="even">
                                  <td>Crown Point</td>  <td>0</td> <td>1</td> <td>0</td> <td></td> <td>1</td> <td class="widestats"></td> <td class="widestats">Thompson</td>      <td class="widestats">33</td>
   </tr>
+
+<!-- Blades Blue v Lake Central, 11/3/18 -->
+  <tr class="odd">
+      <td rowspan="2">11/3</td>
+                                 <td>Lake Central</td>  <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td> <td class="widestats">Didonato (T)</td> <td class="widestats"></td>  <td class="widestats">14</td>
+  </tr>
+  <tr class="odd">
+                                 <td>Blades</td>        <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td> <td class="widestats">Lowinger (T)</td> <td class="widestats"></td>  <td class="widestats">22</td>
+  </tr>
 </table>
 
 <a name="bpoints"></a>Points Standings -- Blades Blue
@@ -101,7 +110,7 @@ weight: 8
     <td>14</td> <td>Stright</td>   <td>5</td>  <td>1</td>  <td>6</td>  <td></td>
   </tr>
   <tr>
-    <td>3</td>  <td>Baer</td>      <td>4</td>  <td>1</td>  <td>5</td>  <td>2</td>
+    <td>3</td>  <td>Baer</td>      <td>4</td>  <td>1</td>  <td>5</td>  <td>4</td>
   </tr>
   <tr>
     <td>45</td> <td>Fox</td>       <td>3</td>  <td>2</td>  <td>5</td>  <td>2</td>
@@ -113,7 +122,7 @@ weight: 8
     <td>28</td> <td>Timbrook</td>  <td>1</td>  <td>3</td>  <td>4</td>  <td>18</td>
   </tr>
   <tr>
-    <td>16</td> <td>Hunt</td>      <td>1</td>  <td>1</td>  <td>2</td>  <td>22</td>
+    <td>16</td> <td>Hunt</td>      <td>1</td>  <td>1</td>  <td>2</td>  <td>24</td>
   </tr>
   <tr>
     <td>22</td> <td>Rawlins</td>   <td>1</td>  <td>1</td>  <td>2</td>  <td></td>
@@ -159,7 +168,7 @@ weight: 8
     <tr>
   </thead>
   <tr>
-    <td>30</td> <td>Lowinger</td> <td>94</td> <td>88</td> <td>0.936</td> <td class="widestats">6</td> <td class="widestats"></td> <td class="widestats"></td> <td class="widestats"></td>
+    <td>30</td> <td>Lowinger</td> <td>116</td> <td>110</td> <td>0.948</td> <td class="widestats">6</td> <td class="widestats"></td> <td class="widestats">1</td> <td class="widestats"></td>
   </tr>
 </table>
 

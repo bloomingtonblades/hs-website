@@ -16,7 +16,6 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Blades Blue vs Lake Central, [Ice Sports Fort Wayne <span class="icon fa-map-marker"></span>][icefw], November 3, 4:00pm 
   - Leo vs Blades Blue, [Ice Sports Fort Wayne <span class="icon fa-map-marker"></span>][icefw], November 4, 9:20am 
   - Blades Blue vs Carroll, [Ice Sports Fort Wayne <span class="icon fa-map-marker"></span>][icefw], November 3, 3:40pm 
   - HSE A vs Blades Blue, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], November 9, 9:15pm 
