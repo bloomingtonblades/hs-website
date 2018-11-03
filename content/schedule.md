@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-10-28
+date: 2018-11-03
 weight: 5
 ---
 
@@ -16,7 +16,6 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Crown Point Red vs Blades Blue, [Ice Sports Fort Wayne <span class="icon fa-map-marker"></span>][icefw], November 3, 9:20am 
   - Blades Blue vs Lake Central, [Ice Sports Fort Wayne <span class="icon fa-map-marker"></span>][icefw], November 3, 4:00pm 
   - Leo vs Blades Blue, [Ice Sports Fort Wayne <span class="icon fa-map-marker"></span>][icefw], November 4, 9:20am 
   - Blades Blue vs Carroll, [Ice Sports Fort Wayne <span class="icon fa-map-marker"></span>][icefw], November 3, 3:40pm 
