@@ -97,7 +97,7 @@ weight: 8
                                  <td>Blades</td>   <td>3</td> <td>2</td> <td>1</td> <td></td> <td>6</td> <td class="widestats">Lowinger</td> <td class="widestats"></td>          <td class="widestats">14</td>
   </tr>
   <tr class="even">
-                                 <td>Leo</td>      <td>0</td> <td>1</td> <td>0</td> <td></td> <td>1</td> <td class="widestats"></td>         <td class="widestats">Barcelona</td> <td class="widestats">11</td>
+                                 <td>Leo</td>      <td>1</td> <td>1</td> <td>0</td> <td></td> <td>2</td> <td class="widestats"></td>         <td class="widestats">Barcelona</td> <td class="widestats">11</td>
   </tr>
 
 </table>
