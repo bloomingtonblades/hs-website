@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-11-03
+date: 2018-11-04
 weight: 5
 ---
 
@@ -16,8 +16,6 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Leo vs Blades Blue, [Ice Sports Fort Wayne <span class="icon fa-map-marker"></span>][icefw], November 4, 9:20am 
-  - Blades Blue vs Carroll, [Ice Sports Fort Wayne <span class="icon fa-map-marker"></span>][icefw], November 3, 3:40pm 
   - HSE A vs Blades Blue, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], November 9, 9:15pm 
   - Zionsville vs Blades Blue, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], November 10, 3:15pm 
 * Team Dinner [Upland <span class="icon fa-map-marker"></span>][upland], October 22, 5:45pm
