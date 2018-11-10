@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-11-04
+date: 2018-11-10
 weight: 5
 ---
 
@@ -16,9 +16,10 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - HSE A vs Blades Blue, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], November 9, 9:15pm 
   - Zionsville vs Blades Blue, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], November 10, 3:15pm 
-* Team Dinner [Upland <span class="icon fa-map-marker"></span>][upland], October 22, 5:45pm
+  - Westfield vs Blades Blue, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], November 16, 9:15pm 
+  - CIK vs Blades Blue, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], November 18, 11:30am
+* Team Dinner [Upland <span class="icon fa-map-marker"></span>][upland], November 19, 5:45pm
 * Team Pictures *(Rescheduled)*: TBA at The Frank.
 
 Calendars
