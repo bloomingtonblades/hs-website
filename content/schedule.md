@@ -16,7 +16,6 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Zionsville vs Blades Blue, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], November 10, 3:15pm 
   - Westfield vs Blades Blue, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], November 16, 9:15pm 
   - CIK vs Blades Blue, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], November 18, 11:30am
 * Team Dinner [Upland <span class="icon fa-map-marker"></span>][upland], November 19, 5:45pm
