@@ -1,6 +1,6 @@
 ---
 title: "Roster"
-date: 2018-10-14
+date: 2018-11-12
 weight: 4
 ---
 
@@ -32,12 +32,6 @@ Players 2018&ndash;19
     <figure>
       <img alt="Ethan Baer Photo" src="3-baer.jpg">
       <figcaption>Ethan Baer<br>#3</figcaption>
-    </figure>
-  </div>
-  <div class="player">
-    <figure>
-      <img alt="Dillon Dayhoff Photo" src="74-dayhoff.jpg">
-      <figcaption>Dillon Dayhoff<br>#74 (G)</figcaption>
     </figure>
   </div>
   <div class="player">
