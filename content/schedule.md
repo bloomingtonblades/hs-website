@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-11-10
+date: 2018-11-16
 weight: 5
 ---
 
@@ -16,8 +16,13 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Westfield vs Blades Blue, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], November 16, 9:15pm 
   - CIK vs Blades Blue, [Frank Southern Ice Arena <span class="icon fa-map-marker"></span>][frank], November 18, 11:30am
+  - Blades Blue vs CIK, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], December 2, 11:00am
+* South Bend Crossover Weekend
+  - Blades Blue vs Lake Central Blue, [Ice Box <span class="icon fa-map-marker"></span>][icebox], December 7, 11:00pm
+  - Blades Blue vs St. Joseph, [Ice Box <span class="icon fa-map-marker"></span>][icebox], December 8, 1:30pm
+  - Blades Blue vs Lakeshore St. Joseph, [Garden Ice Arena <span class="icon fa-map-marker"></span>][garden], December 8, 8:20pm
+  - Blades Blue vs Crown Point Red, [Ice Box <span class="icon fa-map-marker"></span>][icebox], December 9, 8:30am
 * Team Dinner [Upland <span class="icon fa-map-marker"></span>][upland], November 19, 5:45pm
 * Team Pictures *(Rescheduled)*: TBA at The Frank.
 
@@ -40,6 +45,7 @@ Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></s
 [ical]: https://calendar.google.com/calendar/ical/epsc9ra4unbaelg6bns4r4ifro%40group.calendar.google.com/public/basic.ics
 [frank]: https://www.google.com/maps/place/2100+S+Henderson+St,+Bloomington,+IN+47401/@39.1412293,-86.529133,17z/data=!3m1!4b1!4m5!3m4!1s0x886c66590dd701f1:0x2c4224b76654f9a2!8m2!3d39.1412252!4d-86.526939
 [fuel]: https://maps.google.com/maps?hl=en&q=Fuel%20Tank%20at%20Fishers%2C%209022%20E%20126th%20St%2C%20Fishers%2C%20IN%2046038%2C%20USA
+[garden]: https://maps.google.com/maps?hl=en&q=Garden%20Ice%20Arena%2C%201626%20W%20Glenlord%20Rd%2C%20St%20Joseph%2C%20MI%2049085%2C%20USA
 [millenium]: https://www.google.com/maps/place/1200+S+Rolling+Ridge+Way,+Bloomington,+IN+47403/@39.153483,-86.5642924,17z/data=!3m1!4b1!4m5!3m4!1s0x886c6772fc3d8eed:0xf8f1ac9feafe940!8m2!3d39.1534789!4d-86.5621037
 [coliseum]: https://www.google.com/maps/place/Indiana+Farmers+Coliseum/@39.8276805,-86.1371959,17z/data=!3m1!4b1!4m5!3m4!1s0x886b51783899e365:0xc4b58965029cc570!8m2!3d39.8276805!4d-86.1350072
 [popweaver]: https://maps.google.com/maps?hl=en&q=Pop%20Weaver%20Youth%20Pavilion%2C%201202%20E%2038th%20St%2C%20Indianapolis%2C%20IN%2046205%2C%20USA
