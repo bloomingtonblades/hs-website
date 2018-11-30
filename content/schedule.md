@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-11-18
+date: 2018-11-29
 weight: 5
 ---
 
@@ -16,7 +16,7 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Blades Blue vs CIK, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], December 2, 11:00am
+  - Blades Blue vs CIK, [Pop Weaver Youth Pavillion <span class="icon fa-map-marker"></span>][popweaver], December 2, 11:00am
 * South Bend Crossover Weekend
   - Blades Blue vs Lake Central Blue, [Ice Box <span class="icon fa-map-marker"></span>][icebox], December 7, 11:00pm
   - Blades Blue vs St. Joseph, [Ice Box <span class="icon fa-map-marker"></span>][icebox], December 8, 1:30pm
