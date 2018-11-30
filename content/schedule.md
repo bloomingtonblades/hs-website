@@ -18,7 +18,7 @@ Upcoming Events
 * Games:
   - Blades Blue @ CIK, [Pop Weaver Youth Pavillion <span class="icon fa-map-marker"></span>][popweaver], December 2, 11:00am
   - Blades White vs South Stars White, [Frank Southern <span class="icon fa-map-marker"></span>][frank], December 14, 9:15pm.
-  - Blades Blue @ Evansville, [Swonder Ice Arena <span class="icon fa-map-marker"></span>][swonder], December 15, 12:45pm *CST.*
+  - Blades Blue @ Evansville, [Swonder Ice Arena <span class="icon fa-map-marker"></span>][swonder], December 15, 1:45pm *CST.*
   - Blades White vs Brebeuf, [Frank Southern <span class="icon fa-map-marker"></span>][frank], December 16, 12:45pm.
   - Blades Blue @ Carmel Gold, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], December 21, 8:00pm.
 <br><br>
