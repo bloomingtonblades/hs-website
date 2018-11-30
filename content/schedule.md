@@ -29,6 +29,7 @@ Upcoming Events
   - Blades Blue vs Crown Point Red, [Ice Box <span class="icon fa-map-marker"></span>][icebox], December 9, 8:30am
 <br><br>
 * Team Pictures *(Rescheduled)*: December 3, 4:00pm at The Frank. Bring your game jerseys and socks!
+* Team Dinner and Gift Exchange: December 17, 5:45pm at [Upland <span class="icon fa-map-marker"></span>][upland]. Bring a gift ($10-15 value) to exchange.
 
 Calendars
 ---------
