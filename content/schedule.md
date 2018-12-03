@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-11-29
+date: 2018-12-02
 weight: 5
 ---
 
@@ -15,18 +15,17 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 
 Upcoming Events
 ---------------
-* Games:
-  - Blades Blue @ CIK, [Pop Weaver Youth Pavillion <span class="icon fa-map-marker"></span>][popweaver], December 2, 11:00am
-  - Blades White vs South Stars White, [Frank Southern <span class="icon fa-map-marker"></span>][frank], December 14, 9:15pm.
-  - Blades Blue @ Evansville, [Swonder Ice Arena <span class="icon fa-map-marker"></span>][swonder], December 15, 1:45pm *CST.*
-  - Blades White vs Brebeuf, [Frank Southern <span class="icon fa-map-marker"></span>][frank], December 16, 12:45pm.
-  - Blades Blue @ Carmel Gold, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], December 21, 8:00pm.
-<br><br>
 * South Bend Crossover Weekend
   - Blades Blue vs Lake Central Blue, [Ice Box <span class="icon fa-map-marker"></span>][icebox], December 7, 11:00pm
   - Blades Blue vs St. Joseph, [Ice Box <span class="icon fa-map-marker"></span>][icebox], December 8, 1:30pm
   - Blades Blue vs Lakeshore St. Joseph, [Garden Ice Arena <span class="icon fa-map-marker"></span>][garden], December 8, 8:20pm
   - Blades Blue vs Crown Point Red, [Ice Box <span class="icon fa-map-marker"></span>][icebox], December 9, 8:30am
+<br><br>
+* Games:
+  - Blades White vs South Stars White, [Frank Southern <span class="icon fa-map-marker"></span>][frank], December 14, 9:15pm.
+  - Blades Blue @ Evansville, [Swonder Ice Arena <span class="icon fa-map-marker"></span>][swonder], December 15, 1:45pm *CST.*
+  - Blades White vs Brebeuf, [Frank Southern <span class="icon fa-map-marker"></span>][frank], December 16, 12:45pm.
+  - Blades Blue @ Carmel Gold, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], December 21, 8:00pm.
 <br><br>
 * Team Pictures *(Rescheduled)*: December 3, 4:00pm at The Frank. Bring your game jerseys and socks!
 * Team Dinner and Gift Exchange: December 17, 5:45pm at [Upland <span class="icon fa-map-marker"></span>][upland]. Bring a gift ($10-15 value) to exchange.
