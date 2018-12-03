@@ -1,6 +1,6 @@
 ---
 title: "Roster"
-date: 2018-11-12
+date: 2018-12-02
 weight: 4
 ---
 
@@ -31,13 +31,13 @@ Players 2018&ndash;19
   <div class="player">
     <figure>
       <img alt="Ethan Baer Photo" src="3-baer.jpg">
-      <figcaption>Ethan Baer<br>#3</figcaption>
+      <figcaption>Ethan Baer (C)<br>#3</figcaption>
     </figure>
   </div>
   <div class="player">
     <figure>
       <img alt="Lander Greulich Photo" src="2-greulich.jpg">
-      <figcaption>Lander Greulich<br>#2</figcaption>
+      <figcaption>Lander Greulich (A)<br>#2</figcaption>
     </figure>
   </div>
   <div class="player">
@@ -49,7 +49,7 @@ Players 2018&ndash;19
   <div class="player">
     <figure>
       <img alt="Austin Rawlins Photo" src="22-rawlins.jpg">
-      <figcaption>Austin Rawlins<br>#22</figcaption>
+      <figcaption>Austin Rawlins (A)<br>#22</figcaption>
     </figure>
   </div>
 </div>
