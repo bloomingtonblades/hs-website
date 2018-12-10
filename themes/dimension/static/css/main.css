@@ -938,6 +938,7 @@ button {
         border-left: 0; }
       #header nav ul li a {
         display: block;
+        font-weight: bold;
         min-width: 7.5rem;
         height: 2.75rem;
         line-height: 2.75rem;
@@ -947,9 +948,9 @@ button {
         font-size: 0.8rem;
         border-bottom: 0; }
         #header nav ul li a:hover {
-          background-color: rgba(25, 25, 56, 0.275); }
-        #header nav ul li a:active {
           background-color: rgba(25, 25, 56, 0.375); }
+        #header nav ul li a:active {
+          background-color: rgba(25, 25, 56, 0.475); }
   #header nav:after {
     content: '';
     display: block;
