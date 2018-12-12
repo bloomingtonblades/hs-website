@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2018-09-29
+date: 2018-12-12
 weight: 1
 ---
 
@@ -21,6 +21,7 @@ Board of Directors
 * Vice Pesident &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>](mailto:alysonebaer@gmail.com)
 * Treasurer &mdash; [Kim Franklin <span class="icon fa-envelope-o"></span>](mailto:kafranklin4@gmail.com)
 * Secretary &mdash; [Stephanie Lowinger <span class="icon fa-envelope-o"></span>](mailto:stephanielowinger@gmail.com)
+* Team Rep/Manager &mdash; [Jay Baer <span class="icon fa-envelope-o"></span>](mailto:jbaer@bloomingtonblades.com)
 * At Large &mdash; [Joseph Pavich <span class="icon fa-envelope-o"></span>](mailto:jpavich1@iuhealth.org)
 
 Arena

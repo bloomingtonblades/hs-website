@@ -1,6 +1,6 @@
 ---
 title: "Roster"
-date: 2018-12-02
+date: 2018-12-12
 weight: 4
 ---
 
@@ -11,17 +11,13 @@ weight: 4
 
 <center>Photographs by [Jeff Norris Photography](http://www.jeffnorrisphotography.com)</center>
 
-Staff 2018&ndash;19
+Coaches 2018&ndash;19
 -------------------
 
 <img style="width: 100%;" alt="Blades Coaching Staff 2017-18" src="1819_coaches.jpg">
 
-* Head Coach Blades Blue &mdash; Dave Appel
-* Head Coach Blades White &mdash; Dyvan Daley
-* Assistant Coach &mdash; Chris Hamric
-* Assistant Coach &mdash; Nick Lightfoot (not pictured)
-* Assistant Coach &mdash; Johan Lowinger
-* Manager &mdash; [Jay Baer <span class="icon fa-envelope-o"></span>](mailto:jbaer@bloomingtonblades.com)
+*Left to right &mdash;* Chris Hamric, Johan Lowinger, Head Coach Dave Appel, Dyvan Daley
+<br>*Not pictured &mdash;* Nick Lightfoot
 
 Players 2018&ndash;19
 ---------------------
