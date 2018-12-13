@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2018-09-19
+date: 2018-12-12
 weight: 3
 ---
 
@@ -8,6 +8,19 @@ weight: 3
   <a id="news-a1" href="#"><img id="news-s1" class="image sponsor"></a>
   <a id="news-a2" href="#"><img id="news-s2" class="image sponsor"></a>
 </div>
+
+2018 All-Stars
+--------------
+**December 12, 2018** --- Congratulations to the following players selected as 2018 Hoosier League All-Stars!
+
+- Ethan Baer --- Senior, Forward
+- Sam Franklin --- Junior, Defenseman
+- Aidan Lowinger --- Junior, Goalie
+- Austin Rawlins --- Senior, Forward
+
+All-Star events start at 2:00pm on
+Saturday, December 22 in Fishers at the [Fuel Tank <span class="icon
+fa-map-marker"></span>][fuel] (players please arrive by 1:00pm, and bring both light and dark jerseys). 
 
 2018-19 Roster News
 -------------------
