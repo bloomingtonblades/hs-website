@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-12-09
+date: 2018-12-15
 weight: 5
 ---
 
@@ -16,7 +16,6 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Blades White vs South Stars White, [Frank Southern <span class="icon fa-map-marker"></span>][frank], December 14, 9:15pm.
   - Blades Blue @ Evansville, [Swonder Ice Arena <span class="icon fa-map-marker"></span>][swonder], December 15, 1:45pm *CST.*
   - Blades White vs Brebeuf, [Frank Southern <span class="icon fa-map-marker"></span>][frank], December 16, 12:45pm.
   - Blades Blue @ Carmel Gold, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], December 21, 8:00pm.
