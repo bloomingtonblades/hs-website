@@ -16,7 +16,6 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Blades White vs. Brebeuf, [Frank Southern <span class="icon fa-map-marker"></span>][frank], December 16, 12:45pm.
   - Blades Blue @ Carmel Gold, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], December 21, 8:00pm.
   - Hoosier League All Star Game, [Fuel Tank at Fishers <span class="icon fa-map-marker"></span>][fuel], December 22, 2:00pm.
   - Alumni vs. Blades Game, [Frank Southern <span class="icon fa-map-marker"></span>][frank], December 27, 6:15pm.
