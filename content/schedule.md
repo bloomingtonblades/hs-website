@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-12-16
+date: 2018-12-18
 weight: 5
 ---
 
@@ -19,8 +19,6 @@ Upcoming Events
   - Blades Blue @ Carmel Gold, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], December 21, 8:00pm.
   - Hoosier League All Star Game, [Fuel Tank at Fishers <span class="icon fa-map-marker"></span>][fuel], December 22, 2:00pm.
   - Alumni vs. Blades Game, [Frank Southern <span class="icon fa-map-marker"></span>][frank], December 27, 6:15pm.
-<br><br>
-* Team Dinner and Gift Exchange: December 17, 5:45pm at [Upland <span class="icon fa-map-marker"></span>][upland]. Bring a gift ($10-15 value) to exchange.
 
 Calendars
 ---------
