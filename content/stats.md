@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2018-12-15
+date: 2018-12-21
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -198,6 +198,14 @@ weight: 8
   <tr class="odd">
                                  <td>Evansville</td>  <td>3</td> <td>2</td> <td>1</td> <td></td> <td>6</td> <td class="widestats">Boreman</td> <td class="widestats"></td> <td class="widestats">24</td>
   </tr>
+<!-- Blades Blue @ Carmel Gold, 12/21/18 -->
+  <tr class="even">
+      <td rowspan="2">12/21</td>
+                                 <td>Blades</td>      <td>0</td> <td>1</td> <td>0</td> <td></td> <td>1</td> <td class="widestats"></td> <td class="widestats">Lowinger</td>  <td class="widestats">20</td>
+  </tr>
+  <tr class="even">
+                                 <td>Carmel Gold</td> <td>1</td> <td>1</td> <td>0</td> <td></td> <td>2</td> <td class="widestats">Schlagenhauf</td> <td class="widestats"></td> <td class="widestats">19</td>
+  </tr>
 </table>
 
 <a name="bpoints"></a>Points Standings -- Blades Blue
@@ -209,10 +217,10 @@ weight: 8
     <tr>
   </thead>
   <tr>
-    <td>22</td> <td>Rawlins</td>   <td>8</td>  <td>11</td>  <td>19</td>  <td>12</td>
+    <td>27</td> <td>Prather</td>   <td>7</td>  <td>13</td>  <td>20</td>  <td>28</td>
   </tr>
   <tr>
-    <td>27</td> <td>Prather</td>   <td>7</td>  <td>12</td>  <td>19</td>  <td>28</td>
+    <td>22</td> <td>Rawlins</td>   <td>8</td>  <td>11</td>  <td>19</td>  <td>12</td>
   </tr>
   <tr>
     <td>3</td>  <td>Baer</td>      <td>10</td>  <td>7</td>  <td>17</td>  <td>14</td>
@@ -224,7 +232,7 @@ weight: 8
     <td>28</td> <td>Timbrook</td>  <td>6</td>  <td>9</td>  <td>15</td>  <td>32</td>
   </tr>
   <tr>
-    <td>45</td> <td>Fox</td>       <td>6</td>  <td>6</td>  <td>12</td>  <td>10</td>
+    <td>45</td> <td>Fox</td>       <td>7</td>  <td>6</td>  <td>13</td>  <td>10</td>
   </tr>
   <tr>
     <td>88</td> <td>Franklin</td>  <td>4</td>  <td>6</td>  <td>10</td>  <td>66</td>
@@ -242,7 +250,7 @@ weight: 8
     <td>31</td>  <td>Streib</td>   <td></td>  <td>4</td>  <td>4</td>  <td>2</td>
   </tr>
   <tr>
-    <td>91</td> <td>Griffin</td>   <td></td>   <td>4</td>  <td>4</td>  <td>22</td>
+    <td>91</td> <td>Griffin</td>   <td></td>   <td>4</td>  <td>4</td>  <td>26</td>
   </tr>
   <tr>
     <td>4</td>  <td>Streib</td>    <td>1</td>  <td>2</td>  <td>3</td>  <td></td>
@@ -279,7 +287,7 @@ weight: 8
     <tr>
   </thead>
   <tr>
-    <td>30</td> <td>Lowinger</td> <td>341</td> <td>319</td> <td>0.935</td> <td class="widestats">11</td> <td class="widestats">3</td> <td class="widestats">2</td> <td class="widestats"></td>
+    <td>30</td> <td>Lowinger</td> <td>363</td> <td>339</td> <td>0.934</td> <td class="widestats">11</td> <td class="widestats">4</td> <td class="widestats">2</td> <td class="widestats"></td>
   </tr>
   <tr>
     <td>13</td> <td>Knox</td>     <td>45</td>   <td>36</td> <td>0.800</td> <td class="widestats">2</td> <td class="widestats">1</td> <td class="widestats">0</td>  <td class="widestats"></td>

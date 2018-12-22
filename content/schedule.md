@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-12-18
+date: 2018-12-21
 weight: 5
 ---
 
@@ -16,9 +16,14 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Blades Blue @ Carmel Gold, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], December 21, 8:00pm.
   - Hoosier League All Star Game, [Fuel Tank at Fishers <span class="icon fa-map-marker"></span>][fuel], December 22, 2:00pm.
   - Alumni vs. Blades Game, [Frank Southern <span class="icon fa-map-marker"></span>][frank], December 27, 6:15pm.
+  - Blades White vs Carmel Blue, [Frank Southern <span class="icon fa-map-marker"></span>][frank], January 4, 6:30pm.
+  - Blades White @ Carmel Blue, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], January 5, 7:45pm.
+<br><br>
+* Holiday Stick and Puck, all ages, at [Frank Southern <span class="icon fa-map-marker"></span>][frank]
+  - December 28, 10:45am.
+  - January 4, 10:45am.
 
 Calendars
 ---------
