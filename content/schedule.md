@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2018-12-27
+date: 2019-01-04
 weight: 5
 ---
 
@@ -16,7 +16,6 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Blades White vs Carmel Blue, [Frank Southern <span class="icon fa-map-marker"></span>][frank], January 4, 6:30pm.
   - Blades White @ Carmel Blue, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], January 5, 7:45pm.
   - Blades Blue @ Columbus, [Hamilton Ice Arena <span class="icon fa-map-marker"></span>][hamilton], January 9, 8:00pm.
   - Hoosier League Crossover Weekend, January 11-13
