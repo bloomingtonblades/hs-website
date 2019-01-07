@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-01-04
+date: 2019-01-06
 weight: 5
 ---
 
@@ -16,12 +16,11 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Blades White @ Carmel Blue, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], January 5, 7:45pm.
   - Blades Blue @ Columbus, [Hamilton Ice Arena <span class="icon fa-map-marker"></span>][hamilton], January 9, 8:00pm.
   - Hoosier League Crossover Weekend, January 11-13
       - Blades Blue vs Penn, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], January 11, 9:30pm.
-      - Blades Blue vs Homestead, [Arctic Zone <span class="icon fa-map-marker"></span>][arcticzone], January 12, 2:30pm.
-      - Blades Blue vs Munster, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], January 12, 9:45pm.
+      - Blades Blue vs Homestead, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], January 12, 2:15pm.
+      - Blades Blue vs Bishop Noll, [Arctic Zone <span class="icon fa-map-marker"></span>][arcticzone], January 12, 8:30pm.
       - Blades Blue vs LSJ, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], January 13, 1:00pm.
 <br><br>
 * Holiday Stick and Puck, all ages, at [Frank Southern <span class="icon fa-map-marker"></span>][frank]

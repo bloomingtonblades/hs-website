@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2019-01-04
+date: 2019-01-06
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -378,6 +378,15 @@ weight: 8
   <tr class="even">
                                  <td>Blades</td>       <td>1</td> <td>0</td> <td>1</td> <td></td> <td>2</td> <td class="widestats">Knox (T)</td> <td class="widestats"></td> <td class="widestats">15</td>
   </tr>
+
+  <!-- Blades White  vs. Carmel Blue 01/05/19 -->
+  <tr class="odd">
+      <td rowspan="2">1/5</td>
+                                 <td>Blades</td>       <td>1</td> <td>1</td> <td>1</td> <td></td>  <td>3</td> <td class="widestats">Knox (T)</td> <td class="widestats"></td> <td class="widestats">16</td>
+  </tr>
+  <tr class="odd">
+                                 <td>Carmel Blue</td>  <td>1</td> <td>1</td> <td>0</td> <td>2</td> <td>3</td> <td class="widestats">Lay (T)</td> <td class="widestats"></td> <td class="widestats">18</td>
+  </tr>
 </table>
 
 <a name="wpoints"></a>Points Standings -- Blades White
@@ -389,13 +398,19 @@ weight: 8
     <tr>
   </thead>
   <tr>
-    <td>99</td> <td>Cory</td>        <td>5</td>  <td>5</td>  <td>10</td>   <td>14</td>
+    <td>99</td> <td>Cory</td>        <td>5</td>  <td>6</td>  <td>11</td>   <td>14</td>
   </tr>
   <tr>
-    <td>89</td> <td>Lukes</td>       <td>5</td>  <td>4</td>  <td>9</td>   <td>4</td>
+    <td>89</td> <td>Lukes</td>       <td>5</td>  <td>4</td>  <td>9</td>   <td>6</td>
   </tr>
   <tr>
     <td>45</td> <td>Fox</td>         <td>3</td>  <td>3</td>  <td>6</td>   <td>4</td>
+  </tr>
+  <tr>
+    <td>88</td> <td>Franklin</td>    <td>5</td>  <td>1</td>  <td>6</td>   <td>21</td>
+  </tr>
+  <tr>
+    <td>00</td> <td>Lauer</td>       <td>3</td>   <td>2</td> <td>5</td>   <td>4</td>
   </tr>
   <tr>
     <td>4</td>  <td>Streib</td>      <td>1</td>  <td>4</td>  <td>5</td>   <td></td>
@@ -407,19 +422,13 @@ weight: 8
     <td>48</td> <td>Knipstein</td>   <td>3</td>  <td>2</td>  <td>5</td>   <td>8</td>
   </tr>
   <tr>
-    <td>88</td> <td>Franklin</td>    <td>4</td>  <td>1</td>  <td>5</td>   <td>17</td>
-  </tr>
-  <tr>
-    <td>91</td> <td>Griffin</td>     <td>2</td>  <td>3</td>  <td>5</td>   <td>26</td>
+    <td>91</td> <td>Griffin</td>     <td>2</td>  <td>3</td>  <td>5</td>   <td>30</td>
   </tr>
   <tr>
     <td>16</td> <td>Hunt</td>        <td>3</td>  <td>1</td>  <td>4</td>   <td>31</td>
   </tr>
   <tr>
     <td>28</td> <td>Timbrook</td>    <td>2</td>  <td>2</td>  <td>4</td>   <td>4</td>
-  </tr>
-  <tr>
-    <td>00</td> <td>Lauer</td>       <td>1</td>   <td>2</td> <td>3</td>   <td>2</td>
   </tr>
   <tr>
     <td>34</td> <td>Daley</td>       <td></td>   <td>3</td>  <td>3</td>   <td></td>
@@ -437,7 +446,7 @@ weight: 8
     <td>7</td>  <td>La Bella</td>    <td></td>   <td>1</td>  <td>1</td>   <td></td>
   </tr>
   <tr>
-    <td>19</td> <td>Cochran</td>     <td></td>   <td>1</td>  <td>1</td>   <td>17</td>
+    <td>19</td> <td>Cochran</td>     <td></td>   <td>2</td>  <td>2</td>   <td>17</td>
   </tr>
   <tr>
     <td>43</td> <td>Cockerham</td>   <td>1</td>  <td></td>   <td>1</td>   <td></td>
@@ -462,7 +471,7 @@ weight: 8
     <tr>
   </thead>
   <tr>
-    <td>13</td> <td>Knox</td>     <td>109</td> <td>97</td>  <td>0.890</td> <td class="widestats">5</td> <td class="widestats">1</td> <td class="widestats">1</td><td class="widestats"></td>
+    <td>13</td> <td>Knox</td>     <td>128</td> <td>113</td>  <td>0.883</td> <td class="widestats">5</td> <td class="widestats">1</td> <td class="widestats">2</td><td class="widestats"></td>
   </tr>
   <tr>
     <td>74</td> <td>Dayhoff</td>  <td>4</td>  <td>4</td>  <td>1.000</td> <td class="widestats">1</td> <td class="widestats">0</td> <td class="widestats">0</td><td class="widestats"></td>
