@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-01-06
+date: 2019-01-07
 weight: 5
 ---
 
@@ -22,12 +22,13 @@ Upcoming Events
       - Blades Blue vs Homestead, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], January 12, 2:15pm.
       - Blades Blue vs Bishop Noll, [Arctic Zone <span class="icon fa-map-marker"></span>][arcticzone], January 12, 8:30pm.
       - Blades Blue vs LSJ, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], January 13, 1:00pm.
+  - Blades Blue @ South Stars, [Perry Park <span class="icon fa-map-marker"></span>][perry], January 18, 8:00pm.
+  - Blades Blue vs Carmel Gold, [Frank Southern <span class="icon fa-map-marker"></span>][frank], January 20, 11:30am.
+  - Blades Blue vs Columbus, [Frank Southern <span class="icon fa-map-marker"></span>][frank], January 26, 3:45pm.
+  - Blades Blue @ HSE A, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], January 27, 11:20am.
 <br><br>
-* Holiday Stick and Puck, all ages, at [Frank Southern <span class="icon fa-map-marker"></span>][frank]
-  - December 28, 10:45am.
-  - December 31, 10:30am.
-  - January 3, 10:30am.
-  - January 4, 10:45am.
+
+* Team Diner, [Upland Banquet Room <span class="icon fa-map-marker"></span>][upland], January 14, 5:45pm.
 
 Calendars
 ---------
