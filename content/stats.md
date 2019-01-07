@@ -382,7 +382,7 @@ weight: 8
   <!-- Blades White  vs. Carmel Blue 01/05/19 -->
   <tr class="odd">
       <td rowspan="2">1/5</td>
-                                 <td>Blades</td>       <td>1</td> <td>1</td> <td>1</td> <td></td>  <td>3</td> <td class="widestats">Knox (T)</td> <td class="widestats"></td> <td class="widestats">16</td>
+                                 <td>Blades</td>       <td>1</td> <td>1</td> <td>1</td> <td></td>  <td>3</td> <td class="widestats">Knox (T)</td> <td class="widestats"></td> <td class="widestats">18</td>
   </tr>
   <tr class="odd">
                                  <td>Carmel Blue</td>  <td>1</td> <td>1</td> <td>0</td> <td>2</td> <td>3</td> <td class="widestats">Lay (T)</td> <td class="widestats"></td> <td class="widestats">18</td>
@@ -471,7 +471,7 @@ weight: 8
     <tr>
   </thead>
   <tr>
-    <td>13</td> <td>Knox</td>     <td>128</td> <td>113</td>  <td>0.883</td> <td class="widestats">5</td> <td class="widestats">1</td> <td class="widestats">2</td><td class="widestats"></td>
+    <td>13</td> <td>Knox</td>     <td>130</td> <td>115</td>  <td>0.885</td> <td class="widestats">5</td> <td class="widestats">1</td> <td class="widestats">2</td><td class="widestats"></td>
   </tr>
   <tr>
     <td>74</td> <td>Dayhoff</td>  <td>4</td>  <td>4</td>  <td>1.000</td> <td class="widestats">1</td> <td class="widestats">0</td> <td class="widestats">0</td><td class="widestats"></td>
