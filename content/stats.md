@@ -385,7 +385,7 @@ weight: 8
                                  <td>Blades</td>       <td>1</td> <td>1</td> <td>1</td> <td></td>  <td>3</td> <td class="widestats">Knox (T)</td> <td class="widestats"></td> <td class="widestats">26</td>
   </tr>
   <tr class="odd">
-                                 <td>Carmel Blue</td>  <td>1</td> <td>1</td> <td>0</td> <td>2</td> <td>3</td> <td class="widestats">Lay (T)</td> <td class="widestats"></td> <td class="widestats">23</td>
+                                 <td>Carmel Blue</td>  <td>1</td> <td>0</td> <td>2</td> <td></td> <td>3</td> <td class="widestats">Lay (T)</td> <td class="widestats"></td> <td class="widestats">23</td>
   </tr>
 </table>
 
