@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-01-07
+date: 2019-01-10
 weight: 5
 ---
 
@@ -16,7 +16,6 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Blades Blue @ Columbus, [Hamilton Ice Arena <span class="icon fa-map-marker"></span>][hamilton], January 9, 8:00pm.
   - Hoosier League Crossover Weekend, January 11-13
       - Blades Blue vs Penn, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], January 11, 9:30pm.
       - Blades Blue vs Homestead, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], January 12, 2:15pm.
