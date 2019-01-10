@@ -1,6 +1,6 @@
 ---
 title: "Roster"
-date: 2018-12-12
+date: 2019-01-10
 weight: 4
 ---
 
@@ -34,12 +34,6 @@ Players 2018&ndash;19
     <figure>
       <img alt="Lander Greulich Photo" src="1819_greulich.jpg">
       <figcaption>Lander Greulich (A)<br>#2</figcaption>
-    </figure>
-  </div>
-  <div class="player">
-    <figure>
-      <img alt="Anthony La Bella Photo" src="17-labella.jpg">
-      <figcaption>Anthony La Bella<br>#7</figcaption>
     </figure>
   </div>
   <div class="player">
