@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-01-13
+date: 2019-01-14
 weight: 5
 ---
 
@@ -22,7 +22,7 @@ Upcoming Events
   - Blades Blue @ HSE A, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], January 27, 11:20am.
 <br><br>
 
-* Team Diner, [Upland Banquet Room <span class="icon fa-map-marker"></span>][upland], January 14, 5:45pm.
+* Team Diner, [Upland Banquet Room <span class="icon fa-map-marker"></span>][upland], February 11, 5:45pm.
 
 Calendars
 ---------
