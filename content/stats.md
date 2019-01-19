@@ -252,9 +252,9 @@ weight: 8
                                  <td>Blades</td>  <td>0</td> <td>1</td> <td>1</td> <td></td> <td>2</td>  <td class="widestats"></td>          <td class="widestats">Lowinger</td>  <td class="widestats">37</td>
   </tr>
 
-<!-- Blades Blue v South Stars Red, 1/19/19 -->
+<!-- Blades Blue v South Stars Red, 1/18/19 -->
  <tr class="even">
-      <td rowspan="2">1/19</td>
+      <td rowspan="2">1/18</td>
                                  <td>South Stars Red</td>  <td>0</td> <td>0</td> <td>2</td> <td></td> <td>2</td>  <td class="widestats"></td>          <td class="widestats">Holloway</td> <td class="widestats">17</td>
   </tr>
   <tr class="even">
