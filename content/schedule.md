@@ -18,7 +18,7 @@ Upcoming Events
 * Games:
   - CANCELLED - Blades Blue vs Carmel Gold, [Frank Southern <span class="icon fa-map-marker"></span>][frank], January 20, 11:30am.
   - Blades Blue vs Columbus, [Frank Southern <span class="icon fa-map-marker"></span>][frank], January 26, 3:45pm.
-  - Blades Blue @ HSE A, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], January 27, 10:45am.
+  - Blades Blue @ HSE A, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], January 27, 10:15am.
   - Blades Senior Night vs South Stars, [Frank Southern <span class="icon fa-map-marker"></span>][frank], February 2
       - Senior introductions at 4:15pm
       - Game Time 4:45pm
