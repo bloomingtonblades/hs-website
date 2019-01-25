@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-01-23
+date: 2019-01-25
 weight: 5
 ---
 
@@ -16,9 +16,9 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - CANCELLED - Blades Blue vs Carmel Gold, [Frank Southern <span class="icon fa-map-marker"></span>][frank], January 20, 11:30am.
   - Blades Blue vs Columbus, [Frank Southern <span class="icon fa-map-marker"></span>][frank], January 26, 3:45pm.
   - Blades Blue @ HSE A, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], January 27, 10:15am.
+  - Blades Blue vs Carmel Gold, [Frank Southern <span class="icon fa-map-marker"></span>][frank], January 29, 7:15pm.
   - Blades Senior Night vs South Stars, [Frank Southern <span class="icon fa-map-marker"></span>][frank], February 2
       - Senior introductions at 4:15pm
       - Game Time 4:45pm
