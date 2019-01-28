@@ -16,14 +16,21 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Blades Blue @ HSE A, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], January 27, 10:15am.
   - Blades Blue vs Carmel Gold, [Frank Southern <span class="icon fa-map-marker"></span>][frank], January 29, 7:15pm.
   - Blades Senior Night vs South Stars, [Frank Southern <span class="icon fa-map-marker"></span>][frank], February 2
       - Senior introductions at 4:15pm
       - Game Time 4:45pm
-<br><br>
+  - Blades Blue vs Evansville, [Frank Southern <span class="icon fa-map-marker"></span>][frank], February 3, 11:30am.
+  - Hoosier League Tournament, February 8-10, Schedule TBA.
+  - Big Bear Tournament, February 15-17, [Swonder Ice Arena <span class="icon fa-map-marker"></span>][swonder], Schedule TBA.
+  - Blades White @ HSE B, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], February 23, 6:30pm.
+  - ISHSHA State Playoffs, March 1-3, Schedule TBA.
+  - ISHSHA State Championship, [Midwest Training Ice Center <span class="icon fa-map-marker"></span>][midwest], March 9, Schedule TBA.
+
+<br>
 
 * Team Diner, [Upland Banquet Room <span class="icon fa-map-marker"></span>][upland], February 11, 5:45pm.
+* End of Season Banquet and Player Recognition, [Fountain Square Mall <span class="icon fa-map-marker"></span>][fountain], March 24, 4:30pm.
 
 Calendars
 ---------
@@ -57,3 +64,4 @@ Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></s
 [icefw]: https://www.google.com/maps/place/Ice+Sports+Fort+Wayne/@41.112185,-85.1491587,17z/data=!3m1!4b1!4m5!3m4!1s0x8815e3763c2aea45:0xffa2c90a8bb71999!8m2!3d41.112181!4d-85.14697
 [calsupport]: https://support.google.com/calendar/answer/37100?hl=en
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
+[fountain]: https://maps.google.com/maps?hl=en&q=Fountain%20Square%2C%20101%20W%20Kirkwood%20Ave%2C%20Bloomington%2C%20IN%2047404%2C%20USA

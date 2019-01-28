@@ -269,6 +269,15 @@ weight: 8
   <tr class="odd">
                                  <td>Blades</td>    <td>2</td> <td>2</td> <td>3</td> <td></td> <td>7</td>  <td class="widestats">Lowinger</td>   <td class="widestats"></td>        <td class="widestats">17</td>
   </tr>
+
+<!-- Blades Blue @ HSE, 1/27/19 -->
+  <tr class="even">
+      <td rowspan="2">1/27</td>
+                                 <td>Blades</td>  <td>3</td> <td>0</td> <td>1</td> <td></td> <td>4</td> <td class="widestats">Lowinger</td> <td class="widestats"></td>    <td class="widestats">25</td>
+  </tr>
+  <tr class="even">
+                                 <td>HSE</td>     <td>1</td> <td>1</td> <td>0</td> <td></td> <td>2</td> <td class="widestats"></td> <td class="widestats">Mack</td> <td class="widestats">24</td>
+  </tr>
 </table>
 
 <a name="bpoints"></a>Points Standings -- Blades Blue
@@ -280,13 +289,13 @@ weight: 8
     <tr>
   </thead>
   <tr>
-    <td>28</td> <td>Timbrook</td>  <td>12</td>  <td>18</td>  <td>30</td>  <td>36</td>
+    <td>27</td> <td>Prather</td>   <td>11</td>   <td>22</td>  <td>33</td>  <td>40</td>
   </tr>
   <tr>
-    <td>22</td> <td>Rawlins</td>   <td>14</td>  <td>15</td>  <td>29</td>  <td>12</td>
+    <td>28</td> <td>Timbrook</td>  <td>13</td>  <td>18</td>  <td>31</td>  <td>38</td>
   </tr>
   <tr>
-    <td>27</td> <td>Prather</td>   <td>9</td>   <td>20</td>  <td>29</td>  <td>40</td>
+    <td>22</td> <td>Rawlins</td>   <td>14</td>  <td>16</td>  <td>30</td>  <td>12</td>
   </tr>
   <tr>
     <td>14</td> <td>Stright</td>   <td>13</td>  <td>9</td>  <td>22</td>  <td>6</td>
@@ -295,10 +304,10 @@ weight: 8
     <td>3</td>  <td>Baer</td>      <td>12</td>  <td>7</td>  <td>19</td>  <td>14</td>
   </tr>
   <tr>
-    <td>45</td> <td>Fox</td>       <td>9</td>  <td>8</td>  <td>17</td>  <td>29</td>
+    <td>45</td> <td>Fox</td>       <td>10</td>  <td>9</td>  <td>19</td>  <td>29</td>
   </tr>
   <tr>
-    <td>88</td> <td>Franklin</td>  <td>5</td>  <td>10</td>  <td>15</td>  <td>88</td>
+    <td>88</td> <td>Franklin</td>  <td>5</td>  <td>12</td>  <td>17</td>  <td>88</td>
   </tr>
   <tr>
     <td>2</td>  <td>Greulich</td>  <td>5</td>  <td>6</td>  <td>11</td>  <td>2</td>
@@ -322,7 +331,7 @@ weight: 8
     <td>43</td> <td>Cockerham</td> <td></td>   <td>5</td>  <td>5</td>  <td></td>
   </tr>
   <tr>
-    <td>91</td> <td>Griffin</td>   <td></td>   <td>5</td>  <td>5</td>  <td>52</td>
+    <td>91</td> <td>Griffin</td>   <td></td>   <td>5</td>  <td>5</td>  <td>58</td>
   </tr>
   <tr>
     <td>89</td> <td>Lukes</td>     <td>1</td>  <td>1</td>  <td>2</td>  <td>2</td>
@@ -337,7 +346,7 @@ weight: 8
     <td>48</td> <td>Knipstein</td> <td></td>   <td></td>   <td></td>   <td>16</td>
   </tr>
   <tr>
-    <td>76</td> <td>Pope</td>      <td></td>   <td>1</td>  <td>1</td>   <td>6</td>
+    <td>76</td> <td>Pope</td>      <td></td>   <td>1</td>  <td>1</td>   <td>10</td>
   </tr>
   <tr>
     <td>93</td> <td>Davis</td>     <td></td>   <td></td>   <td></td>   <td>2</td>
@@ -353,7 +362,7 @@ weight: 8
     <tr>
   </thead>
   <tr>
-    <td>30</td> <td>Lowinger</td> <td>517</td> <td>478</td> <td>0.925</td> <td class="widestats">15</td> <td class="widestats">7</td> <td class="widestats">2</td> <td class="widestats"></td>
+    <td>30</td> <td>Lowinger</td> <td>544</td> <td>503</td> <td>0.925</td> <td class="widestats">16</td> <td class="widestats">7</td> <td class="widestats">2</td> <td class="widestats"></td>
   </tr>
   <tr>
     <td>13</td> <td>Knox</td>     <td>56</td>   <td>45</td> <td>0.804</td> <td class="widestats">2</td> <td class="widestats">1</td> <td class="widestats">0</td>  <td class="widestats"></td>
