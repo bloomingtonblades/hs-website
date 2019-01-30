@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-01-27
+date: 2019-01-29
 weight: 5
 ---
 
@@ -16,7 +16,6 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Blades Blue vs Carmel Gold, [Frank Southern <span class="icon fa-map-marker"></span>][frank], January 29, 7:15pm.
   - Blades Senior Night vs South Stars, [Frank Southern <span class="icon fa-map-marker"></span>][frank], February 2
       - Senior introductions at 4:15pm
       - Game Time 4:45pm

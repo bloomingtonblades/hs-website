@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2019-01-27
+date: 2019-01-29
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -278,6 +278,15 @@ weight: 8
   <tr class="even">
                                  <td>HSE</td>     <td>1</td> <td>1</td> <td>0</td> <td></td> <td>2</td> <td class="widestats"></td> <td class="widestats">Mack</td> <td class="widestats">24</td>
   </tr>
+
+<!-- Blades Blue v Carmel, 1/29/19 -->
+ <tr class="odd">
+      <td rowspan="2">1/29</td>
+                                 <td>Carmel Gold</td>  <td>0</td> <td>1</td> <td>1</td> <td></td> <td>2</td>  <td class="widestats">Schlagenhauf</td>     <td class="widestats"></td>  <td class="widestats">18</td>
+  </tr>
+  <tr class="odd">
+                                 <td>Blades</td>       <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td>  <td class="widestats"></td>   <td class="widestats">Lowinger</td>        <td class="widestats">24</td>
+  </tr>
 </table>
 
 <a name="bpoints"></a>Points Standings -- Blades Blue
@@ -307,7 +316,7 @@ weight: 8
     <td>45</td> <td>Fox</td>       <td>10</td>  <td>9</td>  <td>19</td>  <td>29</td>
   </tr>
   <tr>
-    <td>88</td> <td>Franklin</td>  <td>5</td>  <td>12</td>  <td>17</td>  <td>88</td>
+    <td>88</td> <td>Franklin</td>  <td>5</td>  <td>12</td>  <td>17</td>  <td>96</td>
   </tr>
   <tr>
     <td>2</td>  <td>Greulich</td>  <td>5</td>  <td>6</td>  <td>11</td>  <td>2</td>
@@ -362,7 +371,7 @@ weight: 8
     <tr>
   </thead>
   <tr>
-    <td>30</td> <td>Lowinger</td> <td>544</td> <td>503</td> <td>0.925</td> <td class="widestats">16</td> <td class="widestats">7</td> <td class="widestats">2</td> <td class="widestats"></td>
+    <td>30</td> <td>Lowinger</td> <td>570</td> <td>527</td> <td>0.925</td> <td class="widestats">16</td> <td class="widestats">8</td> <td class="widestats">2</td> <td class="widestats"></td>
   </tr>
   <tr>
     <td>13</td> <td>Knox</td>     <td>56</td>   <td>45</td> <td>0.804</td> <td class="widestats">2</td> <td class="widestats">1</td> <td class="widestats">0</td>  <td class="widestats"></td>
