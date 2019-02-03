@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-01-29
+date: 2019-02-03
 weight: 5
 ---
 
@@ -16,9 +16,6 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Blades Senior Night vs South Stars, [Frank Southern <span class="icon fa-map-marker"></span>][frank], February 2
-      - Senior introductions at 4:15pm
-      - Game Time 4:45pm
   - Blades Blue vs Evansville, [Frank Southern <span class="icon fa-map-marker"></span>][frank], February 3, 11:30am.
   - Hoosier League Tournament, February 8-10, Schedule TBA.
   - Big Bear Tournament, February 15-17, [Swonder Ice Arena <span class="icon fa-map-marker"></span>][swonder], Schedule TBA.
