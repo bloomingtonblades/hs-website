@@ -294,7 +294,7 @@ weight: 8
                                  <td>South Stars</td>  <td>1</td> <td>1</td> <td>1</td> <td></td> <td>3</td>  <td class="widestats"></td>          <td class="widestats">Holloway</td>   <td class="widestats">23</td>
   </tr>
   <tr class="even">
-                                 <td>Blades</td>       <td>0</td> <td>2</td> <td>3</td> <td></td> <td>5</td>  <td class="widestats">Lowinger</td>  <td class="widestats">Lowinger</td>   <td class="widestats">18</td>
+                                 <td>Blades</td>       <td>0</td> <td>2</td> <td>3</td> <td></td> <td>5</td>  <td class="widestats">Lowinger</td>  <td class="widestats"></td>           <td class="widestats">18</td>
   </tr>
 </table>
 
