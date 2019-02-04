@@ -196,7 +196,7 @@ weight: 8
                                  <td>Blades</td>      <td>0</td> <td>1</td> <td>3</td> <td></td> <td>4</td> <td class="widestats"></td> <td class="widestats">Knox</td>    <td class="widestats">14</td>
   </tr>
   <tr class="odd">
-                                 <td>Evansville</td>  <td>3</td> <td>2</td> <td>1</td> <td></td> <td>6</td> <td class="widestats">Boreman</td> <td class="widestats"></td> <td class="widestats">24</td>
+                                 <td>Evansville</td>  <td>3</td> <td>2</td> <td>1</td> <td></td> <td>6</td> <td class="widestats">Broerman</td> <td class="widestats"></td> <td class="widestats">24</td>
   </tr>
 <!-- Blades Blue @ Carmel Gold, 12/21/18 -->
   <tr class="even">
@@ -300,10 +300,10 @@ weight: 8
 <!-- Blades Blue v Evansville, 2/3/19 -->
  <tr class="odd">
       <td rowspan="2">2/3</td>
-                                 <td>Evansville</td>   <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td>  <td class="widestats"></td>           <td class="widestats">Boreman</td>   <td class="widestats">12</td>
+                                 <td>Evansville</td>   <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td>  <td class="widestats"></td>           <td class="widestats">Broerman</td>   <td class="widestats">15</td>
   </tr>
   <tr class="odd">
-                                 <td>Blades</td>       <td>1</td> <td>1</td> <td>1</td> <td></td> <td>3</td>  <td class="widestats">Lowinger</td>   <td class="widestats"></td>          <td class="widestats">22</td>
+                                 <td>Blades</td>       <td>1</td> <td>1</td> <td>1</td> <td></td> <td>3</td>  <td class="widestats">Lowinger</td>   <td class="widestats"></td>          <td class="widestats">28</td>
   </tr>
 
 </table>
@@ -390,7 +390,7 @@ weight: 8
     <tr>
   </thead>
   <tr>
-    <td>30</td> <td>Lowinger</td> <td>613</td> <td>567</td> <td>0.925</td> <td class="widestats">18</td> <td class="widestats">8</td> <td class="widestats">2</td> <td class="widestats"></td>
+    <td>30</td> <td>Lowinger</td> <td>619</td> <td>573</td> <td>0.926</td> <td class="widestats">18</td> <td class="widestats">8</td> <td class="widestats">2</td> <td class="widestats"></td>
   </tr>
   <tr>
     <td>13</td> <td>Knox</td>     <td>56</td>   <td>45</td> <td>0.804</td> <td class="widestats">2</td> <td class="widestats">1</td> <td class="widestats">0</td>  <td class="widestats"></td>
