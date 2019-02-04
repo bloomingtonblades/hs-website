@@ -16,7 +16,6 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Blades Blue vs Evansville, [Frank Southern <span class="icon fa-map-marker"></span>][frank], February 3, 11:30am.
   - Hoosier League Tournament, February 8-10, Schedule TBA.
   - Big Bear Tournament, February 15-17, [Swonder Ice Arena <span class="icon fa-map-marker"></span>][swonder], Schedule TBA.
   - Blades White @ HSE B, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], February 23, 6:30pm.
