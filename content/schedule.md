@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-02-03
+date: 2019-02-04
 weight: 5
 ---
 
@@ -16,7 +16,13 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 * Games:
-  - Hoosier League Tournament, February 8-10, Schedule TBA.
+  - Hoosier League Tournament, February 8-10.
+      - Blades Blue vs South Stars, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], February 8, 8:00pm.
+      - Semifinals, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], February 9, 7:15pm.
+      - Championship, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], February 10, 12:00pm.
+
+<br>
+
   - Big Bear Tournament, February 15-17, [Swonder Ice Arena <span class="icon fa-map-marker"></span>][swonder], Schedule TBA.
   - Blades White @ HSE B, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], February 23, 6:30pm.
   - ISHSHA State Playoffs, March 1-3, Schedule TBA.
