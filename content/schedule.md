@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-02-04
+date: 2019-02-06
 weight: 5
 ---
 
@@ -17,21 +17,20 @@ Upcoming Events
 ---------------
 * Games:
   - Hoosier League Tournament, February 8-10.
-      - Blades Blue vs South Stars, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], February 8, 8:00pm.
-      - Semifinals, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], February 9, 7:15pm.
-      - Championship, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], February 10, 12:00pm.
-
-<br>
-
+      - Blades Blue vs South Stars, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], February 8, 9:30pm.
+      - Semifinals, [Arctic Zone <span class="icon fa-map-marker"></span>][arcticzone], February 9, 4:30pm.
+      - Championship, [Arctic Zone <span class="icon fa-map-marker"></span>][arcticzone], February 10, 12:30pm.
+<p></p>
   - Big Bear Tournament, February 15-17, [Swonder Ice Arena <span class="icon fa-map-marker"></span>][swonder], Schedule TBA.
   - Blades White @ HSE B, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], February 23, 6:30pm.
   - ISHSHA State Playoffs, March 1-3, Schedule TBA.
   - ISHSHA State Championship, [Midwest Training Ice Center <span class="icon fa-map-marker"></span>][midwest], March 9, Schedule TBA.
 
-<br>
+<p></p>
 
-* Team Diner, [Upland Banquet Room <span class="icon fa-map-marker"></span>][upland], February 11, 5:45pm.
-* End of Season Banquet and Player Recognition, [Fountain Square Mall <span class="icon fa-map-marker"></span>][fountain], March 24, 4:30pm.
+* Other Team Events:
+  - Team Diner, [Upland Banquet Room <span class="icon fa-map-marker"></span>][upland], February 11, 5:45pm.
+  - End of Season Banquet and Player Recognition, [Fountain Square Mall <span class="icon fa-map-marker"></span>][fountain], March 24, 4:30pm.
 
 Calendars
 ---------
