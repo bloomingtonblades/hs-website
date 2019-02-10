@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-02-06
+date: 2019-02-10
 weight: 5
 ---
 
@@ -15,15 +15,27 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 
 Upcoming Events
 ---------------
-* Games:
-  - Hoosier League Tournament, February 8-10.
-      - Blades Blue vs South Stars, [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel], February 8, 9:30pm.
-      - Semifinals, [Arctic Zone <span class="icon fa-map-marker"></span>][arcticzone], February 9, 4:30pm.
-      - Championship, [Arctic Zone <span class="icon fa-map-marker"></span>][arcticzone], February 10, 12:30pm.
+* Big Bear Tournament, February 15-17, [Swonder Ice Arena <span class="icon fa-map-marker"></span>][swonder].
+    - Blades Blue v Carmel Gold, February 15, 7:00pm (Central Time)
+    - Blades Blue v Music City Marauders (TN), February 16, 10:40am (Central Time)
+    - Blades Blue v Huskies Hockey Club (IL), February 16, 8:50pm (Central Time)
+    - Playoff, February 17, 11:40am or Consolation, 5:30pm (Central Time)
+    - Championship (if win in 11:40 game), February 17, 5:45pm (Central Time)
+
 <p></p>
-  - Big Bear Tournament, February 15-17, [Swonder Ice Arena <span class="icon fa-map-marker"></span>][swonder], Schedule TBA.
-  - Blades White @ HSE B, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], February 23, 6:30pm.
-  - ISHSHA State Playoffs, March 1-3, Schedule TBA.
+
+* Blades White @ HSE B, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], February 23, 6:30pm.
+
+<p></p>
+
+* ISHSHA State Playoffs, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], March 1-3.
+    - Blades Blue v HSE, March 1, 7:30pm.
+    - Winner's bracket, March 2, 11:45am.
+    - Loser's bracket, March 2, 11:15 am, 6:30pm.
+    - Semifinals, March 3, 10:30am or 10:45am.
+
+<p></p>
+
   - ISHSHA State Championship, [Midwest Training Ice Center <span class="icon fa-map-marker"></span>][midwest], March 9, Schedule TBA.
 
 <p></p>
