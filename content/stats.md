@@ -309,7 +309,7 @@ weight: 8
 <!-- Blades Blue v South Stars, 2/8/19 -->
  <tr class="even">
       <td rowspan="3">2/8</td>
-      <td colspan="8"><i>Hoosier League Tournament Quarterfinals</i></td><td class="widestats" colspan="3"></td>
+      <td colspan="6"><i>Hoosier League Tournament Quarterfinals</i></td><td class="widestats" colspan="3"></td>
  </tr>
  <tr class="even">
                                  <td>South Stars</td>   <td>1</td> <td>0</td> <td>1</td> <td></td> <td>2</td>  <td class="widestats"></td>           <td class="widestats">Semmler</td>   <td class="widestats">22</td>
@@ -320,7 +320,7 @@ weight: 8
 <!-- Blades Blue v South Stars, 2/9/19 -->
  <tr class="odd">
       <td rowspan="3">2/9</td>
-      <td colspan="8"><i>Hoosier League Tournament Semifinals</i></td><td class="widestats" colspan="3"></td>
+      <td colspan="6"><i>Hoosier League Tournament Semifinals</i></td><td class="widestats" colspan="3"></td>
  </tr>
  <tr class="odd">
                                  <td>Blades</td>      <td>1</td> <td>0</td> <td>1</td> <td></td> <td>2</td>  <td class="widestats"></td>        <td class="widestats">Lowinger</td>  <td class="widestats">49</td>
