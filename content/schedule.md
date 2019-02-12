@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-02-10
+date: 2019-02-12
 weight: 5
 ---
 
@@ -18,9 +18,9 @@ Upcoming Events
 * Big Bear Tournament, February 15-17, [Swonder Ice Arena <span class="icon fa-map-marker"></span>][swonder].
     - Blades Blue v Carmel Gold, February 15, 7:00pm (Central Time)
     - Blades Blue v Music City Marauders (TN), February 16, 10:40am (Central Time)
-    - Blades Blue v Huskies Hockey Club (IL), February 16, 8:50pm (Central Time)
-    - Playoff, February 17, 11:40am or Consolation, 5:30pm (Central Time)
-    - Championship (if win in 11:40 game), February 17, 5:45pm (Central Time)
+    - Blades Blue v Twin Bridges Lightning (MO), February 16, 8:40pm (Central Time)
+    - Semifinals, February 17, 11:10am or 11:55; or Consolation, 4:45pm (Central Time)
+    - Championship (if win in semifinals), February 17, 5:45pm (Central Time)
 
 <p></p>
 
