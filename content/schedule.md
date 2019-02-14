@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-02-12
+date: 2019-02-13
 weight: 5
 ---
 
@@ -24,7 +24,7 @@ Upcoming Events
 
 <p></p>
 
-* Blades White @ HSE B, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], February 23, 6:30pm.
+* Blades White @ HSE B, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], February 24, 10:30am.
 
 <p></p>
 
