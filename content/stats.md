@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2019-02-10
+date: 2019-02-16
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -317,7 +317,8 @@ weight: 8
   <tr class="even">
                                  <td>Blades</td>       <td>0</td> <td>0</td> <td>3</td> <td></td> <td>3</td>  <td class="widestats">Lowinger</td>   <td class="widestats"></td>          <td class="widestats">28</td>
   </tr>
-<!-- Blades Blue v South Stars, 2/9/19 -->
+
+<!-- Blades Blue v Zionsville, 2/9/19 -->
  <tr class="odd">
       <td rowspan="3">2/9</td>
       <td colspan="6"><i>Hoosier League Tournament Semifinals</i></td><td class="widestats" colspan="3"></td>
@@ -327,6 +328,24 @@ weight: 8
   </tr>
   <tr class="odd">
                                  <td>Zionsville</td>  <td>1</td> <td>1</td> <td>1</td> <td></td> <td>3</td>  <td class="widestats">Chinni</td>  <td class="widestats"></td>          <td class="widestats">15</td>
+  </tr>
+
+<!-- Blades Blue v Carmel, 2/15/19 -->
+ <tr class="even">
+      <td rowspan="2">2/15</td>
+                                 <td>Blades</td>  <td>2</td> <td>0</td> <td>0</td> <td></td> <td>2</td>  <td class="widestats"></td>        <td class="widestats">Lowinger</td>  <td class="widestats"></td>
+  </tr>
+  <tr class="even">
+                                 <td>Carmel</td>  <td>3</td> <td>1</td> <td>0</td> <td></td> <td>4</td>  <td class="widestats"></td>  <td class="widestats"></td>          <td class="widestats"></td>
+  </tr>
+
+<!-- Blades Blue v Music City, 2/16/19 -->
+ <tr class="odd">
+      <td rowspan="2">2/16</td>
+                                 <td>Music City Marauders</td>  <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td>  <td class="widestats"></td>          <td class="widestats">Glassman</td>  <td class="widestats">29</td>
+  </tr>
+  <tr class="odd">
+                                 <td>Blades</td>                <td>3</td> <td>3</td> <td>3</td> <td></td> <td>9</td>  <td class="widestats">Lowinger</td>  <td class="widestats"></td>          <td class="widestats">0</td>
   </tr>
 
 </table>
@@ -343,13 +362,13 @@ weight: 8
     <td>28</td> <td>Timbrook</td>  <td>13</td>  <td>24</td>  <td>37</td>  <td>42</td>
   </tr>
   <tr>
-    <td>27</td> <td>Prather</td>   <td>12</td>   <td>23</td>  <td>35</td>  <td>46</td>
+    <td>27</td> <td>Prather</td>   <td>13</td>   <td>23</td>  <td>36</td>  <td>46</td>
   </tr>
   <tr>
-    <td>22</td> <td>Rawlins</td>   <td>16</td>  <td>17</td>  <td>33</td>  <td>39</td>
+    <td>22</td> <td>Rawlins</td>   <td>16</td>  <td>18</td>  <td>34</td>  <td>39</td>
   </tr>
   <tr>
-    <td>14</td> <td>Stright</td>   <td>15</td>  <td>11</td>  <td>26</td>  <td>10</td>
+    <td>14</td> <td>Stright</td>   <td>15</td>  <td>12</td>  <td>27</td>  <td>10</td>
   </tr>
   <tr>
     <td>45</td> <td>Fox</td>       <td>14</td>  <td>11</td>  <td>25</td>  <td>29</td>
@@ -385,10 +404,10 @@ weight: 8
     <td>43</td> <td>Cockerham</td> <td></td>   <td>5</td>  <td>5</td>  <td></td>
   </tr>
   <tr>
-    <td>89</td> <td>Lukes</td>     <td>1</td>  <td>1</td>  <td>2</td>  <td>2</td>
+    <td>00</td> <td>Lauer</td>     <td>1</td>   <td>1</td>  <td>2</td>  <td></td>
   </tr>
   <tr>
-    <td>00</td> <td>Lauer</td>     <td></td>   <td>1</td>  <td>1</td>  <td></td>
+    <td>89</td> <td>Lukes</td>     <td>1</td>  <td>1</td>  <td>2</td>  <td>2</td>
   </tr>
   <tr>
     <td>7</td>  <td>La Bella</td>  <td></td>   <td></td>   <td></td>   <td>18</td>
