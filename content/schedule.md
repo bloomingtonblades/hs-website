@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-02-13
+date: 2019-02-18
 weight: 5
 ---
 
@@ -15,15 +15,6 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 
 Upcoming Events
 ---------------
-* Big Bear Tournament, February 15-17, [Swonder Ice Arena <span class="icon fa-map-marker"></span>][swonder].
-    - Blades Blue v Carmel Gold, February 15, 7:00pm (Central Time)
-    - Blades Blue v Music City Marauders (TN), February 16, 10:40am (Central Time)
-    - Blades Blue v Twin Bridges Lightning (MO), February 16, 8:40pm (Central Time)
-    - Semifinals, February 17, 11:10am or 11:55; or Consolation, 4:45pm (Central Time)
-    - Championship (if win in semifinals), February 17, 5:45pm (Central Time)
-
-<p></p>
-
 * Blades White @ HSE B, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], February 24, 10:30am.
 
 <p></p>
@@ -41,7 +32,6 @@ Upcoming Events
 <p></p>
 
 * Other Team Events:
-  - Team Diner, [Upland Banquet Room <span class="icon fa-map-marker"></span>][upland], February 11, 5:45pm.
   - End of Season Banquet and Player Recognition, [Fountain Square Mall <span class="icon fa-map-marker"></span>][fountain], March 24, 4:30pm.
 
 Calendars
