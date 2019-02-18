@@ -383,7 +383,7 @@ weight: 8
     <td>27</td> <td>Prather</td>   <td>16</td>   <td>23</td>  <td>39</td>  <td>46</td>
   </tr>
   <tr>
-    <td>28</td> <td>Timbrook</td>  <td>14</td>  <td>25</td>  <td>39</td>  <td>44</td>
+    <td>28</td> <td>Timbrook</td>  <td>14</td>  <td>25</td>  <td>39</td>  <td>46</td>
   </tr>
   <tr>
     <td>14</td> <td>Stright</td>   <td>19</td>  <td>12</td>  <td>31</td>  <td>10</td>
@@ -413,10 +413,10 @@ weight: 8
     <td>17</td> <td>La Bella</td>  <td>5</td>  <td>4</td>  <td>9</td>  <td>21</td>
   </tr>
   <tr>
-    <td>31</td> <td>Streib</td>   <td>1</td>  <td>7</td>  <td>8</td>  <td>4</td>
+    <td>99</td> <td>Cory</td>      <td>5</td>  <td>4</td>  <td>9</td>  <td>8</td>
   </tr>
   <tr>
-    <td>99</td> <td>Cory</td>      <td>4</td>  <td>4</td>  <td>8</td>  <td>8</td>
+    <td>31</td> <td>Streib</td>   <td>1</td>  <td>7</td>  <td>8</td>  <td>4</td>
   </tr>
   <tr>
     <td>43</td> <td>Cockerham</td> <td></td>   <td>5</td>  <td>5</td>  <td></td>
@@ -450,7 +450,7 @@ weight: 8
     <tr>
   </thead>
   <tr>
-    <td>30</td> <td>Lowinger</td> <td>732</td> <td>680</td> <td>0.929</td> <td class="widestats">21</td> <td class="widestats">9</td> <td class="widestats">2</td> <td class="widestats"></td>
+    <td>30</td> <td>Lowinger</td> <td>758</td> <td>704</td> <td>0.929</td> <td class="widestats">21</td> <td class="widestats">9</td> <td class="widestats">2</td> <td class="widestats">1</td>
   </tr>
   <tr>
     <td>13</td> <td>Knox</td>     <td>61</td>   <td>50</td> <td>0.820</td> <td class="widestats">2</td> <td class="widestats">1</td> <td class="widestats">0</td>  <td class="widestats"></td>
