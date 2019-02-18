@@ -354,13 +354,13 @@ weight: 8
                                  <td>Blades</td>        <td>2</td> <td>1</td> <td>2</td> <td></td> <td>5</td>  <td class="widestats">Lowinger</td>  <td class="widestats"></td>       <td class="widestats">30</td>
   </tr>
   <tr class="even">
-                                 <td>Twin Bridges</td>  <td>0</td> <td>1</td> <td>0</td> <td></td> <td>1</td>  <td class="widestats"></td>          <td class="widestats">Young</td>  <td class="widestats">18</td>
+                                 <td>Twin Bridges Elite</td>  <td>0</td> <td>1</td> <td>0</td> <td></td> <td>1</td>  <td class="widestats"></td>          <td class="widestats">Young</td>  <td class="widestats">18</td>
   </tr>
 
 <!-- Blades Blue v Carmel, 2/17/19 -->
  <tr class="even">
       <td rowspan="2">2/17</td>
-                                 <td>Blades</td>  <td>1</td> <td>0</td> <td>0</td> <td></td>  <td>1</td>  <td class="widestats"></td>              <td class="widestats">Lowinger</td>  <td class="widestats">24</td>
+                                 <td>Blades</td>  <td>1</td> <td>0</td> <td>0</td> <td>0</td>  <td>1</td>  <td class="widestats"></td>              <td class="widestats">Lowinger</td>  <td class="widestats">24</td>
   </tr>
   <tr class="even">
                                  <td>Carmel</td>  <td>0</td> <td>1</td> <td>0</td> <td>1</td> <td>2</td>  <td class="widestats">Schlagenhauf</td>  <td class="widestats"></td>          <td class="widestats">18</td>
