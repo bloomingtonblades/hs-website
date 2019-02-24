@@ -552,11 +552,11 @@ weight: 8
   </tr>
 
   <!-- Blades White  vs. HSE B 2/24/19 -->
-  <tr class="odd">
+  <tr class="even">
       <td rowspan="2">2/24</td>
                                  <td>Blades</td>  <td>1</td> <td>2</td> <td>1</td> <td></td> <td>4</td> <td class="widestats">Knox</td> <td class="widestats"></td>          <td class="widestats">9</td>
   </tr>
-  <tr class="odd">
+  <tr class="even">
                                  <td>HSE B</td>   <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td> <td class="widestats"></td>     <td class="widestats">Mulvihill</td> <td class="widestats">34</td>
   </tr>
 </table>
