@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-02-18
+date: 2019-02-24
 weight: 5
 ---
 
@@ -15,9 +15,6 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 
 Upcoming Events
 ---------------
-* Blades White @ HSE B, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], February 24, 10:30am.
-
-<p></p>
 
 * ISHSHA State Playoffs, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], March 1-3.
     - Blades Blue v HSE, March 1, 7:30pm.
