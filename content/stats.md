@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2019-02-24
+date: 2019-03-02
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -366,6 +366,30 @@ weight: 8
                                  <td>Carmel</td>  <td>0</td> <td>1</td> <td>0</td> <td>1</td> <td>2</td>  <td class="widestats">Schlagenhauf</td>  <td class="widestats"></td>          <td class="widestats">18</td>
   </tr>
 
+<!-- Blades Blue v HSE, 3/1/19 -->
+ <tr class="odd">
+      <td rowspan="3">3/1</td>
+      <td colspan="6"><i>ISHSHA Tournament Playoffs</i></td><td class="widestats" colspan="3"></td>
+ </tr>
+ <tr class="odd">
+                                 <td>HSE</td>     <td>3</td> <td>0</td> <td>0</td> <td></td> <td>3</td>  <td class="widestats">Mack</td>  <td class="widestats"></td>          <td class="widestats">20</td>
+  </tr>
+  <tr class="odd">
+                                 <td>Blades</td>  <td>0</td> <td>0</td> <td>2</td> <td></td> <td>2</td>  <td class="widestats"></td>      <td class="widestats">Lowinger</td>  <td class="widestats">24</td>
+  </tr>
+
+<!-- Blades Blue v HSE, 3/2/19 -->
+ <tr class="even">
+      <td rowspan="3">3/2</td>
+      <td colspan="6"><i>ISHSHA Tournament Playoffs</i></td><td class="widestats" colspan="3"></td>
+ </tr>
+ <tr class="even">
+                                 <td>Crown Point</td> <td>0</td> <td>1</td> <td>2</td> <td></td> <td>3</td>  <td class="widestats"></td>          <td class="widestats">Thompson</td>  <td class="widestats">26</td>
+  </tr>
+  <tr class="even">
+                                 <td>Blades</td>      <td>2</td> <td>2</td> <td>1</td> <td></td> <td>5</td>  <td class="widestats">Lowinger</td>  <td class="widestats"></td>          <td class="widestats">37</td>
+  </tr>
+
 </table>
 
 <a name="bpoints"></a>Points Standings -- Blades Blue
@@ -377,25 +401,25 @@ weight: 8
     <tr>
   </thead>
   <tr>
-    <td>22</td> <td>Rawlins</td>   <td>17</td>  <td>22</td>  <td>39</td>  <td>39</td>
+    <td>22</td> <td>Rawlins</td>   <td>17</td>  <td>23</td>  <td>40</td>  <td>41</td>
   </tr>
   <tr>
-    <td>27</td> <td>Prather</td>   <td>16</td>   <td>23</td>  <td>39</td>  <td>46</td>
+    <td>27</td> <td>Prather</td>   <td>16</td>   <td>23</td>  <td>39</td>  <td>58</td>
   </tr>
   <tr>
     <td>28</td> <td>Timbrook</td>  <td>14</td>  <td>25</td>  <td>39</td>  <td>46</td>
   </tr>
   <tr>
-    <td>14</td> <td>Stright</td>   <td>19</td>  <td>12</td>  <td>31</td>  <td>10</td>
+    <td>14</td> <td>Stright</td>   <td>20</td>  <td>12</td>  <td>32</td>  <td>10</td>
   </tr>
   <tr>
-    <td>45</td> <td>Fox</td>       <td>14</td>  <td>13</td>  <td>27</td>  <td>29</td>
+    <td>45</td> <td>Fox</td>       <td>14</td>  <td>14</td>  <td>28</td>  <td>41</td>
   </tr>
   <tr>
     <td>3</td>  <td>Baer</td>      <td>12</td>  <td>7</td>  <td>19</td>  <td>16</td>
   </tr>
   <tr>
-    <td>88</td> <td>Franklin</td>  <td>5</td>  <td>12</td>  <td>17</td>  <td>104</td>
+    <td>88</td> <td>Franklin</td>  <td>6</td>  <td>12</td>  <td>18</td>  <td>104</td>
   </tr>
   <tr>
     <td>2</td>  <td>Greulich</td>  <td>6</td>  <td>7</td>  <td>13</td>  <td>6</td>
@@ -450,7 +474,7 @@ weight: 8
     <tr>
   </thead>
   <tr>
-    <td>30</td> <td>Lowinger</td> <td>758</td> <td>704</td> <td>0.929</td> <td class="widestats">21</td> <td class="widestats">9</td> <td class="widestats">2</td> <td class="widestats">1</td>
+    <td>30</td> <td>Lowinger</td> <td>785</td> <td>728</td> <td>0.927</td> <td class="widestats">21</td> <td class="widestats">10</td> <td class="widestats">2</td> <td class="widestats">1</td>
   </tr>
   <tr>
     <td>13</td> <td>Knox</td>     <td>61</td>   <td>50</td> <td>0.820</td> <td class="widestats">2</td> <td class="widestats">1</td> <td class="widestats">0</td>  <td class="widestats"></td>
