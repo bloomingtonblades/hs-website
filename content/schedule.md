@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-02-24
+date: 2019-03-03
 weight: 5
 ---
 
@@ -16,20 +16,7 @@ Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][aly
 Upcoming Events
 ---------------
 
-* ISHSHA State Playoffs, [Fuel Tank <span class="icon fa-map-marker"></span>][fuel], March 1-3.
-    - Blades Blue v HSE, March 1, 7:30pm.
-    - Winner's bracket, March 2, 11:45am.
-    - Loser's bracket, March 2, 11:15 am, 6:30pm.
-    - Semifinals, March 3, 10:30am or 10:45am.
-
-<p></p>
-
-  - ISHSHA State Championship, [Midwest Training Ice Center <span class="icon fa-map-marker"></span>][midwest], March 9, Schedule TBA.
-
-<p></p>
-
-* Other Team Events:
-  - End of Season Banquet and Player Recognition, [Fountain Square Mall <span class="icon fa-map-marker"></span>][fountain], March 24, 4:30pm.
+* End of Season Banquet and Player Recognition, [Fountain Square Mall <span class="icon fa-map-marker"></span>][fountain], March 24, 4:30pm.
 
 Calendars
 ---------
