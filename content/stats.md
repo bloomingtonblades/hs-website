@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2019-03-04
+date: 2019-03-24
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -498,7 +498,7 @@ weight: 8
     <tr>
   </thead>
   <tr>
-    <td>30</td> <td>Lowinger</td> <td>899</td> <td>835</td> <td>0.929</td> <td class="widestats">23</td> <td class="widestats">11</td> <td class="widestats">2</td> <td class="widestats">1</td>
+    <td>30</td> <td>Lowinger</td> <td>899</td> <td>835</td> <td>0.929</td> <td class="widestats">23</td> <td class="widestats">12</td> <td class="widestats">2</td> <td class="widestats">1</td>
   </tr>
   <tr>
     <td>13</td> <td>Knox</td>     <td>61</td>   <td>50</td> <td>0.820</td> <td class="widestats">2</td> <td class="widestats">1</td> <td class="widestats">0</td>  <td class="widestats"></td>
