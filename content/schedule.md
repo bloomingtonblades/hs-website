@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-03-03
+date: 2019-03-26
 weight: 5
 ---
 
@@ -11,22 +11,22 @@ weight: 5
 
 Contact
 -------
-Ice Scheduler &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>][alyson]
+Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 
 Upcoming Events
 ---------------
 
-* End of Season Banquet and Player Recognition, [Fountain Square Mall <span class="icon fa-map-marker"></span>][fountain], March 24, 4:30pm.
+* Player and parent registration meeting for 2019-20 season - TBA.
 
 Calendars
 ---------
-All Blades events are posted on our [Google Calendar <span class="icon fa-calendar"></span>][cal]
+All Blades events are posted on our [Google calendar <span class="icon fa-calendar"></span>][cal]
 
 Calendar [iCal link][ical] for your computer or mobile calendar. [How to use this][calsupport].
 
 Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></span>][fcal]
 
-[alyson]: mailto:alysonebaer@gmail.com
+[john]: mailto:jhill@bloomingtonblades.com
 [basswood]: https://www.google.com/maps/place/Basswood+Apartments,+1000+S+Basswood+Cir,+Bloomington,+IN+47403/@39.1518655,-86.5708355,17z/data=!4m2!3m1!1s0x886c677a6ac12c4d:0x830c6aebc265b08
 [cal]: https://calendar.google.com/calendar/embed?src=epsc9ra4unbaelg6bns4r4ifro%40group.calendar.google.com&ctz=America/New_York
 [carmel]: https://maps.google.com/maps?hl=en&q=Carmel%20Ice%20Rink%2C%201040%203rd%20Ave%20SW%2C%20Carmel%2C%20IN%2046032%2C%20USA

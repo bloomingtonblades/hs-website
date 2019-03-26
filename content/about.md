@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2018-12-12
+date: 2019-03-26
 weight: 1
 ---
 
@@ -18,10 +18,10 @@ Clear Creek, IN 47426
 Board of Directors
 ------------------
 * President &mdash; [Allan Streib <span class="icon fa-envelope-o"></span>](mailto:astreib@bloomingtonblades.com)
-* Vice Pesident &mdash; [Alyson Baer <span class="icon fa-envelope-o"></span>](mailto:alysonebaer@gmail.com)
+* Vice Pesident &mdash; [John Hill <span class="icon fa-envelope-o"></span>](mailto:jhill@bloomingtonblades.com)
 * Treasurer &mdash; [Kim Franklin <span class="icon fa-envelope-o"></span>](mailto:kafranklin4@gmail.com)
 * Secretary &mdash; [Stephanie Lowinger <span class="icon fa-envelope-o"></span>](mailto:stephanielowinger@gmail.com)
-* Team Rep/Manager &mdash; [Jay Baer <span class="icon fa-envelope-o"></span>](mailto:jbaer@bloomingtonblades.com)
+* Team Rep/Manager &mdash; [Jared Cochran <span class="icon fa-envelope-o"></span>](mailto:jcochran@bloomingtonblades.com)
 * At Large &mdash; [Joseph Pavich <span class="icon fa-envelope-o"></span>](mailto:jpavich1@iuhealth.org)
 
 Arena
