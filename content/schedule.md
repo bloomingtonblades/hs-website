@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-03-26
+date: 2019-04-16
 weight: 5
 ---
 
@@ -13,8 +13,25 @@ Contact
 -------
 Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 
-Upcoming Events
----------------
+Spring League Schedule
+----------------------
+All games are at the [Carmel Ice Rink][carmel].
+
+* Thu Apr 18, 8:45pm vs HSE
+* Thu Apr 25, 8:45pm vs Carmel Gold
+* Thu May 2, 7:15pm vs CIK
+* Thu May 9, 8:45pm vs South Stars
+* Thu May 16, 7:15pm vs Zionsville
+* Thu May 23, 8:45pm vs CIK
+
+Off Season Workouts
+-------------------
+
+* Tue Apr 23, 6:00pm [Lower Cascades Park][cascades]. Bring running shoes and water.
+
+
+Other Events
+------------
 
 * Player and parent registration meeting for 2019-20 season - TBA.
 
@@ -22,19 +39,55 @@ Calendars
 ---------
 All Blades events are posted on our [Google calendar <span class="icon fa-calendar"></span>][cal]
 
-Calendar [iCal link][ical] for your computer or mobile calendar. [How to use this][calsupport].
-
 Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></span>][fcal]
+
+Calendar Subscriptions
+----------------------
+
+Subscription link:
+
+`https://calendar.google.com/calendar/ical/bloomingtonblades.com_68ha57pufjcnbe8htgeslaijgs%40group.calendar.google.com/public/basic.ics`
+
+### For iPhone or iPad
+
+1. Click your iPhone Settings icon.
+1. Select Mail, Contacts, Calendars from the list.
+1. Select Add Account.
+1. Select Other.
+1. Select Add Subscribed Calendar at the bottom of the list.
+1. Copy/paste the subscription link (shown above) in the server field.
+1. Click Next in the top right hand corner of the screen.
+1. Click Save.
+1. Click the Calendar icon on your iPhone’s home screen.
+1. Click the Calendars button in the top left hand corner of your default calendar screen.
+1. Select the name of the calendar you have just added. A check mark will appear next to it.
+
+ 
+### For Android Devices
+
+1. Open your Google Calendar.
+1. Locate Other Calendars on the left hand side of the screen toward the bottom.
+1. Click the arrow to the right of Other Calendars.
+1. Select Add by URL from the list.
+1. Copy/paste the subscription link (shown above) in the field.
+1. Click Add Calendar.
+
+
+### For Desktop/Laptop
+
+1. Follow instructions for your calendar application to subscribe to an iCal URL.
+
 
 [john]: mailto:jhill@bloomingtonblades.com
 [basswood]: https://www.google.com/maps/place/Basswood+Apartments,+1000+S+Basswood+Cir,+Bloomington,+IN+47403/@39.1518655,-86.5708355,17z/data=!4m2!3m1!1s0x886c677a6ac12c4d:0x830c6aebc265b08
-[cal]: https://calendar.google.com/calendar/embed?src=epsc9ra4unbaelg6bns4r4ifro%40group.calendar.google.com&ctz=America/New_York
+[cascades]: https://maps.google.com/?cid=2695725097592046036
+[cal]: https://calendar.google.com/calendar/embed?src=bloomingtonblades.com_68ha57pufjcnbe8htgeslaijgs%40group.calendar.google.com&ctz=America%2FNew_York
 [carmel]: https://maps.google.com/maps?hl=en&q=Carmel%20Ice%20Rink%2C%201040%203rd%20Ave%20SW%2C%20Carmel%2C%20IN%2046032%2C%20USA
 [compton]: https://maps.google.com/maps?hl=en&q=Compton%20Family%20Ice%20Arena%2C%20100%20Compton%20Family%20Ice%20Arena%2C%20Notre%20Dame%2C%20IN%2046556%2C%20USA
 [culver]: https://maps.google.com/maps?hl=en&q=Culver%20Academies%2C%201300%20Academy%20Rd%2C%20Culver%2C%20IN%2046511%2C%20USA
 [edge]: https://maps.google.com/maps?hl=en&q=Edge%20Ice%20Center%2C%201400%20Hickman%20Ave%2C%20Owensboro%2C%20KY%2042301%2C%20USA
 [fcal]: https://calendar.google.com/calendar/embed?src=bloomington.in.gov_v7slvuin2lg2uajqbna2hbkts0@group.calendar.google.com&ctz=America/New_York
-[ical]: https://calendar.google.com/calendar/ical/epsc9ra4unbaelg6bns4r4ifro%40group.calendar.google.com/public/basic.ics
+[ical]: https://calendar.google.com/calendar/ical/bloomingtonblades.com_68ha57pufjcnbe8htgeslaijgs%40group.calendar.google.com/public/basic.ics
 [frank]: https://www.google.com/maps/place/2100+S+Henderson+St,+Bloomington,+IN+47401/@39.1412293,-86.529133,17z/data=!3m1!4b1!4m5!3m4!1s0x886c66590dd701f1:0x2c4224b76654f9a2!8m2!3d39.1412252!4d-86.526939
 [fuel]: https://maps.google.com/maps?hl=en&q=Fuel%20Tank%20at%20Fishers%2C%209022%20E%20126th%20St%2C%20Fishers%2C%20IN%2046038%2C%20USA
 [garden]: https://maps.google.com/maps?hl=en&q=Garden%20Ice%20Arena%2C%201626%20W%20Glenlord%20Rd%2C%20St%20Joseph%2C%20MI%2049085%2C%20USA
