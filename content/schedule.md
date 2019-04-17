@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-04-16
+date: 2019-04-17
 weight: 5
 ---
 
@@ -23,6 +23,7 @@ All games are at the [Carmel Ice Rink][carmel].
 * Thu May 9, 8:45pm vs South Stars
 * Thu May 16, 7:15pm vs Zionsville
 * Thu May 23, 8:45pm vs CIK
+* Wed May 29, 6:45pm vs Carmel Blue (EXTRA game)
 
 Off Season Workouts
 -------------------
