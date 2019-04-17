@@ -33,49 +33,40 @@ Off Season Workouts
 Other Events
 ------------
 
-* Player and parent registration meeting for 2019-20 season - TBA.
+* Player and parent registration meeting for 2019&ndash;20 season - TBA.
 
 Calendars
 ---------
 All Blades events are posted on our [Google calendar <span class="icon fa-calendar"></span>][cal]
 
-Frank Southern Ice Arena [Master Ice Calender <span class="icon fa-calendar"></span>][fcal]
+Frank Southern Ice Arena 2018&ndash;19 [Master Ice Calender <span class="icon fa-calendar"></span>][fcal]
 
-Calendar Subscriptions
-----------------------
+### To add to your Google Calendar on any device
 
-Subscription link:
+1. Open our [Google calendar <span class="icon fa-calendar"></span>][cal].
+1. In the lower right corner, tap _+Google Calendar_.
 
-`https://calendar.google.com/calendar/ical/bloomingtonblades.com_68ha57pufjcnbe8htgeslaijgs%40group.calendar.google.com/public/basic.ics`
-
-### For iPhone or iPad
+### To add to your Calendar app on iPhone or iPad
 
 1. Click your iPhone Settings icon.
 1. Select Mail, Contacts, Calendars from the list.
 1. Select Add Account.
 1. Select Other.
 1. Select Add Subscribed Calendar at the bottom of the list.
-1. Copy/paste the subscription link (shown above) in the server field.
+1. Copy/paste the subscription link (shown below) in the server field.
 1. Click Next in the top right hand corner of the screen.
 1. Click Save.
 1. Click the Calendar icon on your iPhone’s home screen.
 1. Click the Calendars button in the top left hand corner of your default calendar screen.
 1. Select the name of the calendar you have just added. A check mark will appear next to it.
 
- 
-### For Android Devices
-
-1. Open your Google Calendar.
-1. Locate Other Calendars on the left hand side of the screen toward the bottom.
-1. Click the arrow to the right of Other Calendars.
-1. Select Add by URL from the list.
-1. Copy/paste the subscription link (shown above) in the field.
-1. Click Add Calendar.
-
-
-### For Desktop/Laptop
+### For other Desktop/Laptop calendar applications
 
 1. Follow instructions for your calendar application to subscribe to an iCal URL.
+
+### Subscription link
+
+`https://calendar.google.com/calendar/ical/bloomingtonblades.com_68ha57pufjcnbe8htgeslaijgs%40group.calendar.google.com/public/basic.ics`
 
 
 [john]: mailto:jhill@bloomingtonblades.com
