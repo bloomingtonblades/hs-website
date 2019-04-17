@@ -1,6 +1,6 @@
 ---
 title: "Sponsors"
-date: 2018-08-28
+date: 2019-04-17
 weight: 6
 ---
 
@@ -41,9 +41,9 @@ Preferred Sponsors
 Sponsor Blades Hockey
 ---------------------
 For information about sponsorship options,
-please contact [Jay Baer <span class="icon fa-envelope-o"></span>][jay].
+please contact [Allan Streib <span class="icon fa-envelope-o"></span>][allan].
 
-[jay]: mailto:jbaer@bloomingtonblades.com
+[allan]: mailto:astreib@bloomingtonblades.com
 [oliver]: https://www.oliverwinery.com/
 [cas]: http://createasmilepc.com/
 [tec]: https://www.theeyecenter.org/
