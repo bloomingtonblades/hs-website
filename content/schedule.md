@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-04-17
+date: 2019-04-22
 weight: 5
 ---
 
@@ -17,7 +17,6 @@ Spring League Schedule
 ----------------------
 All games are at the [Carmel Ice Rink][carmel].
 
-* Thu Apr 18, 8:45pm vs HSE
 * Thu Apr 25, 8:45pm vs Carmel Gold
 * Thu May 2, 7:15pm vs CIK
 * Thu May 9, 8:45pm vs South Stars
@@ -42,32 +41,24 @@ All Blades events are posted on our [Google calendar <span class="icon fa-calend
 
 Frank Southern Ice Arena 2018&ndash;19 [Master Ice Calender <span class="icon fa-calendar"></span>][fcal]
 
-### To add to your Google Calendar on any device
-
-1. Open our [Google calendar <span class="icon fa-calendar"></span>][cal].
-1. In the lower right corner, tap _+Google Calendar_.
-
 ### To add to your Calendar app on iPhone or iPad
 
-1. Click your iPhone Settings icon.
-1. Select Mail, Contacts, Calendars from the list.
-1. Select Add Account.
-1. Select Other.
-1. Select Add Subscribed Calendar at the bottom of the list.
-1. Copy/paste the subscription link (shown below) in the server field.
-1. Click Next in the top right hand corner of the screen.
-1. Click Save.
-1. Click the Calendar icon on your iPhone’s home screen.
-1. Click the Calendars button in the top left hand corner of your default calendar screen.
-1. Select the name of the calendar you have just added. A check mark will appear next to it.
-
-### For other Desktop/Laptop calendar applications
-
-1. Follow instructions for your calendar application to subscribe to an iCal URL.
+1. Go to _Settings_.
+1. Select _Passwords and Accounts_.
+1. Select _Add Account_.
+1. Select _Other_.
+1. Select _Add Subscribed Calendar_.
+1. Copy/paste the entire subscription link (shown below) in the _Server_ field.
+1. Tap Save.
 
 ### Subscription link
 
 `https://calendar.google.com/calendar/ical/bloomingtonblades.com_68ha57pufjcnbe8htgeslaijgs%40group.calendar.google.com/public/basic.ics`
+
+### To add to your Google Calendar on Android or other device:
+
+1. Open our [Google calendar <span class="icon fa-calendar"></span>][cal].
+1. In the lower right corner, tap _+Google Calendar_.
 
 
 [john]: mailto:jhill@bloomingtonblades.com
