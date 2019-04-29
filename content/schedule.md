@@ -17,7 +17,6 @@ Spring League Schedule
 ----------------------
 All games are at the [Carmel Ice Rink][carmel].
 
-* Thu Apr 25, 8:45pm vs Carmel Gold
 * Thu May 2, 7:15pm vs CIK
 * Thu May 9, 8:45pm vs South Stars
 * Thu May 16, 7:15pm vs Zionsville
