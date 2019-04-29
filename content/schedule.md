@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-04-22
+date: 2019-04-29
 weight: 5
 ---
 
@@ -27,7 +27,7 @@ All games are at the [Carmel Ice Rink][carmel].
 Off Season Workouts
 -------------------
 
-* Tue Apr 23, 6:00pm [Lower Cascades Park][cascades]. Bring running shoes and water.
+* Mon Apr 29, 6:00pm [Lower Cascades Park][cascades]. Bring running shoes and water.
 
 
 Other Events
@@ -38,8 +38,6 @@ Other Events
 Calendars
 ---------
 All Blades events are posted on our [Google calendar <span class="icon fa-calendar"></span>][cal]
-
-Frank Southern Ice Arena 2018&ndash;19 [Master Ice Calender <span class="icon fa-calendar"></span>][fcal]
 
 ### To add to your Calendar app on iPhone or iPad
 
