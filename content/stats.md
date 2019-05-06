@@ -358,59 +358,59 @@ weight: 8
   </tr>
 
 <!-- Blades Blue v Carmel, 2/17/19 -->
- <tr class="even">
+ <tr class="odd">
       <td rowspan="2">2/17</td>
                                  <td>Blades</td>  <td>1</td> <td>0</td> <td>0</td> <td>0</td>  <td>1</td>  <td class="widestats"></td>              <td class="widestats">Lowinger</td>  <td class="widestats">24</td>
   </tr>
-  <tr class="even">
+  <tr class="odd">
                                  <td>Carmel</td>  <td>0</td> <td>1</td> <td>0</td> <td>1</td> <td>2</td>  <td class="widestats">Schlagenhauf</td>  <td class="widestats"></td>          <td class="widestats">18</td>
   </tr>
 
 <!-- Blades Blue v HSE, 3/1/19 -->
- <tr class="odd">
+ <tr class="even">
       <td rowspan="3">3/1</td>
       <td colspan="6"><i>ISHSHA Tournament Playoffs</i></td><td class="widestats" colspan="3"></td>
  </tr>
- <tr class="odd">
+ <tr class="even">
                                  <td>HSE</td>     <td>3</td> <td>0</td> <td>0</td> <td></td> <td>3</td>  <td class="widestats">Mack</td>  <td class="widestats"></td>          <td class="widestats">20</td>
   </tr>
-  <tr class="odd">
+  <tr class="even">
                                  <td>Blades</td>  <td>0</td> <td>0</td> <td>2</td> <td></td> <td>2</td>  <td class="widestats"></td>      <td class="widestats">Lowinger</td>  <td class="widestats">24</td>
   </tr>
 
 <!-- Blades Blue v Crown Point, 3/2/19 -->
- <tr class="even">
+ <tr class="odd">
       <td rowspan="3">3/2</td>
       <td colspan="6"><i>ISHSHA Tournament Playoffs</i></td><td class="widestats" colspan="3"></td>
  </tr>
- <tr class="even">
+ <tr class="odd">
                                  <td>Crown Point</td> <td>0</td> <td>1</td> <td>2</td> <td></td> <td>3</td>  <td class="widestats"></td>          <td class="widestats">Thompson</td>  <td class="widestats">26</td>
   </tr>
-  <tr class="even">
+  <tr class="odd">
                                  <td>Blades</td>      <td>2</td> <td>2</td> <td>1</td> <td></td> <td>5</td>  <td class="widestats">Lowinger</td>  <td class="widestats"></td>          <td class="widestats">37</td>
   </tr>
 
 <!-- Blades Blue v HSE, 3/2/19 -->
- <tr class="odd">
+ <tr class="even">
       <td rowspan="3">3/2</td>
       <td colspan="6"><i>ISHSHA Tournament Playoffs</i></td><td class="widestats" colspan="3"></td>
  </tr>
- <tr class="odd">
+ <tr class="even">
                                  <td>HSE</td>      <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td>  <td class="widestats"></td>          <td class="widestats">Mack</td>  <td class="widestats">36</td>
   </tr>
-  <tr class="odd">
+  <tr class="even">
                                  <td>Blades</td>   <td>1</td> <td>1</td> <td>1</td> <td></td> <td>3</td>  <td class="widestats">Lowinger</td>  <td class="widestats"></td>      <td class="widestats">33</td>
   </tr>
 
 <!-- Blades Blue v CIK, 3/3/19 -->
- <tr class="even">
+ <tr class="odd">
       <td rowspan="3">3/3</td>
       <td colspan="6"><i>ISHSHA Tournament Semifinals</i></td><td class="widestats" colspan="3"></td>
  </tr>
- <tr class="even">
+ <tr class="odd">
                                  <td>CIK</td>      <td>0</td> <td>4</td> <td>0</td> <td></td> <td>4</td>  <td class="widestats">Svintsitskiy</td>  <td class="widestats"></td>           <td class="widestats">14</td>
   </tr>
-  <tr class="even">
+  <tr class="odd">
                                  <td>Blades</td>   <td>0</td> <td>1</td> <td>2</td> <td></td> <td>3</td>  <td class="widestats"></td>              <td class="widestats">Lowinger</td>   <td class="widestats">37</td>
   </tr>
 
