@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-04-29
+date: 2019-05-06
 weight: 5
 ---
 
@@ -17,7 +17,6 @@ Spring League Schedule
 ----------------------
 All games are at the [Carmel Ice Rink][carmel].
 
-* Thu May 2, 7:15pm vs CIK
 * Thu May 9, 8:45pm vs South Stars
 * Thu May 16, 7:15pm vs Zionsville
 * Thu May 23, 8:45pm vs CIK
@@ -26,13 +25,14 @@ All games are at the [Carmel Ice Rink][carmel].
 Off Season Workouts
 -------------------
 
-* Mon Apr 29, 6:00pm [Lower Cascades Park][cascades]. Bring running shoes and water.
+* Next workout date TBA.
 
 
 Other Events
 ------------
 
-* Player and parent registration meeting for 2019&ndash;20 season - TBA.
+* Sun May 19, 6:00pm. New player and parent Q&A meeting. Contact [Jared Cochran](mailto:jcochran@bloomingtonblades.com) for details. This meeting is for new/incoming high school players intending or considering playing in the 2019&ndash;20 season.
+* Sun Jul 28, 5:00pm. Mandatory player and parent registration meeting for 2019&ndash;20 season, location TBA.
 
 Calendars
 ---------
