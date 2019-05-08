@@ -25,7 +25,7 @@ All games are at the [Carmel Ice Rink <span class="icon fa-map-marker"></span>][
 Off Season Workouts
 -------------------
 
-* Wed May 15, 6:00pm at [Lower Cascades <span class="icon fa-map-marker"></span>][cascades].
+* Wed May 15, 6:00pm at [Lower Cascades <span class="icon fa-map-marker"></span>][cascades]. Bring running shoes and water.
 
 
 Other Events
