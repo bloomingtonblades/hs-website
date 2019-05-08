@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-05-06
+date: 2019-05-07
 weight: 5
 ---
 
@@ -15,7 +15,7 @@ Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 
 Spring League Schedule
 ----------------------
-All games are at the [Carmel Ice Rink][carmel].
+All games are at the [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel].
 
 * Thu May 9, 8:45pm vs South Stars
 * Thu May 16, 7:15pm vs Zionsville
@@ -25,7 +25,7 @@ All games are at the [Carmel Ice Rink][carmel].
 Off Season Workouts
 -------------------
 
-* Next workout date TBA.
+* Wed May 15, 6:00pm at [Lower Cascades <span class="icon fa-map-marker"></span>][cascades].
 
 
 Other Events
@@ -46,7 +46,7 @@ All Blades events are posted on our [Google calendar <span class="icon fa-calend
 1. Select _Other_.
 1. Select _Add Subscribed Calendar_.
 1. Copy/paste the entire subscription link (shown below) in the _Server_ field.
-1. Tap Save.
+1. Tap _Save_.
 
 ### Subscription link
 
