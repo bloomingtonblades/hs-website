@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-05-09
+date: 2019-05-10
 weight: 5
 ---
 
@@ -34,7 +34,7 @@ Off Season Workouts
 Other Events
 ------------
 
-* Sun May 19, 6:00pm. New player and parent Q&A meeting. Contact [Jared Cochran](mailto:jcochran@bloomingtonblades.com) for details. This meeting is for new/incoming high school players intending or considering playing in the 2019&ndash;20 season.
+* Sun May 19, 2:00pm. New player and parent Q&A meeting. Contact [Jared Cochran](mailto:jcochran@bloomingtonblades.com) for details. This meeting is for new/incoming high school players intending or considering playing in the 2019&ndash;20 season.
 * Sun Jul 28, 5:00pm. Mandatory player and parent registration meeting for 2019&ndash;20 season, location TBA.
 
 Calendars
