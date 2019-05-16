@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2018-12-12
+date: 2019-05-16
 weight: 3
 ---
 
@@ -8,6 +8,16 @@ weight: 3
   <a id="news-a1" href="#"><img id="news-s1" class="image sponsor"></a>
   <a id="news-a2" href="#"><img id="news-s2" class="image sponsor"></a>
 </div>
+
+2019-20 Hoosier Wings
+---------------------
+**May 16, 2019** --- The Hoosier Wings are planning a 16UAA and 18UAA
+Pre-Post Season, National Tournament bound travel team for the upcoming
+hockey season. The Wings are open to all 9th-12th grade players
+actively participating on a Hoosier League high school team for the
+upcoming season.  [Tryout information and tentative
+schedule](https://drive.google.com/open?id=1VNnd1cIYM_MtKV398vxXUPuaL0mCdfuP).
+
 
 2018 All-Stars
 --------------

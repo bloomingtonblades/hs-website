@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-05-10
+date: 2019-05-16
 weight: 5
 ---
 
@@ -24,16 +24,13 @@ All games are at the [Carmel Ice Rink <span class="icon fa-map-marker"></span>][
 Off Season Workouts
 -------------------
 
-* Wed May 15, 6:00pm at [Lower Cascades <span class="icon
-  fa-map-marker"></span>][cascades]. Bring running shoes and
-  water. Old 37 is closed thru Cascades Park from the
-  north side. Plan your route accordingly. [More info](https://bloomington.in.gov/inroads/events/view?id=3071).
-
+* Next off-ice workout TBA.
 
 Other Events
 ------------
 
 * Sun May 19, 2:00pm. New player and parent Q&A meeting. Contact [Jared Cochran](mailto:jcochran@bloomingtonblades.com) for details. This meeting is for new/incoming high school players intending or considering playing in the 2019&ndash;20 season.
+* Sat Jun 1, 1:15pm. Hoosier Wings 16U tryouts. 18U tryouts at 4:15pm. See [flyer](https://drive.google.com/open?id=1VNnd1cIYM_MtKV398vxXUPuaL0mCdfuP) for more info. Tryouts will be held at [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel].
 * Sun Jul 28, 5:00pm. Mandatory player and parent registration meeting for 2019&ndash;20 season, location TBA.
 
 Calendars
