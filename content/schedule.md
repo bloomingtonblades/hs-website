@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-05-17
+date: 2019-05-21
 weight: 5
 ---
 
@@ -17,19 +17,21 @@ Spring League Schedule
 ----------------------
 All games are at the [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel].
 
-* ~~Thu May 16, 7:15pm vs Zionsville~~ Canceled; makeup date TBA.
 * Thu May 23, 8:45pm vs CIK
 * Wed May 29, 6:45pm vs Carmel Blue (EXTRA game)
 
 Off Season Workouts
 -------------------
 
-* Next off-ice workout TBA.
+* Wed May 22, 6:00pm at [Lower Cascades <span class="icon
+  fa-map-marker"></span>][cascades]. Bring running shoes and
+  water. Old 37 is closed thru Cascades Park from the north side. Plan
+  your route accordingly. [More
+  info](https://bloomington.in.gov/inroads/events/view?id=3071).
 
 Other Events
 ------------
 
-* Sun May 19, 2:00pm. New player and parent Q&A meeting. Contact [Jared Cochran](mailto:jcochran@bloomingtonblades.com) for details. This meeting is for new/incoming high school players intending or considering playing in the 2019&ndash;20 season.
 * Sat Jun 1, 1:15pm. Hoosier Wings 16U tryouts. 18U tryouts at 4:15pm. See [flyer](https://drive.google.com/open?id=1VNnd1cIYM_MtKV398vxXUPuaL0mCdfuP) for more info. Tryouts will be held at [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel].
 * Sun Jul 28, 5:00pm. Mandatory player and parent registration meeting for 2019&ndash;20 season, location TBA.
 
