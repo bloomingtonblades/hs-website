@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-05-22
+date: 2019-05-24
 weight: 5
 ---
 
@@ -17,8 +17,8 @@ Spring League Schedule
 ----------------------
 All games are at the [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel].
 
-* Thu May 23, 8:45pm vs CIK
 * Wed May 29, 6:45pm vs Carmel Blue (EXTRA game)
+
 
 Off Season Workouts
 -------------------
