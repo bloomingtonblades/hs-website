@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-05-24
+date: 2019-05-26
 weight: 5
 ---
 
@@ -23,11 +23,7 @@ All games are at the [Carmel Ice Rink <span class="icon fa-map-marker"></span>][
 Off Season Workouts
 -------------------
 
-* Sat May 25, 6:00pm at [Lower Cascades <span class="icon
-  fa-map-marker"></span>][cascades]. Bring running shoes and
-  water. Old 37 is closed thru Cascades Park from the north side. Plan
-  your route accordingly. [More
-  info](https://bloomington.in.gov/inroads/events/view?id=3071).
+* Next off season workout: TBA
 
 Other Events
 ------------
