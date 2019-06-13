@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-05-26
+date: 2019-06-12
 weight: 5
 ---
 
@@ -23,7 +23,9 @@ All games are at the [Carmel Ice Rink <span class="icon fa-map-marker"></span>][
 Off Season Workouts
 -------------------
 
-* Next off season workout: TBA
+* Thu Jun 13, 6:00pm at [Lower Cascades <span class="icon
+  fa-map-marker"></span>][cascades]. Bring running shoes and
+  water.
 
 Other Events
 ------------
