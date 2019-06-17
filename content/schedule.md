@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-06-12
+date: 2019-06-17
 weight: 5
 ---
 
@@ -13,24 +13,17 @@ Contact
 -------
 Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 
-Spring League Schedule
-----------------------
-All games are at the [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel].
-
-* Wed May 29, 6:45pm vs Carmel Blue (EXTRA game)
-
 
 Off Season Workouts
 -------------------
 
-* Thu Jun 13, 6:00pm at [Lower Cascades <span class="icon
+* Mon Jun 17, 6:00pm at [Lower Cascades <span class="icon
   fa-map-marker"></span>][cascades]. Bring running shoes and
   water.
 
 Other Events
 ------------
 
-* Sat Jun 1, 1:15pm. Hoosier Wings 16U tryouts. 18U tryouts at 4:15pm. See [flyer](https://drive.google.com/open?id=1VNnd1cIYM_MtKV398vxXUPuaL0mCdfuP) for more info. Tryouts will be held at [Carmel Ice Rink <span class="icon fa-map-marker"></span>][carmel].
 * Sun Jul 28, 5:00pm. Mandatory player and parent registration meeting for 2019&ndash;20 season, location TBA.
 
 Calendars
