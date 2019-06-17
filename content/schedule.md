@@ -16,8 +16,9 @@ Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 
 Off Season Workouts
 -------------------
+Keep in shape for the upcoming season! Workouts are weather permitting.
 
-* Mon Jun 17, 6:00pm at [Lower Cascades <span class="icon
+* **CANCELED**: Mon Jun 17, 6:00pm at [Lower Cascades <span class="icon
   fa-map-marker"></span>][cascades]. Bring running shoes and
   water.
 
