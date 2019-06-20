@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-06-17
+date: 2019-06-20
 weight: 5
 ---
 
