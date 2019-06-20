@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2019-05-16
+date: 2019-06-20
 weight: 3
 ---
 
@@ -8,6 +8,41 @@ weight: 3
   <a id="news-a1" href="#"><img id="news-s1" class="image sponsor"></a>
   <a id="news-a2" href="#"><img id="news-s2" class="image sponsor"></a>
 </div>
+
+2019-20 Registration and Practices
+----------------------------------
+**June 20, 2019** --- Registration for the 2019&ndash;20 season is open!
+
+Please help by using our [online registration form][register] to
+register your player(s) as soon as possible. We will be ordering
+jerseys and other apparel very soon.
+
+Columbus practices for August and September are already scheduled and
+on the [team calendar][cal]. Players are not permitted to drive
+themselves to Columbus practices, but we will organize
+carpools.
+
+Attendance at these early practices is mandatory. If you have
+unavoidable conflicts such as participation in another high school
+fall sport, please inform us in advance.
+
+We are again fortunate to be able to roster two teams this
+season. Team placement will be determined based upon player
+evaluations during the initial practice weeks, so it is important to
+attend. Both teams will play in the Hoosier League regular season and
+league tournament. The Blue team will play in the Championship
+Division and the White team will play in the Commissioner
+division. The Blue team will additionally enter in the ISHSAA state
+championship invitational tournament.
+
+All players and parents must also attend our pre-season meeting on
+Sunday, July 28 at 5:00pm at the [Basswood Apartments Clubhouse <span
+class="icon fa-map-marker"></span>][basswood]. All players, please
+bring your final report card from last school year.
+
+[register]: https://docs.google.com/forms/d/e/1FAIpQLSfFEg6qO6WA38GQez_AYZ6WP0IoohR9onOODzpFjFZhp5LOEA/viewform?usp=sf_link
+[carpool]: https://www.signupgenius.com/go/10C084BACAA28A0FA7-blades7/15646395
+[cal]: https://calendar.google.com/calendar/embed?src=bloomingtonblades.com_68ha57pufjcnbe8htgeslaijgs%40group.calendar.google.com&ctz=America%2FNew_York
 
 2019-20 Hoosier Wings
 ---------------------
@@ -31,115 +66,6 @@ schedule](https://drive.google.com/open?id=1VNnd1cIYM_MtKV398vxXUPuaL0mCdfuP).
 All-Star events start at 2:00pm on
 Saturday, December 22 in Fishers at the [Fuel Tank <span class="icon
 fa-map-marker"></span>][fuel] (players please arrive by 1:00pm, and bring both light and dark jerseys). 
-
-2018-19 Roster News
--------------------
-
-**September 19, 2018** --- Below is the USA Hockey Roster for the
-Bloomington Blades league team for the 2018-19 season. This roster
-reflects all players that will be eligible to play for the "Blue" team
-throughout the course of the season. Being on this list does not mean
-that you will be eligible for the state tournament as the roster must
-be reduced to 21 total by December 31 and players must meet the minimum
-criteria of 50% league games and 6 crossovers. Not all of the players
-on this list will dress for blue team games. This will remain a fluid
-roster for some time as players prove themselves on and off the ice
-*and in the classroom*. The roster was developed through thorough
-evaluation by coaching staff and impartial observers over the
-weekend. I will discuss this in more detail on Friday at the team
-event but this should serve as a motivator for many players to either
-gain or *MAINTAIN* a spot on the 21 player roster in December.
-
-I applaud the efforts of our Board to maintain the number of players
-we have in our program. Players not on the final roster will have
-every opportunity to develop over the course of the season as I coach
-all players, not just the blue team. The groundwork laid this year
-will benefit the program for years to come.
-
-**Bloomington Blades 2018-19**
-
-1. Aidan Lowinger
-1. Eli Prather
-1. Austin Rawlins
-1. Nick Stright
-1. Ethan Baer
-1. Sam Franklin
-1. Vincent "Vinny" La Bella
-1. Anthony "Tony" La Bella
-1. Cruz Timbrook
-1. Hayden Streib
-1. Henry Streib
-1. Lander Greulich
-1. Ryan Hunt
-1. Cooper Fox
-1. Layton Cockerham
-1. Matthew Griffin
-1. Steven Lukes
-1. Reid Cory
-1. Ozzie Lauer
-1. Mitchell Knipstein
-1. Dillon Dayhoff
-1. Ian Knox
-1. Dylan Pope
-
-I am so excited about this team and their potential and I fully intend
-on developing all players regardless if they are on this roster or
-not!!
-
-Thank you,
-
-Coach Dave
-
-
-2018-19 Registration and Practices
-----------------------------------
-**July 29, 2018** --- Registration for the 2018-19 season is closed!
-
-If any of your information is incomplete we will contact you. Please
-help by providing any missing info as soon as possible. We will be
-ordering jerseys and other apparel very soon.
-
-Columbus practices for August and September are already scheduled and
-on the [calendar][cal]. Players are not permitted to drive themselves
-to Columbus practices, but we encourage parents to [sign up for
-car-pooling][carpool].
-
-Any player who will be missing a scheduled practice should let
-the coaching staff know in advance. Practice plans may change based on number
-of players attending. Thank you!
-
-Players and parents should get the [TeamApp mobile
-app][teamapp]. Once you install it, create an account and then search
-for "Blades HS Hockey" and join! We'll use TeamApp for quick messages
-and game-day updates.
-
-[carpool]: https://www.signupgenius.com/go/10C084BACAA28A0FA7-blades7/15646395
-[teamapp]: https://www.teamapp.com/app
-[cal]: https://calendar.google.com/calendar/embed?src=epsc9ra4unbaelg6bns4r4ifro%40group.calendar.google.com&ctz=America/New_York
-
-
-Hoosier Wings
--------------
-**May 14, 2018** --- The Hoosier Wings are a pre/post season competitive
-team composed of the best players in the Hoosier League, selected by
-tryout. The team aims to qualify for Nationals. Congratulations to
-Junior goalie Aidan Lowinger for being selected for the 2018-19
-Hoosier Wings!
-
-
-Team Indiana
-------------
-**May 7, 2018** (updated) --- Team Indiana U18 and U16 are travel teams
-composed of the best players in the state, selected by tryout. The
-team will compete on select weekends during the 2018-19
-season. Congratulations to the following Bloomington players selected
-for 2018-19 Team Indiana!
-
-- Sam Franklin (Team Indiana U18)
-- Aidan Lowinger (Team Indiana U18)
-- Cooper Fox (Team Indiana U16)
-- Eli Prather (Team Indiana U16)
-- Cruz Timbrook (Team Indiana U16)
 
 
 Blades Win State Academic Honors
@@ -180,4 +106,4 @@ fa-map-marker"></span>][fuel] (players please arrive by 2:00pm).
 
 [basswood]: https://www.google.com/maps/place/Basswood+Apartments,+1000+S+Basswood+Cir,+Bloomington,+IN+47403/@39.1518655,-86.5708355,17z/data=!4m2!3m1!1s0x886c677a6ac12c4d:0x830c6aebc265b08
 [fuel]: https://maps.google.com/maps?hl=en&q=Fuel%20Tank%20at%20Fishers%2C%209022%20E%20126th%20St%2C%20Fishers%2C%20IN%2046038%2C%20US
-[jay]: mailto:jbaer@bloomingtonblades.com
+[jared]: mailto:jcochran@bloomingtonblades.com
