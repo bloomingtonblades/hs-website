@@ -22,10 +22,20 @@ Keep in shape for the upcoming season! Workouts are weather permitting.
   fa-map-marker"></span>][cascades]. Bring running shoes and
   water.
 
+* Columbus Drop-In Hockey. Weekly on Thursday evenings at 8:45pm
+  through August 1, at the [Hamilton Center Ice Arena <span
+  class="icon fa-map-marker"></span>][hamilton]. Closed July 4.
+  Carpools available. Contact [Jared Cochran <span class="icon
+  fa-envelope-o"></span>][jared] for details.
+
 Other Events
 ------------
 
-* Sun Jul 28, 5:00pm. Mandatory player and parent registration meeting for 2019&ndash;20 season, location TBA.
+* Sun Jul 28, 5:00pm. Mandatory player and parent registration meeting
+  for 2019&ndash;20 season, at [Basswood Apartments Clubhouse <span
+  class="icon fa-map-marker"></span>][basswood]. Light refreshments
+  provided. All players, please bring your final report card from last school
+  year.
 
 Calendars
 ---------
@@ -51,6 +61,7 @@ All Blades events are posted on our [Google calendar <span class="icon fa-calend
 1. In the lower right corner, tap _+Google Calendar_.
 
 
+[jared]: mailto:jcochran@bloomingtonblades.com
 [john]: mailto:jhill@bloomingtonblades.com
 [basswood]: https://www.google.com/maps/place/Basswood+Apartments,+1000+S+Basswood+Cir,+Bloomington,+IN+47403/@39.1518655,-86.5708355,17z/data=!4m2!3m1!1s0x886c677a6ac12c4d:0x830c6aebc265b08
 [cascades]: https://maps.google.com/?cid=2695725097592046036
