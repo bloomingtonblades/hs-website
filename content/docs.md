@@ -1,6 +1,6 @@
 ---
 title: "Documents"
-date: 2018-08-02
+date: 2019-06-21
 weight: 2
 ---
 
@@ -38,7 +38,7 @@ Policies
 [locker]: https://docs.google.com/document/d/1G6oonIJAqU7zV9Nt_Aok8IlQcxKl0mevQ4lXhqVAL-s/edit?usp=sharing
 [travel]: https://docs.google.com/document/d/1UMhgCd4vuz0GYpkCvHqUEjaLtap1IAqinsnDsUT3Ukc/edit?usp=sharing
 [billet]: https://docs.google.com/document/d/10TwABGz5vKkfwyZr7iOoYc2pGmDpNBZ3bJnuXWNq4GI/edit?usp=sharing
-[receipt]: https://docs.google.com/document/d/1xO2AQAIaKERh5kn5zTVpcVQaYX8NmCFHB8qjh0CoXIg/edit?usp=sharing
+[receipt]: https://docs.google.com/document/d/1crwO3tnizW5CS2mKlzK87ouQcDOHtjFKBRcVpcOSOEY/edit?usp=sharing
 [codes]: http://www.usahockeyrulebook.com/page/show/1015129-codes-of-conduct
 [safe]: http://www.usahockey.com/safety
 [substance]: https://docs.google.com/document/d/1X7Ui-wmZvyNC7j7fzZ3DWTwoNPzzCiv2cKXiUhgVFPM/edit?usp=sharing
