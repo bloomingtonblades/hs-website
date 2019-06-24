@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2019-06-20
+date: 2019-06-24
 weight: 3
 ---
 
@@ -8,6 +8,46 @@ weight: 3
   <a id="news-a1" href="#"><img id="news-s1" class="image sponsor"></a>
   <a id="news-a2" href="#"><img id="news-s2" class="image sponsor"></a>
 </div>
+
+
+New SafeSport requirements
+--------------------------
+
+**June 24, 2019** --- You may have seen recent emails from USA Hockey
+describing some of the changes to the SafeSport program for this
+season. One that we want to highlight is that any _player_ who will be
+17 or older by the end of 2019 must complete the online SafeSport
+training that other adults in the program are required to
+complete. This is mandated by new laws affecting USA Hockey and the US
+Center for SafeSport starting this season.
+
+What does this mean? **It means that if you were born in 2002 or
+earlier, you must complete the online Core Center for SafeSport
+Training course before you can practice, play, or be added to a team
+roster**. Since our practices start in August, we are setting a deadline
+of July 28 (the date of our pre-season team meeting) for this.
+
+**Step 1**: If not already done, you and your parent(s) must complete
+  and pay for your USA Hockey player registration at
+  [https://membership.usahockey.com](https://membership.usahockey.com).
+
+**Step 2**: Using your registration confirmation number, register for
+  and complete the SafeSport training as described here:
+  [https://www.usahockey.com/trainingregistration](https://www.usahockey.com/trainingregistration).
+
+There is no additional cost for the training beyond your regular USA
+Hockey registration fees. Plan for it to take 90 - 120 minutes to
+complete. It does not have to be completed all at once. You can leave
+and come back later if you don't have time to finish it in one
+session.
+
+Again, **if you were born in 2002 or earlier you must complete this
+training before you can practice or play**. Thanks for your
+cooperation. Please do not put this off. We have no leeway in granting
+exceptions to this new requirement, as it is being enforced at the
+national level.
+
+
 
 2019-20 Registration and Practices
 ----------------------------------
