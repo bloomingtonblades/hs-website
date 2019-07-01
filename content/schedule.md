@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-06-20
+date: 2019-07-01
 weight: 5
 ---
 
@@ -17,10 +17,6 @@ Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 Off Season Workouts
 -------------------
 Keep in shape for the upcoming season! Workouts are weather permitting.
-
-* **CANCELED**: Mon Jun 17, 6:00pm at [Lower Cascades <span class="icon
-  fa-map-marker"></span>][cascades]. Bring running shoes and
-  water.
 
 * Columbus Drop-In Hockey. Weekly on Thursday evenings at 8:45pm
   through August 1, at the [Hamilton Center Ice Arena <span
