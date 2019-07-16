@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-07-01
+date: 2019-07-16
 weight: 5
 ---
 
@@ -14,18 +14,29 @@ Contact
 Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 
 
-Off Season Workouts
+Off Season Training
 -------------------
-Keep in shape for the upcoming season! Workouts are weather permitting.
+
+* Wed Jul 17, 6:30pm. Off-ice workout at [Lower Cascades <span
+  class="icon fa-map-marker"></span>][cascades]. Bring running shoes
+  and water. Weather permitting.
 
 * Columbus Drop-In Hockey. Weekly on Thursday evenings at 8:45pm
   through August 1, at the [Hamilton Center Ice Arena <span
-  class="icon fa-map-marker"></span>][hamilton]. Closed July 4.
+  class="icon fa-map-marker"></span>][hamilton].
   Carpools available. Contact [Jared Cochran <span class="icon
   fa-envelope-o"></span>][jared] for details.
 
 Other Events
 ------------
+
+* Mon Jul 22, 6:00pm. SafeSport training group session for 2002, 2001
+  birth year players at [IU Health Rehabilitation & Sports Medicine
+  <span class="icon
+  fa-map-marker"></span>](https://maps.google.com/?cid=15159010965030384435). You
+  must complete your [USA Hockey registration](https://www.usahockeyregistration.com/) in advance, and bring
+  your registration confirmation number with you. Bring a laptop if possible.
+
 
 * Sun Jul 28, 5:00pm. Mandatory player and parent registration meeting
   for 2019&ndash;20 season, at [Basswood Apartments Clubhouse <span
