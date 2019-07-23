@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-07-16
+date: 2019-07-22
 weight: 5
 ---
 
@@ -29,14 +29,6 @@ Off Season Training
 
 Other Events
 ------------
-
-* Mon Jul 22, 6:00pm. SafeSport training group session for 2002, 2001
-  birth year players at [IU Health Rehabilitation & Sports Medicine
-  <span class="icon
-  fa-map-marker"></span>](https://maps.google.com/?cid=15159010965030384435). You
-  must complete your [USA Hockey registration](https://www.usahockeyregistration.com/) in advance, and bring
-  your registration confirmation number with you. Bring a laptop if possible.
-
 
 * Sun Jul 28, 5:00pm. Mandatory player and parent registration meeting
   for 2019&ndash;20 season, at [Basswood Apartments Clubhouse <span
