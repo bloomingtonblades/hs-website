@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-07-22
+date: 2019-08-08
 weight: 5
 ---
 
@@ -14,27 +14,34 @@ Contact
 Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 
 
-Off Season Training
--------------------
+Off Ice Training
+----------------
 
-* Wed Jul 17, 6:30pm. Off-ice workout at [Lower Cascades <span
-  class="icon fa-map-marker"></span>][cascades]. Bring running shoes
-  and water. Weather permitting.
+* Thu Aug 8, 6:30pm. [Lower Cascades <span class="icon
+  fa-map-marker"></span>][cascades]. Bring running shoes and
+  water. Weather permitting.
 
-* Columbus Drop-In Hockey. Weekly on Thursday evenings at 8:45pm
-  through August 1, at the [Hamilton Center Ice Arena <span
-  class="icon fa-map-marker"></span>][hamilton].
-  Carpools available. Contact [Jared Cochran <span class="icon
-  fa-envelope-o"></span>][jared] for details.
 
-Other Events
-------------
+Columbus Practices
+------------------
+All practices are at the [Hamilton Ice Arena <span class="icon
+fa-map-marker"></span>][hamilton]. Players may not drive themselves
+to these practices.  Carpools will be available.
 
-* Sun Jul 28, 5:00pm. Mandatory player and parent registration meeting
-  for 2019&ndash;20 season, at [Basswood Apartments Clubhouse <span
-  class="icon fa-map-marker"></span>][basswood]. Light refreshments
-  provided. All players, please bring your final report card from last school
-  year.
+* Sun Aug 11, 12:15&ndash;1:45pm.
+* Thu Aug 15, 7:00&ndash;8:15pm.
+* Sun Aug 18, 12:15&ndash;1:45pm.
+* Wed Aug 21, 7:00&ndash;8:15pm.
+* Sun Aug 25, 12:15&ndash;1:45pm.
+* Wed Aug 28, 7:00&ndash;8:15pm.
+* Wed Sep 4, 7:00&ndash;8:15pm.
+* Sun Sep 8, 12:15&ndash;1:45pm.
+* Wed Sep 11, 7:00&ndash;8:15pm.
+* Sun Sep 15, 12:15&ndash;1:45pm.
+* Wed Sep 18, 7:00&ndash;8:15pm.
+* Sat Sep 21, 10:30&ndash;11:45am.
+* Sun Sep 22, 12:15&ndash;1:45pm.
+* Wed Sep 25, 7:00&ndash;8:15pm.
 
 Calendars
 ---------
