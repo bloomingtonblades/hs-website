@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-08-08
+date: 2019-08-12
 weight: 5
 ---
 
@@ -17,7 +17,7 @@ Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 Off Ice Training
 ----------------
 
-* Thu Aug 8, 6:30pm. [Lower Cascades <span class="icon
+* Wed Aug 14, 6:00&ndash;7:00pm. [Lower Cascades <span class="icon
   fa-map-marker"></span>][cascades]. Bring running shoes and
   water. Weather permitting.
 
@@ -28,7 +28,6 @@ All practices are at the [Hamilton Ice Arena <span class="icon
 fa-map-marker"></span>][hamilton]. Players may not drive themselves
 to these practices.  Carpools will be available.
 
-* Sun Aug 11, 12:15&ndash;1:45pm.
 * Thu Aug 15, 7:00&ndash;8:15pm.
 * Sun Aug 18, 12:15&ndash;1:45pm.
 * Wed Aug 21, 7:00&ndash;8:15pm.
