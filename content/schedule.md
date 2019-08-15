@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-08-12
+date: 2019-08-15
 weight: 5
 ---
 
@@ -17,7 +17,7 @@ Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 Off Ice Training
 ----------------
 
-* Wed Aug 14, 6:00&ndash;7:00pm. [Lower Cascades <span class="icon
+* Tue Aug 20, 6:30&ndash;7:30pm. [Lower Cascades <span class="icon
   fa-map-marker"></span>][cascades]. Bring running shoes and
   water. Weather permitting.
 
