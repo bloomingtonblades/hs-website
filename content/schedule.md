@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-08-15
+date: 2019-08-19
 weight: 5
 ---
 
@@ -28,8 +28,6 @@ All practices are at the [Hamilton Ice Arena <span class="icon
 fa-map-marker"></span>][hamilton]. Players may not drive themselves
 to these practices.  Carpools will be available.
 
-* Thu Aug 15, 7:00&ndash;8:15pm.
-* Sun Aug 18, 12:15&ndash;1:45pm.
 * Wed Aug 21, 7:00&ndash;8:15pm.
 * Sun Aug 25, 12:15&ndash;1:45pm.
 * Wed Aug 28, 7:00&ndash;8:15pm.
