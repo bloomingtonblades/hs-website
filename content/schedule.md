@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-08-19
+date: 2019-08-23
 weight: 5
 ---
 
@@ -17,18 +17,18 @@ Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 Off Ice Training
 ----------------
 
-* Tue Aug 20, 6:30&ndash;7:30pm. [Lower Cascades <span class="icon
+* Thursdays, 6:30&ndash;7:30pm, through Aug. 26. [Lower Cascades <span class="icon
   fa-map-marker"></span>][cascades]. Bring running shoes and
   water. Weather permitting.
 
 
 Columbus Practices
 ------------------
-All practices are at the [Hamilton Ice Arena <span class="icon
-fa-map-marker"></span>][hamilton]. Players may not drive themselves
-to these practices.  Carpools will be available.
+Until Frank Southern is open, all ice practices are in Columbus at the
+[Hamilton Ice Arena <span class="icon fa-map-marker"></span>][hamilton].
+Players may not drive themselves to these practices.  Carpools will be
+available.
 
-* Wed Aug 21, 7:00&ndash;8:15pm.
 * Sun Aug 25, 12:15&ndash;1:45pm.
 * Wed Aug 28, 7:00&ndash;8:15pm.
 * Wed Sep 4, 7:00&ndash;8:15pm.
