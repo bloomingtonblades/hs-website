@@ -41,7 +41,7 @@ Upcoming Games
 --------------
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Sat 9/28|Blades White at Owensboro (2 games)|11:15am &amp; 4:15pm|At [Edge Ice Center][edge]. Owensboro is in the Central time zone; game times are 12:15pm &amp; 5:15pm Eastern.|
+|Sat 9/28|Blades White at Owensboro JV (2 games)|11:15am &amp; 4:15pm|At [Edge Ice Center][edge]. Owensboro is in the Central time zone; game times are 12:15pm &amp; 5:15pm Eastern.|
 |Sun 9/29|Blades Blue vs Kirkwood Pioneers|9:15am|At [Fishers Fuel Tank][fuel].|
 |Wed 10/2|Blades White vs Columbus Icemen|7:00pm|At [Frank Southern][frank].|
 |Sat 10/5|Blades Blue vs HSE A|6:00pm|At [Frank Southern][frank]. Drop the Puck Fundraiser. $5 admission.|
