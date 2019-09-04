@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-08-23
+date: 2019-09-04
 weight: 5
 ---
 
@@ -17,20 +17,17 @@ Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 Off Ice Training
 ----------------
 
-* Thursdays, 6:30&ndash;7:30pm, through Aug. 26. [Lower Cascades <span class="icon
-  fa-map-marker"></span>][cascades]. Bring running shoes and
+* Thursdays, 6:30&ndash;7:30pm, through Aug. 26. [Lower Cascades][cascades]. Bring running shoes and
   water. Weather permitting.
 
 
 Columbus Practices
 ------------------
 Until Frank Southern is open, all ice practices are in Columbus at the
-[Hamilton Ice Arena <span class="icon fa-map-marker"></span>][hamilton].
+[Hamilton Ice Arena][hamilton].
 Players may not drive themselves to these practices.  Carpools will be
 available.
 
-* Sun Aug 25, 12:15&ndash;1:45pm.
-* Wed Aug 28, 7:00&ndash;8:15pm.
 * Wed Sep 4, 7:00&ndash;8:15pm.
 * Sun Sep 8, 12:15&ndash;1:45pm.
 * Wed Sep 11, 7:00&ndash;8:15pm.
@@ -39,6 +36,19 @@ available.
 * Sat Sep 21, 10:30&ndash;11:45am.
 * Sun Sep 22, 12:15&ndash;1:45pm.
 * Wed Sep 25, 7:00&ndash;8:15pm.
+
+Upcoming Games
+--------------
+|Date|Game|Time|Notes|
+|----|----|----|-----|
+|Sat 9/28|Blades White at Owensboro (2 games)|11:15am &amp; 4:15pm|At [Edge Ice Center][edge]. Owensboro is in the Central time zone; game times are 12:15pm &amp; 5:15pm Eastern.|
+|Sun 9/29|Blades Blue vs Kirkwood Pioneers|9:15am|At [Fishers Fuel Tank][fuel].|
+|Wed 10/2|Blades White vs Columbus Icemen|7:00pm|At [Frank Southern][frank].|
+|Sat 10/5|Blades Blue vs HSE A|6:00pm|At [Frank Southern][frank]. Drop the Puck Fundraiser. $5 admission.|
+|Fri 10/11|Blades White vs South Stars White|9:15pm|At [Frank Southern][frank].|
+|Sat 10/12|Blades Blue vs South Stars Red|11:30pm|Midnight Madness! At [Frank Southern][frank].|
+|Fri 10/18|Blades Blue vs Carmel Gold|9:15pm|At [Frank Southern][frank].|
+|Sat 10/26|Blades White at Evansville White (2 games)|12:15pm &amp; 4:30pm|At [Swonder Ice Arena][swonder]. Evansville is in the Central time zone; game times are 1:15pm &amp; 5:30pm Eastern.|
 
 Calendars
 ---------
