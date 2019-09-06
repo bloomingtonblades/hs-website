@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-09-04
+date: 2019-09-06
 weight: 5
 ---
 
@@ -28,8 +28,7 @@ Until Frank Southern is open, all ice practices are in Columbus at the
 Players may not drive themselves to these practices.  Carpools will be
 available.
 
-* Wed Sep 4, 7:00&ndash;8:15pm.
-* Sun Sep 8, 12:15&ndash;1:45pm.
+* Sun Sep 8, 10:30&ndash;12:00pm.&nbsp;&nbsp; **_Note time change_**.
 * Wed Sep 11, 7:00&ndash;8:15pm.
 * Sun Sep 15, 12:15&ndash;1:45pm.
 * Wed Sep 18, 7:00&ndash;8:15pm.
