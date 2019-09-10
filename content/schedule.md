@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-09-06
+date: 2019-09-10
 weight: 5
 ---
 
@@ -12,6 +12,20 @@ weight: 5
 Contact
 -------
 Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
+
+
+IMPACT Baseline Testing
+-----------------------
+Tuesday Sept 17th 6:30p at [JCMS][jcms]. Room A106 or A107. 
+
+All players who were not tested last year please attend so you have a
+current baseline for the ImPact concussion assessment test.
+
+If you were already tested this year for another sport, you do not
+need to do this again.
+
+When you arrive, please wait at the entrance until it is time to go to
+the testing room.
 
 
 Off Ice Training
@@ -28,7 +42,6 @@ Until Frank Southern is open, all ice practices are in Columbus at the
 Players may not drive themselves to these practices.  Carpools will be
 available.
 
-* Sun Sep 8, 10:30&ndash;12:00pm.&nbsp;&nbsp; **_Note time change_**.
 * Wed Sep 11, 7:00&ndash;8:15pm.
 * Sun Sep 15, 12:15&ndash;1:45pm.
 * Wed Sep 18, 7:00&ndash;8:15pm.
@@ -40,6 +53,7 @@ Upcoming Games
 --------------
 |Date|Game|Time|Notes|
 |----|----|----|-----|
+|Sun 9/15|Blades Blue at Owensboro Varsity|11:15am|At [Edge Ice Center][edge]. Owensboro is in the Central time zone; game time is 12:15pm Eastern.|
 |Sat 9/28|Blades White at Owensboro JV (2 games)|11:15am &amp; 4:15pm|At [Edge Ice Center][edge]. Owensboro is in the Central time zone; game times are 12:15pm &amp; 5:15pm Eastern.|
 |Sun 9/29|Blades Blue vs Kirkwood Pioneers|9:15am|At [Fishers Fuel Tank][fuel].|
 |Wed 10/2|Blades White vs Columbus Icemen|7:00pm|At [Frank Southern][frank].|
@@ -100,3 +114,4 @@ All Blades events are posted on our [Google calendar <span class="icon fa-calend
 [calsupport]: https://support.google.com/calendar/answer/37100?hl=en
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 [fountain]: https://maps.google.com/maps?hl=en&q=Fountain%20Square%2C%20101%20W%20Kirkwood%20Ave%2C%20Bloomington%2C%20IN%2047404%2C%20USA
+[jcms]: https://www.google.com/maps/place/Jackson+Creek+Middle+School/@39.1236435,-86.5134863,17z/data=!3m1!4b1!4m5!3m4!1s0x886c6612b5e7ff9b:0x4d9035bac29b8f4e!8m2!3d39.1236394!4d-86.5112923
