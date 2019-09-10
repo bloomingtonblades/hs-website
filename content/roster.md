@@ -1,6 +1,6 @@
 ---
 title: "Roster"
-date: 2019-01-10
+date: 2019-09-10
 weight: 4
 ---
 
@@ -11,40 +11,18 @@ weight: 4
 
 <center>Photographs by [Jeff Norris Photography](http://www.jeffnorrisphotography.com)</center>
 
-Coaches 2018&ndash;19
+Coaches 2019&ndash;20
 -------------------
 
-<img style="width: 100%;" alt="Blades Coaching Staff 2017-18" src="1819_coaches.jpg">
+- Chris Hamric (Head Coach - Blue Team)
+- Dyvan Daley (Head Coach - White team)
+- Nick Lightfoot
+- Johan Lowinger
 
-*Left to right &mdash;* Chris Hamric, Johan Lowinger, Head Coach Dave Appel, Dyvan Daley
-<br>*Not pictured &mdash;* Nick Lightfoot
-
-Players 2018&ndash;19
+Players 2019&ndash;20
 ---------------------
 
 ### Seniors
-<div class="classdiv">
-  <div class="player">
-    <figure>
-      <img alt="Ethan Baer Photo" src="1819_baer.jpg">
-      <figcaption>Ethan Baer (C)<br>#3</figcaption>
-    </figure>
-  </div>
-  <div class="player">
-    <figure>
-      <img alt="Lander Greulich Photo" src="1819_greulich.jpg">
-      <figcaption>Lander Greulich (A)<br>#2</figcaption>
-    </figure>
-  </div>
-  <div class="player">
-    <figure>
-      <img alt="Austin Rawlins Photo" src="1819_rawlins.jpg">
-      <figcaption>Austin Rawlins (A)<br>#22</figcaption>
-    </figure>
-  </div>
-</div>
-
-### Juniors
 <div class="classdiv">
   <div class="player">
     <figure>
@@ -96,7 +74,7 @@ Players 2018&ndash;19
   </div>
 </div>
 
-### Sophomores
+### Juniors
 <div class="classdiv">
   <div class="player">
     <figure>
@@ -143,7 +121,7 @@ Players 2018&ndash;19
   <div class="player">
     <figure>
       <img alt="Eli Prather Photo" src="1819_prather.jpg">
-      <figcaption>Eli Prather<br>#27<img src="/images/tin.png"></figcaption>
+      <figcaption>Eli Prather<br>#27</figcaption>
     </figure>
   </div>
   <div class="player">
@@ -154,8 +132,14 @@ Players 2018&ndash;19
   </div>
 </div>
 
-### Freshmen
+### Sophomores
 <div class="classdiv">
+  <div class="player">
+    <figure>
+      <img alt="Bo Berkley Photo" src="images/200px-Placeholder_photo.png">
+      <figcaption>Bo Berkley<br>#84 (G)</figcaption>
+    </figure>
+  </div>
   <div class="player">
     <figure>
       <img alt="Noah Cochran Photo" src="1819_cochran.jpg">
@@ -171,13 +155,19 @@ Players 2018&ndash;19
   <div class="player">
     <figure>
       <img alt="Cooper Fox Photo" src="1819_fox.jpg">
-      <figcaption>Cooper Fox<br>#45<img src="/images/tin.png"></figcaption>
+      <figcaption>Cooper Fox<br>#45</figcaption>
     </figure>
   </div>
   <div class="player">
     <figure>
       <img alt="Matthew Griffin Photo" src="1819_griffin.jpg">
       <figcaption>Matthew Griffin<br>#91</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="Teagan Hill Photo" src="images/200px-Placeholder_photo.png">
+      <figcaption>Teagan Hill<br>#35 (G)</figcaption>
     </figure>
   </div>
   <div class="player">
@@ -190,6 +180,64 @@ Players 2018&ndash;19
     <figure>
       <img alt="Cruz Timbrook Photo" src="1819_timbrook.jpg">
       <figcaption>Cruz Timbrook<br>#28</figcaption>
+    </figure>
+  </div>
+</div>
+
+### Freshmen
+<div class="classdiv">
+  <div class="player">
+    <figure>
+      <img alt="Zane Carmichael Photo" src="images/200px-Placeholder_photo.png">
+      <Figcaption>Zane Carmichael<br>#7</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="Andrew Cockerham Photo" src="images/200px-Placeholder_photo.png">
+      <Figcaption>Andrew Cockerham<br>#42</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="Vincent Kreft Photo" src="images/200px-Placeholder_photo.png">
+      <Figcaption>Vincent Kreft<br>#9</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="Isabella La Bella Photo" src="images/200px-Placeholder_photo.png">
+      <Figcaption>Isabella La Bella<br>#20</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="Francesca La Bella Photo" src="images/200px-Placeholder_photo.png">
+      <Figcaption>Francesca La Bella<br>#32</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="Gregory Pate Photo" src="images/200px-Placeholder_photo.png">
+      <Figcaption>Gregory Pate<br>#6</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="Gavin Patzner Photo" src="images/200px-Placeholder_photo.png">
+      <Figcaption>Gavin Patzner<br>#23</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="Payton Reynolds Photo" src="images/200px-Placeholder_photo.png">
+      <Figcaption>Payton Reynolds<br>#15</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="Matthew Schmidt Photo" src="images/200px-Placeholder_photo.png">
+      <Figcaption>Matthew Schmidt<br>#18</figcaption>
     </figure>
   </div>
 </div>
