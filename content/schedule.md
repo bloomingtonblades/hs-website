@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-09-10
+date: 2019-09-15
 weight: 5
 ---
 
@@ -42,8 +42,6 @@ Until Frank Southern is open, all ice practices are in Columbus at the
 Players may not drive themselves to these practices.  Carpools will be
 available.
 
-* Wed Sep 11, 7:00&ndash;8:15pm.
-* Sun Sep 15, 12:15&ndash;1:45pm.
 * Wed Sep 18, 7:00&ndash;8:15pm.
 * Sat Sep 21, 10:30&ndash;11:45am.
 * Sun Sep 22, 12:15&ndash;1:45pm.
@@ -53,7 +51,6 @@ Upcoming Games
 --------------
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Sun 9/15|Blades Blue at Owensboro Varsity|11:15am|At [Edge Ice Center][edge]. Owensboro is in the Central time zone; game time is 12:15pm Eastern.|
 |Sat 9/28|Blades White at Owensboro JV (2 games)|11:15am &amp; 4:15pm|At [Edge Ice Center][edge]. Owensboro is in the Central time zone; game times are 12:15pm &amp; 5:15pm Eastern.|
 |Sun 9/29|Blades Blue vs Kirkwood Pioneers|9:15am|At [Fishers Fuel Tank][fuel].|
 |Wed 10/2|Blades White vs Columbus Icemen|7:00pm|At [Frank Southern][frank].|
