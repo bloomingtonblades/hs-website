@@ -108,6 +108,7 @@ weight: 8
     <td class="widestats">1</td>
     <td class="widestats"></td>
   </tr>
+<!--
   <tr>
     <td>13</td> <td>Knox</td>
     <td> </td> <td> </td> <td> </td>
@@ -124,6 +125,7 @@ weight: 8
     <td class="widestats"> </td>
     <td class="widestats"></td>
   </tr>
+-->
 </table>
 
 <br>
