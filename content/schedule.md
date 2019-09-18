@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-09-15
+date: 2019-09-17
 weight: 5
 ---
 
@@ -12,20 +12,6 @@ weight: 5
 Contact
 -------
 Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
-
-
-IMPACT Baseline Testing
------------------------
-Tuesday Sept 17th 6:30p at [JCMS][jcms]. Room A106 or A107. 
-
-All players who were not tested last year please attend so you have a
-current baseline for the ImPact concussion assessment test.
-
-If you were already tested this year for another sport, you do not
-need to do this again.
-
-When you arrive, please wait at the entrance until it is time to go to
-the testing room.
 
 
 Off Ice Training
