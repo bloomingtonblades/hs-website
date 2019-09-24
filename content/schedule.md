@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-09-17
+date: 2019-09-24
 weight: 5
 ---
 
@@ -14,13 +14,6 @@ Contact
 Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 
 
-Off Ice Training
-----------------
-
-* Thursdays, 6:30&ndash;7:30pm, through Aug. 26. [Lower Cascades][cascades]. Bring running shoes and
-  water. Weather permitting.
-
-
 Columbus Practices
 ------------------
 Until Frank Southern is open, all ice practices are in Columbus at the
@@ -28,17 +21,12 @@ Until Frank Southern is open, all ice practices are in Columbus at the
 Players may not drive themselves to these practices.  Carpools will be
 available.
 
-* Wed Sep 18, 7:00&ndash;8:15pm.
-* Sat Sep 21, 10:30&ndash;11:45am.
-* Sun Sep 22, 12:15&ndash;1:45pm.
 * Wed Sep 25, 7:00&ndash;8:15pm.
 
 Upcoming Games
 --------------
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Sat 9/28|Blades White at Owensboro JV (2 games)|11:15am &amp; 4:15pm|At [Edge Ice Center][edge]. Owensboro is in the Central time zone; game times are 12:15pm &amp; 5:15pm Eastern.|
-|Sun 9/29|Blades Blue vs Kirkwood Pioneers|9:15am|At [Fishers Fuel Tank][fuel].|
 |Wed 10/2|Blades White vs Columbus Icemen|7:00pm|At [Frank Southern][frank].|
 |Sat 10/5|Blades Blue vs HSE A|6:00pm|At [Frank Southern][frank]. Drop the Puck Fundraiser. $5 admission.|
 |Fri 10/11|Blades White vs South Stars White|9:15pm|At [Frank Southern][frank].|
