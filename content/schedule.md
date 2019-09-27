@@ -14,15 +14,6 @@ Contact
 Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 
 
-Columbus Practices
-------------------
-Until Frank Southern is open, all ice practices are in Columbus at the
-[Hamilton Ice Arena][hamilton].
-Players may not drive themselves to these practices.  Carpools will be
-available.
-
-* Wed Sep 25, 7:00&ndash;8:15pm.
-
 Upcoming Games
 --------------
 |Date|Game|Time|Notes|
