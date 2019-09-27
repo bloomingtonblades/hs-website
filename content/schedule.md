@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-09-24
+date: 2019-09-27
 weight: 5
 ---
 
@@ -27,7 +27,7 @@ Upcoming Games
 --------------
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Sun 9/29|Blades Blue vs Kirkwood Pioneers|9:15am|At [Fishers Fuel Tank][fuel].|
+|Sun 9/29|Blades Blue vs Kirkwood Pioneers|9:00am|At [Fishers Fuel Tank][fuel]. Note time change from original posting.|
 |Wed 10/2|Blades White vs Columbus Icemen|7:00pm|At [Frank Southern][frank].|
 |Sat 10/5|Blades Blue vs HSE A|6:00pm|At [Frank Southern][frank]. Drop the Puck Fundraiser. $5 admission.|
 |Fri 10/11|Blades White vs South Stars White|9:15pm|At [Frank Southern][frank].|
