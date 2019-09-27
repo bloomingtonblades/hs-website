@@ -20,7 +20,8 @@ Upcoming Games
 |----|----|----|-----|
 |Sun 9/29|Blades Blue vs Kirkwood Pioneers|9:00am|At [Fishers Fuel Tank][fuel]. Note time change from original posting.|
 |Wed 10/2|Blades White vs Columbus Icemen|7:00pm|At [Frank Southern][frank].|
-|Sat 10/5|Blades Blue vs HSE A|6:00pm|At [Frank Southern][frank]. Drop the Puck Fundraiser. $5 admission.|
+|Sat 10/5|Blades White vs CIK JV|6:00pm|At [Frank Southern][frank]. Drop the Puck Fundraiser, Game 1. $5 admission.|
+|Sat 10/5|Blades Blue vs HSE A|8:00pm|At [Frank Southern][frank]. Drop the Puck Fundraiser, Game 2. $5 admission.|
 |Fri 10/11|Blades White vs South Stars White|9:15pm|At [Frank Southern][frank].|
 |Sat 10/12|Blades Blue vs South Stars Red|11:30pm|Midnight Madness! At [Frank Southern][frank].|
 |Fri 10/18|Blades Blue vs Carmel Gold|9:15pm|At [Frank Southern][frank].|
