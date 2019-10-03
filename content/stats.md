@@ -256,7 +256,7 @@ weight: 8
     <tr>
   </thead>
   <tr>
-    <td>30</td> <td>Hill</td>
+    <td>35</td> <td>Hill</td>
     <td>48</td> <td>44</td> <td>0.917</td>
     <td class="widestats">0</td>
     <td class="widestats">1</td>
