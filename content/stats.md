@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2019-09-29
+date: 2019-10-03
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -75,7 +75,8 @@ weight: 8
 <table>
   <thead>
     <tr>
-      <th title="Jersey Number">NO</th> <th title="Player Name">PLAYER</th>  <th title="Goals">G</th> <th title="Assists">A</th> <th title="Points">PTS</th> <th title="Penalty Minutes">PIM</th>
+      <th title="Jersey Number">NO</th> <th title="Player Name">PLAYER</th>
+      <th title="Goals">G</th> <th title="Assists">A</th> <th title="Points">PTS</th> <th title="Penalty Minutes">PIM</th>
     <tr>
   </thead>
   <tr>
@@ -178,25 +179,29 @@ weight: 8
 <table>
   <thead>
     <tr>
-      <th></th> <th></th> <th title="Period 1">P1</th> <th title="Period 2">P2</th> <th title="Period 3">P3</th> <th title="Overtime">OT</th> <th title="Total">T</th> <th class="widestats">Goaltender</th> <th class="widestats">Time</th> <th class="widestats" title="Decision">Dec</th> <th class="widestats" title="Saves">S</th>
+      <th></th> <th></th> <th title="Period 1">P1</th> <th title="Period 2">P2</th> <th title="Period 3">P3</th> <th title="Overtime">OT</th> <th title="Total">T</th>
+      <th class="widestats">Goaltender</th>
+      <th class="widestats">Time</th>
+      <th class="widestats" title="Decision">Dec</th>
+      <th class="widestats" title="Saves">S</th>
     </tr>
   </thead>
 
   <!-- Blades White vs Columbus, 10/2/19 -->
   <tr class="odd">
   <td rowspan="2">10/2</td>
-      <td>Columbus</td> <td></td> <td></td> <td></td> <td></td> <td></td>
-      <td class="widestats"></td>
-      <td class="widestats"></td>
-      <td class="widestats"></td>
-      <td class="widestats"></td>
+      <td>Columbus</td> <td>1</td> <td>1</td> <td>2</td> <td></td> <td>4</td>
+      <td class="widestats">Kuzman</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">18</td>
   </tr>
   <tr class="odd">
-      <td>Blades</td> <td></td> <td></td> <td></td> <td></td> <td></td>
-      <td class="widestats"></td>
-      <td class="widestats"></td>
-      <td class="widestats"></td>
-      <td class="widestats"></td>
+      <td>Blades</td> <td>1</td> <td>0</td> <td>0</td> <td></td> <td>1</td>
+      <td class="widestats">Hill</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">44</td>
   </tr>
 
 </table>
@@ -211,6 +216,30 @@ weight: 8
       <th title="Goals">G</th> <th title="Assists">A</th> <th title="Points">PTS</th> <th title="Penalty Minutes">PIM</th>
     <tr>
   </thead>
+  <tr>
+    <td>18</td> <td>Schmidt</td>
+    <td>1</td>  <td></td> <td>1</td> <td>2</td>
+  </tr>
+  <tr>
+    <td>19</td> <td>Cochran</td>
+    <td></td>  <td>1</td> <td>1</td> <td></td>
+  </tr>
+  <tr>
+    <td>89</td> <td>Lukes</td>
+    <td></td>  <td>1</td> <td>1</td> <td>12</td>
+  </tr>
+  <tr>
+    <td>23</td> <td>Patzner</td>
+    <td></td>  <td></td> <td></td> <td>2</td>
+  </tr>
+  <tr>
+    <td>66</td> <td>Price-Presslaff</td>
+    <td></td>  <td></td> <td></td> <td>4</td>
+  </tr>
+  <tr>
+    <td>76</td> <td>Pope</td>
+    <td></td>  <td></td> <td></td> <td>2</td>
+  </tr>
 </table>
 
 <a name="wgoalies"></a>Goaltenders -- Blades White
@@ -226,17 +255,17 @@ weight: 8
       <th class="widestats" title="Overtime Losses">OTL</th>
     <tr>
   </thead>
+  <tr>
+    <td>30</td> <td>Hill</td>
+    <td>48</td> <td>44</td> <td>0.917</td>
+    <td class="widestats">0</td>
+    <td class="widestats">1</td>
+    <td class="widestats">0</td>
+    <td class="widestats"></td>
+  </tr>
 <!--
     <tr>
     <td>84</td> <td>Berkley</td>
-    <td></td> <td></td> <td></td>
-    <td class="widestats"></td>
-    <td class="widestats"></td>
-    <td class="widestats"></td>
-    <td class="widestats"></td>
-  </tr>
-  <tr>
-    <td>30</td> <td>Hill</td>
     <td></td> <td></td> <td></td>
     <td class="widestats"></td>
     <td class="widestats"></td>
