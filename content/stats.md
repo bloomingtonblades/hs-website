@@ -236,7 +236,7 @@ weight: 8
       <td class="widestats">11<br>6</td>
   </tr>
   <tr class="even">
-      <td>Blades</td> <td>1</td> <td>0</td> <td>0</td> <td></td> <td>1</td>
+      <td>Blades</td> <td>2</td> <td>2</td> <td>2</td> <td></td> <td>6</td>
       <td class="widestats">Berkley</td>
       <td class="widestats">45:00</td>
       <td class="widestats">W</td>
