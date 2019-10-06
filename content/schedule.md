@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-10-03
+date: 2019-10-06
 weight: 5
 ---
 
@@ -18,12 +18,14 @@ Upcoming Games
 --------------
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Sat 10/5|Blades Blue vs HSE A|6:00pm|At [Frank Southern][frank]. Drop the Puck Fundraiser, Game 1. $5 admission.|
-|Sat 10/5|Blades White vs CIK JV|8:15pm|At [Frank Southern][frank]. Drop the Puck Fundraiser, Game 2. $5 admission.|
 |Fri 10/11|Blades White vs South Stars White|9:15pm|At [Frank Southern][frank].|
 |Sat 10/12|Blades Blue vs South Stars Red|11:30pm|Midnight Madness! At [Frank Southern][frank].|
 |Fri 10/18|Blades Blue vs Carmel Gold|9:15pm|At [Frank Southern][frank].|
 |Sat 10/26|Blades White at Evansville White (2 games)|12:15pm &amp; 4:30pm|At [Swonder Ice Arena][swonder]. Evansville is in the Central time zone; game times are 1:15pm &amp; 5:30pm Eastern.|
+|Fri 11/1|Blades Blue vs Ft Wayne Vipers|7:00pm|At [SportONE/Parkview Ice House][icefw].<br>Crossover Weekend Game 1|
+|Sat 11/2|Blades Blue vs Lakeshore St. Joe|11:20am|At [SportONE/Parkview Ice House][icefw].<br>Crossover Weekend Game 2|
+|Sat 11/2|Blades Blue vs Adams|7:00pm|At [SportONE/Parkview Ice House][icefw].<br>Crossover Weekend Game 3|
+|Sun 11/3|Blades Blue vs Homestead|9:00am|At [SportONE/Parkview Ice House][icefw].<br>Crossover Weekend Game 4|
 
 Calendars
 ---------
@@ -72,7 +74,7 @@ All Blades events are posted on our [Google calendar <span class="icon fa-calend
 [perry]: https://maps.google.com/maps?hl=en&q=Perry%20Park%20Ice%20Rink%2C%20451%20East%20Stop%2011%20Road%2C%20Indianapolis%2C%20IN%2C%20United%20States
 [midwest]: https://maps.google.com/maps?hl=en&q=Midwest%20Training%20%26%20Ice%20Center%2C%2010600%20White%20Oak%20Ave%2C%20Dyer%2C%20IN%2046311%2C%20USA
 [swonder]: https://maps.google.com/maps?hl=en&q=Swonder%20Ice%20Arena%2C%20209%20N%20Boeke%20Rd%2C%20Evansville%2C%20IN%2047711%2C%20USA
-[icefw]: https://www.google.com/maps/place/Ice+Sports+Fort+Wayne/@41.112185,-85.1491587,17z/data=!3m1!4b1!4m5!3m4!1s0x8815e3763c2aea45:0xffa2c90a8bb71999!8m2!3d41.112181!4d-85.14697
+[icefw]: https://www.google.com/maps/place/SportONE+Parkview+Icehouse/@41.1116383,-85.1486128,17z/data=!3m1!4b1!4m5!3m4!1s0x8815e3763c2aea45:0x9d7cd80556a67202!8m2!3d41.1116343!4d-85.1464188
 [calsupport]: https://support.google.com/calendar/answer/37100?hl=en
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 [fountain]: https://maps.google.com/maps?hl=en&q=Fountain%20Square%2C%20101%20W%20Kirkwood%20Ave%2C%20Bloomington%2C%20IN%2047404%2C%20USA
