@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2019-10-03
+date: 2019-10-06
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -226,6 +226,22 @@ weight: 8
       <td class="widestats">44</td>
   </tr>
 
+  <!-- Blades White vs CIK 16U, 10/2/19 -->
+  <tr class="even">
+  <td rowspan="2">10/5</td>
+      <td>CIK 16U</td> <td>0</td> <td>0</td> <td>2</td> <td></td> <td>2</td>
+      <td class="widestats">Edmondson<br>Rush</td>
+      <td class="widestats">22:39<br>22:21</td>
+      <td class="widestats">L</td>
+      <td class="widestats">11<br>6</td>
+  </tr>
+  <tr class="even">
+      <td>Blades</td> <td>1</td> <td>0</td> <td>0</td> <td></td> <td>1</td>
+      <td class="widestats">Berkley</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">23</td>
+  </tr>
 </table>
 
 
@@ -240,15 +256,35 @@ weight: 8
   </thead>
   <tr>
     <td>18</td> <td>Schmidt</td>
-    <td>1</td>  <td></td> <td>1</td> <td>2</td>
-  </tr>
-  <tr>
-    <td>19</td> <td>Cochran</td>
-    <td></td>  <td>1</td> <td>1</td> <td></td>
+    <td>2</td>  <td>2</td> <td>4</td> <td>2</td>
   </tr>
   <tr>
     <td>89</td> <td>Lukes</td>
-    <td></td>  <td>1</td> <td>1</td> <td>12</td>
+    <td>2</td>  <td>2</td> <td>4</td> <td>12</td>
+  </tr>
+  <tr>
+    <td>19</td> <td>Cochran</td>
+    <td></td>  <td>2</td> <td>2</td> <td>2</td>
+  </tr>
+  <tr>
+    <td>6</td> <td>Pate</td>
+    <td>1</td>  <td></td> <td>1</td> <td></td>
+  </tr>
+  <tr>
+    <td>20</td> <td>La Bella</td>
+    <td></td>  <td>1</td> <td>1</td> <td>4</td>
+  </tr>
+  <tr>
+    <td>48</td> <td>Knipstein</td>
+    <td>1</td>  <td></td> <td>1</td> <td>2</td>
+  </tr>
+  <tr>
+    <td>93</td> <td>Davis</td>
+    <td>1</td>  <td></td> <td>1</td> <td>2</td>
+  </tr>
+  <tr>
+    <td>9</td> <td>Kreft</td>
+    <td></td>  <td></td> <td></td> <td>2</td>
   </tr>
   <tr>
     <td>23</td> <td>Patzner</td>
@@ -256,7 +292,7 @@ weight: 8
   </tr>
   <tr>
     <td>66</td> <td>Price-Presslaff</td>
-    <td></td>  <td></td> <td></td> <td>4</td>
+    <td></td>  <td></td> <td></td> <td>8</td>
   </tr>
   <tr>
     <td>76</td> <td>Pope</td>
@@ -285,14 +321,14 @@ weight: 8
     <td class="widestats">0</td>
     <td class="widestats"></td>
   </tr>
-<!--
-    <tr>
+
+  <tr>
     <td>84</td> <td>Berkley</td>
-    <td></td> <td></td> <td></td>
-    <td class="widestats"></td>
-    <td class="widestats"></td>
-    <td class="widestats"></td>
+    <td>23</td> <td>25</td> <td>0.920</td>
+    <td class="widestats">1</td>
+    <td class="widestats">0</td>
+    <td class="widestats">0</td>
     <td class="widestats"></td>
   </tr>
--->
+
 </table>
