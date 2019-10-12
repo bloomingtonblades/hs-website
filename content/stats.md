@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-date: 2019-10-06
+date: 2019-10-12
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -242,6 +242,23 @@ weight: 8
       <td class="widestats">W</td>
       <td class="widestats">23</td>
   </tr>
+
+  <!-- Blades White vs South Stars White, 10/11/19 -->
+  <tr class="odd">
+  <td rowspan="2">10/11</td>
+      <td>South Stars</td> <td>1</td> <td>0</td> <td>1</td> <td></td> <td>2</td>
+      <td class="widestats">Kushner</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">14</td>
+  </tr>
+  <tr class="odd">
+      <td>Blades</td> <td>0</td> <td>2</td> <td>1</td> <td></td> <td>3</td>
+      <td class="widestats">Hill</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">29</td>
+  </tr>
 </table>
 
 
@@ -256,7 +273,7 @@ weight: 8
   </thead>
   <tr>
     <td>18</td> <td>Schmidt</td>
-    <td>2</td>  <td>2</td> <td>4</td> <td>2</td>
+    <td>3</td>  <td>2</td> <td>5</td> <td>2</td>
   </tr>
   <tr>
     <td>89</td> <td>Lukes</td>
@@ -267,24 +284,32 @@ weight: 8
     <td></td>  <td>2</td> <td>2</td> <td>2</td>
   </tr>
   <tr>
+    <td>93</td> <td>Davis</td>
+    <td>1</td>  <td>1</td> <td>2</td> <td>2</td>
+  </tr>
+  <tr>
     <td>6</td> <td>Pate</td>
-    <td>1</td>  <td></td> <td>1</td> <td></td>
+    <td>2</td>  <td></td> <td>2</td> <td></td>
+  </tr>
+  <tr>
+    <td>9</td> <td>Kreft</td>
+    <td></td>  <td>1</td> <td>1</td> <td>4</td>
   </tr>
   <tr>
     <td>20</td> <td>La Bella</td>
     <td></td>  <td>1</td> <td>1</td> <td>4</td>
   </tr>
   <tr>
+    <td>34</td> <td>Daley</td>
+    <td>1</td>  <td></td> <td>1</td> <td></td>
+  </tr>
+  <tr>
     <td>48</td> <td>Knipstein</td>
     <td>1</td>  <td></td> <td>1</td> <td>2</td>
   </tr>
   <tr>
-    <td>93</td> <td>Davis</td>
-    <td>1</td>  <td></td> <td>1</td> <td>2</td>
-  </tr>
-  <tr>
-    <td>9</td> <td>Kreft</td>
-    <td></td>  <td></td> <td></td> <td>2</td>
+    <td>15</td> <td>Reynolds</td>
+    <td></td>  <td></td> <td></td> <td>12</td>
   </tr>
   <tr>
     <td>23</td> <td>Patzner</td>
@@ -296,7 +321,7 @@ weight: 8
   </tr>
   <tr>
     <td>76</td> <td>Pope</td>
-    <td></td>  <td></td> <td></td> <td>2</td>
+    <td></td>  <td></td> <td></td> <td>4</td>
   </tr>
 </table>
 
@@ -315,8 +340,8 @@ weight: 8
   </thead>
   <tr>
     <td>35</td> <td>Hill</td>
-    <td>48</td> <td>44</td> <td>0.917</td>
-    <td class="widestats">0</td>
+    <td>79</td> <td>73</td> <td>0.924</td>
+    <td class="widestats">1</td>
     <td class="widestats">1</td>
     <td class="widestats">0</td>
     <td class="widestats"></td>
