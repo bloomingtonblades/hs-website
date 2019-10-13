@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-10-12
+date: 2019-10-13
 weight: 5
 ---
 
@@ -18,7 +18,6 @@ Upcoming Games
 --------------
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Sat 10/12|Blades Blue vs South Stars Red|11:30pm|Midnight Madness! At [Frank Southern][frank].|
 |Fri 10/18|Blades Blue vs Carmel Gold|9:15pm|At [Frank Southern][frank].|
 |Sat 10/26|Blades White at Evansville White (2 games)|12:15pm &amp; 4:30pm|At [Swonder Ice Arena][swonder]. Evansville is in the Central time zone; game times are 1:15pm &amp; 5:30pm Eastern.|
 |Fri 11/1|Blades Blue vs Ft Wayne Vipers|7:00pm|At [SportONE/Parkview Ice House][icefw].<br>Crossover Weekend Game 1|
