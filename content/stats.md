@@ -1,6 +1,6 @@
 ---
-title: "Stats"
-date: 2019-10-13
+title: "Results"
+date: 2019-10-16
 weight: 8
 ---
 <div class="sponsorcontainer">
