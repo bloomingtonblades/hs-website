@@ -1,6 +1,6 @@
 ---
 title: "Results"
-date: 2019-10-16
+date: 2019-10-19
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -101,6 +101,23 @@ weight: 8
       <td class="widestats">W</td>
       <td class="widestats">23</td>
   </tr>
+
+  <!-- Blades Blue vs Carmel, 10/18/19 -->
+  <tr class="odd">
+  <td rowspan="2">10/18</td>
+      <td>Carmel</td> <td>1</td> <td>1</td> <td>0</td> <td></td> <td>2</td>
+      <td class="widestats">Yuska</td>
+      <td class="widestats">51:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">16</td>
+  </tr>
+  <tr class="odd">
+      <td>Blades</td> <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td>
+      <td class="widestats">Lowinger</td>
+      <td class="widestats">51:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">41</td>
+  </tr>
 </table>
 
 <a name="bpoints"></a>Points Standings -- Blades Blue
@@ -138,7 +155,7 @@ weight: 8
   </tr>
   <tr>
     <td>88</td> <td>Franklin</td>
-    <td>1</td> <td>2</td> <td>3</td> <td>21</td>
+    <td>1</td> <td>2</td> <td>3</td> <td>23</td>
   </tr>
   <tr>
     <td>6</td> <td>Pate</td>
@@ -150,11 +167,11 @@ weight: 8
   </tr> 
   <tr>
     <td>45</td> <td>Fox</td>
-    <td>1</td> <td>1</td> <td>2</td> <td>2</td>
+    <td>1</td> <td>1</td> <td>2</td> <td>4</td>
   </tr>
   <tr>
     <td>91</td> <td>Griffin</td>
-    <td></td> <td>2</td> <td>2</td> <td>22</td>
+    <td></td> <td>2</td> <td>2</td> <td>30</td>
   </tr>
   <tr>
     <td>00</td> <td>Lauer</td>
@@ -205,9 +222,9 @@ weight: 8
   </thead>
   <tr>
     <td>30</td> <td>Lowinger</td>
-    <td>64</td> <td>64</td> <td>1.000</td>
+    <td>107</td> <td>105</td> <td>0.981</td>
     <td class="widestats">2</td>
-    <td class="widestats">0</td>
+    <td class="widestats">1</td>
     <td class="widestats">0</td>
     <td class="widestats"></td>
   </tr>
