@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-10-19
+date: 2019-10-27
 weight: 5
 ---
 
@@ -18,11 +18,15 @@ Upcoming Games
 --------------
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Sat 10/26|Blades White at Evansville White (2 games)|12:15pm &amp; 4:30pm|At [Swonder Ice Arena][swonder]. Evansville is in the Central time zone; game times are 1:15pm &amp; 5:30pm Eastern.|
 |Fri 11/1|Blades Blue vs Ft Wayne Vipers|7:00pm|At [SportONE/Parkview Ice House][icefw].<br>Crossover Weekend Game 1|
 |Sat 11/2|Blades Blue vs Lakeshore St. Joe|11:20am|At [SportONE/Parkview Ice House][icefw].<br>Crossover Weekend Game 2|
 |Sat 11/2|Blades Blue vs Adams|7:00pm|At [SportONE/Parkview Ice House][icefw].<br>Crossover Weekend Game 3|
 |Sun 11/3|Blades Blue vs Homestead|9:00am|At [SportONE/Parkview Ice House][icefw].<br>Crossover Weekend Game 4|
+|Sat 11/9|Blades Blue vs Zionsville|3:15pm|At [Frank Southern][frank]|
+|Sat 11/9|Blades White at Columbus|9:00pm|At [Hamilton Center][hamilton]|
+|Sun 11/10|Blades Blue at HSE A|10:15am|At [Pop Weaver Pavillion][popweaver]|
+|Sat 11/16|Blades White at South Stars White|4:15pm|At [Perry Park][perry]|
+|Sat 11/16|Blades Blue at South Stars Red|8:15pm|At [Perry Park][perry]|
 
 Calendars
 ---------
