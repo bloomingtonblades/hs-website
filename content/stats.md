@@ -385,12 +385,12 @@ weight: 8
     <td>1</td>  <td>2</td> <td>3</td> <td></td>
   </tr>
   <tr>
-    <td>9</td> <td>Kreft</td>
-    <td></td>  <td>2</td> <td>2</td> <td>4</td>
+    <td>93</td> <td>Davis</td>
+    <td>1</td>  <td>2</td> <td>3</td> <td>2</td>
   </tr>
   <tr>
-    <td>93</td> <td>Davis</td>
-    <td>1</td>  <td>1</td> <td>2</td> <td>2</td>
+    <td>9</td> <td>Kreft</td>
+    <td></td>  <td>2</td> <td>2</td> <td>4</td>
   </tr>
   <tr>
     <td>20</td> <td>La Bella</td>
@@ -406,7 +406,7 @@ weight: 8
   </tr>
   <tr>
     <td>23</td> <td>Patzner</td>
-    <td>1</td>  <td>1</td> <td>2</td> <td>2</td>
+    <td>1</td>  <td></td> <td>1</td> <td>2</td>
   </tr>
   <tr>
     <td>1</td> <td>Mainord</td>
