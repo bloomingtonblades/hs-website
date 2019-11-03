@@ -33,7 +33,7 @@ Upcoming Games
 |Sat 11/16|Blades Blue at South Stars Red|8:15pm|At [Perry Park][perry]|
 |Sun 11/17|Blades White at HSE B|1:15pm|At [Fishers Fuel Tank][fuel]|
 |Fri 11/22|Blades Blue at Brebeuf|7:30pm|At [Arctic Zone][arcticzone]|
-|Fri 11/22|Blades White vs Westfild|9:15pm|At [Frank Southern][frank]|
+|Fri 11/22|Blades White vs Westfield|9:15pm|At [Frank Southern][frank]|
 |Sat 11/23|Blades White at Carmel Blue|9:45pm|At [Carmel Ice Rink][carmel]|
 
 Calendars
