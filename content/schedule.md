@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-10-31
+date: 2019-11-03
 weight: 5
 ---
 
@@ -26,15 +26,15 @@ Upcoming Games
 --------------
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Fri 11/1|Blades Blue vs Ft Wayne Vipers|7:00pm|At [SportONE/Parkview Ice House][icefw].<br>Crossover Weekend Game 1|
-|Sat 11/2|Blades Blue vs Lakeshore St. Joe|11:20am|At [SportONE/Parkview Ice House][icefw].<br>Crossover Weekend Game 2|
-|Sat 11/2|Blades Blue vs Adams|7:00pm|At [SportONE/Parkview Ice House][icefw].<br>Crossover Weekend Game 3|
-|Sun 11/3|Blades Blue vs Homestead|9:00am|At [SportONE/Parkview Ice House][icefw].<br>Crossover Weekend Game 4|
 |Sat 11/9|Blades Blue vs Zionsville|3:15pm|At [Frank Southern][frank]|
 |Sat 11/9|Blades White at Columbus|9:00pm|At [Hamilton Center][hamilton]|
 |Sun 11/10|Blades Blue at HSE A|10:15am|At [Pop Weaver Pavillion][popweaver]|
 |Sat 11/16|Blades White at South Stars White|4:15pm|At [Perry Park][perry]|
 |Sat 11/16|Blades Blue at South Stars Red|8:15pm|At [Perry Park][perry]|
+|Sun 11/17|Blades White at HSE B|1:15pm|At [Fishers Fuel Tank][fuel]|
+|Fri 11/22|Blades Blue at Brebeuf|7:30pm|At [Arctic Zone][arcticzone]|
+|Fri 11/22|Blades White vs Westfild|9:15pm|At [Frank Southern][frank]|
+|Sat 11/23|Blades White at Carmel Blue|9:45pm|At [Carmel Ice Rink][carmel]|
 
 Calendars
 ---------
