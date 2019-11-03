@@ -1,6 +1,6 @@
 ---
 title: "Results"
-date: 2019-10-27
+date: 2019-11-03
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -118,6 +118,75 @@ weight: 8
       <td class="widestats">L</td>
       <td class="widestats">41</td>
   </tr>
+
+  <!-- Blades Blue @ Fort Wayne Vipers, 11/01/19 -->
+  <tr class="even">
+  <td rowspan="2">11/1</td>
+      <td>Blades</td> <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td>
+      <td class="widestats">Lowinger</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">21</td>
+  </tr>
+  <tr class="even">
+      <td>Fort Wayne Vipers</td> <td>1</td> <td>0</td> <td>2</td> <td></td> <td>3</td>
+      <td class="widestats">McKinnon</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">25</td>
+  </tr>
+
+  <!-- Blades Blue vs LSJ, 11/02/19 -->
+  <tr class="odd">
+  <td rowspan="2">11/2</td>
+      <td>LSJ</td> <td>0</td> <td>1</td> <td>0</td> <td></td> <td>1</td>
+      <td class="widestats">Wilford</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">15</td>
+  </tr>
+  <tr class="odd">
+      <td>Blades</td> <td>0</td> <td>4</td> <td>1</td> <td></td> <td>5</td>
+      <td class="widestats">Lowinger</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">33</td>
+  </tr>
+
+  <!-- Blades Blue @ Adams, 11/02/19 -->
+  <tr class="even">
+  <td rowspan="2">11/2</td>
+      <td>Blades</td> <td>4</td> <td>1</td> <td>2</td> <td></td> <td>7</td>
+      <td class="widestats">Lowinger</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">15</td>
+  </tr>
+  <tr class="even">
+      <td>Adams</td> <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td>
+      <td class="widestats">Searfoss</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">22</td>
+  </tr>
+
+  <!-- Blades Blue vs Homestead, 11/03/19 -->
+  <tr class="odd">
+  <td rowspan="2">11/3</td>
+      <td>Homestead</td> <td>1</td> <td>1</td> <td>1</td> <td></td> <td>3</td>
+      <td class="widestats">Copeland</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">28</td>
+  </tr>
+  <tr class="odd">
+      <td>Blades</td> <td>2</td> <td>2</td> <td>0</td> <td></td> <td>4</td>
+      <td class="widestats">Lowinger</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">24</td>
+  </tr>
+
 </table>
 
 <a name="bpoints"></a>Points Standings -- Blades Blue
