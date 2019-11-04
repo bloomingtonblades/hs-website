@@ -1,6 +1,6 @@
 ---
 title: "Roster"
-date: 2019-09-10
+date: 2019-11-04
 weight: 4
 ---
 
@@ -194,12 +194,6 @@ Players 2019&ndash;20
   </div>
   <div class="player">
     <figure>
-      <img alt="Andrew Cockerham Photo" src="images/200px-Placeholder_photo.png">
-      <Figcaption>Andrew Cockerham<br>#42</figcaption>
-    </figure>
-  </div>
-  <div class="player">
-    <figure>
       <img alt="Vincent Kreft Photo" src="images/200px-Placeholder_photo.png">
       <Figcaption>Vincent Kreft<br>#9</figcaption>
     </figure>
@@ -214,6 +208,12 @@ Players 2019&ndash;20
     <figure>
       <img alt="Francesca La Bella Photo" src="images/200px-Placeholder_photo.png">
       <Figcaption>Francesca La Bella<br>#32</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
+      <img alt="JJ Mainord Photo" src="images/200px-Placeholder_photo.png">
+      <Figcaption>JJ Mainord<br>#1</figcaption>
     </figure>
   </div>
   <div class="player">
