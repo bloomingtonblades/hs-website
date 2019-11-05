@@ -1,6 +1,6 @@
 ---
 title: "Sponsors"
-date: 2019-04-17
+date: 2019-11-05
 weight: 6
 ---
 
@@ -16,22 +16,19 @@ Premier Sponsors
 ----------------
 - [Oliver Winery and Vineyards][oliver]
 - [The Eye Center of Southern Indiana][tec]
+- [Harrell-Fish Incorporated][hfi]
+- [Riverway Plumbing][rp]
 
 Preferred Sponsors
 ------------------
-- [Create-a-Smile, PC][cas]
-- [Hurlow Wealth Management Group, Inc.][hurlow]
-- [Loren Wood Builders][lwb]
-- [Mallor | Grodner Attorneys][mallor]
 - [Owen County State Bank][ocb]
 - [Root Advisors][root]
 - [Terry's Catering][terrys]
-- [The Village Deli][vd]
-
+- [Hoosier Winsupply Company][hws]
 
 ### Did you know...
 
-- Ice rentals are $200-$250 per hour or more. Seasonal expenses for ice are tens of thousands of dollars.
+- Ice rentals are $200-$350 per hour or more. Seasonal expenses for ice are tens of thousands of dollars.
 - We must pay for officials, league fees, tournament fees, coaching education, uniforms and equipment.
 - We receive NO funding from city, county, or school system sources.
 - Our coaches and board members are all volunteers.
@@ -45,12 +42,10 @@ please contact [Allan Streib <span class="icon fa-envelope-o"></span>][allan].
 
 [allan]: mailto:astreib@bloomingtonblades.com
 [oliver]: https://www.oliverwinery.com/
-[cas]: http://createasmilepc.com/
 [tec]: https://www.theeyecenter.org/
-[hurlow]: http://www.hurlowwealth.com/
-[lwb]: https://lorenwoodbuilders.com/
-[mallor]: http://www.lawmg.com/
 [ocb]: https://www.ocsbank.com/
 [root]: https://root.com/
 [terrys]: http://terryscatering.com/
-[vd]: http://www.villagedeli.biz/
+[hfi]: http://www.harrell-fish.com/
+[rp]: https://riverwayplumbing.com/
+[hws]: https://www.winsupplyinc.com/Location/Bloomington-IN/47404/Plumbing-Supplies
