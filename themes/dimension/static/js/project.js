@@ -2,17 +2,17 @@
 
 var bb_sponsors = [
     {
-        s_img: "cas-2018.jpg",
-        s_name: "Create-A-Smile, PC",
-        s_web: "http://createasmilepc.com/"
+        s_img: "win-2019.jpg",
+        s_name: "Hoosier Winsupply Company",
+        s_web: "https://www.winsupplyinc.com/Location/Bloomington-IN/47404/Plumbing-Supplies"
     },
     {
-        s_img: "mg-2018.jpg",
-        s_name: "Mallor | Grodner Attorneys",
-        s_web: "http://www.lawmg.com/"
+        s_img: "riverway-2019.jpg",
+        s_name: "Riverway Plumbing",
+        s_web: "https://riverwayplumbing.com/"
     },
     {
-        s_img: "ra-2018.jpg",
+        s_img: "root-2019.jpg",
         s_name: "Root Advisors",
         s_web: "https://root.com"
     },
@@ -22,9 +22,9 @@ var bb_sponsors = [
         s_web: "https://www.theeyecenter.org/"
     },
     {
-        s_img: "hw-2018.jpg",
-        s_name: "Hurlow Wealth Management",
-        s_web: "http://www.hurlowwealth.com/"
+        s_img: "hfi-2019.jpg",
+        s_name: "Harrell-Fish Incorporated",
+        s_web: "http://www.harrell-fish.com/"
     },
     {
         s_img: "ocb-2018.jpg",
@@ -41,16 +41,6 @@ var bb_sponsors = [
         s_name: "Terry's Catering",
         s_web: "http://terryscatering.com/"
     },
-    {
-        s_img: "lwb-2018.jpg",
-        s_name: "Loren Wood Builders",
-        s_web: "https://lorenwoodbuilders.com/"
-    },
-    {
-        s_img: "vd-2018.jpg",
-        s_name: "The Village Deli",
-        s_web: "http://www.villagedeli.biz/"
-    }
 ];
 
 function bb_shuffle(a) {
