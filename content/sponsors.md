@@ -1,6 +1,6 @@
 ---
 title: "Sponsors"
-date: 2019-11-05
+date: 2019-11-06
 weight: 6
 ---
 
@@ -25,6 +25,7 @@ Preferred Sponsors
 - [Root Advisors][root]
 - [Terry's Catering][terrys]
 - [Hoosier Winsupply Company][hws]
+- [Vanhorn Tint & Accessories][vh]
 
 ### Did you know...
 
@@ -49,3 +50,4 @@ please contact [Allan Streib <span class="icon fa-envelope-o"></span>][allan].
 [hfi]: http://www.harrell-fish.com/
 [rp]: https://riverwayplumbing.com/
 [hws]: https://www.winsupplyinc.com/Location/Bloomington-IN/47404/Plumbing-Supplies
+[vh]: https://vanhorn1.com/

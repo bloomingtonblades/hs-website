@@ -27,6 +27,11 @@ var bb_sponsors = [
         s_web: "http://www.harrell-fish.com/"
     },
     {
+        s_img: "vh-2019.jpg",
+        s_name: "Vanhorn Tint & Accessories",
+        s_web: "https://vanhorn1.com/"
+    },
+    {
         s_img: "ocb-2018.jpg",
         s_name: "Owen County State Bank",
         s_web: "https://www.ocsbank.com/"
