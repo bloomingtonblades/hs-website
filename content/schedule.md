@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-11-03
+date: 2019-11-07
 weight: 5
 ---
 
@@ -12,14 +12,6 @@ weight: 5
 Contact
 -------
 Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
-
-
-Team Pictures
--------------
-Team pictures will be taken Monday, November 4 at practice. All
-players should bring all their game apparel (both jerseys, both socks,
-pants shell). Jerseys should be clean and not wrinkled. Wash jerseys
-on delicate cycle and hang dry.
 
 
 Upcoming Games
