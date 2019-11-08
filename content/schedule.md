@@ -14,6 +14,27 @@ Contact
 Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 
 
+Practice Schedule Changes
+-------------------------
+
+**November 7, 2019** --- The rink has opened up additional ice time to
+our programs.  In cooperation with Kevin Schmidt and the 14U team,
+this will be our practice schedule going forward:
+
+- **Monday**: 4:00 - 5:15 (no change)
+- **Tuesday**: 4:30 - 5:45 (may move this to 4:00 start if budget will support it)
+- **Wednesday**: off
+- **Thursday**: 6:00-7:00am OR 4:00-5:15pm alternating weeks. Next week (11/14) will be a 6:00am week.
+
+This Saturday (11/9) we are trying a morning skate at 9:15am. This
+will be an optional, low intensity practice. Depending on attendance
+and budget we may do these more or less often.
+
+We will have our calendar updated soon. As always, if you have
+conflicts with school or other activities please communicate with
+Mooch.
+
+
 Upcoming Games
 --------------
 |Date|Game|Time|Notes|
