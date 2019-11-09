@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-11-07
+date: 2019-11-08
 weight: 5
 ---
 
@@ -40,7 +40,7 @@ Upcoming Games
 |Date|Game|Time|Notes|
 |----|----|----|-----|
 |Sat 11/9|Blades Blue vs Zionsville|3:15pm|At [Frank Southern][frank]|
-|Sat 11/9|Blades White at Columbus|9:00pm|At [Hamilton Center][hamilton]|
+|Sat 11/9|Blades White at Columbus|9:30pm|At [Hamilton Center][hamilton]|
 |Sun 11/10|Blades Blue at HSE A|10:15am|At [Pop Weaver Pavillion][popweaver]|
 |Sat 11/16|Blades White at South Stars White|4:15pm|At [Perry Park][perry]|
 |Sat 11/16|Blades Blue at South Stars Red|8:15pm|At [Perry Park][perry]|
