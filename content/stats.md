@@ -187,6 +187,23 @@ weight: 8
       <td class="widestats">24</td>
   </tr>
 
+  <!-- Blades Blue vs Zionsville, 11/09/19 -->
+  <tr class="even">
+  <td rowspan="2">11/3</td>
+      <td>Zionsville</td> <td>2</td> <td>0</td> <td>0</td> <td></td> <td>2</td>
+      <td class="widestats">O'Brien</td>
+      <td class="widestats">51:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">29</td>
+  </tr>
+  <tr class="even">
+      <td>Blades</td> <td>0</td> <td>0</td> <td>1</td> <td></td> <td>1</td>
+      <td class="widestats">Lowinger</td>
+      <td class="widestats">49:30</td>
+      <td class="widestats">L</td>
+      <td class="widestats">25</td>
+  </tr>
+
 </table>
 
 <a name="bpoints"></a>Points Standings -- Blades Blue
@@ -199,16 +216,16 @@ weight: 8
     <tr>
   </thead>
   <tr>
+    <td>27</td> <td>Prather</td>
+    <td>6</td> <td>3</td> <td>9</td> <td>10</td>
+  </tr>
+  <tr>
     <td>14</td> <td>Stright</td>
     <td>3</td>  <td>5</td> <td>8</td> <td></td>
   </tr>
   <tr>
-    <td>27</td> <td>Prather</td>
-    <td>5</td> <td>3</td> <td>8</td> <td>10</td>
-  </tr>
-  <tr>
     <td>99</td> <td>Cory</td>
-    <td>4</td> <td>4</td>  <td>8</td> <td>8</td>
+    <td>4</td> <td>4</td>  <td>8</td> <td>10</td>
   </tr>
   <tr>
     <td>28</td> <td>Timbrook</td>
@@ -224,7 +241,7 @@ weight: 8
   </tr>
   <tr>
     <td>88</td> <td>Franklin</td>
-    <td>1</td> <td>4</td> <td>5</td> <td>39</td>
+    <td>1</td> <td>5</td> <td>6</td> <td>41</td>
   </tr>
   <tr>
     <td>4</td> <td>Streib</td>
@@ -280,7 +297,7 @@ weight: 8
   </tr>
   <tr>
     <td>43</td> <td>Cockerham</td>
-    <td></td> <td></td> <td></td> <td>2</td>
+    <td></td> <td></td> <td></td> <td>4</td>
   </tr>
 </table>
 
@@ -299,9 +316,9 @@ weight: 8
   </thead>
   <tr>
     <td>30</td> <td>Lowinger</td>
-    <td>207</td> <td>198</td> <td>0.957</td>
+    <td>234</td> <td>223</td> <td>0.953</td>
     <td class="widestats">5</td>
-    <td class="widestats">2</td>
+    <td class="widestats">3</td>
     <td class="widestats">0</td>
     <td class="widestats"></td>
   </tr>
