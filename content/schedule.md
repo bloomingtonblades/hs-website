@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-11-10
+date: 2019-11-11
 weight: 5
 ---
 
@@ -13,6 +13,11 @@ Contact
 -------
 Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 
+Weather Closings
+----------------
+If school is closed due to weather, 6:00am practices are
+cancelled. All other weather-related cancellations will be as
+announced.
 
 Practice Schedule Changes
 -------------------------
