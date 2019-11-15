@@ -14,10 +14,9 @@ weight: 4
 Coaches 2019&ndash;20
 -------------------
 
-- Chris Hamric (Head Coach - Blue Team)
-- Dyvan Daley (Head Coach - White team)
-- Nick Lightfoot
-- Johan Lowinger
+<img style="width: 100%;" alt="Blades Coaching Staff 2019-20" src="coaches.jpg">
+*Left to right &mdash;* Chris Hamric, Head Coach - Blue Team; Nick Lightfoot; Dyvan Daley, Head Coach - White team
+<br>*Not pictured &mdash;* Johan Lowinger, Kevin Schmidt
 
 Players 2019&ndash;20
 ---------------------
