@@ -1,6 +1,6 @@
 ---
 title: "Results"
-date: 2019-11-10
+date: 2019-11-17
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -475,6 +475,22 @@ weight: 8
       <td class="widestats">14</td>
   </tr>
 
+  <!-- Blades White at Evansville White, 10/26/19 -->
+  <tr class="odd">
+  <td rowspan="2">10/26</td>
+      <td>Blades</td> <td>2</td> <td>0</td> <td>1</td> <td></td> <td>3</td>
+      <td class="widestats">Hill</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">23</td>
+  </tr>
+  <tr class="odd">
+      <td>South Stars White</td> <td>1</td> <td>1</td> <td>2</td> <td></td> <td>4</td>
+      <td class="widestats">Kushner</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">14</td>
+  </tr>
 </table>
 
 
@@ -489,31 +505,31 @@ weight: 8
   </thead>
   <tr>
     <td>18</td> <td>Schmidt</td>
-    <td>6</td>  <td>4</td> <td>10</td> <td>4</td>
+    <td>7</td>  <td>4</td> <td>11</td> <td>4</td>
   </tr>
   <tr>
     <td>89</td> <td>Lukes</td>
-    <td>3</td>  <td>4</td> <td>7</td> <td>12</td>
+    <td>4</td>  <td>5</td> <td>9</td> <td>14</td>
   </tr>
   <tr>
     <td>19</td> <td>Cochran</td>
-    <td>2</td>  <td>4</td> <td>6</td> <td>2</td>
-  </tr>
-  <tr>
-    <td>6</td> <td>Pate</td>
-    <td>3</td>  <td>1</td> <td>4</td> <td>2</td>
+    <td>2</td>  <td>4</td> <td>6</td> <td>14</td>
   </tr>
   <tr>
     <td>48</td> <td>Knipstein</td>
-    <td>3</td>  <td>1</td> <td>4</td> <td>4</td>
+    <td>4</td>  <td>2</td> <td>6</td> <td>4</td>
+  </tr>
+  <tr>
+    <td>6</td> <td>Pate</td>
+    <td>3</td>  <td>1</td> <td>4</td> <td>6</td>
+  </tr>
+  <tr>
+    <td>93</td> <td>Davis</td>
+    <td>1</td>  <td>3</td> <td>4</td> <td>4</td>
   </tr>
   <tr>
     <td>7</td> <td>Carmichael</td>
     <td>1</td>  <td>2</td> <td>3</td> <td></td>
-  </tr>
-  <tr>
-    <td>93</td> <td>Davis</td>
-    <td>1</td>  <td>2</td> <td>3</td> <td>2</td>
   </tr>
   <tr>
     <td>9</td> <td>Kreft</td>
@@ -568,9 +584,9 @@ weight: 8
   </thead>
   <tr>
     <td>35</td> <td>Hill</td>
-    <td>90</td> <td>82</td> <td>0.911</td>
+    <td>117</td> <td>105</td> <td>0.897</td>
     <td class="widestats">2</td>
-    <td class="widestats">1</td>
+    <td class="widestats">2</td>
     <td class="widestats">0</td>
     <td class="widestats"></td>
   </tr>
