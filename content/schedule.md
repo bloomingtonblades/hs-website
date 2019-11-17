@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-11-11
+date: 2019-11-17
 weight: 5
 ---
 
@@ -22,35 +22,28 @@ announced.
 Practice Schedule Changes
 -------------------------
 
-**November 7, 2019** --- The rink has opened up additional ice time to
-our programs.  In cooperation with Kevin Schmidt and the 14U team,
-this will be our practice schedule going forward:
+**November 7, 2019** --- This will be our practice schedule going forward:
 
 - **Monday**: 4:00 - 5:15 (no change)
 - **Tuesday**: 4:30 - 5:45 (may move this to 4:00 start if budget will support it)
 - **Wednesday**: off
-- **Thursday**: 6:00-7:00am OR 4:00-5:15pm alternating weeks. Next week (11/14) will be a 6:00am week.
-
-This Saturday (11/9) we are trying a morning skate at 9:15am. This
-will be an optional, low intensity practice. Depending on attendance
-and budget we may do these more or less often.
-
-We will have our calendar updated soon. As always, if you have
-conflicts with school or other activities please communicate with
-Mooch.
+- **Thursday**: 6:00-7:00am OR 4:00-5:15pm alternating weeks.
 
 
 Upcoming Games
 --------------
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Sun 11/10|Blades Blue at HSE A|10:15am|At [Pop Weaver Pavillion][popweaver]|
-|Sat 11/16|Blades White at South Stars White|4:15pm|At [Perry Park][perry]|
-|Sat 11/16|Blades Blue at South Stars Red|8:15pm|At [Perry Park][perry]|
-|Sun 11/17|Blades White at HSE B|1:15pm|At [Fishers Fuel Tank][fuel]|
 |Fri 11/22|Blades Blue at Brebeuf|7:30pm|At [Arctic Zone][arcticzone]|
 |Fri 11/22|Blades White vs Westfield|9:15pm|At [Frank Southern][frank]|
-|Sat 11/23|Blades White at Carmel Blue|9:45pm|At [Carmel Ice Rink][carmel]|
+|Sat 11/23|Blades White at Carmel Blue|10:00pm|At [Arctic Zone][arcticzone]|
+|Fri 12/6|Blades White at Westfield|8:00pm|At [Arctic Zone][arcticzone]|
+|Sat 12/7|Blades Blue at Westfield|6:00pm|At [Arctic Zone][arcticzone]|
+|Sun 12/8|Blades Blue at Zionsville|10:45am|At [Carmel Ice Rink][carmel]|
+|Fri 12/13|Blades Blue vs Penn|9:30pm|At [Ice Box][icebox]|
+|Sat 12/14|Blades Blue vs Carroll|1:30pm|At [Ice Box][icebox]|
+|Sat 12/14|Blades Blue vs Lake Central Blue|8:00pm|At [Garden Ice Arena][garden]|
+|Sun 12/15|Blades Blue vs St. Joe|1:00pm|At [Compton Family Ice Center][compton]|
 
 Calendars
 ---------
