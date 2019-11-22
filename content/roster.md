@@ -1,6 +1,6 @@
 ---
 title: "Roster"
-date: 2019-11-14
+date: 2019-11-22
 weight: 4
 ---
 
@@ -177,6 +177,12 @@ Players 2019&ndash;20
   </div>
   <div class="player">
     <figure>
+      <img alt="Payton Reynolds Photo" src="1920_reynolds.jpg">
+      <Figcaption>Payton Reynolds<br>#15</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
       <img alt="Cruz Timbrook Photo" src="1920_timbrook.jpg">
       <figcaption>Cruz Timbrook<br>#28</figcaption>
     </figure>
@@ -225,12 +231,6 @@ Players 2019&ndash;20
     <figure>
       <img alt="Gavin Patzner Photo" src="1920_gpatzner.jpg">
       <Figcaption>Gavin Patzner<br>#23</figcaption>
-    </figure>
-  </div>
-  <div class="player">
-    <figure>
-      <img alt="Payton Reynolds Photo" src="1920_reynolds.jpg">
-      <Figcaption>Payton Reynolds<br>#15</figcaption>
     </figure>
   </div>
   <div class="player">
