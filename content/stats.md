@@ -525,6 +525,23 @@ weight: 8
       <td class="widestats">W</td>
       <td class="widestats">14</td>
   </tr>
+
+  <!-- Blades White vs Wesfield, 11/22/19 -->
+  <tr class="even">
+  <td rowspan="2">11/22</td>
+      <td>Westfield</td> <td>0</td> <td>3</td> <td>4</td> <td></td> <td>7</td>
+      <td class="widestats">Polster</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">5</td>
+  </tr>
+  <tr class="even">
+      <td>Blades</td> <td>0</td> <td>1</td> <td>0</td> <td></td> <td>1</td>
+      <td class="widestats">Berkley</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">43</td>
+  </tr>
 </table>
 
 
@@ -539,7 +556,7 @@ weight: 8
   </thead>
   <tr>
     <td>18</td> <td>Schmidt</td>
-    <td>7</td>  <td>4</td> <td>11</td> <td>4</td>
+    <td>8</td>  <td>4</td> <td>12</td> <td>4</td>
   </tr>
   <tr>
     <td>89</td> <td>Lukes</td>
@@ -567,7 +584,7 @@ weight: 8
   </tr>
   <tr>
     <td>9</td> <td>Kreft</td>
-    <td></td>  <td>2</td> <td>2</td> <td>4</td>
+    <td></td>  <td>2</td> <td>2</td> <td>6</td>
   </tr>
   <tr>
     <td>23</td> <td>Patzner</td>
@@ -627,9 +644,9 @@ weight: 8
 
   <tr>
     <td>84</td> <td>Berkley</td>
-    <td>72</td> <td>61</td> <td>0.847</td>
+    <td>122</td> <td>104</td> <td>0.852</td>
     <td class="widestats">2</td>
-    <td class="widestats">1</td>
+    <td class="widestats">2</td>
     <td class="widestats">0</td>
     <td class="widestats"></td>
   </tr>
