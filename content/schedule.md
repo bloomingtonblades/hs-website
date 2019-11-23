@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-11-17
+date: 2019-11-22
 weight: 5
 ---
 
@@ -19,23 +19,15 @@ If school is closed due to weather, 6:00am practices are
 cancelled. All other weather-related cancellations will be as
 announced.
 
-Practice Schedule Changes
--------------------------
-
-**November 7, 2019** --- This will be our practice schedule going forward:
-
-- **Monday**: 4:00 - 5:15 (no change)
-- **Tuesday**: 4:30 - 5:45 (may move this to 4:00 start if budget will support it)
-- **Wednesday**: off
-- **Thursday**: 6:00-7:00am OR 4:00-5:15pm alternating weeks.
+Holiday Practice Schedules
+--------------------------
+Check our [calendar][cal]; practices as announced.
 
 
 Upcoming Games
 --------------
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Fri 11/22|Blades Blue at Brebeuf|7:30pm|At [Arctic Zone][arcticzone]|
-|Fri 11/22|Blades White vs Westfield|9:15pm|At [Frank Southern][frank]|
 |Sat 11/23|Blades White at Carmel Blue|10:00pm|At [Arctic Zone][arcticzone]|
 |Fri 12/6|Blades White at Westfield|8:00pm|At [Arctic Zone][arcticzone]|
 |Sat 12/7|Blades Blue at Westfield|6:00pm|At [Arctic Zone][arcticzone]|
