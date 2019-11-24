@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-11-23
+date: 2019-11-24
 weight: 5
 ---
 
@@ -21,16 +21,23 @@ announced.
 
 Holiday Practice Schedules
 --------------------------
-Check our [calendar][cal]; practices as announced.
+Thanksgiving Break
+--- Monday, 11/25: 4:15-5:30, off-ice follows. Happy Thanksgiving!
+
+Winter break
+--- TBA. Check our [calendar][cal] for updates.
 
 
 Upcoming Games
 --------------
+Note: due to ongoing repairs at the Carmel rink, times and locations
+of games in Carmel and Westfield are subject to change.
+
 |Date|Game|Time|Notes|
 |----|----|----|-----|
 |Fri 12/6|Blades White at Westfield|8:00pm|At [Arctic Zone][arcticzone]|
 |Sat 12/7|Blades Blue at Westfield|6:00pm|At [Arctic Zone][arcticzone]|
-|Sun 12/8|Blades Blue at Zionsville|10:45am|At [Carmel Ice Rink][carmel]|
+|Sun 12/8|Blades Blue at Zionsville|3:15pm|At [Carmel Ice Rink][carmel]|
 |Fri 12/13|Blades Blue vs Penn|9:30pm|At [Ice Box][icebox]|
 |Sat 12/14|Blades Blue vs Carroll|1:30pm|At [Ice Box][icebox]|
 |Sat 12/14|Blades Blue vs Lake Central Blue|8:00pm|At [Garden Ice Arena][garden]|
