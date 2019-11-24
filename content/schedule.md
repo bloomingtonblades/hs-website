@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-11-22
+date: 2019-11-23
 weight: 5
 ---
 
@@ -28,7 +28,6 @@ Upcoming Games
 --------------
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Sat 11/23|Blades White at Carmel Blue|10:00pm|At [Arctic Zone][arcticzone]|
 |Fri 12/6|Blades White at Westfield|8:00pm|At [Arctic Zone][arcticzone]|
 |Sat 12/7|Blades Blue at Westfield|6:00pm|At [Arctic Zone][arcticzone]|
 |Sun 12/8|Blades Blue at Zionsville|10:45am|At [Carmel Ice Rink][carmel]|
