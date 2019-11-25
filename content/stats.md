@@ -550,7 +550,7 @@ weight: 8
       <td class="widestats">Hill</td>
       <td class="widestats">45:00</td>
       <td class="widestats">L</td>
-      <td class="widestats">N/R</td>
+      <td class="widestats">31</td>
   </tr>
   <tr class="odd">
       <td>Carmel Blue</td> <td>1</td> <td>1</td> <td>2</td> <td></td> <td>4</td>
@@ -652,7 +652,7 @@ weight: 8
   </thead>
   <tr>
     <td>35</td> <td>Hill</td>
-    <td>117</td> <td>105</td> <td>0.897</td>
+    <td>152</td> <td>136</td> <td>0.895</td>
     <td class="widestats">2</td>
     <td class="widestats">3</td>
     <td class="widestats">0</td>
