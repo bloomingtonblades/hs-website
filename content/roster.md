@@ -1,6 +1,6 @@
 ---
 title: "Roster"
-date: 2019-11-22
+date: 2019-11-27
 weight: 4
 ---
 
@@ -193,7 +193,7 @@ Players 2019&ndash;20
 <div class="classdiv">
   <div class="player">
     <figure>
-      <img alt="Zane Carmichael Photo" src="images/200px-Placeholder_photo.png">
+      <img alt="Zane Carmichael Photo" src="1920_carmichael.jpg">
       <Figcaption>Zane Carmichael<br>#7</figcaption>
     </figure>
   </div>
