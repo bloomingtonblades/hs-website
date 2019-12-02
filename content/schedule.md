@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-11-24
+date: 2019-12-02
 weight: 5
 ---
 
@@ -21,8 +21,6 @@ announced.
 
 Holiday Practice Schedules
 --------------------------
-Thanksgiving Break
---- Monday, 11/25: 4:15-5:30, off-ice follows. Happy Thanksgiving!
 
 Winter break
 --- TBA. Check our [calendar][cal] for updates.
