@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-12-02
+date: 2019-12-06
 weight: 5
 ---
 
@@ -19,11 +19,13 @@ If school is closed due to weather, 6:00am practices are
 cancelled. All other weather-related cancellations will be as
 announced.
 
-Holiday Practice Schedules
---------------------------
+Holiday Schedule
+-----------------
 
-Winter break
---- TBA. Check our [calendar][cal] for updates.
+- Stick & Puck: Monday 12/23 and 12/30, 10:30am.
+- Blades Alumni Game: Friday 12/27, 6:15pm.
+- Practice: Monday 12/30, 6:15pm.
+- Other events as announced. Check our [calendar][cal] for updates.
 
 
 Upcoming Games
@@ -41,6 +43,7 @@ of games in Carmel and Westfield are subject to change.
 |Sat 12/14|Blades Blue vs Lake Central Blue|8:00pm|At [Garden Ice Arena][garden]|
 |Sun 12/15|Blades Blue vs St. Joe|1:00pm|At [Compton Family Ice Center][compton]|
 |Sat 12/21|Blades Blue at CIK|12:00pm|At [Fishers Fuel Tank][fuel]|
+|Fri 12/27|Blades Alumni Game|6:15pm|At [Frank Southern][frank]|
 
 Calendars
 ---------
