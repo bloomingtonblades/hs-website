@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-12-06
+date: 2019-12-07
 weight: 5
 ---
 
@@ -35,7 +35,6 @@ of games in Carmel and Westfield are subject to change.
 
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Fri 12/6|Blades White at Westfield|8:00pm|At [Arctic Zone][arcticzone]|
 |Sat 12/7|Blades Blue at Westfield|6:00pm|At [Arctic Zone][arcticzone]|
 |Sun 12/8|Blades Blue at Zionsville|3:15pm|At [Arctic Zone][arcticzone]|
 |Fri 12/13|Blades Blue vs Penn|9:30pm|At [Ice Box][icebox]|
