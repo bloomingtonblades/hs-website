@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-12-08
+date: 2019-12-16
 weight: 5
 ---
 
@@ -35,12 +35,15 @@ of games in Carmel and Westfield are subject to change.
 
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Fri 12/13|Blades Blue vs Penn|9:30pm|At [Ice Box][icebox]|
-|Sat 12/14|Blades Blue vs Carroll|1:30pm|At [Ice Box][icebox]|
-|Sat 12/14|Blades Blue vs Lake Central Blue|8:00pm|At [Garden Ice Arena][garden]|
-|Sun 12/15|Blades Blue vs St. Joe|1:00pm|At [Compton Family Ice Center][compton]|
 |Sat 12/21|Blades Blue at CIK|12:00pm|At [Fishers Fuel Tank][fuel]|
 |Fri 12/27|Blades Alumni Game|6:15pm|At [Frank Southern][frank]|
+|Fri 1/3|Blades White vs HSE B|8:00pm|At [Frank Southern][frank]|
+|Fri 1/10|Blades Blue, Hoosier Crossover Game 1 |TBD|TBD Indy area|
+|Sat 1/11|Blades Blue, Hoosier Crossover Game 2 |TBD|TBD Indy area|
+|Sat 1/11|Blades Blue, Hoosier Crossover Game 3 |TBD|TBD Indy area|
+|Sun 1/12|Blades Blue, Hoosier Crossover Game 4 |TBD|TBD Indy area|
+|Sun 1/19|Blades Blue vs HSE A|11:30am|At [Frank Southern][frank]|
+|Fri 1/24|Blades White vs Carmel Blue|9:15pm|At [Frank Southern][frank]|
 
 Calendars
 ---------
