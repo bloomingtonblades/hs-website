@@ -323,6 +323,22 @@ weight: 8
       <td class="widestats">35</td>
   </tr>
 
+  <!-- Blades Blue @ Lake Central Blue 12/14 -->
+  <tr class="even">
+  <td rowspan="2">12/14</td>
+      <td>Blades</td> <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td>
+      <td class="widestats">Lowinger</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">31</td>
+  </tr>
+  <tr class="even">
+      <td>Lake Central</td> <td>0</td> <td>2</td> <td>1</td> <td></td> <td>3</td>
+      <td class="widestats">Didonato</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">30</td>
+  </tr>
 </table>
 
 <a name="bpoints"></a>Points Standings -- Blades Blue
@@ -336,15 +352,15 @@ weight: 8
   </thead>
   <tr>
     <td>27</td> <td>Prather</td>
-    <td>14</td> <td>7</td> <td>21</td> <td>31</td>
+    <td>14</td> <td>7</td> <td>21</td> <td>33</td>
   </tr>
   <tr>
     <td>99</td> <td>Cory</td>
-    <td>8</td> <td>6</td>  <td>14</td> <td>14</td>
+    <td>8</td> <td>6</td>  <td>14</td> <td>16</td>
   </tr>
   <tr>
     <td>28</td> <td>Timbrook</td>
-    <td>7</td> <td>6</td> <td>13</td> <td>22</td>
+    <td>7</td> <td>6</td> <td>13</td> <td>24</td>
   </tr>
   <tr>
     <td>00</td> <td>Lauer</td>
@@ -356,7 +372,7 @@ weight: 8
   </tr>
   <tr>
     <td>88</td> <td>Franklin</td>
-    <td>2</td> <td>10</td> <td>12</td> <td>63</td>
+    <td>2</td> <td>10</td> <td>12</td> <td>67</td>
   </tr>
   <tr>
     <td>4</td> <td>Streib</td>
@@ -372,11 +388,11 @@ weight: 8
   </tr>
   <tr>
     <td>16</td> <td>Hunt</td>
-    <td>6</td> <td>3</td> <td>9</td> <td>32</td>
+    <td>6</td> <td>3</td> <td>9</td> <td>44</td>
   </tr>
   <tr>
     <td>91</td> <td>Griffin</td>
-    <td>3</td> <td>6</td> <td>9</td> <td>64</td>
+    <td>3</td> <td>6</td> <td>9</td> <td>66</td>
   </tr>
   <tr>
     <td>44</td> <td>Patzner</td>
@@ -435,9 +451,9 @@ weight: 8
   </thead>
   <tr>
     <td>30</td> <td>Lowinger</td>
-    <td>303</td> <td>287</td> <td>0.947</td>
+    <td>337</td> <td>318</td> <td>0.944</td>
     <td class="widestats">9</td>
-    <td class="widestats">3</td>
+    <td class="widestats">4</td>
     <td class="widestats">0</td>
     <td class="widestats"></td>
   </tr>
