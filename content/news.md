@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2019-06-24
+date: 2019-12-17
 weight: 3
 ---
 
@@ -8,6 +8,32 @@ weight: 3
   <a id="news-a1" href="#"><img id="news-s1" class="image sponsor"></a>
   <a id="news-a2" href="#"><img id="news-s2" class="image sponsor"></a>
 </div>
+
+2020 Team Indiana Tryouts
+-------------------------
+
+Here are the following dates and times for Team Indiana 2020-2021 Boys team tryouts:
+
+**TI Boys 2020-2021**<br>
+18U<br>
+April 25, 2020 Fort Wayne Sport One<br>
+Between 9 a.m. and 6 p.m.
+
+16U<br>
+May 16, 2020 Fort Wayne Sport One<br>
+Between 9 a.m. and 6 p.m.
+
+Exact times and group assignments will come in the near future.
+
+For more information contact Jack Manard at [rihcoach@aol.com](mailto:rihcoach@aol.com)
+
+**TI U19 Girls 2020**<br>
+
+January 12, 2020 at Henderson Ice Arena (Culver Academy). Open to
+Sophomores, Juniors, and Seniors who attend an Indiana High
+School. Please see [this linked
+document](https://cdn3.sportngin.com/attachments/document/80c1-2052428/TI_Tryout_Flyer.pdf)
+for more information.
 
 
 New SafeSport requirements
