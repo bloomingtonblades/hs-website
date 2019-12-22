@@ -360,7 +360,7 @@ weight: 8
   <!-- Blades Blue @ CIK 12/21 -->
   <tr class="even">
   <td rowspan="2">12/21</td>
-      <td>Blades</td> <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td>
+      <td>Blades</td> <td>0</td> <td>0</td> <td>1</td> <td></td> <td>1</td>
       <td class="widestats">Knox<br>Lowinger</td>
       <td class="widestats">8:47<br>42:13</td>
       <td class="widestats">L<br></td>
