@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-12-16
+date: 2019-12-21
 weight: 5
 ---
 
@@ -35,7 +35,7 @@ of games in Carmel and Westfield are subject to change.
 
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Sat 12/21|Blades Blue at CIK|12:00pm|At [Fishers Fuel Tank][fuel]|
+|Sun 12/22|Hoosier All-Star Game|12:00pm|At [Fishers Fuel Tank][fuel]|
 |Fri 12/27|Blades Alumni Game|6:15pm|At [Frank Southern][frank]|
 |Fri 1/3|Blades White vs HSE B|8:00pm|At [Frank Southern][frank]|
 |Fri 1/10|Blades Blue, Hoosier Crossover Game 1 |TBD|TBD Indy area|
