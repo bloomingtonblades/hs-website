@@ -41,7 +41,7 @@ of games in Carmel and Westfield are subject to change.
 |Fri 1/10|Blades White at HSE B|TBD|TBD Indy area|
 |Sat 1/11|Blades Blue, Hoosier Crossover Game 1 |TBD|TBD Indy area|
 |Sat 1/11|Blades Blue, Hoosier Crossover Game 2 |TBD|TBD Indy area|
-|Sun 1/11|Blades Blue, Hoosier Crossover Game 3 |TBD|TBD Indy area|
+|Sun 1/12|Blades Blue, Hoosier Crossover Game 3 |TBD|TBD Indy area|
 |Sun 1/12|Blades Blue, Hoosier Crossover Game 4 |TBD|TBD Indy area|
 |Sun 1/19|Blades Blue vs HSE A|11:30am|At [Frank Southern][frank]|
 |Fri 1/24|Blades White vs Carmel Blue|9:15pm|At [Frank Southern][frank]|
