@@ -36,7 +36,7 @@ of games in Carmel and Westfield are subject to change.
 |----|----|----|-----|
 |Fri 1/3|Blades White vs HSE B|8:00pm|At [Frank Southern][frank]|
 |Sat 1<span>/</span>4|Blades White at Penn JV|11:30am|At [Fishers Fuel Tank][fuel]|
-|Fri 1/10|Blades White at HSE B|6:00pm|TBD Indy area|
+|Fri 1/10|Blades White at HSE B|6:00pm|At [Carmel Ice Rink][carmel]|
 |Sat 1/11|Blades Blue, Hoosier Crossover Game 1 |TBD|TBD Indy area|
 |Sat 1/11|Blades Blue, Hoosier Crossover Game 2 |TBD|TBD Indy area|
 |Sun 1/12|Blades Blue, Hoosier Crossover Game 3 |TBD|TBD Indy area|
