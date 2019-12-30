@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-12-23
+date: 2019-12-30
 weight: 5
 ---
 
@@ -23,7 +23,6 @@ Holiday Schedule
 -----------------
 
 - Stick & Puck: Monday 12/23 and 12/30, 10:30am.
-- Blades Alumni Game: Friday 12/27, 6:15pm.
 - Practice: Monday 12/30, 6:15pm.
 - Other events as announced. Check our [calendar][cal] for updates.
 
@@ -35,10 +34,9 @@ of games in Carmel and Westfield are subject to change.
 
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Fri 12/27|Blades Alumni Game|6:15pm|At [Frank Southern][frank]|
 |Fri 1/3|Blades White vs HSE B|8:00pm|At [Frank Southern][frank]|
-|Fri 1<span>/</span>4|Blades White at Penn JV|11:30am|At [Fishers Fuel Tank][fuel]|
-|Fri 1/10|Blades White at HSE B|TBD|TBD Indy area|
+|Sat 1<span>/</span>4|Blades White at Penn JV|11:30am|At [Fishers Fuel Tank][fuel]|
+|Fri 1/10|Blades White at HSE B|6:00pm|TBD Indy area|
 |Sat 1/11|Blades Blue, Hoosier Crossover Game 1 |TBD|TBD Indy area|
 |Sat 1/11|Blades Blue, Hoosier Crossover Game 2 |TBD|TBD Indy area|
 |Sun 1/12|Blades Blue, Hoosier Crossover Game 3 |TBD|TBD Indy area|
