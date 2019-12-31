@@ -123,12 +123,6 @@ Players 2019&ndash;20
       <figcaption>Eli Prather<br>#27</figcaption>
     </figure>
   </div>
-  <div class="player">
-    <figure>
-      <img alt="Tanner Price-Presslaff Photo" src="1920_pricepresslaff.jpg">
-      <figcaption>Tanner Price-Presslaff<br>#66</figcaption>
-    </figure>
-  </div>
 </div>
 
 ### Sophomores
@@ -213,12 +207,6 @@ Players 2019&ndash;20
     <figure>
       <img alt="Francesca La Bella Photo" src="1920_flabella.jpg">
       <Figcaption>Francesca La Bella<br>#32</figcaption>
-    </figure>
-  </div>
-  <div class="player">
-    <figure>
-      <img alt="JJ Mainord Photo" src="1920_mainord.jpg">
-      <Figcaption>JJ Mainord<br>#1</figcaption>
     </figure>
   </div>
   <div class="player">
