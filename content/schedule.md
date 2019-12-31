@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2019-12-30
+date: 2019-12-31
 weight: 5
 ---
 
@@ -19,14 +19,6 @@ If school is closed due to weather, 6:00am practices are
 cancelled. All other weather-related cancellations will be as
 announced.
 
-Holiday Schedule
------------------
-
-- Stick & Puck: Monday 12/23 and 12/30, 10:30am.
-- Practice: Monday 12/30, 6:15pm.
-- Other events as announced. Check our [calendar][cal] for updates.
-
-
 Upcoming Games
 --------------
 Note: due to ongoing repairs at the Carmel rink, times and locations
@@ -37,10 +29,10 @@ of games in Carmel and Westfield are subject to change.
 |Fri 1/3|Blades White vs HSE B|8:00pm|At [Frank Southern][frank]|
 |Sat 1<span>/</span>4|Blades White at Penn JV|11:30am|At [Fishers Fuel Tank][fuel]|
 |Fri 1/10|Blades White at HSE B|6:00pm|At [Carmel Ice Rink][carmel]|
-|Sat 1/11|Blades Blue, Hoosier Crossover Game 1 |TBD|TBD Indy area|
-|Sat 1/11|Blades Blue, Hoosier Crossover Game 2 |TBD|TBD Indy area|
-|Sun 1/12|Blades Blue, Hoosier Crossover Game 3 |TBD|TBD Indy area|
-|Sun 1/12|Blades Blue, Hoosier Crossover Game 4 |TBD|TBD Indy area|
+|Sat 1/11|Blades Blue vs Southwest Michigan|1:00pm|At [Arctic Zone][arcticzone]|
+|Sat 1/11|Blades Blue vs Crown Point Red|5:45pm|At [Fishers Fuel Tank][fuel]|
+|Sun 1/12|Blades Blue vs Lakeshore St. Joe|7:30am|At [Pop Weaver Youth Pavillion][popweaver]|
+|Sun 1/12|Blades Blue vs Penn|12:00pm|At [Pop Weaver Youth Pavillion][popweaver]|
 |Sun 1/19|Blades Blue vs HSE A|11:30am|At [Frank Southern][frank]|
 |Fri 1/24|Blades White vs Carmel Blue|9:15pm|At [Frank Southern][frank]|
 
