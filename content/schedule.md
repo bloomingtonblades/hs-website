@@ -26,15 +26,18 @@ of games in Carmel and Westfield are subject to change.
 
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Fri 1/3|Blades White vs HSE B|7:00pm|At [Frank Southern][frank]|
 |Sat 1<span>/</span>4|Blades White at Penn JV|11:30am|At [Fishers Fuel Tank][fuel]|
 |Fri 1/10|Blades White at HSE B|6:00pm|At [Carmel Ice Rink][carmel]|
-|Sat 1/11|Blades Blue vs Southwest Michigan|1:00pm|At [Arctic Zone][arcticzone]|
-|Sat 1/11|Blades Blue vs Crown Point Red|5:45pm|At [Fishers Fuel Tank][fuel]|
-|Sun 1/12|Blades Blue vs Lakeshore St. Joe|7:30am|At [Pop Weaver Youth Pavillion][popweaver]|
-|Sun 1/12|Blades Blue vs Penn|12:00pm|At [Pop Weaver Youth Pavillion][popweaver]|
+|Sat 1/11|Blades Blue vs Southwest Michigan|1:00pm|At [Arctic Zone][arcticzone]<br>Hoosier Crossover Game 1|
+|Sat 1/11|Blades Blue vs Crown Point Red|5:45pm|At [Fishers Fuel Tank][fuel]<br>Hoosier Crossover Game 2|
+|Sun 1/12|Blades Blue vs Lakeshore St. Joe|7:30am|At [Pop Weaver Youth Pavillion][popweaver]<br>Hoosier Crossover Game 3|
+|Sun 1/12|Blades Blue vs Penn|12:00pm|At [Pop Weaver Youth Pavillion][popweaver]<br>Hoosier Crossover Game 4|
 |Sun 1/19|Blades Blue vs HSE A|11:30am|At [Frank Southern][frank]|
 |Fri 1/24|Blades White vs Carmel Blue|9:15pm|At [Frank Southern][frank]|
+|Sat 1/25|Blades Blue at Evansville|5:15pm|At [Swonder Ice Arena][swonder]|
+|Sun 1/26|Blades Blue vs CIK|11:30am|At [Frank Southern][frank]|
+|Fri 1/31|Blades Blue at Carmel Gold|9:45pm|At [Carmel Ice Rink][carmel]|
+
 
 Calendars
 ---------
