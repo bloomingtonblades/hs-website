@@ -1,6 +1,6 @@
 ---
 title: "Results"
-date: 2019-12-21
+date: 2020-01-03
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -696,6 +696,24 @@ weight: 8
       <td class="widestats">W</td>
       <td class="widestats">4</td>
   </tr>
+
+  <!-- Blades White vs HSE B, 1/3/20 -->
+  <tr class="odd">
+  <td rowspan="2">1/3</td>
+      <td>HSE B</td> <td>1</td> <td>2</td> <td>2</td> <td></td> <td>5</td>
+      <td class="widestats">Dean</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">12</td>
+  </tr>
+  <tr class="odd">
+      <td>Blades</td> <td>1</td> <td>1</td> <td>1</td> <td></td> <td>3</td>
+      <td class="widestats">Hill</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">31</td>
+  </tr>
+
 </table>
 
 
@@ -710,15 +728,15 @@ weight: 8
   </thead>
   <tr>
     <td>18</td> <td>Schmidt</td>
-    <td>8</td>  <td>5</td> <td>13</td> <td>4</td>
+    <td>9</td>  <td>6</td> <td>15</td> <td>4</td>
+  </tr>
+  <tr>
+    <td>48</td> <td>Knipstein</td>
+    <td>7</td>  <td>3</td> <td>10</td> <td>6</td>
   </tr>
   <tr>
     <td>89</td> <td>Lukes</td>
     <td>4</td>  <td>6</td> <td>10</td> <td>14</td>
-  </tr>
-  <tr>
-    <td>48</td> <td>Knipstein</td>
-    <td>5</td>  <td>2</td> <td>7</td> <td>4</td>
   </tr>
   <tr>
     <td>19</td> <td>Cochran</td>
@@ -733,12 +751,12 @@ weight: 8
     <td>1</td>  <td>3</td> <td>4</td> <td></td>
   </tr>
   <tr>
-    <td>93</td> <td>Davis</td>
-    <td>1</td>  <td>3</td> <td>4</td> <td>4</td>
+    <td>23</td> <td>Patzner</td>
+    <td>2</td>  <td>2</td> <td>4</td> <td>2</td>
   </tr>
   <tr>
-    <td>23</td> <td>Patzner</td>
-    <td>2</td>  <td>1</td> <td>3</td> <td>2</td>
+    <td>93</td> <td>Davis</td>
+    <td>1</td>  <td>3</td> <td>4</td> <td>4</td>
   </tr>
   <tr>
     <td>9</td> <td>Kreft</td>
@@ -749,12 +767,12 @@ weight: 8
     <td></td>  <td>2</td> <td>2</td> <td>6</td>
   </tr>
   <tr>
-    <td>44</td> <td>Patzner</td>
-    <td>1</td>  <td>1</td> <td>2</td> <td>4</td>
+    <td>32</td> <td>La Bella</td>
+    <td></td>  <td>2</td> <td>2</td> <td></td>
   </tr>
   <tr>
-    <td>32</td> <td>La Bella</td>
-    <td></td>  <td>1</td> <td>1</td> <td></td>
+    <td>44</td> <td>Patzner</td>
+    <td>1</td>  <td>1</td> <td>2</td> <td>4</td>
   </tr>
   <tr>
     <td>34</td> <td>Daley</td>
@@ -762,7 +780,7 @@ weight: 8
   </tr>
   <tr>
     <td>76</td> <td>Pope</td>
-    <td>1</td>  <td></td> <td>1</td> <td>12</td>
+    <td>1</td>  <td></td> <td>1</td> <td>28</td>
   </tr>
   <tr>
     <td>15</td> <td>Reynolds</td>
@@ -793,9 +811,9 @@ weight: 8
   </thead>
   <tr>
     <td>35</td> <td>Hill</td>
-    <td>152</td> <td>136</td> <td>0.895</td>
+    <td>188</td> <td>167</td> <td>0.888</td>
     <td class="widestats">2</td>
-    <td class="widestats">3</td>
+    <td class="widestats">4</td>
     <td class="widestats">0</td>
     <td class="widestats"></td>
   </tr>
