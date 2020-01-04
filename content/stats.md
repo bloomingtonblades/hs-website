@@ -1,6 +1,6 @@
 ---
 title: "Results"
-date: 2020-01-03
+date: 2020-01-04
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -714,6 +714,22 @@ weight: 8
       <td class="widestats">31</td>
   </tr>
 
+  <!-- Blades White at Penn JV, 1/4/20 -->
+  <tr class="even">
+  <td rowspan="2">1/4</td>
+      <td>Blades</td> <td>0</td> <td>0</td> <td>3</td> <td></td> <td>3</td>
+      <td class="widestats">Berkley</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">27</td>
+  </tr>
+  <tr class="even">
+      <td>Penn JV</td> <td>0</td> <td>1</td> <td>0</td> <td></td> <td>1</td>
+      <td class="widestats">Alley</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">15</td>
+  </tr>
 </table>
 
 
@@ -728,7 +744,7 @@ weight: 8
   </thead>
   <tr>
     <td>18</td> <td>Schmidt</td>
-    <td>9</td>  <td>6</td> <td>15</td> <td>4</td>
+    <td>9</td>  <td>9</td> <td>18</td> <td>4</td>
   </tr>
   <tr>
     <td>48</td> <td>Knipstein</td>
@@ -740,11 +756,11 @@ weight: 8
   </tr>
   <tr>
     <td>19</td> <td>Cochran</td>
-    <td>2</td>  <td>4</td> <td>6</td> <td>14</td>
+    <td>5</td>  <td>4</td> <td>9</td> <td>16</td>
   </tr>
   <tr>
     <td>6</td> <td>Pate</td>
-    <td>4</td>  <td>1</td> <td>5</td> <td>8</td>
+    <td>4</td>  <td>1</td> <td>5</td> <td>10</td>
   </tr>
   <tr>
     <td>7</td> <td>Carmichael</td>
@@ -775,16 +791,16 @@ weight: 8
     <td>1</td>  <td>1</td> <td>2</td> <td>4</td>
   </tr>
   <tr>
+    <td>15</td> <td>Reynolds</td>
+    <td></td>  <td>1</td> <td>1</td> <td>12</td>
+  </tr>
+  <tr>
     <td>34</td> <td>Daley</td>
     <td>1</td>  <td></td> <td>1</td> <td></td>
   </tr>
   <tr>
     <td>76</td> <td>Pope</td>
     <td>1</td>  <td></td> <td>1</td> <td>28</td>
-  </tr>
-  <tr>
-    <td>15</td> <td>Reynolds</td>
-    <td></td>  <td></td> <td></td> <td>12</td>
   </tr>
   <tr>
     <td>1</td> <td>Mainord</td>
@@ -820,8 +836,8 @@ weight: 8
 
   <tr>
     <td>84</td> <td>Berkley</td>
-    <td>164</td> <td>140</td> <td>0.854</td>
-    <td class="widestats">2</td>
+    <td>192</td> <td>167</td> <td>0.870</td>
+    <td class="widestats">3</td>
     <td class="widestats">3</td>
     <td class="widestats">0</td>
     <td class="widestats"></td>
