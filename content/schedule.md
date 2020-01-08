@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-01-04
+date: 2020-01-08
 weight: 5
 ---
 
@@ -33,7 +33,7 @@ of games in Carmel and Westfield are subject to change.
 |Sun 1/12|Blades Blue vs Penn|12:00pm|At [Pop Weaver Youth Pavillion][popweaver]<br>Hoosier Crossover Game 4|
 |Sun 1/19|Blades Blue vs HSE A|11:30am|At [Frank Southern][frank]|
 |Fri 1/24|Blades White vs Carmel Blue|9:15pm|At [Frank Southern][frank]|
-|Sat 1/25|Blades Blue at Evansville|5:15pm|At [Swonder Ice Arena][swonder]|
+|Sat 1/25|Blades Blue at Evansville|4:15pm|At [Swonder Ice Arena][swonder]<br>Evansville is in Central time zone. Game time is 4:15pm Central, 5:15pm Eastern|
 |Sun 1/26|Blades Blue vs CIK|11:30am|At [Frank Southern][frank]|
 |Fri 1/31|Blades Blue at Carmel Gold|9:45pm|At [Carmel Ice Rink][carmel]|
 
