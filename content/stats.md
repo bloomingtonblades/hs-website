@@ -1,6 +1,6 @@
 ---
 title: "Results"
-date: 2020-01-04
+date: 2020-01-10
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -730,6 +730,23 @@ weight: 8
       <td class="widestats">L</td>
       <td class="widestats">15</td>
   </tr>
+
+  <!-- Blades White at HSE B, 1/10/20 -->
+  <tr class="odd">
+  <td rowspan="2">1/10</td>
+      <td>Blades</td> <td>0</td> <td>0</td> <td>1</td> <td></td> <td>1</td>
+      <td class="widestats">Hill</td>
+      <td class="widestats">44:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">32</td>
+  </tr>
+  <tr class="odd">
+      <td>HSE B</td> <td>0</td> <td>1</td> <td>2</td> <td></td> <td>3</td>
+      <td class="widestats">Mulvihill</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">21</td>
+  </tr>
 </table>
 
 
@@ -744,7 +761,7 @@ weight: 8
   </thead>
   <tr>
     <td>18</td> <td>Schmidt</td>
-    <td>9</td>  <td>9</td> <td>18</td> <td>4</td>
+    <td>9</td>  <td>10</td> <td>19</td> <td>4</td>
   </tr>
   <tr>
     <td>48</td> <td>Knipstein</td>
@@ -760,7 +777,7 @@ weight: 8
   </tr>
   <tr>
     <td>6</td> <td>Pate</td>
-    <td>4</td>  <td>1</td> <td>5</td> <td>10</td>
+    <td>5</td>  <td>1</td> <td>6</td> <td>10</td>
   </tr>
   <tr>
     <td>7</td> <td>Carmichael</td>
@@ -768,7 +785,7 @@ weight: 8
   </tr>
   <tr>
     <td>23</td> <td>Patzner</td>
-    <td>2</td>  <td>2</td> <td>4</td> <td>2</td>
+    <td>2</td>  <td>2</td> <td>4</td> <td>4</td>
   </tr>
   <tr>
     <td>93</td> <td>Davis</td>
@@ -776,7 +793,7 @@ weight: 8
   </tr>
   <tr>
     <td>9</td> <td>Kreft</td>
-    <td></td>  <td>2</td> <td>2</td> <td>6</td>
+    <td></td>  <td>2</td> <td>2</td> <td>8</td>
   </tr>
   <tr>
     <td>20</td> <td>La Bella</td>
@@ -788,11 +805,11 @@ weight: 8
   </tr>
   <tr>
     <td>44</td> <td>Patzner</td>
-    <td>1</td>  <td>1</td> <td>2</td> <td>4</td>
+    <td>1</td>  <td>1</td> <td>2</td> <td>6</td>
   </tr>
   <tr>
     <td>15</td> <td>Reynolds</td>
-    <td></td>  <td>1</td> <td>1</td> <td>12</td>
+    <td></td>  <td>1</td> <td>1</td> <td>14</td>
   </tr>
   <tr>
     <td>34</td> <td>Daley</td>
@@ -827,9 +844,9 @@ weight: 8
   </thead>
   <tr>
     <td>35</td> <td>Hill</td>
-    <td>188</td> <td>167</td> <td>0.888</td>
+    <td>222</td> <td>199</td> <td>0.896</td>
     <td class="widestats">2</td>
-    <td class="widestats">4</td>
+    <td class="widestats">5</td>
     <td class="widestats">0</td>
     <td class="widestats"></td>
   </tr>

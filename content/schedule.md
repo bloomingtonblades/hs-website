@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-01-08
+date: 2020-01-10
 weight: 5
 ---
 
@@ -26,7 +26,6 @@ of games in Carmel and Westfield are subject to change.
 
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Fri 1/10|Blades White at HSE B|6:00pm|At [Carmel Ice Rink][carmel]|
 |Sat 1/11|Blades Blue vs Southwest Michigan|1:00pm|At [Arctic Zone][arcticzone]<br>Hoosier Crossover Game 1|
 |Sat 1/11|Blades Blue vs Crown Point Red|5:45pm|At [Fishers Fuel Tank][fuel]<br>Hoosier Crossover Game 2|
 |Sun 1/12|Blades Blue vs Lakeshore St. Joe|7:30am|At [Pop Weaver Youth Pavillion][popweaver]<br>Hoosier Crossover Game 3|
