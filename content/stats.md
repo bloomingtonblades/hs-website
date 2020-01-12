@@ -1,6 +1,6 @@
 ---
 title: "Results"
-date: 2020-01-10
+date: 2020-01-11
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -374,6 +374,23 @@ weight: 8
       <td class="widestats">38</td>
   </tr>
 
+  <!-- Blades Blue vs Soutwest Michigan 01/11/20 -->
+  <tr class="odd">
+  <td rowspan="2">1/20</td>
+      <td>Southwest Michigan</td> <td>4</td> <td>1</td> <td>0</td> <td></td> <td>5</td>
+      <td class="widestats">Wilcutt</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">34<td>
+  </tr>
+  <tr class="odd">
+      <td>Blades</td> <td>0</td> <td>1</td> <td>2</td> <td></td> <td>3</td>
+      <td class="widestats">Knox</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">31</td>
+  </tr>
+
 </table>
 
 <a name="bpoints"></a>Points Standings -- Blades Blue
@@ -387,35 +404,35 @@ weight: 8
   </thead>
   <tr>
     <td>27</td> <td>Prather</td>
-    <td>15</td> <td>7</td> <td>22</td> <td>33</td>
+    <td>16</td> <td>8</td> <td>24</td> <td>35</td>
   </tr>
   <tr>
     <td>99</td> <td>Cory</td>
     <td>8</td> <td>7</td>  <td>15</td> <td>18</td>
   </tr>
   <tr>
+    <td>00</td> <td>Lauer</td>
+    <td>5</td> <td>9</td> <td>14</td> <td>6</td>
+  </tr> 
+  <tr>
     <td>28</td> <td>Timbrook</td>
     <td>7</td> <td>7</td> <td>14</td> <td>30</td>
   </tr>
   <tr>
-    <td>00</td> <td>Lauer</td>
-    <td>5</td> <td>8</td> <td>13</td> <td>6</td>
-  </tr> 
+    <td>45</td> <td>Fox</td>
+    <td>6</td> <td>8</td> <td>14</td> <td>16</td>
+  </tr>
+  <tr>
+    <td>88</td> <td>Franklin</td>
+    <td>2</td> <td>11</td> <td>13</td> <td>77</td>
+  </tr>
   <tr>
     <td>4</td> <td>Streib</td>
     <td>4</td> <td>8</td> <td>12</td> <td>2</td>
   </tr> 
   <tr>
-    <td>45</td> <td>Fox</td>
-    <td>5</td> <td>7</td> <td>12</td> <td>14</td>
-  </tr>
-  <tr>
-    <td>88</td> <td>Franklin</td>
-    <td>2</td> <td>10</td> <td>12</td> <td>71</td>
-  </tr>
-  <tr>
     <td>17</td> <td>La Bella</td>
-    <td>4</td> <td>7</td> <td>11</td> <td>16</td>
+    <td>4</td> <td>7</td> <td>11</td> <td>31</td>
   </tr> 
   <tr>
     <td>14</td> <td>Stright</td>
@@ -427,7 +444,7 @@ weight: 8
   </tr>
   <tr>
     <td>91</td> <td>Griffin</td>
-    <td>3</td> <td>6</td> <td>9</td> <td>68</td>
+    <td>3</td> <td>6</td> <td>9</td> <td>74</td>
   </tr>
   <tr>
     <td>44</td> <td>Patzner</td>
@@ -442,6 +459,10 @@ weight: 8
     <td>2</td> <td>1</td> <td>3</td> <td>12</td>
   </tr>
   <tr>
+    <td>89</td> <td>Lukes</td>
+    <td>2</td> <td>1</td> <td>3</td> <td>8</td>
+  </tr>
+  <tr>
     <td>6</td> <td>Pate</td>
     <td></td> <td>2</td>  <td>2</td> <td></td>
   </tr>
@@ -449,10 +470,6 @@ weight: 8
     <td>76</td> <td>Pope</td>
     <td>1</td> <td>1</td> <td>2</td> <td>42</td>
   </tr> 
-  <tr>
-    <td>89</td> <td>Lukes</td>
-    <td>1</td> <td>1</td> <td>2</td> <td>8</td>
-  </tr>
   <tr>
     <td>19</td> <td>Cochran</td>
     <td>1</td> <td></td> <td>1</td> <td>2</td>
@@ -494,9 +511,9 @@ weight: 8
   </tr>
   <tr>
     <td>13</td> <td>Knox</td>
-    <td>150</td> <td>138</td> <td>0.920</td>
+    <td>186</td> <td>169</td> <td>0.909</td>
     <td class="widestats">3</td>
-    <td class="widestats">2</td>
+    <td class="widestats">3</td>
     <td class="widestats">0</td>
     <td class="widestats"></td>
   </tr>
