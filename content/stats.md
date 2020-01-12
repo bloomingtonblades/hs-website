@@ -501,7 +501,7 @@ weight: 8
   </tr>
   <tr>
     <td>43</td> <td>Cockerham</td>
-    <td></td> <td>1</td> <td>1</td> <td>4</td>
+    <td></td> <td>1</td> <td>1</td> <td>6</td>
   </tr>
 </table>
 
