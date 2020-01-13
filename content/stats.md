@@ -424,6 +424,23 @@ weight: 8
       <td class="widestats">W</td>
       <td class="widestats">30</td>
   </tr>
+
+  <!-- Blades Blue vs Penn 01/12/20 -->
+  <tr class="even">
+  <td rowspan="2">1/12</td>
+      <td>Penn</td> <td>2</td> <td>0</td> <td>2</td> <td></td> <td>4</td>
+      <td class="widestats">Brown</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">37<td>
+  </tr>
+  <tr class="even">
+      <td>Blades</td> <td>0</td> <td>0</td> <td>2</td> <td></td> <td>2</td>
+      <td class="widestats">Berkley</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">17</td>
+  </tr>
 </table>
 
 <a name="bpoints"></a>Points Standings -- Blades Blue
@@ -437,15 +454,15 @@ weight: 8
   </thead>
   <tr>
     <td>27</td> <td>Prather</td>
-    <td>18</td> <td>8</td> <td>26</td> <td>37</td>
+    <td>18</td> <td>8</td> <td>26</td> <td>41</td>
   </tr>
   <tr>
     <td>45</td> <td>Fox</td>
-    <td>8</td> <td>8</td> <td>16</td> <td>16</td>
+    <td>8</td> <td>9</td> <td>17</td> <td>16</td>
   </tr>
   <tr>
     <td>00</td> <td>Lauer</td>
-    <td>6</td> <td>9</td> <td>15</td> <td>6</td>
+    <td>7</td> <td>9</td> <td>16</td> <td>8</td>
   </tr> 
   <tr>
     <td>99</td> <td>Cory</td>
@@ -456,16 +473,16 @@ weight: 8
     <td>2</td> <td>13</td> <td>15</td> <td>91</td>
   </tr>
   <tr>
-    <td>28</td> <td>Timbrook</td>
-    <td>7</td> <td>7</td> <td>14</td> <td>30</td>
-  </tr>
-  <tr>
     <td>4</td> <td>Streib</td>
-    <td>4</td> <td>9</td> <td>13</td> <td>2</td>
+    <td>5</td> <td>9</td> <td>14</td> <td>2</td>
   </tr> 
   <tr>
     <td>14</td> <td>Stright</td>
-    <td>4</td>  <td>9</td> <td>13</td> <td>2</td>
+    <td>4</td>  <td>10</td> <td>14</td> <td>2</td>
+  </tr>
+  <tr>
+    <td>28</td> <td>Timbrook</td>
+    <td>7</td> <td>7</td> <td>14</td> <td>30</td>
   </tr>
   <tr>
     <td>17</td> <td>La Bella</td>
@@ -473,11 +490,11 @@ weight: 8
   </tr> 
   <tr>
     <td>16</td> <td>Hunt</td>
-    <td>7</td> <td>3</td> <td>10</td> <td>48</td>
+    <td>7</td> <td>3</td> <td>10</td> <td>50</td>
   </tr>
   <tr>
     <td>91</td> <td>Griffin</td>
-    <td>3</td> <td>6</td> <td>9</td> <td>74</td>
+    <td>3</td> <td>6</td> <td>9</td> <td>76</td>
   </tr>
   <tr>
     <td>44</td> <td>Patzner</td>
@@ -500,6 +517,10 @@ weight: 8
     <td></td> <td>2</td>  <td>2</td> <td></td>
   </tr>
   <tr>
+    <td>43</td> <td>Cockerham</td>
+    <td></td> <td>2</td> <td>2</td> <td>8</td>
+  </tr>
+  <tr>
     <td>76</td> <td>Pope</td>
     <td>1</td> <td>1</td> <td>2</td> <td>42</td>
   </tr> 
@@ -515,10 +536,7 @@ weight: 8
     <td>93</td> <td>Davis</td>
     <td></td> <td>1</td> <td>1</td> <td>2</td>
   </tr>
-  <tr>
-    <td>43</td> <td>Cockerham</td>
-    <td></td> <td>1</td> <td>1</td> <td>6</td>
-  </tr>
+
 </table>
 
 <a name="bgoalies"></a>Goaltenders -- Blades Blue
@@ -552,9 +570,9 @@ weight: 8
   </tr>
   <tr>
     <td>84</td> <td>Berkley</td>
-    <td>22</td>  <td>19</td>  <td>0.864</td>
+    <td>43</td>  <td>36</td>  <td>0.837</td>
     <td class="widestats">0</td>
-    <td class="widestats">0</td>
+    <td class="widestats">1</td>
     <td class="widestats">1</td>
     <td class="widestats"></td>
   </tr>
