@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-01-11
+date: 2020-01-12
 weight: 5
 ---
 
@@ -26,13 +26,19 @@ of games in Carmel and Westfield are subject to change.
 
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Sun 1/12|Blades Blue vs Lakeshore St. Joe|7:30am|At [Pop Weaver Youth Pavillion][popweaver]<br>Hoosier Crossover Game 3|
-|Sun 1/12|Blades Blue vs Penn|12:00pm|At [Pop Weaver Youth Pavillion][popweaver]<br>Hoosier Crossover Game 4|
 |Sun 1/19|Blades Blue vs HSE A|11:30am|At [Frank Southern][frank]|
 |Fri 1/24|Blades White vs Carmel Blue|9:15pm|At [Frank Southern][frank]|
-|Sat 1/25|Blades Blue at Evansville|4:15pm|At [Swonder Ice Arena][swonder]<br>Evansville is in Central time zone. Game time is 4:15pm Central, 5:15pm Eastern|
+|Sat 1/25|Blades Blue at Evansville|4:15pm|At [Swonder Ice Arena][swonder]<br>Evansville is in Central time zone.<br>Game time is 4:15pm Central, 5:15pm Eastern|
 |Sun 1/26|Blades Blue vs CIK|11:30am|At [Frank Southern][frank]|
 |Fri 1/31|Blades Blue at Carmel Gold|9:45pm|At [Carmel Ice Rink][carmel]|
+|Sat 2/1|Blades Senior Night<br>Blue vs Brebeuf|3:15pm|At [Frank Southern][frank]<br>Lobby opens at 3:15pm<br>Senior recognition on-ice at 4:15pm.<br>Game at 4:45pm.|
+|Sun 2/2|Blades Blue vs Evansville|11:30am|At [Frank Southern][frank]|
+|Fri 2/7<br>Sat 2/8<br>Sun 2/9|Hoosier League Tournament|TBA|At [Carmel Ice Rink][carmel]|
+|Fri 2/14<br>Sat 2/15<br>Sun 2/16|Hockey for Heroes<br>(Blue Team)|TBA|At [Hamilton Center][hamilton]|
+|Sat 2/22|Blades Blue at Owensboro|4:15pm|At [Edge Ice Center][edge]<br>Owensboro is in Central time zone.<br>Game time is 4:15pm Central, 5:15pm Eastern|
+|Fri 2/28<br>Sat 2/29<br>Sun 3/1|ISHSHA State Playdowns<br>(Blue Team)|TBA|Fort Wayne or South Bend|
+|Sat 3/7|ISHSHA State Finals<br>(Blue Team)|TBA|At [Fuel Tank][fuel]|
+
 
 
 Calendars
