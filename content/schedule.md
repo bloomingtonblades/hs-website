@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-01-12
+date: 2020-01-19
 weight: 5
 ---
 
@@ -19,6 +19,11 @@ If school is closed due to weather, 6:00am practices are
 cancelled. All other weather-related cancellations will be as
 announced.
 
+Parent Meeting
+--------------
+Sunday, 1/19 at [Basswood Apartments Clubhouse][basswood]. Bring any
+questions or concerns for coaches. Short agenda of other topics.
+
 Upcoming Games
 --------------
 Note: due to ongoing repairs at the Carmel rink, times and locations
@@ -26,7 +31,6 @@ of games in Carmel and Westfield are subject to change.
 
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Sun 1/19|Blades Blue vs HSE A|11:30am|At [Frank Southern][frank]|
 |Fri 1/24|Blades White vs Carmel Blue|9:15pm|At [Frank Southern][frank]|
 |Sat 1/25|Blades Blue at Evansville|4:15pm|At [Swonder Ice Arena][swonder]<br>Evansville is in Central time zone.<br>Game time is 4:15pm Central, 5:15pm Eastern|
 |Sun 1/26|Blades Blue vs CIK|11:30am|At [Frank Southern][frank]|
