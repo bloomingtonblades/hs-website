@@ -381,7 +381,7 @@ weight: 8
       <td class="widestats">Wilcutt</td>
       <td class="widestats">45:00</td>
       <td class="widestats">W</td>
-      <td class="widestats">34<td>
+      <td class="widestats">34</td>
   </tr>
   <tr class="odd">
       <td>Blades</td> <td>0</td> <td>1</td> <td>2</td> <td></td> <td>3</td>
@@ -398,7 +398,7 @@ weight: 8
       <td class="widestats">Thompson</td>
       <td class="widestats">45:00</td>
       <td class="widestats">L</td>
-      <td class="widestats">22<td>
+      <td class="widestats">22</td>
   </tr>
   <tr class="even">
       <td>Blades</td> <td>1</td> <td>1</td> <td>1</td> <td></td> <td>3</td>
@@ -415,7 +415,7 @@ weight: 8
       <td class="widestats">Proctor</td>
       <td class="widestats">45:00</td>
       <td class="widestats">L</td>
-      <td class="widestats">15<td>
+      <td class="widestats">15</td>
   </tr>
   <tr class="odd">
       <td>Blades</td> <td>2</td> <td>1</td> <td>1</td> <td></td> <td>4</td>
@@ -432,7 +432,7 @@ weight: 8
       <td class="widestats">Brown</td>
       <td class="widestats">45:00</td>
       <td class="widestats">W</td>
-      <td class="widestats">37<td>
+      <td class="widestats">37</td>
   </tr>
   <tr class="even">
       <td>Blades</td> <td>0</td> <td>0</td> <td>2</td> <td></td> <td>2</td>
@@ -449,7 +449,7 @@ weight: 8
       <td class="widestats">Kreider</td>
       <td class="widestats">51:00</td>
       <td class="widestats">L</td>
-      <td class="widestats">21<td>
+      <td class="widestats">21</td>
   </tr>
   <tr class="odd">
       <td>Blades</td> <td>3</td> <td>1</td> <td>3</td> <td></td> <td>7</td>
