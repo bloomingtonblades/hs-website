@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-01-19
+date: 2020-01-24
 weight: 5
 ---
 
@@ -19,11 +19,6 @@ If school is closed due to weather, 6:00am practices are
 cancelled. All other weather-related cancellations will be as
 announced.
 
-Parent Meeting
---------------
-Sunday, 1/19 at [Basswood Apartments Clubhouse][basswood]. Bring any
-questions or concerns for coaches. Short agenda of other topics.
-
 Upcoming Games
 --------------
 Note: due to ongoing repairs at the Carmel rink, times and locations
@@ -38,7 +33,11 @@ of games in Carmel and Westfield are subject to change.
 |Sat 2/1|Blades Senior Night<br>Blue vs Brebeuf|3:15pm|At [Frank Southern][frank]<br>Lobby opens at 3:15pm<br>Senior recognition on-ice at 4:15pm.<br>Game at 4:45pm.|
 |Sun 2/2|Blades Blue vs Evansville|11:30am|At [Frank Southern][frank]|
 |Fri 2/7<br>Sat 2/8<br>Sun 2/9|Hoosier League Tournament|TBA|At [Carmel Ice Rink][carmel]|
-|Fri 2/14<br>Sat 2/15<br>Sun 2/16|Hockey for Heroes<br>(Blue Team)|TBA|At [Hamilton Center][hamilton]|
+|Fri 2/14|Blades White at South Stars White|7:45pm|At [Perry Park][perry]|
+|Sat 2/15|Blades Blue vs Northern Kentucky|1:30pm|At [Hamilton Center][hamilton]|
+|Sat 2/15|Blades Blue vs HSE-A|8:15pm|At [Hamilton Center][hamilton]|
+|Sun 2/16|Blades Blue vs HSE-B|8:30am|At [Hamilton Center][hamilton]|
+|Sun 2/16|Blades Blue vs TBD|TBD|At [Hamilton Center][hamilton]<br>Game time depends on seeding|
 |Sat 2/22|Blades Blue at Owensboro|4:15pm|At [Edge Ice Center][edge]<br>Owensboro is in Central time zone.<br>Game time is 4:15pm Central, 5:15pm Eastern|
 |Fri 2/28<br>Sat 2/29<br>Sun 3/1|ISHSHA State Playdowns<br>(Blue Team)|TBA|Fort Wayne or South Bend|
 |Sat 3/7|ISHSHA State Finals<br>(Blue Team)|TBA|At [Fuel Tank][fuel]|
