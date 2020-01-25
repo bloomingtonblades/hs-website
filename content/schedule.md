@@ -26,7 +26,6 @@ of games in Carmel and Westfield are subject to change.
 
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Fri 1/24|Blades White vs Carmel Blue|9:15pm|At [Frank Southern][frank]|
 |Sat 1/25|Blades Blue at Evansville|4:15pm|At [Swonder Ice Arena][swonder]<br>Evansville is in Central time zone.<br>Game time is 4:15pm Central, 5:15pm Eastern|
 |Sun 1/26|Blades Blue vs CIK|11:30am|At [Frank Southern][frank]|
 |Fri 1/31|Blades Blue at Carmel Gold|9:45pm|At [Carmel Ice Rink][carmel]|
