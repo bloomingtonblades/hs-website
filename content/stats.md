@@ -1,6 +1,6 @@
 ---
 title: "Results"
-date: 2020-01-24
+date: 2020-01-25
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -458,6 +458,23 @@ weight: 8
       <td class="widestats">W</td>
       <td class="widestats">40</td>
   </tr>
+
+  <!-- Blades Blue @ Evansville 1/25 -->
+  <tr class="even">
+  <td rowspan="2">1/25</td>
+      <td>Blades</td> <td>2</td> <td>1</td> <td>1</td> <td></td> <td>4</td>
+      <td class="widestats">Lowinger</td>
+      <td class="widestats">51:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">30</td>
+  </tr>
+  <tr class="even">
+      <td>Evansville</td> <td>0</td> <td>1</td> <td>2</td> <td></td> <td>3</td>
+      <td class="widestats">Craig</td>
+      <td class="widestats">51:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">21</td>
+  </tr>
 </table>
 
 <a name="bpoints"></a>Points Standings -- Blades Blue
@@ -471,15 +488,15 @@ weight: 8
   </thead>
   <tr>
     <td>27</td> <td>Prather</td>
-    <td>18</td> <td>10</td> <td>28</td> <td>41</td>
+    <td>20</td> <td>11</td> <td>31</td> <td>41</td>
   </tr>
   <tr>
     <td>45</td> <td>Fox</td>
-    <td>11</td> <td>9</td> <td>20</td> <td>16</td>
+    <td>12</td> <td>9</td> <td>21</td> <td>18</td>
   </tr>
   <tr>
     <td>14</td> <td>Stright</td>
-    <td>6</td>  <td>11</td> <td>17</td> <td>2</td>
+    <td>7</td>  <td>11</td> <td>18</td> <td>2</td>
   </tr>
   <tr>
     <td>00</td> <td>Lauer</td>
@@ -503,15 +520,15 @@ weight: 8
   </tr>
   <tr>
     <td>17</td> <td>La Bella</td>
-    <td>5</td> <td>7</td> <td>12</td> <td>33</td>
+    <td>5</td> <td>9</td> <td>14</td> <td>33</td>
   </tr> 
   <tr>
     <td>16</td> <td>Hunt</td>
-    <td>7</td> <td>4</td> <td>11</td> <td>50</td>
+    <td>7</td> <td>5</td> <td>12</td> <td>52</td>
   </tr>
   <tr>
     <td>91</td> <td>Griffin</td>
-    <td>3</td> <td>8</td> <td>11</td> <td>88</td>
+    <td>3</td> <td>8</td> <td>11</td> <td>92</td>
   </tr>
   <tr>
     <td>31</td> <td>Streib</td>
@@ -523,7 +540,7 @@ weight: 8
   </tr> 
   <tr>
     <td>43</td> <td>Cockerham</td>
-    <td></td> <td>3</td> <td>3</td> <td>8</td>
+    <td></td> <td>3</td> <td>3</td> <td>10</td>
   </tr>
   <tr>
     <td>48</td> <td>Knipstein</td>
@@ -571,8 +588,8 @@ weight: 8
   </thead>
   <tr>
     <td>30</td> <td>Lowinger</td>
-    <td>420</td> <td>396</td> <td>0.943</td>
-    <td class="widestats">11</td>
+    <td>453</td> <td>426</td> <td>0.940</td>
+    <td class="widestats">12</td>
     <td class="widestats">4</td>
     <td class="widestats">0</td>
     <td class="widestats"></td>
