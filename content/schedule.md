@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-01-25
+date: 2020-01-26
 weight: 5
 ---
 
@@ -26,7 +26,6 @@ of games in Carmel and Westfield are subject to change.
 
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Sun 1/26|Blades Blue vs CIK|11:30am|At [Frank Southern][frank]|
 |Fri 1/31|Blades Blue at Carmel Gold|9:45pm|At [Carmel Ice Rink][carmel]|
 |Sat 2/1|Blades Senior Night<br>Blue vs Brebeuf|3:15pm|At [Frank Southern][frank]<br>Lobby opens at 3:15pm<br>Senior recognition on-ice at 4:15pm.<br>Game at 4:45pm.|
 |Sun 2/2|Blades Blue vs Evansville|11:30am|At [Frank Southern][frank]|
