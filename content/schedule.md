@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-02-02
+date: 2020-02-03
 weight: 5
 ---
 
@@ -26,7 +26,12 @@ of games in Carmel and Westfield are subject to change.
 
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Fri 2/7<br>Sat 2/8<br>Sun 2/9|Hoosier League Tournament|TBA|At [Carmel Ice Rink][carmel]|
+|Fri 2/7|Blades White vs Columbus|7:30pm|At [Arctic Zone][arcticzone]<br>*Hoosier League Tournament*|
+|Fri 2/7|Blades Blue vs Brebeuf|9:45pm|At [Carmel Ice Rink][carmel]<br>*Hoosier League Tournament*|
+|Sat 2/8|Blades White vs Evansville or Carmel B|2:15pm|At [Carmel Ice Rink][carmel]<br>*Hoosier League Tournament*|
+|Sat 2/8|Blades Blue vs CIK or HSE A|4:30pm|At [Carmel Ice Rink][carmel]<br>*Hoosier League Tournament*|
+|Sun 2/9|Blades White Division Championship|10:00am|At [Arctic Zone][arcticzone]<br>*Hoosier League Tournament*|
+|Sun 2/9|Blades Blue Division Championship|12:30pm|At [Carmel Ice Rink][carmel]<br>*Hoosier League Tournament*|
 |Fri 2/14|Blades White at South Stars White|7:45pm|At [Perry Park][perry]|
 |Sat 2/15|Blades Blue vs Northern Kentucky|1:30pm|At [Hamilton Center][hamilton]|
 |Sat 2/15|Blades Blue vs HSE-A|8:15pm|At [Hamilton Center][hamilton]|
