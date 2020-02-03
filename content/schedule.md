@@ -33,10 +33,10 @@ of games in Carmel and Westfield are subject to change.
 |Sun 2/9|Blades White Division Championship|10:00am|At [Arctic Zone][arcticzone]<br>*Hoosier League Tournament*|
 |Sun 2/9|Blades Blue Division Championship|12:30pm|At [Carmel Ice Rink][carmel]<br>*Hoosier League Tournament*|
 |Fri 2/14|Blades White at South Stars White|7:45pm|At [Perry Park][perry]|
-|Sat 2/15|Blades Blue vs Northern Kentucky|1:30pm|At [Hamilton Center][hamilton]|
-|Sat 2/15|Blades Blue vs HSE-A|8:15pm|At [Hamilton Center][hamilton]|
-|Sun 2/16|Blades Blue vs HSE-B|8:30am|At [Hamilton Center][hamilton]|
-|Sun 2/16|Blades Blue vs TBD|TBD|At [Hamilton Center][hamilton]<br>Game time depends on seeding|
+|Sat 2/15|Blades Blue vs Northern Kentucky|1:30pm|At [Hamilton Center][hamilton]<br>*Hockey For Heroes*|
+|Sat 2/15|Blades Blue vs HSE-A|8:15pm|At [Hamilton Center][hamilton]<br>*Hockey For Heroes*|
+|Sun 2/16|Blades Blue vs HSE-B|8:30am|At [Hamilton Center][hamilton]<br>*Hockey For Heroes*|
+|Sun 2/16|Blades Blue vs TBD|TBD|At [Hamilton Center][hamilton]<br>*Hockey For Heroes*<br>Game time depends on seeding|
 |Sat 2/22|Blades Blue at Owensboro|4:15pm|At [Edge Ice Center][edge]<br>Owensboro is in Central time zone.<br>Game time is 4:15pm Central, 5:15pm Eastern|
 |Fri 2/28<br>Sat 2/29<br>Sun 3/1|ISHSHA State Playdowns<br>(Blue Team)|TBA|Fort Wayne or South Bend|
 |Sat 3/7|ISHSHA State Finals<br>(Blue Team)|TBA|At [Fuel Tank][fuel]|
