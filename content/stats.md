@@ -1,6 +1,6 @@
 ---
 title: "Results"
-date: 2020-02-02
+date: 2020-02-08
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -939,6 +939,23 @@ weight: 8
       <td class="widestats">L</td>
       <td class="widestats">41</td>
   </tr>
+
+  <!-- Blades White at Columbus, 2/8/20 (Hoosier League Tournament) -->
+  <tr class="odd">
+  <td rowspan="2">2/8</td>
+      <td>Blades</td> <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td>
+      <td class="widestats">Hill</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">47</td>
+  </tr>
+  <tr class="odd">
+      <td>Columbus</td> <td>0</td> <td>2</td> <td>2</td> <td></td> <td>4</td>
+      <td class="widestats">Kuzman</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">7</td>
+  </tr>
 </table>
 
 
@@ -1005,7 +1022,7 @@ weight: 8
   </tr>
   <tr>
     <td>34</td> <td>Daley</td>
-    <td>1</td>  <td></td> <td>1</td> <td></td>
+    <td>1</td>  <td></td> <td>1</td> <td>2</td>
   </tr>
   <tr>
     <td>76</td> <td>Pope</td>
@@ -1036,9 +1053,9 @@ weight: 8
   </thead>
   <tr>
     <td>35</td> <td>Hill</td>
-    <td>222</td> <td>199</td> <td>0.896</td>
+    <td>273</td> <td>246</td> <td>0.901</td>
     <td class="widestats">2</td>
-    <td class="widestats">5</td>
+    <td class="widestats">6</td>
     <td class="widestats">0</td>
     <td class="widestats"></td>
   </tr>
