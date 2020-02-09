@@ -105,7 +105,7 @@ weight: 8
   <!-- Blades Blue vs Carmel, 10/18/19 -->
   <tr class="odd">
   <td rowspan="2">10/18</td>
-      <td>Carmel</td> <td>1</td> <td>1</td> <td>0</td> <td></td> <td>2</td>
+      <td>Carmel Gold</td> <td>1</td> <td>1</td> <td>0</td> <td></td> <td>2</td>
       <td class="widestats">Yuska</td>
       <td class="widestats">51:00</td>
       <td class="widestats">W</td>
@@ -546,7 +546,10 @@ weight: 8
 
   <!-- Blades Blue vs Brebeuf 02/7/20 (Hoosier League Tournament) -->
   <tr class="odd">
-  <td rowspan="2">2/7</td>
+  <td rowspan="3">2/7</td>
+      <td colspan="6"><i>Hoosier League Tournament</i></td><td class="widestats" colspan="4"></td>
+  </tr>      
+  <tr class="odd">
       <td>Brebeuf</td> <td>0</td> <td>1</td> <td>1</td> <td></td> <td>2</td>
       <td class="widestats">n/r</td>
       <td class="widestats">51:00</td>
@@ -563,7 +566,10 @@ weight: 8
 
   <!-- Blades Blue vs HSE A 02/8/20 (Hoosier League Tournament) -->
   <tr class="even">
-  <td rowspan="2">2/8</td>
+  <td rowspan="3">2/8</td>
+      <td colspan="6"><i>Hoosier League Tournament Semifinals</i></td><td class="widestats" colspan="4"></td>
+  </tr>      
+  <tr class="even">
       <td>HSE A</td> <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td>
       <td class="widestats">Kreider</td>
       <td class="widestats">49:00</td>
@@ -580,7 +586,10 @@ weight: 8
 
   <!-- Blades Blue @ Carmel Gold 2/9 (Hoosier League Tournament) -->
   <tr class="odd">
-  <td rowspan="2">2/9</td>
+  <td rowspan="3">2/9</td>
+      <td colspan="6"><i>Hoosier League Tournament Championship</i></td><td class="widestats" colspan="4"></td>
+  </tr>      
+  <tr class="odd">
       <td>Blades</td> <td>0</td> <td>1</td> <td>0</td> <td></td> <td>1</td>
       <td class="widestats">Lowinger</td>
       <td class="widestats">49:45</td>
@@ -993,7 +1002,10 @@ weight: 8
 
   <!-- Blades White at Columbus, 2/7/20 (Hoosier League Tournament) -->
   <tr class="odd">
-  <td rowspan="2">2/7</td>
+  <td rowspan="3">2/7</td>
+      <td colspan="6"><i>Hoosier League Tournament</i></td><td class="widestats" colspan="4"></td>
+  </tr>      
+  <tr class="odd">
       <td>Blades</td> <td>0</td> <td>0</td> <td>0</td> <td></td> <td>0</td>
       <td class="widestats">Hill</td>
       <td class="widestats">45:00</td>
