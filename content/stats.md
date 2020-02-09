@@ -712,7 +712,7 @@ weight: 8
   </thead>
   <tr>
     <td>30</td> <td>Lowinger</td>
-    <td>654</td> <td>612</td> <td>0.942</td>
+    <td>654</td> <td>616</td> <td>0.942</td>
     <td class="widestats">16</td>
     <td class="widestats">6</td>
     <td class="widestats">0</td>
