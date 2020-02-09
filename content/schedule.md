@@ -26,8 +26,7 @@ of games in Carmel and Westfield are subject to change.
 
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Sat 2/8|Blades Blue vs HSE A|4:30pm|At [Carmel Ice Rink][carmel]<br>*Hoosier League Tournament*|
-|Sun 2/9|Blades Blue Division Championship|12:30pm|At [Carmel Ice Rink][carmel]<br>*Hoosier League Tournament*|
+|Sun 2/9|Blades Blue vs Carmel<br>Championship Game|12:30pm|At [Carmel Ice Rink][carmel]<br>*Hoosier League Tournament*|
 |Fri 2/14|Blades White at South Stars White|7:45pm|At [Perry Park][perry]|
 |Sat 2/15|Blades Blue vs Northern Kentucky|1:30pm|At [Hamilton Center][hamilton]<br>*Hockey For Heroes*|
 |Sat 2/15|Blades Blue vs HSE-A|8:15pm|At [Hamilton Center][hamilton]<br>*Hockey For Heroes*|
