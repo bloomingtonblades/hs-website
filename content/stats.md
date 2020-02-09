@@ -578,6 +578,23 @@ weight: 8
       <td class="widestats">28</td>
   </tr>
 
+  <!-- Blades Blue @ Carmel Gold 2/9 (Hoosier League Tournament) -->
+  <tr class="odd">
+  <td rowspan="2">2/9</td>
+      <td>Blades</td> <td>0</td> <td>1</td> <td>0</td> <td></td> <td>1</td>
+      <td class="widestats">Lowinger</td>
+      <td class="widestats">49:45</td>
+      <td class="widestats">L</td>
+      <td class="widestats">41</td>
+  </tr>
+  <tr class="odd">
+      <td>Carmel Gold</td> <td>1</td> <td>1</td> <td>0</td> <td></td> <td>2</td>
+      <td class="widestats">Yuska</td>
+      <td class="widestats">51:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">15</td>
+  </tr>
+
 </table>
 
 <a name="bpoints"></a>Points Standings -- Blades Blue
@@ -595,15 +612,15 @@ weight: 8
   </tr>
   <tr>
     <td>45</td> <td>Fox</td>
-    <td>17</td> <td>13</td> <td>30</td> <td>34</td>
+    <td>17</td> <td>13</td> <td>30</td> <td>36</td>
   </tr>
   <tr>
-    <td>17</td> <td>La Bella</td>
-    <td>8</td> <td>14</td> <td>20</td> <td>57</td>
+    <td>4</td> <td>Streib</td>
+    <td>10</td> <td>10</td> <td>20</td> <td>4</td>
   </tr> 
   <tr>
-    <td>4</td> <td>Streib</td>
-    <td>9</td> <td>10</td> <td>19</td> <td>4</td>
+    <td>17</td> <td>La Bella</td>
+    <td>8</td> <td>14</td> <td>20</td> <td>69</td>
   </tr> 
   <tr>
     <td>14</td> <td>Stright</td>
@@ -622,16 +639,16 @@ weight: 8
     <td>10</td> <td>7</td>  <td>17</td> <td>42</td>
   </tr>
   <tr>
-    <td>91</td> <td>Griffin</td>
-    <td>4</td> <td>12</td> <td>16</td> <td>104</td>
+    <td>88</td> <td>Franklin</td>
+    <td>2</td> <td>14</td> <td>16</td> <td>99</td>
   </tr>
   <tr>
-    <td>88</td> <td>Franklin</td>
-    <td>2</td> <td>13</td> <td>15</td> <td>99</td>
+    <td>91</td> <td>Griffin</td>
+    <td>4</td> <td>12</td> <td>16</td> <td>108</td>
   </tr>
   <tr>
     <td>16</td> <td>Hunt</td>
-    <td>8</td> <td>5</td> <td>13</td> <td>66</td>
+    <td>8</td> <td>5</td> <td>13</td> <td>68</td>
   </tr>
   <tr>
     <td>31</td> <td>Streib</td>
@@ -695,9 +712,9 @@ weight: 8
   </thead>
   <tr>
     <td>30</td> <td>Lowinger</td>
-    <td>612</td> <td>575</td> <td>0.940</td>
+    <td>654</td> <td>612</td> <td>0.942</td>
     <td class="widestats">16</td>
-    <td class="widestats">5</td>
+    <td class="widestats">6</td>
     <td class="widestats">0</td>
     <td class="widestats"></td>
   </tr>
