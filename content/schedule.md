@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-02-09
+date: 2020-02-14
 weight: 5
 ---
 
@@ -30,10 +30,12 @@ of games in Carmel and Westfield are subject to change.
 |Sat 2/15|Blades Blue vs Northern Kentucky|1:30pm|At [Hamilton Center][hamilton]<br>*Hockey For Heroes*|
 |Sat 2/15|Blades Blue vs HSE-A|8:15pm|At [Hamilton Center][hamilton]<br>*Hockey For Heroes*|
 |Sun 2/16|Blades Blue vs HSE-B|8:30am|At [Hamilton Center][hamilton]<br>*Hockey For Heroes*|
-|Sun 2/16|Blades Blue vs TBD|TBD|At [Hamilton Center][hamilton]<br>*Hockey For Heroes*<br>Game time depends on seeding|
+|Sun 2/16|Blades Blue vs TBD|TBD|At [Hamilton Center][hamilton]<br>*Hockey For Heroes*<Br>Game time depends on seeding|
 |Sat 2/22|Blades Blue at Owensboro|4:15pm|At [Edge Ice Center][edge]<br>Owensboro is in Central time zone.<br>Game time is 4:15pm Central, 5:15pm Eastern|
-|Fri 2/28<br>Sat 2/29<br>Sun 3/1|ISHSHA State Playdowns<br>(Blue Team)|TBA|Fort Wayne or South Bend|
-|Sat 3/7|ISHSHA State Finals<br>(Blue Team)|TBA|At [Fuel Tank][fuel]|
+|Fri 2/28|Blades Blue vs Carmel Gold|8:50pm|[SportOne Parkview Ice House][icefw]<br>*ISHSHA State Playdowns*|
+|Sat 2/29|Blades Blue vs TBD|1:20pm<br>or<br>1:35pm|[SportOne Parkview Ice House][icefw]<br>*ISHSHA State Playdowns*|
+|Sun 3/1|Blades Blue vs TBD|10:25am|(If Necessary)<br>[SportOne Parkview Ice House][icefw]<br>*ISHSHA State Playdowns*|
+|Sat 3/7|Blades Blue vs TBD|TBA|At [Midwest Training Ice Center][midwest]<br>*ISHSHA State Finals*|
 
 
 
