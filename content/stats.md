@@ -597,7 +597,7 @@ weight: 8
       <td class="widestats">41</td>
   </tr>
   <tr class="odd">
-      <td>Carmel Gold</td> <td>1</td> <td>1</td> <td>0</td> <td></td> <td>2</td>
+      <td>Carmel Gold</td> <td>0</td> <td>2</td> <td>0</td> <td></td> <td>2</td>
       <td class="widestats">Yuska</td>
       <td class="widestats">51:00</td>
       <td class="widestats">W</td>
