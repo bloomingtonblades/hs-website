@@ -604,6 +604,23 @@ weight: 8
       <td class="widestats">15</td>
   </tr>
 
+  <!-- Blades Blue @ Northern Kentucky (Hockey for Heroes) 2/15 -->
+  <tr class="even">
+  <td rowspan="2">2/15</td>
+      <td>Blades</td> <td>0</td> <td>1</td> <td>1</td> <td></td> <td>3</td>
+      <td class="widestats">Lowinger</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">15</td>
+  </tr>
+  <tr class="even">
+      <td>Northern Kentucky</td> <td>0</td> <td>0</td> <td>1</td> <td></td> <td>1</td>
+      <td class="widestats">Jackson</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">29</td>
+  </tr>
+
 </table>
 
 <a name="bpoints"></a>Points Standings -- Blades Blue
@@ -621,23 +638,23 @@ weight: 8
   </tr>
   <tr>
     <td>45</td> <td>Fox</td>
-    <td>17</td> <td>13</td> <td>30</td> <td>36</td>
+    <td>18</td> <td>13</td> <td>31</td> <td>36</td>
   </tr>
   <tr>
-    <td>4</td> <td>Streib</td>
-    <td>10</td> <td>10</td> <td>20</td> <td>4</td>
+    <td>17</td> <td>La Bella</td>
+    <td>8</td> <td>14</td> <td>22</td> <td>69</td>
   </tr> 
   <tr>
-    <td>17</td> <td>La Bella</td>
-    <td>8</td> <td>14</td> <td>20</td> <td>69</td>
+    <td>4</td> <td>Streib</td>
+    <td>10</td> <td>11</td> <td>21</td> <td>6</td>
   </tr> 
   <tr>
     <td>14</td> <td>Stright</td>
-    <td>7</td>  <td>12</td> <td>19</td> <td>2</td>
+    <td>7</td>  <td>13</td> <td>20</td> <td>4</td>
   </tr>
   <tr>
     <td>00</td> <td>Lauer</td>
-    <td>8</td> <td>10</td> <td>18</td> <td>10</td>
+    <td>9</td> <td>10</td> <td>19</td> <td>10</td>
   </tr> 
   <tr>
     <td>28</td> <td>Timbrook</td>
@@ -645,11 +662,11 @@ weight: 8
   </tr>
   <tr>
     <td>99</td> <td>Cory</td>
-    <td>10</td> <td>7</td>  <td>17</td> <td>42</td>
+    <td>10</td> <td>7</td>  <td>17</td> <td>44</td>
   </tr>
   <tr>
     <td>88</td> <td>Franklin</td>
-    <td>2</td> <td>14</td> <td>16</td> <td>99</td>
+    <td>2</td> <td>15</td> <td>17</td> <td>99</td>
   </tr>
   <tr>
     <td>91</td> <td>Griffin</td>
@@ -657,7 +674,7 @@ weight: 8
   </tr>
   <tr>
     <td>16</td> <td>Hunt</td>
-    <td>8</td> <td>5</td> <td>13</td> <td>68</td>
+    <td>8</td> <td>6</td> <td>14</td> <td>80</td>
   </tr>
   <tr>
     <td>31</td> <td>Streib</td>
@@ -681,16 +698,16 @@ weight: 8
   </tr>
   <tr>
     <td>6</td> <td>Pate</td>
-    <td></td> <td>2</td>  <td>2</td> <td></td>
+    <td></td> <td>3</td>  <td>3</td> <td></td>
+  </tr>
+  <tr>
+    <td>18</td> <td>Schmidt</td>
+    <td>1</td>  <td>1</td> <td>2</td> <td></td>
   </tr>
   <tr>
     <td>76</td> <td>Pope</td>
     <td>1</td> <td>1</td> <td>2</td> <td>42</td>
   </tr> 
-  <tr>
-    <td>18</td> <td>Schmidt</td>
-    <td></td>  <td>1</td> <td>1</td> <td></td>
-  </tr>
   <tr>
     <td>19</td> <td>Cochran</td>
     <td>1</td> <td></td> <td>1</td> <td>2</td>
