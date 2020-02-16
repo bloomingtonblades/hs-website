@@ -665,7 +665,7 @@ weight: 8
       <td class="widestats">23</td>
   </tr>
   <tr class="odd">
-      <td>Blades</td> <td>1</td> <td>1</td> <td>0</td> <td></td> <td>2</td>
+      <td>Blades</td> <td>0</td> <td>1</td> <td>2</td> <td></td> <td>3</td>
       <td class="widestats">Knox</td>
       <td class="widestats">45:00</td>
       <td class="widestats">L</td>
