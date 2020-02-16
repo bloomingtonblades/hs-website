@@ -19,6 +19,8 @@ If school is closed or delayed due to weather, 6:00am practices are
 cancelled. All other weather-related cancellations will be as
 announced.
 
+Upcoming Games
+--------------
 |Date|Game|Time|Notes|
 |----|----|----|-----|
 |Sat 2/22|Blades Blue at Owensboro|4:15pm|At [Edge Ice Center][edge]<br>Owensboro is in Central time zone.<br>Game time is 4:15pm Central, 5:15pm Eastern|
