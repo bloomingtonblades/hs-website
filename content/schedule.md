@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-02-15
+date: 2020-02-16
 weight: 5
 ---
 
@@ -15,25 +15,17 @@ Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 
 Weather Closings
 ----------------
-If school is closed due to weather, 6:00am practices are
+If school is closed or delayed due to weather, 6:00am practices are
 cancelled. All other weather-related cancellations will be as
 announced.
 
-Upcoming Games
---------------
-Note: due to ongoing repairs at the Carmel rink, times and locations
-of games in Carmel and Westfield are subject to change.
-
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Sun 2/16|Blades Blue vs HSE-B|8:30am|At [Hamilton Center][hamilton]<br>*Hockey For Heroes*|
-|Sun 2/16|Blades Blue vs TBD|TBD|At [Hamilton Center][hamilton]<br>*Hockey For Heroes*<Br>Game time depends on seeding|
 |Sat 2/22|Blades Blue at Owensboro|4:15pm|At [Edge Ice Center][edge]<br>Owensboro is in Central time zone.<br>Game time is 4:15pm Central, 5:15pm Eastern|
 |Fri 2/28|Blades Blue vs Carmel Gold|8:50pm|[SportOne Parkview Ice House][icefw]<br>*ISHSHA State Playdowns*|
 |Sat 2/29|Blades Blue vs TBD|1:20pm<br>or<br>1:35pm|[SportOne Parkview Ice House][icefw]<br>*ISHSHA State Playdowns*|
 |Sun 3/1|Blades Blue vs TBD|10:25am|(If Necessary)<br>[SportOne Parkview Ice House][icefw]<br>*ISHSHA State Playdowns*|
 |Sat 3/7|Blades Blue vs TBD|TBA|At [Midwest Training Ice Center][midwest]<br>*ISHSHA State Finals*|
-
 
 
 Calendars
