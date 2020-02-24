@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-02-16
+date: 2020-02-24
 weight: 5
 ---
 
@@ -23,7 +23,6 @@ Upcoming Games
 --------------
 |Date|Game|Time|Notes|
 |----|----|----|-----|
-|Sat 2/22|Blades Blue at Owensboro|4:15pm|At [Edge Ice Center][edge]<br>Owensboro is in Central time zone.<br>Game time is 4:15pm Central, 5:15pm Eastern|
 |Fri 2/28|Blades Blue vs Carmel Gold|8:50pm|[SportOne Parkview Ice House][icefw]<br>*ISHSHA State Playdowns*|
 |Sat 2/29|Blades Blue vs TBD|1:20pm<br>or<br>1:35pm|[SportOne Parkview Ice House][icefw]<br>*ISHSHA State Playdowns*|
 |Sun 3/1|Blades Blue vs TBD|10:25am|(If Necessary)<br>[SportOne Parkview Ice House][icefw]<br>*ISHSHA State Playdowns*|
