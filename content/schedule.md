@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-02-24
+date: 2020-02-25
 weight: 5
 ---
 
@@ -26,7 +26,7 @@ Upcoming Games
 |Fri 2/28|Blades Blue vs Carmel Gold|8:50pm|[SportOne Parkview Ice House][icefw]<br>*ISHSHA State Playdowns*|
 |Sat 2/29|Blades Blue vs TBD|1:20pm<br>or<br>1:35pm|[SportOne Parkview Ice House][icefw]<br>*ISHSHA State Playdowns*|
 |Sun 3/1|Blades Blue vs TBD|10:25am|(If Necessary)<br>[SportOne Parkview Ice House][icefw]<br>*ISHSHA State Playdowns*|
-|Sat 3/7|Blades Blue vs TBD|TBA|At [Midwest Training Ice Center][midwest]<br>*ISHSHA State Finals*|
+|Sat 3/7|Blades Blue vs TBD|7:00pm|At [Midwest Training Ice Center][midwest]<br>*ISHSHA State Finals*|
 
 
 Calendars
