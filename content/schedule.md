@@ -13,20 +13,15 @@ Contact
 -------
 Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 
-Weather Closings
-----------------
-If school is closed or delayed due to weather, 6:00am practices are
-cancelled. All other weather-related cancellations will be as
-announced.
 
-Upcoming Games
---------------
-|Date|Game|Time|Notes|
-|----|----|----|-----|
-|Fri 2/28|Blades Blue vs Carmel Gold|8:50pm|[SportOne Parkview Ice House][icefw]<br>*ISHSHA State Playdowns*|
-|Sat 2/29|Blades Blue vs TBD|1:20pm<br>or<br>1:35pm|[SportOne Parkview Ice House][icefw]<br>*ISHSHA State Playdowns*|
-|Sun 3/1|Blades Blue vs TBD|10:25am|(If Necessary)<br>[SportOne Parkview Ice House][icefw]<br>*ISHSHA State Playdowns*|
-|Sat 3/7|Blades Blue vs TBD|7:00pm|At [Midwest Training Ice Center][midwest]<br>*ISHSHA State Finals*|
+End of Season Banquet
+---------------------
+Our annual member meeting, election of 2020-2021 Board of Directors,
+player recognition and banquet will be held Sunday, March 29, 5:00pm -
+8:00pm at the [Fountain Square Mall][fountain] ballroom. Any member
+interested in open board positions please contact [Allan Streib <span
+class="icon fa-envelope-o"></span>][allan].
+
 
 
 Calendars
@@ -53,6 +48,7 @@ All Blades events are posted on our [Google calendar <span class="icon fa-calend
 1. In the lower right corner, tap _+Google Calendar_.
 
 
+[allan]: mailto:astreib@bloomingtonblades.com
 [jared]: mailto:jcochran@bloomingtonblades.com
 [john]: mailto:jhill@bloomingtonblades.com
 [basswood]: https://www.google.com/maps/place/Basswood+Apartments,+1000+S+Basswood+Cir,+Bloomington,+IN+47403/@39.1518655,-86.5708355,17z/data=!4m2!3m1!1s0x886c677a6ac12c4d:0x830c6aebc265b08
