@@ -1,6 +1,6 @@
 ---
 title: "Results"
-date: 2020-02-16
+date: 2020-02-29
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -709,6 +709,26 @@ weight: 8
       <td class="widestats">22</td>
   </tr>
 
+  <!-- Blades Blue @ Southwest Michigan 2/29 (ISHSHA Tournament) -->
+  <tr class="even">
+  <td rowspan="3">2/29</td>
+      <td colspan="6"><i>ISHSHA State Tournament</i></td><td class="widestats" colspan="4"></td>
+  </tr>      
+  <tr class="even">
+      <td>Blades</td> <td>0</td> <td>2</td> <td>0</td> <td></td> <td>2</td>
+      <td class="widestats">Lowinger</td>
+      <td class="widestats">44:00</td>
+      <td class="widestats">L</td>
+      <td class="widestats">20</td>
+  </tr>
+  <tr class="even">
+      <td>Southwest Michigan</td> <td>1</td> <td>1</td> <td>2</td> <td></td> <td>4</td>
+      <td class="widestats">Tomer</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">28</td>
+  </tr>
+
 
 </table>
 
@@ -723,7 +743,7 @@ weight: 8
   </thead>
   <tr>
     <td>27</td> <td>Prather</td>
-    <td>23</td> <td>12</td> <td>35</td> <td>66</td>
+    <td>23</td> <td>14</td> <td>37</td> <td>76</td>
   </tr>
   <tr>
     <td>45</td> <td>Fox</td>
@@ -747,15 +767,11 @@ weight: 8
   </tr> 
   <tr>
     <td>88</td> <td>Franklin</td>
-    <td>2</td> <td>17</td> <td>19</td> <td>101</td>
-  </tr>
-  <tr>
-    <td>28</td> <td>Timbrook</td>
-    <td>9</td> <td>9</td> <td>18</td> <td>49</td>
+    <td>3</td> <td>17</td> <td>20</td> <td>101</td>
   </tr>
   <tr>
     <td>91</td> <td>Griffin</td>
-    <td>5</td> <td>13</td> <td>18</td> <td>114</td>
+    <td>5</td> <td>14</td> <td>19</td> <td>116</td>
   </tr>
   <tr>
     <td>99</td> <td>Cory</td>
@@ -763,7 +779,11 @@ weight: 8
   </tr>
   <tr>
     <td>16</td> <td>Hunt</td>
-    <td>11</td> <td>6</td> <td>17</td> <td>80</td>
+    <td>12</td> <td>6</td> <td>18</td> <td>80</td>
+  </tr>
+  <tr>
+    <td>28</td> <td>Timbrook</td>
+    <td>9</td> <td>9</td> <td>18</td> <td>49</td>
   </tr>
   <tr>
     <td>31</td> <td>Streib</td>
@@ -831,9 +851,9 @@ weight: 8
   </thead>
   <tr>
     <td>30</td> <td>Lowinger</td>
-    <td>735</td> <td>694</td> <td>0.944</td>
+    <td>758</td> <td>714</td> <td>0.942</td>
     <td class="widestats">18</td>
-    <td class="widestats">7</td>
+    <td class="widestats">8</td>
     <td class="widestats">0</td>
     <td class="widestats"></td>
   </tr>
