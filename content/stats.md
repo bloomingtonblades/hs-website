@@ -689,6 +689,27 @@ weight: 8
       <td class="widestats">n/r</td>
   </tr>
 
+  <!-- Blades Blue @ Carmel Gold 2/28 (ISHSHA Tournament) -->
+  <tr class="odd">
+  <td rowspan="3">2/28</td>
+      <td colspan="6"><i>ISHSHA State Tournament</i></td><td class="widestats" colspan="4"></td>
+  </tr>      
+  <tr class="odd">
+      <td>Blades</td> <td>0</td> <td>0</td> <td>1</td> <td></td> <td>1</td>
+      <td class="widestats">Lowinger</td>
+      <td class="widestats">44:30</td>
+      <td class="widestats">L</td>
+      <td class="widestats">26</td>
+  </tr>
+  <tr class="odd">
+      <td>Carmel Gold</td> <td>0</td> <td>1</td> <td>1</td> <td></td> <td>2</td>
+      <td class="widestats">Yuska</td>
+      <td class="widestats">45:00</td>
+      <td class="widestats">W</td>
+      <td class="widestats">22</td>
+  </tr>
+
+
 </table>
 
 <a name="bpoints"></a>Points Standings -- Blades Blue
@@ -710,16 +731,16 @@ weight: 8
   </tr>
   <tr>
     <td>17</td> <td>La Bella</td>
-    <td>11</td> <td>14</td> <td>25</td> <td>69</td>
+    <td>11</td> <td>15</td> <td>26</td> <td>69</td>
   </tr> 
+  <tr>
+    <td>14</td> <td>Stright</td>
+    <td>10</td>  <td>15</td> <td>25</td> <td>4</td>
+  </tr>
   <tr>
     <td>4</td> <td>Streib</td>
     <td>12</td> <td>12</td> <td>24</td> <td>6</td>
   </tr> 
-  <tr>
-    <td>14</td> <td>Stright</td>
-    <td>9</td>  <td>15</td> <td>24</td> <td>4</td>
-  </tr>
   <tr>
     <td>00</td> <td>Lauer</td>
     <td>11</td> <td>11</td> <td>22</td> <td>10</td>
@@ -810,9 +831,9 @@ weight: 8
   </thead>
   <tr>
     <td>30</td> <td>Lowinger</td>
-    <td>707</td> <td>668</td> <td>0.945</td>
+    <td>735</td> <td>694</td> <td>0.944</td>
     <td class="widestats">18</td>
-    <td class="widestats">6</td>
+    <td class="widestats">7</td>
     <td class="widestats">0</td>
     <td class="widestats"></td>
   </tr>
