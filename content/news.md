@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2019-12-18
+date: 2019-04-17
 weight: 3
 ---
 
@@ -8,6 +8,60 @@ weight: 3
   <a id="news-a1" href="#"><img id="news-s1" class="image sponsor"></a>
   <a id="news-a2" href="#"><img id="news-s2" class="image sponsor"></a>
 </div>
+
+2019-20 Season Wrap-Up
+-----------------------------
+**April 15, 2020** --- The Blades wrapped up the hockey season
+with the Blue team qualifying for the 5A division of the ISHSHA state
+tournament, a program first. The Blue team finished with a 26-13-1
+record, and a runner-up finish in the Hoosier League Championship
+Division tournament.
+
+The White team finished with a 6-10 records and a first-time
+appearance in the Hoosier League Commissioner Division tournament.
+
+Congratulations to all our players, coaches, and volunteers for a
+great season!
+
+Due to the COVID-19 pandemic, the annual meeting and awards night was
+conducted virtually via an online Zoom conference.  Some notable
+achievements that were recogized:
+
+- **Aidan Lowinger** (#30, Sr) was an Alternate Captain, won the ISHSHA Hobey Baker High School Character Award, qualified for the 2020 Academic All-State team, was a 2019-20 Scholar Athlete, and was voted Blue Team MVP.
+- **Nick Stright** (#14, Sr) was Blue Team Captain, won the ISHSHA Robert Gillikin Award for Mental Attitude.
+- **Mitchell Knipstein** (#48, Sr) qualified for the 2020 Academic All-State team and was voted a Blue and White Team Best Teammate.
+- **Ian Knox** (#13, Sr) qualified for the 2020 Academic All-State team, and was a 2019-20 Scholar Athlete.
+- **Henry Streib** (#31, Sr) qualified for the 2020 Academic All-State team, and was a 2019-20 Scholar Athlete.
+- **Hayden Streib** (#4, Sr) was voted a Blue Team Best Teammate.
+- **Logan Patzner** (#44, Jr) was a Blades 2019-20 Scholar Athlete, was voted the Blue Team Most Improved player, and won the White Team Mr. Hustle award.
+- **Vincent La Bella** (#17, Jr) was an Alternate Captain, and won the Blue Team Mr. Hustle award.
+- **Noah Cochran** (#19, So) was voted a White Team Best Teammate.
+- **Steven Lukes** (#89, So) was a 2019-20 Scholar Athlete.
+- **Cruz Timbrook** (#28, So) was a 2019-20 Scholar Athlete.
+- **Payton Reynolds** (#15, So) was a 2019-20 Scholar Athlete.
+- **Teagan Hill** (#35, So) was a 2019-20 Scholar Athlete.
+- **Matthew Schmidt** (#18, Fr) was a 2019-20 Scholar Athlete and voted White Team MVP.
+- **Vincent Kreft** (#9, Fr) was a 2019-20 Scholar Athlete.
+- **Gavin Patzner** (#23, Fr) was a 2019-20 Scholar Athlete and voted White Team Most Improved player.
+
+Nick Lightfoot and Allan Streib were inducted into the Bloomington
+Blades Hockey Hall of Fame. The Hall of Fame was established in 2019
+to recognize significant contributions and long-term dedication to
+the program by a coach or volunteer.
+
+The Bloomington Blades High School Hockey Association membership also
+elected the Board of Directors for the upcoming (2020-21) year:
+
+- President: John Hill
+- Vice President: Coy Timbrook
+- Secretary: Lori Patzner
+- Treasurer: Nicole Lukes
+- Compliance Coordinator: Neil Patzner
+- Team Manager: Jared Cochran (continuing term)
+- At Large: Joe Pavich (continuing term)
+
+All board positions are effective as of April 1, 2020.
+
 
 2019 Hoosier League All-Stars
 -----------------------------
@@ -30,8 +84,8 @@ Here are the following dates and times for Team Indiana team tryouts:
 
 **TI Boys 2020-2021**<br>
 18U<br>
-April 25, 2020 Fort Wayne Sport One<br>
-Between 9 a.m. and 6 p.m.
+CANCELED: April 25, 2020 Fort Wayne Sport One<br>
+Due to COVID-19, the tryouts will be rescheduled for a later date.
 
 16U<br>
 May 16, 2020 Fort Wayne Sport One<br>

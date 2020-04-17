@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2019-03-26
+date: 2019-04-17
 weight: 1
 ---
 
@@ -17,11 +17,12 @@ Clear Creek, IN 47426
 
 Board of Directors
 ------------------
-* President &mdash; [Allan Streib <span class="icon fa-envelope-o"></span>](mailto:astreib@bloomingtonblades.com)
-* Vice Pesident &mdash; [John Hill <span class="icon fa-envelope-o"></span>](mailto:jhill@bloomingtonblades.com)
-* Treasurer &mdash; [Kim Franklin <span class="icon fa-envelope-o"></span>](mailto:kafranklin4@gmail.com)
-* Secretary &mdash; [Stephanie Lowinger <span class="icon fa-envelope-o"></span>](mailto:stephanielowinger@gmail.com)
+* President &mdash; [John Hill <span class="icon fa-envelope-o"></span>](mailto:jhill@bloomingtonblades.com)
+* Vice Pesident &mdash; Coy Timbrook
+* Treasurer &mdash; Nicole Lukes
+* Secretary &mdash; Lori Patzner
 * Team Rep/Manager &mdash; [Jared Cochran <span class="icon fa-envelope-o"></span>](mailto:jcochran@bloomingtonblades.com)
+* Compliance Coordinator - Neil Patzner
 * At Large &mdash; [Joseph Pavich <span class="icon fa-envelope-o"></span>](mailto:jpavich1@iuhealth.org)
 
 Arena
