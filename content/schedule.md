@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-02-29
+date: 2020-04-17
 weight: 5
 ---
 
@@ -14,15 +14,16 @@ Contact
 Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 
 
-End of Season Banquet
----------------------
-Our annual member meeting, election of 2020-2021 Board of Directors,
-player recognition and banquet will be held Sunday, March 29, 5:00pm -
-8:00pm at the [Fountain Square Mall][fountain] ballroom. Any member
-interested in open board positions please contact [Allan Streib <span
-class="icon fa-envelope-o"></span>][allan].
+2020-21 Registration 
+--------------------
+ALL players born in 2003 or earlier must complete Safe Sport training
+before participating in any team activities. For those players who did
+this last year, a shorter "refresher" training program is
+required. See the [SafeSport Training website](https://www.usahockey.com/safesporttraining)
+for more information.
 
-
+Registration information and deadlines for the 2020-21 hockey season
+will be posted soon. Practices will begin in early August.
 
 Calendars
 ---------
