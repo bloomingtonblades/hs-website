@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2019-04-17
+date: 2019-04-19
 weight: 3
 ---
 
@@ -17,18 +17,18 @@ tournament, a program first. The Blue team finished with a 26-13-1
 record, and a runner-up finish in the Hoosier League Championship
 Division tournament.
 
-The White team finished with a 6-10 records and a first-time
+The White team finished with a 6-10 record and a first-time
 appearance in the Hoosier League Commissioner Division tournament.
 
 Congratulations to all our players, coaches, and volunteers for a
 great season!
 
 Due to the COVID-19 pandemic, the annual meeting and awards night was
-conducted virtually via an online Zoom conference.  Some notable
-achievements that were recogized:
+conducted virtually via an online Zoom conference. Some notable
+achievements were recognized:
 
 - **Aidan Lowinger** (#30, Sr) was an Alternate Captain, won the ISHSHA Hobey Baker High School Character Award, qualified for the 2020 Academic All-State team, was a 2019-20 Scholar Athlete, and was voted Blue Team MVP.
-- **Nick Stright** (#14, Sr) was Blue Team Captain, won the ISHSHA Robert Gillikin Award for Mental Attitude, qualified for the 2020 Academic All-State team, and was a 2019-20 Scholar Athlete
+- **Nick Stright** (#14, Sr) was Blue Team Captain, won the ISHSHA Robert Gillikin Award for Mental Attitude, qualified for the 2020 Academic All-State team, and was a 2019-20 Scholar Athlete.
 - **Mitchell Knipstein** (#48, Sr) qualified for the 2020 Academic All-State team, was White Team Captain, and was voted a Blue and White Team Best Teammate.
 - **Ian Knox** (#13, Sr) qualified for the 2020 Academic All-State team, and was a 2019-20 Scholar Athlete.
 - **Henry Streib** (#31, Sr) qualified for the 2020 Academic All-State team, and was a 2019-20 Scholar Athlete.
