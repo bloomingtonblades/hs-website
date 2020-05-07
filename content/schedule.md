@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-04-17
+date: 2020-05-07
 weight: 5
 ---
 
@@ -12,6 +12,17 @@ weight: 5
 Contact
 -------
 Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
+
+2020-21 Team Indiana Tryouts
+----------------------------
+Team Indiana tryouts have been rescheduled due to COVID-19. As the
+situation continues to evolve, check the [ISHSHA website][ishsha] for
+schedule details and updates. Tryouts will be in Fort Wayne at the
+[SportONE Parkview Icehouse <span class="icon fa-map-marker"></span>][icefw].
+
+June 6, 2020 --- 18U Boys Tryouts (incoming Juniors and Seniors).
+
+July 11, 2020 --- 16U Boys Tryouts (incoming Freshmen and Sophomores).
 
 
 2020-21 Registration 
@@ -48,10 +59,9 @@ All Blades events are posted on our [Google calendar <span class="icon fa-calend
 1. Open our [Google calendar <span class="icon fa-calendar"></span>][cal].
 1. In the lower right corner, tap _+Google Calendar_.
 
-
-[allan]: mailto:astreib@bloomingtonblades.com
 [jared]: mailto:jcochran@bloomingtonblades.com
 [john]: mailto:jhill@bloomingtonblades.com
+[ishsha]: https://www.ishsha.com
 [basswood]: https://www.google.com/maps/place/Basswood+Apartments,+1000+S+Basswood+Cir,+Bloomington,+IN+47403/@39.1518655,-86.5708355,17z/data=!4m2!3m1!1s0x886c677a6ac12c4d:0x830c6aebc265b08
 [cascades]: https://maps.google.com/?cid=2695725097592046036
 [cal]: https://calendar.google.com/calendar/embed?src=bloomingtonblades.com_68ha57pufjcnbe8htgeslaijgs%40group.calendar.google.com&ctz=America%2FNew_York
