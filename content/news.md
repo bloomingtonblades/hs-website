@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2019-04-19
+date: 2019-05-07
 weight: 3
 ---
 
@@ -27,23 +27,24 @@ Due to the COVID-19 pandemic, the annual meeting and awards night was
 conducted virtually via an online Zoom conference. Some notable
 achievements were recognized:
 
-- **Aidan Lowinger** (#30, Sr) was an Alternate Captain, won the ISHSHA Hobey Baker High School Character Award, qualified for the 2020 Academic All-State team, was a 2019-20 Scholar Athlete, and was voted Blue Team MVP.
-- **Nick Stright** (#14, Sr) was Blue Team Captain, won the ISHSHA Robert Gillikin Award for Mental Attitude, qualified for the 2020 Academic All-State team, and was a 2019-20 Scholar Athlete.
+- **Layton Cockerham** (#43, Sr) was a Hoosier League All-Star.
 - **Mitchell Knipstein** (#48, Sr) qualified for the 2020 Academic All-State team, was White Team Captain, and was voted a Blue and White Team Best Teammate.
 - **Ian Knox** (#13, Sr) qualified for the 2020 Academic All-State team, and was a 2019-20 Scholar Athlete.
-- **Henry Streib** (#31, Sr) qualified for the 2020 Academic All-State team, and was a 2019-20 Scholar Athlete.
-- **Hayden Streib** (#4, Sr) was voted a Blue Team Best Teammate.
-- **Logan Patzner** (#44, Jr) was a Blades 2019-20 Scholar Athlete, was voted the Blue Team Most Improved player, and won the White Team Mr. Hustle award.
+- **Aidan Lowinger** (#30, Sr) was an Alternate Captain, Hoosier League All-Star, won the ISHSHA Hobey Baker High School Character Award, qualified for the 2020 Academic All-State team, was a 2019-20 Scholar Athlete, and was voted Blue Team MVP.
+- **Hayden Streib** (#4, Sr) was voted a Blue Team Best Teammate, and was a Hoosier League All-Star.
+- **Henry Streib** (#31, Sr) was a Hoosier League All-Star, qualified for the 2020 Academic All-State team, and was a 2019-20 Scholar Athlete.
+- **Nick Stright** (#14, Sr) was Blue Team Captain, won the ISHSHA Robert Gillikin Award for Mental Attitude, qualified for the 2020 Academic All-State team, and was a 2019-20 Scholar Athlete.
 - **Vincent La Bella** (#17, Jr) was an Alternate Captain, and won the Blue Team Mr. Hustle award.
+- **Logan Patzner** (#44, Jr) was a Blades 2019-20 Scholar Athlete, was voted the Blue Team Most Improved player, and won the White Team Mr. Hustle award.
 - **Eli Prather** (#27, Jr) was an Alternate Captain.
 - **Noah Cochran** (#19, So) was voted a White Team Best Teammate.
-- **Steven Lukes** (#89, So) was an Alternate Captain, and 2019-20 Scholar Athlete.
-- **Cruz Timbrook** (#28, So) was a 2019-20 Scholar Athlete.
-- **Payton Reynolds** (#15, So) was a 2019-20 Scholar Athlete.
 - **Teagan Hill** (#35, So) was a 2019-20 Scholar Athlete.
-- **Matthew Schmidt** (#18, Fr) was an Alternate Captain, a 2019-20 Scholar Athlete and voted White Team MVP.
+- **Steven Lukes** (#89, So) was an Alternate Captain, and 2019-20 Scholar Athlete.
+- **Payton Reynolds** (#15, So) was a 2019-20 Scholar Athlete.
+- **Cruz Timbrook** (#28, So) was a 2019-20 Scholar Athlete.
 - **Vincent Kreft** (#9, Fr) was a 2019-20 Scholar Athlete.
 - **Gavin Patzner** (#23, Fr) was a 2019-20 Scholar Athlete and voted White Team Most Improved player.
+- **Matthew Schmidt** (#18, Fr) was an Alternate Captain, a 2019-20 Scholar Athlete and voted White Team MVP.
 
 Nick Lightfoot and Allan Streib were inducted into the Bloomington
 Blades Hockey Hall of Fame. The Hall of Fame was established in 2019
