@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-05-07
+date: 2020-05-20
 weight: 5
 ---
 
@@ -15,14 +15,14 @@ Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 
 2020-21 Team Indiana Tryouts
 ----------------------------
-Team Indiana tryouts have been rescheduled due to COVID-19. As the
+**Updated** --- Team Indiana tryouts have been rescheduled due to COVID-19. As the
 situation continues to evolve, check the [ISHSHA website][ishsha] for
 schedule details and updates. Tryouts will be in Fort Wayne at the
 [SportONE Parkview Icehouse <span class="icon fa-map-marker"></span>][icefw].
 
-June 6, 2020 --- 18U Boys Tryouts (incoming Juniors and Seniors).
-
 July 11, 2020 --- 16U Boys Tryouts (incoming Freshmen and Sophomores).
+
+July 18, 2020 --- 18U Boys Tryouts (incoming Juniors and Seniors).
 
 
 2020-21 Registration 
