@@ -1,6 +1,6 @@
 ---
 title: "Roster"
-date: 2019-12-31
+date: 2020-10-11
 weight: 4
 ---
 
@@ -11,80 +11,21 @@ weight: 4
 
 <center>Photographs by [Jeff Norris Photography](http://www.jeffnorrisphotography.com)</center>
 
-Coaches 2019&ndash;20
+Coaches 2020&ndash;21
 -------------------
 
-<img style="width: 100%;" alt="Blades Coaching Staff 2019-20" src="coaches.jpg">
-*Left to right &mdash;* Chris Hamric, Head Coach - Blue Team; Nick Lightfoot; Dyvan Daley, Head Coach - White team
-<br>*Not pictured &mdash;* Johan Lowinger, Kevin Schmidt
+- Chris Hamric, Head Coach
+- Dyvan Daley
 
-Players 2019&ndash;20
+Players 2020&ndash;21
 ---------------------
 
 ### Seniors
 <div class="classdiv">
   <div class="player">
     <figure>
-      <img alt="Layton Cockerham Photo" src="1920_cockerham.jpg">
-      <figcaption>Layton Cockerham<br>#43</figcaption>
-    </figure>
-  </div>
-  <div class="player">
-    <figure>
-      <img alt="Sam Franklin Photo" src="1920_franklin.jpg">
-      <figcaption>Sam Franklin<br>#88</figcaption>
-    </figure>
-  </div>
-  <div class="player">
-    <figure>
-      <img alt="Mitchell Knipstein Photo" src="1920_knipstein.jpg">
-      <figcaption>Mitchell Knipstein<br>#48</figcaption>
-    </figure>
-  </div>
-  <div class="player">
-    <figure>
-      <img alt="Ian Knox Photo" src="1920_knox.jpg">
-      <figcaption>Ian Knox<br>#13 (G)</figcaption>
-    </figure>
-  </div>
-  <div class="player">
-    <figure>
-      <img alt="Aidan Lowinger Photo" src="1920_lowinger.jpg">
-      <figcaption>Aidan Lowinger<br>#30 (G)<img src="/images/tin.png"></figcaption>
-    </figure>
-  </div>
-  <div class="player">
-    <figure>
-      <img alt="Hayden Streib Photo" src="1920_hastreib.jpg">
-      <figcaption>Hayden Streib<br>#4</figcaption>
-    </figure>
-  </div>
-  <div class="player">
-    <figure>
-      <img alt="Henry Streib Photo" src="1920_hestreib.jpg">
-      <figcaption>Henry Streib<br>#31</figcaption>
-    </figure>
-  </div>
-  <div class="player">
-    <figure>
-      <img alt="Nick Stright Photo" src="1920_stright.jpg">
-      <figcaption>Nick Stright<br>#14</figcaption>
-    </figure>
-  </div>
-</div>
-
-### Juniors
-<div class="classdiv">
-  <div class="player">
-    <figure>
       <img alt="Reid Cory Photo" src="1920_cory.jpg">
       <figcaption>Reid Cory<br>#99</figcaption>
-    </figure>
-  </div>
-  <div class="player">
-    <figure>
-      <img alt="Eli Davis Photo" src="1920_davis.jpg">
-      <figcaption>Eli Davis<br>#93</figcaption>
     </figure>
   </div>
   <div class="player">
@@ -125,7 +66,7 @@ Players 2019&ndash;20
   </div>
 </div>
 
-### Sophomores
+### Juniors
 <div class="classdiv">
   <div class="player">
     <figure>
@@ -136,7 +77,7 @@ Players 2019&ndash;20
   <div class="player">
     <figure>
       <img alt="Noah Cochran Photo" src="1920_cochran.jpg">
-      <Figcaption>Noah Cochran<br>#19</figcaption>
+      <figcaption>Noah Cochran<br>#19</figcaption>
     </figure>
   </div>
   <div class="player">
@@ -183,7 +124,7 @@ Players 2019&ndash;20
   </div>
 </div>
 
-### Freshmen
+### Sophomores
 <div class="classdiv">
   <div class="player">
     <figure>
@@ -223,8 +164,24 @@ Players 2019&ndash;20
   </div>
   <div class="player">
     <figure>
+      <img alt="Nolan Patzner Photo" src="images/200px-Placeholder_photo.png">
+      <Figcaption>Nolan Patzner<br>#12</figcaption>
+    </figure>
+  </div>
+  <div class="player">
+    <figure>
       <img alt="Matthew Schmidt Photo" src="1920_schmidt.jpg">
       <Figcaption>Matthew Schmidt<br>#18</figcaption>
+    </figure>
+  </div>
+</div>
+
+### Freshmen
+<div class="classdiv">
+  <div class="player">
+    <figure>
+      <img alt="Hud Spalding Photo" src="images/200px-Placeholder_photo.png">
+      <Figcaption>Hud Spalding<br>#2</figcaption>
     </figure>
   </div>
 </div>
