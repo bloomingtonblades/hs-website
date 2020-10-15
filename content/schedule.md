@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-05-20
+date: 2020-10-15
 weight: 5
 ---
 
@@ -13,28 +13,15 @@ Contact
 -------
 Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
 
-2020-21 Team Indiana Tryouts
-----------------------------
-**Updated** --- Team Indiana tryouts have been rescheduled due to COVID-19. As the
-situation continues to evolve, check the [ISHSHA website][ishsha] for
-schedule details and updates. Tryouts will be in Fort Wayne at the
-[SportONE Parkview Icehouse <span class="icon fa-map-marker"></span>][icefw].
-
-July 11, 2020 --- 16U Boys Tryouts (incoming Freshmen and Sophomores).
-
-July 18, 2020 --- 18U Boys Tryouts (incoming Juniors and Seniors).
-
-
-2020-21 Registration 
---------------------
-ALL players born in 2003 or earlier must complete Safe Sport training
-before participating in any team activities. For those players who did
-this last year, a shorter "refresher" training program is
-required. See the [SafeSport Training website](https://www.usahockey.com/safesporttraining)
-for more information.
-
-Registration information and deadlines for the 2020-21 hockey season
-will be posted soon. Practices will begin in early August.
+Upcoming Games
+--------------
+|Date|Time|Game|Notes|
+|----|----|----|-----|
+|10/16/2020|9:15pm|Blades Blue vs South Stars Red|At [Frank Southern Arena][frank]|
+|10/23/2020|9:45pm|Blades Blue at Carmel Gold|At [Carmel Ice Skadium][carmel]|
+|10/25/2020|11:30am|Blades Blue vs Cent Indiana Knights|At [Frank Southern Arena][frank]|
+|10/3/2020|3:15pm|Blades Blue vs Evansville Purple|At [Frank Southern Arena][frank]|
+|10/30/2020|7:00pm|Blades Blue at Culver A|At [Culver Ice Rink][culver]|
 
 Calendars
 ---------
