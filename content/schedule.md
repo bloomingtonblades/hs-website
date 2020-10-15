@@ -22,7 +22,6 @@ Upcoming Games
 |10/23/2020|9:45pm|Blades Blue at Carmel Gold|At [Carmel Ice Skadium][carmel]|
 |10/24/2020|3:15pm|Blades White vs HSE B|At [Frank Southern Arena][frank]|
 |10/25/2020|11:30am|Blades Blue vs Cent Indiana Knights|At [Frank Southern Arena][frank]|
-|10/3/2020|3:15pm|Blades Blue vs Evansville Purple|At [Frank Southern Arena][frank]|
 |10/30/2020|7:00pm|Blades Blue at Culver A|At [Culver Ice Rink][culver]|
 
 Calendars
