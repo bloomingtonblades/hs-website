@@ -17,12 +17,14 @@ Upcoming Games
 --------------
 |Date|Time|Game|Notes|
 |----|----|----|-----|
-|10/16/2020|9:15pm|Blades Blue vs South Stars Red|At [Frank Southern Arena][frank]|
-|10/17/2020|4:45pm|Blades White at Evansville|At [Swonder Ice Arena][swonder]. Central Time Zone; Game time is 5:45pm Eastern.|
-|10/23/2020|9:45pm|Blades Blue at Carmel Gold|At [Carmel Ice Skadium][carmel]|
-|10/24/2020|3:15pm|Blades White vs HSE B|At [Frank Southern Arena][frank]|
-|10/25/2020|11:30am|Blades Blue vs Cent Indiana Knights|At [Frank Southern Arena][frank]|
 |10/30/2020|7:00pm|Blades Blue at Culver A|At [Culver Ice Rink][culver]|
+|11/1/2020|11:30am|Blades Blue at St Joseph|At [Ice Box South Bend][icebox]|
+|11/1/2020|4:30pm|Blades Blue at Penn|At [Ice Box South Bend][icebox]|
+|11/7/2020|4:40pm|Blades Blue vs Culver A|At [Parkview Rink Ft Wayne][icefw]|
+|11/7/2020|7:00am|Blades Blue at Homestead|At [Parkview Rink Ft Wayne][icefw]|
+|11/8/2020|2:00pm|Blades Blue vs FW Vipers|At [Parkview Rink Ft Wayne][icefw]|
+|11/8/2020|7:10am|Blades Blue at LC Blue|At [Parkview Rink Ft Wayne][icefw]|
+|11/20/2020|7:00pm|Blades Blue at South Stars Red|At [Perry Park Ice Rink][perry]|
 
 Calendars
 ---------
