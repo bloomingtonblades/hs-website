@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-10-15
+date: 2020-11-02
 weight: 5
 ---
 
@@ -17,14 +17,19 @@ Upcoming Games
 --------------
 |Date|Time|Game|Notes|
 |----|----|----|-----|
-|10/30/2020|7:00pm|Blades Blue at Culver A|At [Culver Ice Rink][culver]|
-|11/1/2020|11:30am|Blades Blue at St Joseph|At [Ice Box South Bend][icebox]|
-|11/1/2020|4:30pm|Blades Blue at Penn|At [Ice Box South Bend][icebox]|
-|11/7/2020|4:40pm|Blades Blue vs Culver A|At [Parkview Rink Ft Wayne][icefw]|
-|11/7/2020|7:00am|Blades Blue at Homestead|At [Parkview Rink Ft Wayne][icefw]|
-|11/8/2020|2:00pm|Blades Blue vs FW Vipers|At [Parkview Rink Ft Wayne][icefw]|
-|11/8/2020|7:10am|Blades Blue at LC Blue|At [Parkview Rink Ft Wayne][icefw]|
-|11/20/2020|7:00pm|Blades Blue at South Stars Red|At [Perry Park Ice Rink][perry]|
+|11/7|7:00am|Blades Blue at Homestead|At [Parkview Rink Ft Wayne][icefw]|
+|11/7|4:40pm|Blades Blue vs Culver A|At [Parkview Rink Ft Wayne][icefw]|
+|11/8|7:10am|Blades Blue at LC Blue|At [Parkview Rink Ft Wayne][icefw]|
+|11/8|2:00pm|Blades Blue vs FW Vipers|At [Parkview Rink Ft Wayne][icefw]|
+|11/13|9:15pm|Blades White vs South Stars|At [Frank Southern Arena][frank]|
+|11/14|7:30pm|Blades Blue at Columbus|At [Hamilton Center Ice Arena][hamilton]|
+|11/20|7:00pm|Blades Blue at South Stars Red|At [Perry Park Ice Rink][perry]|
+|11/21|4:15pm|Blades Blue at Evansville|At [Swonder Ice Arena][swonder]<br>Evansville is on Central Time. Game time is 5:15pm Eastern|
+|12/11|9:15pm|Blades Blue vs HSE A|At [Frank Southern Arena][frank]|
+|12/13|11:10am|Blades Blue at HSE A|At [Fishers Fuel Tank][fuel]|
+|12/19|TBA|Blades Blue at Westfield|At [Arctic Zone Westfield][arcticzone]|
+|12/20|9:30am|Blades Blue vs LC Blue|At [Frank Southern Arena][frank]|
+
 
 Calendars
 ---------
