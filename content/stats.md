@@ -53,7 +53,7 @@ weight: 8
 <tr><td>99</td><td>Cory</td><td>2</td><td>3</td><td>5</td><td></td></tr>
 <tr><td>17</td><td>V La Bella</td><td>3</td><td></td><td>3</td><td></td></tr>
 <tr><td>28</td><td>Timbrook</td><td>1</td><td>2</td><td>3</td><td>19</td></tr>
-<tr><td>0</td><td>Lauer</td><td>2</td><td></td><td>2</td><td></td></tr>
+<tr><td>00</td><td>Lauer</td><td>2</td><td></td><td>2</td><td></td></tr>
 <tr><td>27</td><td>Prather</td><td></td><td>2</td><td>2</td><td>26</td></tr>
 <tr><td>89</td><td>Lukes</td><td>1</td><td>1</td><td>2</td><td>2</td></tr>
 <tr><td>91</td><td>Griffin</td><td></td><td>2</td><td>2</td><td></td></tr>
