@@ -17,9 +17,8 @@ Upcoming Games
 --------------
 |Date|Time|Game|Notes|
 |----|----|----|-----|
-|11/7|7:00am|Blades Blue at Homestead|At [Parkview Rink Ft Wayne][icefw]|
-|11/7|4:40pm|Blades Blue vs Culver A|At [Parkview Rink Ft Wayne][icefw]|
-|11/8|8:40am|Blades Blue at LC Blue|At [Parkview Rink Ft Wayne][icefw]|
+|11/7|5:20pm|Blades Blue vs Evansville|At [Parkview Rink Ft Wayne][icefw]|
+|11/8|9:00am|Blades Blue at Homestead|At [Parkview Rink Ft Wayne][icefw]|
 |11/8|2:00pm|Blades Blue vs FW Vipers|At [Parkview Rink Ft Wayne][icefw]|
 |11/13|9:15pm|Blades White vs South Stars|At [Frank Southern Arena][frank]|
 |11/14|7:30pm|Blades Blue at Columbus|At [Hamilton Center Ice Arena][hamilton]|
