@@ -1,6 +1,6 @@
 ---
 title: "Results"
-date: 2020-11-05
+date: 2020-11-08
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -21,6 +21,7 @@ weight: 8
 
 <a name="bresults"></a>2020-21 Results -- Blades Blue
 ------------------------------
+As of 11/8
 <table>
   <thead>
     <tr>
@@ -36,11 +37,18 @@ weight: 8
  <tr class="even"><td rowspan="2">9/26</td><td>Blades</td> <td>4</td><td>Berkley</td><td>W</td><td>19</td></tr><tr class="even"><td>HSE-A</td><td>3</td><td></td><td></td><td></td></tr>
  <tr class="odd"><td rowspan="2">10/3</td><td>Evansville Purple</td><td>3</td><td></td><td></td><td></td></tr><tr class="odd"><td>Blades</td> <td>5</td><td>Berkley</td><td>W</td><td>23</td></tr>
  <tr class="even"><td rowspan="2">10/16</td><td>S Stars Red</td><td>1</td><td></td><td></td><td></td></tr><tr class="even"><td>Blades</td> <td>6</td><td>Hill</td><td>W</td><td>12</td></tr>
+ <tr class="odd"><td rowspan="2">10/20</td><td>Blades</td> <td>1</td><td></td><td>L</td><td></td></tr><tr class="odd"><td>Culver A</td><td>2</td><td></td><td></td><td></td></tr>
+ <tr class="even"><td rowspan="2">11/1</td><td>Blades</td> <td>8</td><td></td><td>W</td><td></td></tr><tr class="even"><td>St. Joseph</td><td>4</td><td></td><td></td><td></td></tr>
+ <tr class="odd"><td rowspan="2">11/1</td><td>Blades</td> <td>4</td><td></td><td>L</td><td></td></tr><tr class="odd"><td>Penn</td><td>6</td><td></td><td></td><td></td></tr>
+ <tr class="even"><td rowspan="2">11/7</td><td>Blades</td> <td>1</td><td></td><td>T</td><td></td></tr><tr class="even"><td>Evansville Purple</td><td>1</td><td></td><td></td><td></td></tr>
+ <tr class="odd"><td rowspan="2">11/8</td><td>Blades</td> <td>6</td><td></td><td>W</td><td></td></tr><tr class="odd"><td>Homestead</td><td>5</td><td></td><td></td><td></td></tr>
+ <tr class="even"><td rowspan="2">11/8</td><td>Blades</td> <td>3</td><td></td><td>W</td><td></td></tr><tr class="even"><td>Fort Wayne Vipers</td><td>1</td><td></td><td></td><td></td></tr>
 </table>
 
 
 <a name="bpoints"></a>Points Standings -- Blades Blue
 ----------------
+As of 10/16
 <table>
   <thead>
     <tr>
@@ -67,6 +75,7 @@ weight: 8
 
 <a name="bgoalies"></a>Goaltenders -- Blades Blue
 ----------------
+As of 10/16
 <table>
   <thead>
     <tr>
