@@ -23,7 +23,8 @@ Upcoming Games
 |11/21|4:15pm|Blades Blue at Evansville|At [Swonder Ice Arena][swonder]<br>Evansville is on Central Time. Game time is 5:15pm Eastern|
 |12/11|9:15pm|Blades Blue vs HSE A|At [Frank Southern Arena][frank]|
 |12/13|11:10am|Blades Blue at HSE A|At [Fishers Fuel Tank][fuel]|
-|12/19|TBA|Blades Blue at Westfield|At [Arctic Zone Westfield][arcticzone]|
+|12/18|10:00pm|Blades Blue at Carmel Gold|At [Carmel Ice Rink][carmel]|
+|12/19|4:20pm|Blades Blue at Westfield|At [Arctic Zone Westfield][arcticzone]|
 |12/20|9:30am|Blades Blue vs LC Blue|At [Frank Southern Arena][frank]|
 
 
