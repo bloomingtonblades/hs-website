@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-11-09
+date: 2020-11-13
 weight: 5
 ---
 
@@ -20,7 +20,7 @@ Upcoming Games
 |11/13|9:15pm|Blades White vs South Stars|At [Frank Southern Arena][frank]|
 |11/14|9:30pm|Blades Blue at Columbus|At [Hamilton Center Ice Arena][hamilton]|
 |11/20|7:00pm|Blades Blue at South Stars Red|At [Perry Park Ice Rink][perry]|
-|11/21|4:15pm|Blades Blue at Evansville|At [Swonder Ice Arena][swonder]<br>Evansville is on Central Time. Game time is 5:15pm Eastern|
+|11/21|1:15pm|Blades Blue at Evansville|At [Swonder Ice Arena][swonder]<br>Evansville is on Central Time. Game time is 2:15pm Eastern|
 |12/11|9:15pm|Blades Blue vs HSE A|At [Frank Southern Arena][frank]|
 |12/13|11:10am|Blades Blue at HSE A|At [Fishers Fuel Tank][fuel]|
 |12/18|10:00pm|Blades Blue at Carmel Gold|At [Carmel Ice Rink][carmel]|
