@@ -26,7 +26,7 @@ Upcoming Games
 |12/20|9:30am|Blades Blue vs LC Blue|At [Frank Southern Arena][frank]|
 |1&sol;2|3:15pm|Blades Blue vs Zionsville|At [Frank Southern Arena][frank]|
 |1/3|TBA|Blades White at HSE B|At [Fishers Fuel Tank][fuel]|
-|1/8&ndash/10|TBA|Blades Blue Indy Crossover Weekend|At [Carmel Ice Rink][carmel]|
+|1/8&ndash;/10|TBA|Blades Blue Indy Crossover Weekend|At [Carmel Ice Rink][carmel]|
 |1/15|9:15pm|Blades Blue vs Carmel Gold|At [Frank Southern Arena][frank]|
 |1/16|3:15pm|Blades White vs Carmel Blue|At [Frank Southern Arena][frank]|
 
