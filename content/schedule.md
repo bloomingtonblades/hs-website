@@ -19,12 +19,12 @@ Upcoming Games
 |----|----|----|-----|
 |11/20|7:00pm|Blades Blue at South Stars Red|At [Perry Park Ice Rink][perry]|
 |11/21|1:15pm|Blades Blue at Evansville|At [Swonder Ice Arena][swonder]<br>Evansville is on Central Time. Game time is 2:15pm Eastern|
-|12/11|9:15pm|Blades Blue vs HSE A|At [Frank Southern Arena][frank]|
+|12/11|8:30pm|Blades Blue vs HSE A|At [Perry Park Ice Rink][perry]|
 |12/13|11:10am|Blades Blue at HSE A|At [Fishers Fuel Tank][fuel]|
 |12/18|10:00pm|Blades Blue at Carmel Gold|At [Carmel Ice Rink][carmel]|
 |12/19|4:20pm|Blades Blue at Westfield|At [Arctic Zone Westfield][arcticzone]|
-|12/20|9:30am|Blades Blue vs LC Blue|At [Frank Southern Arena][frank]|
-|1&sol;2|3:15pm|Blades Blue vs Zionsville|At [Frank Southern Arena][frank]|
+|TBA|TBA|Blades Blue vs LC Blue|TBA|
+|1&sol;2|8:30am|Blades Blue vs Zionsville|At [Perry Park Ice Rink][perry]|
 |1/3|TBA|Blades White at HSE B|At [Fishers Fuel Tank][fuel]|
 |1/8&ndash;10|TBA|Blades Blue Indy Crossover Weekend|At [Carmel Ice Rink][carmel]|
 |1/15|9:15pm|Blades Blue vs Carmel Gold|At [Frank Southern Arena][frank]|
