@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-11-15
+date: 2020-11-19
 weight: 5
 ---
 
@@ -12,6 +12,10 @@ weight: 5
 Contact
 -------
 Ice Scheduler &mdash; [John Hill <span class="icon fa-envelope-o"></span>][john]
+
+Notice
+------
+As of Nov. 19, the Frank Southern Ice Arena is closed until further notice due to county health orders. Home games will be rescheduled if possible, and may be at different rinks. Please check our [Google calendar <span class="icon fa-calendar"></span>][cal] for current status of practices, off-ice work, and game times.
 
 Upcoming Games
 --------------
