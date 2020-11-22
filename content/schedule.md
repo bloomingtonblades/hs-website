@@ -21,8 +21,6 @@ Upcoming Games
 --------------
 |Date|Time|Game|Notes|
 |----|----|----|-----|
-|11/20|7:00pm|Blades Blue at South Stars Red|At [Perry Park Ice Rink][perry]|
-|11/21|1:15pm|Blades Blue at Evansville|At [Swonder Ice Arena][swonder]<br>Evansville is on Central Time. Game time is 2:15pm Eastern|
 |12/11|8:30pm|Blades Blue vs HSE A|At [Perry Park Ice Rink][perry]|
 |12/13|11:10am|Blades Blue at HSE A|At [Fishers Fuel Tank][fuel]|
 |12/18|10:00pm|Blades Blue at Carmel Gold|At [Carmel Ice Rink][carmel]|
