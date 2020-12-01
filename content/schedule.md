@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-11-19
+date: 2020-12-01
 weight: 5
 ---
 
@@ -22,6 +22,7 @@ Upcoming Games
 |Date|Time|Game|Notes|
 |----|----|----|-----|
 |12/11|8:30pm|Blades Blue vs HSE A|At [Perry Park Ice Rink][perry]|
+|12/12|3:30pm|Blades White at Northside JV|At [Fishers Fuel Tank][fuel]|
 |12/13|11:10am|Blades Blue at HSE A|At [Fishers Fuel Tank][fuel]|
 |12/18|10:00pm|Blades Blue at Carmel Gold|At [Carmel Ice Rink][carmel]|
 |12/19|4:20pm|Blades Blue at Westfield|At [Arctic Zone Westfield][arcticzone]|
