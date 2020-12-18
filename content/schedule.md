@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-12-01
+date: 2020-12-18
 weight: 5
 ---
 
@@ -21,17 +21,17 @@ Upcoming Games
 --------------
 |Date|Time|Game|Notes|
 |----|----|----|-----|
-|12/11|8:30pm|Blades Blue vs HSE A|At [Perry Park Ice Rink][perry]|
-|12/12|3:30pm|Blades White at Northside JV|At [Fishers Fuel Tank][fuel]|
-|12/13|11:10am|Blades Blue at HSE A|At [Fishers Fuel Tank][fuel]|
 |12/18|10:00pm|Blades Blue at Carmel Gold|At [Carmel Ice Rink][carmel]|
 |12/19|4:20pm|Blades Blue at Westfield|At [Arctic Zone Westfield][arcticzone]|
-|TBA|TBA|Blades Blue vs LC Blue|TBA|
-|1&sol;2|8:30am|Blades Blue vs Zionsville|At [Perry Park Ice Rink][perry]|
-|1/3|TBA|Blades White at HSE B|At [Fishers Fuel Tank][fuel]|
+|12/20|9:00am|Blades Blue vs LC Blue|At [Hamilton Center][hamilton]|
 |1/8&ndash;10|TBA|Blades Blue Indy Crossover Weekend|At [Carmel Ice Rink][carmel]|
-|1/15|9:15pm|Blades Blue vs Carmel Gold|At [Frank Southern Arena][frank]|
-|1/16|3:15pm|Blades White vs Carmel Blue|At [Frank Southern Arena][frank]|
+|1/15|9:30pm|Blades Blue vs Carmel Gold|At [Fishers Fuel Tank][fuel]|
+|1/16|8:30pm|Blades White vs Carmel Blue|At [Perry Park][perry]|
+|1/17|10:00am|Blades Blue vs CIK|At [Hamilton Center][hamilton]|
+|1/22|9:15pm|Blades Blue vs Zionsville|At [Frank Southern Arena][frank]|
+|1/23|9:45pm|Blades Blue at Brebeuf|At [Carmel Ice Rink][carmel]|
+|1/29|9:15pm|Blades Blue vs Columbus|At [Frank Southern Arena][frank]|
+|1/30|4:30pm|Blades Blue at South Stars|At [Perry Park][perry]|
 
 
 
