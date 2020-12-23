@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2020-12-20
+date: 2020-12-23
 weight: 5
 ---
 
@@ -21,7 +21,6 @@ Upcoming Games
 --------------
 |Date|Time|Game|Notes|
 |----|----|----|-----|
-|12/20|9:00am|Blades Blue vs LC Blue|CANCELED At [Hamilton Center][hamilton]. Ice time will be used for practice.|
 |1/8&ndash;10|TBA|Blades Blue Indy Crossover Weekend|At [Carmel Ice Rink][carmel]|
 |1/15|9:30pm|Blades Blue vs Carmel Gold|At [Fishers Fuel Tank][fuel]|
 |1/16|8:30pm|Blades White vs Carmel Blue|At [Perry Park][perry]|
