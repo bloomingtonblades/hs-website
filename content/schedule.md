@@ -21,9 +21,9 @@ Upcoming Games
 --------------
 |Date|Time|Game|Notes|
 |----|----|----|-----|
-|1/8|6:00pm|Blades Blue vs Crown Point|Hoosier Crossover;[Carmel Ice Rink][carmel]|
-|1/9|9:45pm|Blades Blue vs Lake Central Blue|Hoosier Crossover;[Carmel Ice Rink][carmel]|
-|1/10|11:30am|Blades Blue vs Penn|Hoosier Crossover;[Carmel Ice Rink][carmel]|
+|1/8|6:00pm|Blades Blue vs Crown Point|Hoosier Crossover; [Carmel Ice Rink][carmel]|
+|1/9|9:45pm|Blades Blue vs Lake Central Blue|Hoosier Crossover; [Carmel Ice Rink][carmel]|
+|1/10|11:30am|Blades Blue vs Penn|Hoosier Crossover; [Carmel Ice Rink][carmel]|
 |1/15|9:30pm|Blades Blue vs Carmel Gold|At [Fishers Fuel Tank][fuel]|
 |1/16|8:30pm|Blades White vs Carmel Blue|At [Perry Park][perry]|
 |1/17|10:00am|Blades Blue vs CIK|At [Hamilton Center][hamilton]|
