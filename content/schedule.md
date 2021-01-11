@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2021-01-07
+date: 2021-01-10
 weight: 5
 ---
 
@@ -21,8 +21,6 @@ Upcoming Games
 --------------
 |Date|Time|Game|Notes|
 |----|----|----|-----|
-|1/9|9:45pm|Blades Blue vs Southwest Michigan|Hoosier Crossover; [Carmel Ice Rink][carmel]|
-|1/10|11:30am|Blades Blue vs Crown Point|Hoosier Crossover; [Carmel Ice Rink][carmel]|
 |1/15|9:30pm|Blades Blue vs Carmel Gold|At [Fishers Fuel Tank][fuel]|
 |1/16|8:30pm|Blades White vs Carmel Blue|At [Perry Park][perry]|
 |1/17|10:00am|Blades Blue vs CIK|At [Hamilton Center][hamilton]|
@@ -30,6 +28,15 @@ Upcoming Games
 |1/23|9:45pm|Blades Blue at Brebeuf|At [Carmel Ice Rink][carmel]|
 |1/29|9:15pm|Blades Blue vs Columbus|At [Frank Southern Arena][frank]|
 |1/30|4:30pm|Blades Blue at South Stars|At [Perry Park][perry]|
+|2/6|4:25pm|Blades Blue at Westfield|At [Arctic Zone][arcticzone]|
+|2/13|3:15pm|Blades Blue vs Brebeuf|At [Frank Southern Arena][frank]|
+|2/19&ndash;21|TBA|Hoosier League Tournament|At Indy area rinks|
+|2/26&ndash;28|TBA|ISHSHA Tournament Playdowns|TBA|
+|3/6|TBA|ISHSHA Tournament Championship|TBA|
+
+
+
+
 
 
 
