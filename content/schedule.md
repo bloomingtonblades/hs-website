@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2021-01-10
+date: 2021-01-12
 weight: 5
 ---
 
@@ -22,7 +22,7 @@ Upcoming Games
 |Date|Time|Game|Notes|
 |----|----|----|-----|
 |1/15|9:30pm|Blades Blue vs Carmel Gold|At [Fishers Fuel Tank][fuel]|
-|1/16|8:30pm|Blades White vs Carmel Blue|At [Perry Park][perry]|
+|1/16|7:00pm|Blades White vs Carmel Blue|At [Perry Park][perry]|
 |1/17|10:00am|Blades Blue vs CIK|At [Hamilton Center][hamilton]|
 |1/22|8:30pm|Blades Blue vs Zionsville|At [Hamilton Center][hamilton]|
 |1/23|9:45pm|Blades Blue at Brebeuf|At [Carmel Ice Rink][carmel]|
