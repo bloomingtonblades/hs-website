@@ -39,9 +39,9 @@ Preferred Sponsors
 Sponsor Blades Hockey
 ---------------------
 For information about sponsorship options,
-please contact [Allan Streib <span class="icon fa-envelope-o"></span>][allan].
+please contact [John Hill <span class="icon fa-envelope-o"></span>][jhill].
 
-[allan]: mailto:astreib@bloomingtonblades.com
+[jhill]: mailto:jhill@bloomingtonblades.com
 [oliver]: https://www.oliverwinery.com/
 [tec]: https://www.theeyecenter.org/
 [ocb]: https://www.ocsbank.com/
