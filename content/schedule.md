@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2021-01-21
+date: 2021-01-27
 weight: 5
 ---
 
@@ -21,13 +21,11 @@ Upcoming Games
 --------------
 |Date|Time|Game|Notes|
 |----|----|----|-----|
-|1/22|8:30pm|Blades Blue vs Zionsville|Senior Night; At [Hamilton Center][hamilton]|
-|1/23|9:45pm|Blades Blue at Brebeuf|At [Carmel Ice Rink][carmel]|
-|1/29|9:15pm|Blades Blue vs Columbus|At [Frank Southern Arena][frank]|
+|1/29|9:15pm|Blades Blue vs Columbus|At [Hamilton Center Ice Arena][hamilton]|
 |1/30|4:30pm|Blades White at South Stars|At [Perry Park][perry]|
 |2/5|8:00pm|Blades White at Carmel Blue|At [Carmel Ice Rink][carmel]|
 |2/6|4:25pm|Blades Blue at Westfield|At [Arctic Zone][arcticzone]|
-|2/13|3:15pm|Blades Blue vs Brebeuf|At [Frank Southern Arena][frank]|
+|2/13|8:40am|Blades Blue vs Brebeuf|At [Fuel Tank][fuel]|
 |2/19&ndash;21|TBA|Hoosier League Tournament|At Indy area rinks|
 |2/26&ndash;28|TBA|ISHSHA Tournament Playdowns|TBA|
 |3/6|TBA|ISHSHA Tournament Championship|TBA|
