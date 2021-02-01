@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2021-01-27
+date: 2021-02-01
 weight: 5
 ---
 
@@ -25,7 +25,7 @@ Upcoming Games
 |1/30|4:30pm|Blades White at South Stars|At [Perry Park][perry]|
 |2/5|8:00pm|Blades White at Carmel Blue|At [Carmel Ice Rink][carmel]|
 |2/6|4:25pm|Blades Blue at Westfield|At [Arctic Zone][arcticzone]|
-|2/13|8:40am|Blades Blue vs Brebeuf|At [Fuel Tank][fuel]|
+|2/13|9:20am|Blades Blue vs Brebeuf|At [Fuel Tank][fuel]|
 |2/19&ndash;21|TBA|Hoosier League Tournament|At Indy area rinks|
 |2/26&ndash;28|TBA|ISHSHA Tournament Playdowns|TBA|
 |3/6|TBA|ISHSHA Tournament Championship|TBA|
