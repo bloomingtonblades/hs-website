@@ -17,6 +17,8 @@ Notice
 ------
 As of Nov. 19, the Frank Southern Ice Arena is closed until further notice due to county health orders. Home games will be rescheduled if possible, and may be at different rinks. Please check our [Google calendar <span class="icon fa-calendar"></span>][cal] for current status of practices, off-ice work, and game times.
 
+**Update** Feb. 01, 2021&mdash;the Frank Southern Ice Arena is closed for the season.
+
 Upcoming Games
 --------------
 |Date|Time|Game|Notes|
