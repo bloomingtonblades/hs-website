@@ -11,13 +11,13 @@ weight: 3
 
 ISHSHA State Tournament Seedings Announced
 ------------------------------------------
-**February 7, 2020** --- The Indiana State High School Hockey
+**February 7, 2021** --- The Indiana State High School Hockey
 Association has [announced seedings](http://ishsha.com/news.php?news_id=1916500)
 for the 2021 State Championship tournament. The Bloomington
 Blades are seeded 5th in the eight-team Class 4A bracket.
-Playdowns will take place February 26th to 28th in Fort Wayne.
-The State Final games will be played at the Ice Box in
-South Bend on March 6th.
+Playdowns are a double-elimination format and will take place
+February 26th to 28th in Fort Wayne. The State Final games
+will be played at the Ice Box in South Bend on March 6th.
 
 
 
