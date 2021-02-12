@@ -25,8 +25,8 @@ Upcoming Games
 |----|----|----|-----|
 |2/13|9:20am|CANCELED: Blades Blue vs Brebeuf|At [Fuel Tank][fuel]|
 |2/19&ndash;21|TBA|Hoosier League Tournament|At Indy area rinks|
-|2/26&ndash;28|TBA|ISHSHA Tournament Playdowns|TBA|
-|3/6|TBA|ISHSHA Tournament Championship|TBA|
+|2/26&ndash;28|TBA|ISHSHA Class 4A Tournament Playdowns|Fort Wayne|
+|3/6|TBA|ISHSHA Class 4A Tournament Championship|South Bend|
 
 
 
