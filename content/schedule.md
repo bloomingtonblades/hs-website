@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2021-02-11
+date: 2021-02-15
 weight: 5
 ---
 
@@ -23,8 +23,9 @@ Upcoming Games
 --------------
 |Date|Time|Game|Notes|
 |----|----|----|-----|
-|2/13|9:20am|CANCELED: Blades Blue vs Brebeuf|At [Fuel Tank][fuel]|
-|2/19&ndash;21|TBA|Hoosier League Tournament|At Indy area rinks|
+|2/19|8:00pm|Hoosier League Tournament Round 1 vs. Columbus|At [Carmel Ice Rink][carmel]|
+|2/20|4:15pm or 6:30pm|Hoosier League Tournament Semifinals|At [Carmel Ice Rink][carmel]|
+|2/21|12:00pm|Hoosier League Tournament Championship|At [Carmel Ice Rink][carmel]|
 |2/26&ndash;28|TBA|ISHSHA Class 4A Tournament Playdowns|Fort Wayne|
 |3/6|TBA|ISHSHA Class 4A Tournament Championship|South Bend|
 
