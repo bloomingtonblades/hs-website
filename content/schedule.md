@@ -23,9 +23,6 @@ Upcoming Games
 --------------
 |Date|Time|Game|Notes|
 |----|----|----|-----|
-|2/19|8:00pm|Hoosier League Tournament Round 1 vs. Columbus|At [Carmel Ice Rink][carmel]|
-|2/20|6:30pm|Hoosier League Tournament Semifinals vs. HSE A|At [Carmel Ice Rink][carmel]|
-|2/21|12:00pm|Hoosier League Tournament Championship|At [Carmel Ice Rink][carmel]|
 |2/26&ndash;28|TBA|ISHSHA Class 4A Tournament Playdowns|Fort Wayne|
 |2/26|7:40pm|ISHSHA Class 4A Tournament vs Southwest Michigan|[SportONE Parkview][icefw]|
 |2/27|1:10pm|ISHSHA Class 4A Tournament vs TBD|[SportONE Parkview][icefw]|
