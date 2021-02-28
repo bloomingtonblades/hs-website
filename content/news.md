@@ -9,6 +9,10 @@ weight: 3
   <a id="news-a2" href="#"><img id="news-s2" class="image sponsor"></a>
 </div>
 
+Blades Advance to 4A State Championship Game
+--------------------------------------------
+**February 28, 2021** In a historic program first, the Bloomington Blades will play for the 2021 ISHSHA Class 4A Championship on Saturday, March 6. The Blades opened the double-elimination playdown weekend on Friday night with a 4-1 loss to the Southwest Michigan Blades. On Saturday the Blades rallied to defeat Penn 7-3 and then won a rematch against Southwest Michigan by a score of 2-1, the winning goal coming in the last 10 seconds of regulation play. In the semifinal round today, the Blades defeated Hoosier League rival Carmel Gold by a score of 4-2 to advance to the championship game. The Blades will take on Culver Academy on Saturday March 6 at 5:30pm at the Ice Box in South Bend.
+
 ISHSHA State Tournament Seedings Announced
 ------------------------------------------
 **February 7, 2021** --- The Indiana State High School Hockey
