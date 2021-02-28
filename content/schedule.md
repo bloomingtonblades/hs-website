@@ -23,7 +23,7 @@ Upcoming Games
 --------------
 |Date|Time|Game|Notes|
 |----|----|----|-----|
-|3/6|TBA|ISHSHA Class 4A Tournament Championship vs. Culver|South Bend|
+|3/6|5:30pm|ISHSHA Class 4A Tournament Championship vs. Culver|[Ice Box][icebox] South Bend|
 
 
 
