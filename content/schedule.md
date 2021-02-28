@@ -23,10 +23,7 @@ Upcoming Games
 --------------
 |Date|Time|Game|Notes|
 |----|----|----|-----|
-|2/26&ndash;28|TBA|ISHSHA Class 4A Tournament Playdowns|Fort Wayne|
-|2/26|7:40pm|ISHSHA Class 4A Tournament vs Southwest Michigan|[SportONE Parkview][icefw]|
-|2/27|1:10pm|ISHSHA Class 4A Tournament vs Penn|[SportONE Parkview][icefw]|
-|2/27|8:55pm|ISHSHA Class 4A Tournament vs Culver or Southwest Michigan|[SportONE Parkview][icefw]|
+|2/28|12:40pm|ISHSHA Class 4A Semifinal vs Carmel Gold|[SportONE Parkview][icefw]|
 |3/6|TBA|ISHSHA Class 4A Tournament Championship|South Bend|
 
 
