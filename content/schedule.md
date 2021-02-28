@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2021-02-27
+date: 2021-02-28
 weight: 5
 ---
 
@@ -23,8 +23,7 @@ Upcoming Games
 --------------
 |Date|Time|Game|Notes|
 |----|----|----|-----|
-|2/28|12:40pm|ISHSHA Class 4A Semifinal vs Carmel Gold|[SportONE Parkview][icefw]|
-|3/6|TBA|ISHSHA Class 4A Tournament Championship|South Bend|
+|3/6|TBA|ISHSHA Class 4A Tournament Championship vs. Culver|South Bend|
 
 
 
