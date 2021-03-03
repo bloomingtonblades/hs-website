@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: 2021-02-28
+date: 2021-03-03
 weight: 5
 ---
 
@@ -23,7 +23,7 @@ Upcoming Games
 --------------
 |Date|Time|Game|Notes|
 |----|----|----|-----|
-|3/6|5:30pm|ISHSHA Class 4A Tournament Championship vs. Culver|[Ice Box][icebox] South Bend|
+|3/6|4:45pm|ISHSHA Class 4A Tournament Championship vs. Culver|[Kube Sports Complex][kube], Hammond. Note: Hammond is in Central time zone; game time is 5:45pm Eastern, 4:45pm Central|
 
 
 
@@ -86,3 +86,5 @@ All Blades events are posted on our [Google calendar <span class="icon fa-calend
 [upland]: https://maps.google.com/maps?hl=en&q=Upland%20Brewing%20Co%2C%20350%20W%2011th%20St%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 [fountain]: https://maps.google.com/maps?hl=en&q=Fountain%20Square%2C%20101%20W%20Kirkwood%20Ave%2C%20Bloomington%2C%20IN%2047404%2C%20USA
 [jcms]: https://www.google.com/maps/place/Jackson+Creek+Middle+School/@39.1236435,-86.5134863,17z/data=!3m1!4b1!4m5!3m4!1s0x886c6612b5e7ff9b:0x4d9035bac29b8f4e!8m2!3d39.1236394!4d-86.5112923
+[kube]: https://www.google.com/maps/place/2825+J.F.+Mahoney+Dr,+Hammond,+IN+46323/@41.5766289,-87.4626118,17z/data=!3m1!4b1!4m5!3m4!1s0x8811ddff3545562d:0x7aa6bebd456582b3!8m2!3d41.5766289!4d-87.4604231
+
