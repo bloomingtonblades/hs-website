@@ -1,6 +1,6 @@
 ---
 title: "Results"
-date: 2021-02-21
+date: 2021-03-16
 weight: 8
 ---
 <div class="sponsorcontainer">
@@ -8,7 +8,13 @@ weight: 8
   <a id="stats-a2" href="#"><img id="stats-s2" class="image sponsor"></a>
 </div>
 
-## Blades Blue
+## All-Time ISHSHA Results
+  * _Class 4A Runner-Up_: 2021
+  * _Class 2A Runner-Up_: 1983, 1989, 2003, 2015
+  * _Class 1A Champion_: 2007, 2012
+  * _Class 1A Runner-Up_: 1994, 2010
+
+## Blades Blue 2020-21
   * [Results](#bresults)
   * [Points Standings](#bpoints)
   * [Goalies](#bgoalies)
