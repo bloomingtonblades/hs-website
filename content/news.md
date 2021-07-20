@@ -12,7 +12,7 @@ weight: 3
 Prather Signs with Lake Tahoe Lakers
 ------------------------------------
 **July 20, 2021** --- Bloomington Blades 2021 graduate Eli Prather has signed with the Lake Tahoe Lakers, the team [has announced](https://twitter.com/tahoelakers/status/1417234355756404740). The Lakers are a 2021 expansion team in the [USPHL](https://www.usphl.com/) Premier Pacific Division. Congratulations Eli and best of luck as you continue your hockey career!
-<div style="margin: 1em auto;"><img style="scale: 30%;" src="eli-ltl.jpg" alt="Eli Prather signs with USPHL Lake Tahoe Lakers"></div>
+<div><img style="display: block; margin: 1em auto; width: 50%" src="eli-ltl.jpg" alt="Eli Prather signs with USPHL Lake Tahoe Lakers"></div>
 
 Blades Advance to 4A State Championship Game
 --------------------------------------------
